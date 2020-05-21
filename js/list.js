@@ -279,6 +279,73 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=B0HlnwUKvSI",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=d8bXNSpwVFw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Parkjaehee",
+					"link": "https://www.youtube.com/watch?v=3Gkac6w6szg",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=DECQc5dbOF8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "K4slic",
+					"link": "https://www.youtube.com/watch?v=YBUVI040Dpw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=jViNmFlDSUA",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Wooung",
+					"link": "https://www.youtube.com/watch?v=oQClqaP6o6A",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Eafan0",
+					"link": "https://www.youtube.com/watch?v=RDB2JsWFfto",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Darky",
+					"link": "https://www.youtube.com/watch?v=lE1hcr13Rx8",
+					"percent": 65,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty Requiem",
+			"author": "MiiNi03",
+			"more": "none",
+			"id": 52460725,
+			"pass": "Free copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=vG0ReCqJT_c",
+			"key": 6
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
 				
 			],
 			"name": "Shitty The Yandere",
