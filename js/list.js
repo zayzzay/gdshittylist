@@ -700,6 +700,20 @@ const d = {
 			"key": 49
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty TESTING",
+			"author": "Goddardl and more [Goddardl]",
+			"more": "Megum, Segone, AlexTheGS33, TheAquaZephyr2, Goddardl, Temple, Woris367CZ",
+			"id": 51263628,
+			"pass": "555666",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=fcL-IZbS_BA",
+			"key": 50
+		},
+		/*=================================================================================*/
 
 
 	],
