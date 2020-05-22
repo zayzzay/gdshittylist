@@ -115,7 +115,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=_VsX_49RE1w",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Sunset Sandstorm",
 			"author": "LJosh",
