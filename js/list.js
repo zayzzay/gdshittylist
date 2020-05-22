@@ -5,13 +5,13 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty INNARDS",
-			"author": "Keleru",
+			"name": "Shitty AfterCataBath",
+			"author": "AcropolisBoy [LJosh]",
 			"more": "none",
-			"id": 49731309,
-			"pass": "000005",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=ETrEuWM18Lk",
+			"id": 57050573,
+			"pass": "666666",
+			"percentToQualify": 46,
+			"verificationVid": "https://www.youtube.com/watch?v=gvkoieLhRLo",
 			"key": 0
 		},
 		/*=================================================================================*/
@@ -19,14 +19,126 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Orochi",
-			"author": "Keleru",
+			"name": "Shitty Kowareta",
+			"author": "LJosh",
 			"more": "none",
-			"id": 49907278,
-			"pass": "123456",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=n-1BTK0cIvA",
+			"id": 59560367,
+			"pass": "000009",
+			"percentToQualify": 56,
+			"verificationVid": "https://www.youtube.com/watch?v=-Zw0JVGLRlw",
 			"key": 1
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Madmansion",
+			"author": "Aassbll",
+			"more": "none",
+			"id": 57251824,
+			"pass": "Free copy",
+			"percentToQualify": 50,
+			"verificationVid": "https://www.youtube.com/watch?v=WJn0oOMwXUs",
+			"key": 2
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty The Golden",
+			"author": "Serpyy",
+			"more": "none",
+			"id": 60988234,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://youtu.be/6mBUCC8dlCY",
+			"key": 3
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Triple Six",
+			"author": "LJosh",
+			"more": "none",
+			"id": 59558238,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=oFUBGkctzR0",
+			"key": 4
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Balengu Vortex",
+			"author": "LJosh",
+			"more": "none",
+			"id": 59558248,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=rWcLT30sVj0",
+			"key": 5
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Erebus",
+			"author": "LJosh",
+			"more": "none",
+			"id": 59560393,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=UBmcMgL0Pdg",
+			"key": 6
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Poltergeist Reborn",
+			"author": "LJosh",
+			"more": "none",
+			"id": 59560323,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=axeVcW9WATs",
+			"key": 7
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Sunset Sandstorm",
+			"author": "LJosh",
+			"more": "none",
+			"id": 59560341,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=3C4XngzGGlE",
+			"key": 8
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Hatred",
+			"author": "LJosh",
+			"more": "none",
+			"id": 59560360,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=FiJIwowWp1g",
+			"key": 9
 		},
 		/*=================================================================================*/
 		{
@@ -37,24 +149,66 @@ const d = {
 			"author": "Keleru",
 			"more": "none",
 			"id": 52494510,
-			"pass": "Free copy",
+			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=Iu08clOYt8I",
-			"key": 2
+			"key": 10
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
 				
 			],
-			"name": "Shitty Ragnarok",
-			"author": "TheNatanaelGD",
+			"name": "Shitty Sonic Wave",
+			"author": "Acropolisboy",
 			"more": "none",
-			"id": 55694591,
-			"pass": "085244",
+			"id": 55367155,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=nl2ZP3n9ggk",
-			"key": 3
+			"verificationVid": "https://www.youtube.com/watch?v=dnjnt9rI_qc",
+			"key": 11
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Renevant",
+			"author": "Acropolisboy",
+			"more": "none",
+			"id": 58163785,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=RPDmLNJBpMc",
+			"key": 12
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty WOW",
+			"author": "oSpace [LJosh]",
+			"more": "none",
+			"id": 56712681,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=xGBfvrRvIbU",
+			"key": 13
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Zaphkiel",
+			"author": "Serpyy [XanPlayzGamez]",
+			"more": "none",
+			"id": 60976052,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=fcqAzQsbVdY",
+			"key": 14
 		},
 		/*=================================================================================*/
 		{
@@ -65,52 +219,24 @@ const d = {
 			"author": "Megum",
 			"more": "none",
 			"id": 44568953,
-			"pass": "Not allow copy",
+			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=qP0v6diamBM",
-			"key": 4
+			"key": 15
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
 				
 			],
-			"name": "Shitty Sonic Wave",
-			"author": "AcropolisBoy",
-			"more": "none",
-			"id": 55367155,
-			"pass": "001006",
+			"name": "Shitty Cognition",
+			"author": "oSpace",
+			"more": "",
+			"id": 57632273,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=g4rutNG7Drs",
-			"key": 5
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Requiem",
-			"author": "MiiNi03",
-			"more": "none",
-			"id": 52460725,
-			"pass": "Free copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=vG0ReCqJT_c",
-			"key": 6
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty The Yandere",
-			"author": "MiiNi03",
-			"more": "none",
-			"id": 54644929,
-			"pass": "Free copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=f8IPsUcXNYI",
-			"key": 7
+			"verificationVid": "https://www.youtube.com/watch?v=tOElkolP8Cg",
+			"key": 16
 		},
 		/*=================================================================================*/
 		{
@@ -118,55 +244,181 @@ const d = {
 				
 			],
 			"name": "Shitty Step To Hell",
-			"author": "oSpace and more [oSpace]",
+			"author": "oSpace",
 			"more": "none",
 			"id": 54868104,
-			"pass": "050319",
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=none",
-			"key": 8
+			"verificationVid": "https://www.youtube.com/watch?v=f8HQ1T1HmXs",
+			"key": 17
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
 				
 			],
-			"name": "Shitty Paroxysm",
-			"author": "Megum",
+			"name": "Shitty Zettabyte",
+			"author": "Serpyy",
 			"more": "none",
-			"id": 46950888,
-			"pass": "135086",
+			"id": 56768542,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=09tv3JWPkIs",
-			"key": 9
+			"verificationVid": "https://www.youtube.com/watch?v=2Mkex3RGOnQ",
+			"key": 18
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
 				
 			],
-			"name": "Shitty Bloodbath",
-			"author": "RealOptagonus",
+			"name": "Shitty Eternal Moment",
+			"author": "Miini03",
 			"more": "none",
-			"id": 19865573,
-			"pass": "150516",
+			"id": 59680007,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=u4ZzloFrNWQ",
-			"key": 10
+			"verificationVid": "https://www.youtube.com/watch?v=CEO9I6Xr7EE",
+			"key": 19
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
 				
 			],
-			"name": "Shitty Epsilon",
-			"author": "Segone",
+			"name": "Shitty Innards",
+			"author": "Keleru",
 			"more": "none",
-			"id": 50911887,
-			"pass": "747747",
+			"id": 49731309,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=LiMjp1OqenI",
-			"key": 11
+			"verificationVid": "https://www.youtube.com/watch?v=yW9oNZ07yC8",
+			"key": 20
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Deimos",
+			"author": "oSpace",
+			"more": "none",
+			"id": 57271231,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=F7BO5D2b6Mo",
+			"key": 21
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Ragnarok",
+			"author": "oSpace",
+			"more": "none",
+			"id": 55909152,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=GvfSqt8ZBbY",
+			"key": 22
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Macabre",
+			"author": "oSpace and more [Serpyy]",
+			"more": "none",
+			"id": 57337559,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=72THO_lErmg",
+			"key": 23
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Orochi",
+			"author": "Keleru",
+			"more": "none",
+			"id": 49907278,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=n-1BTK0cIvA",
+			"key": 24
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Wcropolix",
+			"author": "LJosh",
+			"more": "none",
+			"id": 59558228,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://youtu.be/708VHDpYJGo",
+			"key": 25
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Belloq",
+			"author": "oSpace and more [oSpace]",
+			"more": "none",
+			"id": 58284454,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=EvcFxAEED6g",
+			"key": 26
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Awakening Horus",
+			"author": "oSpace and Megum [oSpace]",
+			"more": "",
+			"id": 54447236,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=irwPkK6x9Mg",
+			"key": 27
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Matilda The Machine",
+			"author": "XanPlayzGamez and Serpyy [XanPlayzGamez]",
+			"more": "none",
+			"id": 57906787,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://youtu.be/szhP_KYmeaQ",
+			"key": 28
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Ancestral Calamity",
+			"author": "oSpace and more [oSpace]",
+			"more": "none",
+			"id": 55302658,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=maJcSIR-SLU",
+			"key": 29
 		},
 		/*=================================================================================*/
 		{
@@ -177,10 +429,24 @@ const d = {
 			"author": "Megum",
 			"more": "none",
 			"id": 46901184,
-			"pass": "097643",
+			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6l2kNZpK9Qg",
-			"key": 12
+			"key": 30
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Rate Demon",
+			"author": "Serpyy",
+			"more": "none",
+			"id": 53652263,
+			"pass": "Look it up",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=s9tbL0aa21U",
+			"key": 31
 		},
 		/*=================================================================================*/
 		{
@@ -191,275 +457,9 @@ const d = {
 			"author": "Megum",
 			"more": "none",
 			"id": 50174445,
-			"pass": "987123",
+			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=01V2wiWS69o",
-			"key": 13
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Singularity",
-			"author": "Megum",
-			"more": "none",
-			"id": 48249992,
-			"pass": "475869",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=GoubaPmG4zE",
-			"key": 14
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Delta Interface",
-			"author": "Segone",
-			"more": "none",
-			"id": 48296479,
-			"pass": "597597",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=rwQyyG-ysZ8",
-			"key": 15
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Blade of Justice",
-			"author": "ZenroiL and more [oSpace]",
-			"more": "ZenroiL, AlexTheGS, Megum, Smajlik, TheAquaZepyr2",
-			"id": 51744070,
-			"pass": "050119",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=ErAgqjsx6ng",
-			"key": 16
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Factory Realm X",
-			"author": "Megum",
-			"more": "none",
-			"id": 48073424,
-			"pass": "375209",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=cUz5AlXaXxU",
-			"key": 17
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Arctic Lights",
-			"author": "IFrankis",
-			"more": "none",
-			"id": 46494762,
-			"pass": "123456",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=9tvwV-cMfiQ",
-			"key": 18
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Audio Expulsion",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, TheAquaZephyr2, Axasion, CorporalPikachu, XanPlayzGamez, Izender, oSpace",
-			"id": 50820782,
-			"pass": "135086",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=F7wDHu9oJCQ",
-			"key": 19
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty ATMarbl",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, Segone, oSpace, Goddardl, DTDU, xSmajlik and AcropolisBoy",
-			"id": 50619560,
-			"pass": "325698",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=Km_F5aCn874",
-			"key": 20
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Zodiac",
-			"author": "oSpace and more [oSpace]",
-			"more": "oSpace, Deleitor11, Segone, SkullBytes, ShadowNinja441, AcropolisBoy, Goddardl, Megum",
-			"id": 53858796,
-			"pass": "Free copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=roX0W3rS6L8",
-			"key": 21
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Atmosphere",
-			"author": "Megum",
-			"more": "none",
-			"id": 55501961,
-			"pass": "120519",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=wnGLzp9gdTY",
-			"key": 22
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Death Corridor",
-			"author": "Acropolisboy and more [Acropolisboy]",
-			"more": "Megum, AcropolisBoy, R4mm1337, oSpace, TheAquaZephyr2 (ShadowNinja), AlexTheGS33, IZender, Axasion",
-			"id": 55501961,
-			"pass": "123666",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=Rdb-z8zRRYM",
-			"key": 23
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Unearthed",
-			"author": "TheNatanaelGD",
-			"more": "none",
-			"id": 56109504,
-			"pass": "Free copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=4ROpnxh1nZU",
-			"key": 24
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Bausha Vortex",
-			"author": "Megum",
-			"more": "none",
-			"id": 48219651,
-			"pass": "100511",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=wl69pSw4vb4",
-			"key": 25
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Bloodlust",
-			"author": "Segone",
-			"more": "",
-			"id": 46218296,
-			"pass": "910910",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=6zu6AoKYLfU",
-			"key": 26
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Ziroikabi",
-			"author": "Megum",
-			"more": "",
-			"id": 47413314,
-			"pass": "159357",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=ZEtcNuuW8Ys",
-			"key": 27
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Artificial Ascent",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, AlexTheGS33, ShadowNinja441, AcropolisBoy, Goddardl, ShuvonIslam777, iZender, Woris376CZ",
-			"id": 51905026,
-			"pass": "789321",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=1R_6CLeZ7NU",
-			"key": 28
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Visible Ray",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, Segone, AlexTheGS33, Goddardl, SkullBytes, ShadowNinja441, ShuvonIslam777, Zenriol",
-			"id": 55174871,
-			"pass": "042019",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=6JYh8vNm-EA",
-			"key": 29
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Awakening Horus",
-			"author": "oSpace and Megum [oSpace]",
-			"more": "Megum, ItzDevGD, Goddardl, ShadowNinja441, Kevinacho18, Miini03, AcropolisBoy, Keleru",
-			"id": 54447236,
-			"pass": "090319",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=URC9IuVbT7Q",
-			"key": 30
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Dark flare",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, ItzDevGD, Goddardl, ShadowNinja441, Kevinacho18, Miini03, AcropolisBoy, Keleru",
-			"id": 55205684,
-			"pass": "201920",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=R0A0khSiIsw",
-			"key": 31
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty The Hell Field",
-			"author": "AcropolisBoy",
-			"more": "",
-			"id": 55476442,
-			"pass": "000006",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=8pbz9JNibd0",
 			"key": 32
 		},
 		/*=================================================================================*/
@@ -467,13 +467,13 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty NecropoliX",
-			"author": "AcropolisBoy",
-			"more": "",
-			"id": 54841893,
-			"pass": "668111",
+			"name": "Shitty Skrillex Theory",
+			"author": "LJosh",
+			"more": "none",
+			"id": 59558254,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=nZuDdnlN-X4",
+			"verificationVid": "https://www.youtube.com/watch?v=n3LgE_66ryc",
 			"key": 33
 		},
 		/*=================================================================================*/
@@ -481,13 +481,13 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Ancestral calamity",
-			"author": "oSpace and more [oSpace]",
-			"more": "Klaro GD, ShadowNinja441, SoyNadie, oSpace, Megum, Miini03, Kevinacho18",
-			"id": 55302658,
-			"pass": "300419",
+			"name": "Shitty Arctic Lights",
+			"author": "Serpyy and XanPlayzGamez [Serpyy]",
+			"more": "none",
+			"id": 60253685,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=maJcSIR-SLU",
+			"verificationVid": "https://www.youtube.com/watch?v=none",
 			"key": 34
 		},
 		/*=================================================================================*/
@@ -495,13 +495,13 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty God Eater",
-			"author": "AcropolisBoy",
+			"name": "Shitty PV II",
+			"author": "Serpyy and more [Serpyy]",
 			"more": "",
-			"id": 52320737,
-			"pass": "606066",
+			"id": 61345238,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=oS9og0z7wB8",
+			"verificationVid": "https://www.youtube.com/watch?v=0JPGc9NLaU0",
 			"key": 35
 		},
 		/*=================================================================================*/
@@ -509,8 +509,8 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Aftermath",
-			"author": "AcropolisBoy",
+			"name": "Shitty Abandoned Planet",
+			"author": "LJosh",
 			"more": "",
 			"id": 54642314,
 			"pass": "000450",
@@ -523,8 +523,8 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Stalemate Redux",
-			"author": "Segone",
+			"name": "Shitty Explosion",
+			"author": "Serpyy",
 			"more": "",
 			"id": 42424706,
 			"pass": "956956",
@@ -537,9 +537,9 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Spectral Tentation",
-			"author": "GDStarStorm and more [GDStarStorm]",
-			"more": "GDStarStorm, FKaDeR, ColdBlast, Heizen, Hotdog71, Shadowninja441, Itzshuvon, SalsinhAAA",
+			"name": "Shitty Factory Realm X",
+			"author": "Megum",
+			"more": "",
 			"id": 56188276,
 			"pass": "835532",
 			"percentToQualify": 57,
@@ -550,8 +550,8 @@ const d = {
 		{
 			"vids": [
 			],
-			"name": "Shitty Volume",
-			"author": "Depressionate7",
+			"name": "Shitty Concaved Memories",
+			"author": "oSpace",
 			"more": "",
 			"id": 56260028,
 			"pass": "042401",
@@ -564,8 +564,8 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Titan Complex",
-			"author": "ShadowNinja441",
+			"name": "Shitty Dolos",
+			"author": "Acropolisboy and more [Acropolisboy",
 			"more": "",
 			"id": 56161135,
 			"pass": "121221",
@@ -578,8 +578,8 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty The Ultimate Phase",
-			"author": "TheNatanaelGD",
+			"name": "Shitty Blade of Justice",
+			"author": "oSpace and more [oSpace]",
 			"more": "",
 			"id": 55403605,
 			"pass": "180806",
@@ -592,8 +592,8 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Phobos",
-			"author": "RealOptagonus",
+			"name": "Shitty Mujigae",
+			"author": "Serpyy",
 			"more": "",
 			"id": 20319038,
 			"pass": "Not Allow copy",
@@ -606,8 +606,8 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Conical Depression",
-			"author": "RealOptagonus",
+			"name": "Shitty Visible Ray",
+			"author": "Megum and more [Megum]",
 			"more": "",
 			"id": 22889251,
 			"pass": "Not Allow copy",
@@ -620,8 +620,8 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Digital Descent",
-			"author": "Segone",
+			"name": "Shitty Heartbeat",
+			"author": "Serpyy",
 			"more": "",
 			"id": 38728701,
 			"pass": "777777",
@@ -634,7 +634,7 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Sigma",
+			"name": "Shitty Paroxysm",
 			"author": "Megum",
 			"more": "",
 			"id": 52840973,
@@ -648,8 +648,8 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Cadrega Mode",
-			"author": "ShittyStorm",
+			"name": "Shitty Anoxysm",
+			"author": "Serpyy",
 			"more": "",
 			"id": 54444622,
 			"pass": "753951",
@@ -662,8 +662,8 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Aurora",
-			"author": "Megum",
+			"name": "Shitty SPL",
+			"author": "Serpyy",
 			"more": "",
 			"id": 51368376,
 			"pass": "145893",
@@ -676,7 +676,7 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Theory of Alchemy",
+			"name": "Shitty Esencia",
 			"author": "Megum",
 			"more": "",
 			"id": 44316721,
@@ -690,28 +690,14 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Subsonic",
-			"author": "Goddardl and more [Goddardl]",
-			"more": "Megum, Segone, AlexTheGS33, TheAquaZephyr2, Goddardl, Temple, Woris367CZ",
+			"name": "Shitty Killerzone",
+			"author": "Acropolisboy",
+			"more": "none",
 			"id": 51263628,
 			"pass": "555666",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=fcL-IZbS_BA",
 			"key": 49
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty TESTING",
-			"author": "Goddardl and more [Goddardl]",
-			"more": "Megum, Segone, AlexTheGS33, TheAquaZephyr2, Goddardl, Temple, Woris367CZ",
-			"id": 51263628,
-			"pass": "555666",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=fcL-IZbS_BA",
-			"key": 50
 		},
 		/*=================================================================================*/
 
