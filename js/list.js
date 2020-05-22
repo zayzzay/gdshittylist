@@ -512,10 +512,10 @@ const d = {
 			"name": "Shitty Abandoned Planet",
 			"author": "LJosh",
 			"more": "",
-			"id": 54642314,
-			"pass": "000450",
+			"id": 59558219,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=none",
+			"verificationVid": "https://www.youtube.com/watch?v=SG-STCb-UTU",
 			"key": 36
 		},
 		/*=================================================================================*/
@@ -526,10 +526,10 @@ const d = {
 			"name": "Shitty Explosion",
 			"author": "Serpyy",
 			"more": "",
-			"id": 42424706,
-			"pass": "956956",
+			"id": 57580516,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=_Fp3WWjksMM",
+			"verificationVid": "https://www.youtube.com/watch?v=I7BGa0HFusI",
 			"key": 37
 		},
 		/*=================================================================================*/
@@ -540,10 +540,10 @@ const d = {
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
 			"more": "",
-			"id": 56188276,
-			"pass": "835532",
+			"id": 48073424,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=0jfz-7-Z3vA",
+			"verificationVid": "https://www.youtube.com/watch?v=cUz5AlXaXxU",
 			"key": 38
 		},
 		/*=================================================================================*/
@@ -553,10 +553,10 @@ const d = {
 			"name": "Shitty Concaved Memories",
 			"author": "oSpace",
 			"more": "",
-			"id": 56260028,
-			"pass": "042401",
+			"id": 57704931,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=none",
+			"verificationVid": "https://www.youtube.com/watch?v=WCJzAF1EZmk",
 			"key": 39
 		},
 		/*=================================================================================*/
@@ -567,10 +567,10 @@ const d = {
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Acropolisboy",
 			"more": "",
-			"id": 56161135,
-			"pass": "121221",
+			"id": 61355408,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=w5XZEuVxwTg",
+			"verificationVid": "https://www.youtube.com/watch?v=NbcF_4EgMXI",
 			"key": 40
 		},
 		/*=================================================================================*/
@@ -581,10 +581,10 @@ const d = {
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
 			"more": "",
-			"id": 55403605,
-			"pass": "180806",
+			"id": 51744070,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=34oA3QehRus",
+			"verificationVid": "https://www.youtube.com/watch?v=q-P4ybSLZP4",
 			"key": 41
 		},
 		/*=================================================================================*/
@@ -595,10 +595,10 @@ const d = {
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
 			"more": "",
-			"id": 20319038,
-			"pass": "Not Allow copy",
+			"id": 50594877,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=yDoBh6f-gL8",
+			"verificationVid": "https://www.youtube.com/watch?v=none",
 			"key": 42
 		},
 		/*=================================================================================*/
@@ -609,10 +609,10 @@ const d = {
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
 			"more": "",
-			"id": 22889251,
-			"pass": "Not Allow copy",
+			"id": 55174871,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=7Bx622QDmN4",
+			"verificationVid": "https://www.youtube.com/watch?v=6JYh8vNm-EA",
 			"key": 43
 		},
 		/*=================================================================================*/
@@ -623,10 +623,10 @@ const d = {
 			"name": "Shitty Heartbeat",
 			"author": "Serpyy",
 			"more": "",
-			"id": 38728701,
-			"pass": "777777",
+			"id": 61062560,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=9U5JKYwbIRs",
+			"verificationVid": "https://www.youtube.com/watch?v=CwmVzTRcfGI",
 			"key": 44
 		},
 		/*=================================================================================*/
@@ -637,10 +637,10 @@ const d = {
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
 			"more": "",
-			"id": 52840973,
-			"pass": "167349",
+			"id": 46950888,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=bUz7ePRVGAk",
+			"verificationVid": "https://www.youtube.com/watch?v=mBa4Q1PFzN4",
 			"key": 45
 		},
 		/*=================================================================================*/
@@ -651,10 +651,10 @@ const d = {
 			"name": "Shitty Anoxysm",
 			"author": "Serpyy",
 			"more": "",
-			"id": 54444622,
-			"pass": "753951",
+			"id": 57446558,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=0G4wM1J6l-g",
+			"verificationVid": "https://www.youtube.com/watch?v=f8Ih6EaNugI",
 			"key": 46
 		},
 		/*=================================================================================*/
@@ -665,10 +665,10 @@ const d = {
 			"name": "Shitty SPL",
 			"author": "Serpyy",
 			"more": "",
-			"id": 51368376,
-			"pass": "145893",
+			"id": 5648917,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=GJFF5ROZrY4",
+			"verificationVid": "https://www.youtube.com/watch?v=s-MQYRZdPQw",
 			"key": 47
 		},
 		/*=================================================================================*/
@@ -679,10 +679,10 @@ const d = {
 			"name": "Shitty Esencia",
 			"author": "Megum",
 			"more": "",
-			"id": 44316721,
-			"pass": "Free copy",
+			"id": 57833596,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=sXlylJu_K-0",
+			"verificationVid": "https://www.youtube.com/watch?v=0FM56f4CdH8",
 			"key": 48
 		},
 		/*=================================================================================*/
@@ -693,10 +693,10 @@ const d = {
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
 			"more": "none",
-			"id": 51263628,
-			"pass": "555666",
+			"id": 61583214,
+			"pass": "Look it up",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=fcL-IZbS_BA",
+			"verificationVid": "https://www.youtube.com/watch?v=6GQliYTw6hQ",
 			"key": 49
 		},
 		/*=================================================================================*/
