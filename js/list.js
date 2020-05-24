@@ -165,7 +165,7 @@ const d = {
 				
 			],
 			"name": "Shitty Sonic Wave",
-			"author": "Acropolisboy",
+			"author": "Acropolisboy [timckic]",
 			"more": "none",
 			"id": 55367155,
 			"pass": "Look it up",
@@ -179,7 +179,7 @@ const d = {
 				
 			],
 			"name": "Shitty Renevant",
-			"author": "Acropolisboy",
+			"author": "Acropolisboy [LJosh]",
 			"more": "none",
 			"id": 58163785,
 			"pass": "Look it up",
@@ -570,7 +570,7 @@ const d = {
 				
 			],
 			"name": "Shitty Dolos",
-			"author": "Acropolisboy and more [Acropolisboy",
+			"author": "Acropolisboy and more [Whiliams]",
 			"more": "",
 			"id": 61355408,
 			"pass": "Look it up",
