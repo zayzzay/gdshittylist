@@ -5,20 +5,6 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty AfterCataBath",
-			"author": "AcropolisBoy [LJosh]",
-			"more": "none",
-			"id": 57050573,
-			"pass": "666666",
-			"percentToQualify": 46,
-			"verificationVid": "https://www.youtube.com/watch?v=gvkoieLhRLo",
-			"key": 0
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
 			"more": "none",
@@ -26,6 +12,20 @@ const d = {
 			"pass": "000009",
 			"percentToQualify": 56,
 			"verificationVid": "https://www.youtube.com/watch?v=-Zw0JVGLRlw",
+			"key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty AfterCataBath",
+			"author": "AcropolisBoy [LJosh]",
+			"more": "none",
+			"id": 57050573,
+			"pass": "666666",
+			"percentToQualify": 46,
+			"verificationVid": "https://www.youtube.com/watch?v=gvkoieLhRLo",
 			"key": 1
 		},
 		/*=================================================================================*/
