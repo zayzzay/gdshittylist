@@ -148,7 +148,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=HMU_TVA7U14",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -232,7 +237,36 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "rVlaash",
+					"link": "https://youtu.be/WblsmOFsrlc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://youtu.be/6fwIUP1Brgg",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "EarthyYakoob",
+					"link": "https://www.youtube.com/watch?v=kruwGB2MCN4",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/-zCM2CjnsSM",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Dornoc429",
+					"link": "https://youtu.be/C06APNulAMA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -316,7 +350,24 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "rVlaash",
+					"link": "https://youtu.be/OqxLgOTQ9cs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=0YAWYj6Y7Ig",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://youtu.be/BwZY9GqGgTo",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -344,7 +395,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "AcropolisBoy",
+					"link": "https://youtu.be/iQPeK6Zgqy8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Orochi",
 			"author": "Keleru",
@@ -372,6 +428,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "rVlaash",
+					"link": "https://youtu.be/oMd3CqfBhvs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 				
 			],
 			"name": "Shitty Belloq",
@@ -386,7 +448,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "rVlaash",
+					"link": "https://youtu.be/VAkWqdvPNvk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -414,6 +481,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "rVlaash",
+					"link": "https://youtu.be/3VJ_VMdexug",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 				
 			],
 			"name": "Shitty Ancestral Calamity",
@@ -456,6 +529,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "rVlaash",
+					"link": "https://youtu.be/8L-Na4J4K10",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=VyUvTRpRqx0",
+					"percent": 100,
+					"hz": "120hz"
+				},
 				
 			],
 			"name": "Shitty Celestial Force",
@@ -540,7 +625,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+					{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=jUs2PRbtB88",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -554,6 +644,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "rVlaash",
+					"link": "https://youtu.be/WblsmOFsrlc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=MdzVDMTo4Fs",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Concaved Memories",
 			"author": "oSpace",
@@ -567,10 +669,21 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Roke556",
+					"link": "https://www.youtube.com/watch?v=CrutPAWjQLo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/XsLMUuRY8M4",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Dolos",
-			"author": "Acropolisboy and more [Whiliams]",
+			"author": "Acropolisboy and more [Whiliams8080]",
 			"more": "",
 			"id": 61355408,
 			"pass": "Look it up",
@@ -581,7 +694,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Dornoc429",
+					"link": "https://youtu.be/HEk_lUczoeA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -637,7 +755,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=aFZsevhsvvQ",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -679,6 +802,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "rVlaash",
+					"link": "https://youtu.be/xGnPhKHel5Y",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 				
 			],
 			"name": "Shitty Esencia",
