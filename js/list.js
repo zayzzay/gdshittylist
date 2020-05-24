@@ -3,7 +3,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=yMOeeOUUOxg",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -59,7 +64,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=owv5r9ZCvCs",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Triple Six",
 			"author": "LJosh",
@@ -73,7 +83,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=iaMO1bEwKYE",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
@@ -308,7 +323,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=q-Vfoemsmas",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Eternal Moment",
 			"author": "Miini03",
@@ -414,7 +434,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=Au-pIp2z230",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Wcropolix",
 			"author": "LJosh",
