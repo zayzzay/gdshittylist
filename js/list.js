@@ -540,7 +540,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/9DwE0aH5iY4",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
