@@ -309,7 +309,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/cNRatJWzyYE",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Zettabyte",
 			"author": "Serpyy",
@@ -818,7 +823,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/P0y3gXK4BgM",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
