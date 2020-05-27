@@ -582,6 +582,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/bE4bL0W87Aw",
+					"percent": 100,
+					"hz": "120hz"
+				},
 				
 			],
 			"name": "Shitty Celestial Force",
