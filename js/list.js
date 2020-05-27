@@ -652,7 +652,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/nw2OoLZu1gg",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Explosion",
 			"author": "Serpyy",
