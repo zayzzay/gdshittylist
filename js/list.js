@@ -196,7 +196,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/GFQow4P97Hc",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
@@ -546,6 +551,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/6xKHQQiutZA",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -816,6 +827,12 @@ const d = {
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://youtu.be/P0y3gXK4BgM",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/fmZn_2QcMbs",
 					"percent": 100,
 					"hz": "120hz"
 				},
