@@ -276,12 +276,7 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
-				{
-					"user": "Dornoc429",
-					"link": "https://youtu.be/C06APNulAMA",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -729,12 +724,7 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "Dornoc429",
-					"link": "https://youtu.be/HEk_lUczoeA",
-					"percent": 100,
-					"hz": "Mobile"
-				},
+				
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
