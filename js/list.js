@@ -903,7 +903,7 @@ const d = {
 	],
 	"version": [
 		1,
-		5,
-		1
+		0,
+		0
 	]
 };const list = d.list;const version = d.version;
