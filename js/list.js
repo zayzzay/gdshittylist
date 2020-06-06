@@ -11,9 +11,9 @@ const d = {
 				},
 				{
 					"user": "GDTeaBag",
-					"link": "https://www.youtube.com/watch?v=yMOeeOUUOxg",
+					"link": "https://www.youtube.com/watch?v=HLZe5440T_g",
 					"percent": 100,
-					"hz": "120hz"
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Kowareta",
