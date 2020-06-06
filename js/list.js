@@ -9,6 +9,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "GDTeaBag",
+					"link": "https://www.youtube.com/watch?v=yMOeeOUUOxg",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -797,7 +803,7 @@ const d = {
 				
 				
 			],
-			"name": "Shitty Sigma
+			"name": "Shitty Sigma"
 			"author": "Megum",
 			"more": "",
 			"id": 52840973,
@@ -935,4 +941,6 @@ const d = {
 		0,
 		0
 	]
-};const list = d.list;const version = d.version;
+};
+
+const list = d.list;const version = d.version;
