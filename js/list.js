@@ -9,12 +9,6 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
-				{
-					"user": "GDTeaBag",
-					"link": "https://www.youtube.com/watch?v=HLZe5440T_g",
-					"percent": 100,
-					"hz": "240hz"
-				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -652,20 +646,6 @@ const d = {
 			"vids": [
 				
 			],
-			"name": "Shitty Omega",
-			"author": "GDStarStorm and more [Megum]",
-			"more": "",
-			"id": 61607410,
-			"pass": "Look it up",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=cGY6Y3hwCs0",
-			"key": 36
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
 			"name": "Shitty Abandoned Planet",
 			"author": "LJosh",
 			"more": "",
@@ -673,7 +653,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=SG-STCb-UTU",
-			"key": 37
+			"key": 36
 		},
 		/*=================================================================================*/
 		{
@@ -692,7 +672,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=I7BGa0HFusI",
-			"key": 38
+			"key": 37
 		},
 		/*=================================================================================*/
 		{
@@ -717,7 +697,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=cUz5AlXaXxU",
-			"key": 39
+			"key": 38
 		},
 		/*=================================================================================*/
 		{
@@ -742,7 +722,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=WCJzAF1EZmk",
-			"key": 40
+			"key": 39
 		},
 		/*=================================================================================*/
 		{
@@ -767,7 +747,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=NbcF_4EgMXI",
-			"key": 41
+			"key": 40
 		},
 		/*=================================================================================*/
 		{
@@ -781,7 +761,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=q-P4ybSLZP4",
-			"key": 42
+			"key": 41
 		},
 		/*=================================================================================*/
 		{
@@ -795,22 +775,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=none",
-			"key": 43
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-				
-			],
-			"name": "Shitty Sigma"
-			"author": "Megum",
-			"more": "",
-			"id": 52840973,
-			"pass": "167349",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=bUz7ePRVGAk",
-			"key": 44
+			"key": 42
 		},
 		/*=================================================================================*/
 		{
@@ -824,7 +789,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6JYh8vNm-EA",
-			"key": 45
+			"key": 43
 		},
 		/*=================================================================================*/
 		{
@@ -838,7 +803,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=CwmVzTRcfGI",
-			"key": 46
+			"key": 44
 		},
 		/*=================================================================================*/
 		{
@@ -857,7 +822,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=mBa4Q1PFzN4",
-			"key": 47
+			"key": 45
 		},
 		/*=================================================================================*/
 		{
@@ -871,7 +836,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=f8Ih6EaNugI",
-			"key": 48
+			"key": 46
 		},
 		/*=================================================================================*/
 		{
@@ -896,7 +861,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=s-MQYRZdPQw",
-			"key": 49
+			"key": 47
 		},
 		/*=================================================================================*/
 		{
@@ -916,7 +881,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=0FM56f4CdH8",
-			"key": 50
+			"key": 48
 		},
 		/*=================================================================================*/
 		{
@@ -930,7 +895,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6GQliYTw6hQ",
-			"key": 51
+			"key": 49
 		},
 		/*=================================================================================*/
 
@@ -941,6 +906,4 @@ const d = {
 		0,
 		0
 	]
-};
-
-const list = d.list;const version = d.version;
+};const list = d.list;const version = d.version;
