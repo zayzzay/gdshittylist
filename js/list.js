@@ -653,7 +653,7 @@ const d = {
 				
 			],
 			"name": "Shitty Omega",
-			"author": "GDStarStorm and more [Megum]"
+			"author": "GDStarStorm and more [Megum]",
 			"more": "",
 			"id": 61607410,
 			"pass": "Look it up",
@@ -940,7 +940,7 @@ const d = {
 		1,
 		0,
 		0
-	],
+	]
 };
 
 const list = d.list;const version = d.version;
