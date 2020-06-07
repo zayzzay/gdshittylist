@@ -79,7 +79,7 @@ const d = {
 			"author": "Serpyy",
 			"more": "none",
 			"id": 60988234,
-			"pass": "Look it up",
+			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/6mBUCC8dlCY",
 			"key": 3
@@ -98,7 +98,7 @@ const d = {
 			"author": "LJosh",
 			"more": "none",
 			"id": 59558238,
-			"pass": "Look it up",
+			"pass": "0005",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=oFUBGkctzR0",
 			"key": 4
@@ -117,7 +117,7 @@ const d = {
 			"author": "LJosh",
 			"more": "none",
 			"id": 59558248,
-			"pass": "Look it up",
+			"pass": "0002",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=rWcLT30sVj0",
 			"key": 5
@@ -131,7 +131,7 @@ const d = {
 			"author": "LJosh",
 			"more": "none",
 			"id": 59560393,
-			"pass": "Look it up",
+			"pass": "000010",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=UBmcMgL0Pdg",
 			"key": 6
@@ -145,7 +145,7 @@ const d = {
 			"author": "LJosh",
 			"more": "none",
 			"id": 59560323,
-			"pass": "Look it up",
+			"pass": "0009",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=axeVcW9WATs",
 			"key": 7
@@ -164,7 +164,7 @@ const d = {
 			"author": "LJosh",
 			"more": "none",
 			"id": 59560341,
-			"pass": "Look it up",
+			"pass": "0007",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=3C4XngzGGlE",
 			"key": 8
@@ -184,7 +184,7 @@ const d = {
 			"author": "LJosh",
 			"more": "none",
 			"id": 59560360,
-			"pass": "Look it up",
+			"pass": "0008",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=FiJIwowWp1g",
 			"key": 9
@@ -225,7 +225,7 @@ const d = {
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
-			"more": "none",
+			"more": "Free to copy",
 			"id": 52494510,
 			"pass": "Look it up",
 			"percentToQualify": 57,
@@ -244,7 +244,7 @@ const d = {
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
-			"more": "none",
+			"more": "001006",
 			"id": 55367155,
 			"pass": "Look it up",
 			"percentToQualify": 57,
@@ -271,7 +271,7 @@ const d = {
 			"author": "Acropolisboy [LJosh]",
 			"more": "none",
 			"id": 58163785,
-			"pass": "Look it up",
+			"pass": "100006",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=RPDmLNJBpMc",
 			"key": 12
@@ -290,7 +290,7 @@ const d = {
 			"author": "oSpace [LJosh]",
 			"more": "none",
 			"id": 56712681,
-			"pass": "Look it up",
+			"pass": "789123",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=xGBfvrRvIbU",
 			"key": 13
@@ -304,7 +304,7 @@ const d = {
 			"author": "Serpyy [XanPlayzGamez]",
 			"more": "none",
 			"id": 60976052,
-			"pass": "Look it up",
+			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=fcqAzQsbVdY",
 			"key": 14
@@ -318,7 +318,7 @@ const d = {
 			"author": "Megum",
 			"more": "none",
 			"id": 44568953,
-			"pass": "Look it up",
+			"pass": "Not copyable",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=qP0v6diamBM",
 			"key": 15
@@ -367,9 +367,9 @@ const d = {
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
-			"more": "",
+			"more": "none",
 			"id": 57632273,
-			"pass": "Look it up",
+			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=tOElkolP8Cg",
 			"key": 16
@@ -383,7 +383,7 @@ const d = {
 			"author": "oSpace",
 			"more": "none",
 			"id": 54868104,
-			"pass": "Look it up",
+			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=f8HQ1T1HmXs",
 			"key": 17
@@ -408,7 +408,7 @@ const d = {
 			"author": "Serpyy",
 			"more": "none",
 			"id": 56768542,
-			"pass": "Look it up",
+			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=2Mkex3RGOnQ",
 			"key": 18
@@ -439,7 +439,7 @@ const d = {
 			"author": "Miini03",
 			"more": "none",
 			"id": 59680007,
-			"pass": "Look it up",
+			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=CEO9I6Xr7EE",
 			"key": 19
@@ -453,7 +453,7 @@ const d = {
 			"author": "Keleru",
 			"more": "none",
 			"id": 49731309,
-			"pass": "Look it up",
+			"pass": "000005",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=yW9oNZ07yC8",
 			"key": 20
@@ -467,7 +467,7 @@ const d = {
 			"author": "oSpace",
 			"more": "none",
 			"id": 57271231,
-			"pass": "Look it up",
+			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=F7BO5D2b6Mo",
 			"key": 21
@@ -510,7 +510,7 @@ const d = {
 			"author": "oSpace",
 			"more": "none",
 			"id": 55909152,
-			"pass": "Look it up",
+			"pass": "343707",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=GvfSqt8ZBbY",
 			"key": 22
@@ -524,7 +524,7 @@ const d = {
 			"author": "oSpace and more [Serpyy]",
 			"more": "none",
 			"id": 57337559,
-			"pass": "Look it up",
+			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=72THO_lErmg",
 			"key": 23
@@ -549,7 +549,7 @@ const d = {
 			"author": "Keleru",
 			"more": "none",
 			"id": 49907278,
-			"pass": "Look it up",
+			"pass": "159874",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=n-1BTK0cIvA",
 			"key": 24
@@ -568,7 +568,7 @@ const d = {
 			"author": "LJosh",
 			"more": "none",
 			"id": 59558228,
-			"pass": "Look it up",
+			"pass": "000002",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/708VHDpYJGo",
 			"key": 25
@@ -605,7 +605,7 @@ const d = {
 			"author": "oSpace and more [oSpace]",
 			"more": "none",
 			"id": 58284454,
-			"pass": "Look it up",
+			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=EvcFxAEED6g",
 			"key": 26
