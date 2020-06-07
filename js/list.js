@@ -1174,6 +1174,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/79HNFIaVQEg",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
@@ -1198,12 +1204,6 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=FqeX9LNJxT8",
 					"percent": 100,
 					"hz": "Mobile"
-				},
-				{
-					"user": "Soda",
-					"link": "https://youtu.be/79HNFIaVQEg",
-					"percent": 100,
-					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Killerzone",
