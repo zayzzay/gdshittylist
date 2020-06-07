@@ -860,7 +860,7 @@ const d = {
 					"user": "rVlaash",
 					"link": "https://www.youtube.com/watch?v=uTTagDEZSHk",
 					"percent": 100,
-					"hz": "Mobile
+					"hz": "Mobile"
 				},
 				{
 					"user": "AcropolisBoy",
