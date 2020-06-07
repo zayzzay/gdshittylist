@@ -216,6 +216,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://youtu.be/oa8bGWtZ7yI",
+					"percent": 78,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
