@@ -605,7 +605,7 @@ const d = {
 					"user": "Whiliams8080",
 					"link": "https://youtu.be/jYIA2lWhvOc",
 					"percent": 100,
-					"hz": "120hz
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Awakening Horus",
