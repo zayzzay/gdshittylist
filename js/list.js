@@ -791,7 +791,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/fup4VwhPK4k",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Omega",
 			"author": "GDStarStorm and more [Megum]",
