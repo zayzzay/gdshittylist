@@ -422,6 +422,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=nWwv_IZztGo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Eternal Moment",
 			"author": "Miini03",
