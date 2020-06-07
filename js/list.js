@@ -1149,7 +1149,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=0FM56f4CdH8",
-			"legacykey": 2
+			"key": 50
 		},
 		/*=================================================================================*/
 		{
@@ -1163,7 +1163,7 @@ const d = {
 			"pass": "Look it up",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6GQliYTw6hQ",
-			"legacykey": 1
+			"key": 51
 		},
 		/*=================================================================================*/
 
