@@ -863,12 +863,6 @@ const d = {
 					"hz": "Mobile
 				},
 				{
-					"user": "rVlaash",
-					"link": "https://www.youtube.com/watch?v=uTTagDEZSHk",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "AcropolisBoy",
 					"link": "https://youtu.be/wyv6OSJ_EeI",
 					"percent": 100,
