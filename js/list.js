@@ -176,7 +176,7 @@ const d = {
 					"user": "GDTeabag",
 					"link": "https://www.youtube.com/watch?v=4P59t8EJLb0&t=",
 					"percent": 100,
-					"hz": "240"
+					"hz": "240hz"
 				},
 
 			],
