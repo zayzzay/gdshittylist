@@ -1185,6 +1185,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "md1159",
+					"link": "https://youtu.be/sHVgN7ScNjA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
