@@ -1154,7 +1154,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
-				
+				{
+					"user": "md1159",
+					"link": "https://youtu.be/J_KTjFvU4hs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
