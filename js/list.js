@@ -27,6 +27,12 @@ const d = {
 					"percent": 93,
 					"hz": "60hz"
 				},
+				{
+					"user": "Aassbll",
+					"link": "https://youtu.be/e4CleTX6wWs",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
