@@ -318,7 +318,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/QJBjl5TlrnM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -474,7 +479,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/UOK0tKqsxKU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Deimos",
 			"author": "oSpace",
@@ -1019,6 +1029,12 @@ const d = {
 					"link": "https://m.youtube.com/watch?v=ieMMVuIMZKM",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/TEi0zl0GIyc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
