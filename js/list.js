@@ -368,6 +368,13 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/tOElkolP8Cg",
+					"percent": 100,
+					"hz": "144hz"
+
+				},
 				
 				
 			],
@@ -524,7 +531,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=PSAjB5fou68&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Macabre",
 			"author": "oSpace and more [Serpyy]",
