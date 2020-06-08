@@ -228,6 +228,12 @@ const d = {
 					"percent": 78,
 					"hz": "240hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/lAkU4BWWto8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -290,6 +296,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=iXO7jcRxb9Q",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/o2U25g6T7iw",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty WOW",
