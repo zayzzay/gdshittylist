@@ -601,6 +601,12 @@ const d = {
 					"hz": "60hz"
 				},
 				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=_Ksd6sKlD4g&t=461s",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
 					"user": "XoaOfficial",
 					"link": "https://www.twitch.tv/videos/642942421",
 					"percent": 95,
@@ -1197,6 +1203,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=_Ksd6sKlD4g&t=234s",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
@@ -1233,6 +1245,12 @@ const d = {
 					"link": "https://youtu.be/vRfG9r8KajA",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/KORCAwATJcE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Killerzone",
