@@ -591,7 +591,7 @@ const d = {
 			
 			],
 			"name": "Shitty Calculator Core",
-			"author": "oSpace and more",
+			"author": "oSpace and more [oSpace]",
 			"more": "none",
 			"id": 62034895,
 			"pass": "Free to copy",
@@ -771,7 +771,7 @@ const d = {
 				
 			],
 			"name": "Shitty Glacial Core",
-			"author": "AcropolisBoy",
+			"author": "AcropolisBoy [rxmmybtw]",
 			"more": "none",
 			"id": 61842730,
 			"pass": "Free to copy",
