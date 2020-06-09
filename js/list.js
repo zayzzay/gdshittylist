@@ -821,7 +821,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-				
+				{
+					"user": "UsrailGD",
+					"link": "https://youtu.be/F3J7eyyaXXo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
