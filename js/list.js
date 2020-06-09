@@ -592,9 +592,9 @@ const d = {
 			],
 			"name": "Shitty Calculator Core",
 			"author": "oSpace and more",
-			"more": "none"
+			"more": "none",
 			"id": 62034895,
-			"pass": "Free to copy"
+			"pass": "Free to copy",
 			"percentToQualify": 52,
 			"verificationVid": "https://www.youtube.com/watch?v=Zs3wbxEiWy0",
 			"key": 24
