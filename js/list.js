@@ -594,7 +594,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-			
+				{
+					"user": "amedxx2y",
+					"link": "https://youtu.be/ydmKp0WrkiM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Calculator Core",
 			"author": "oSpace and more [oSpace]",
@@ -681,6 +686,12 @@ const d = {
 					"link": "https://www.twitch.tv/videos/642942421",
 					"percent": 95,
 					"hz": "60hz"
+				},
+				{
+					"user": "UsrailGD",
+					"link": "https://youtu.be/tAiyDE-EZbk",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Belloq",
