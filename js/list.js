@@ -692,7 +692,7 @@ const d = {
 			
 			],
 			"name": "Shitty Retitled",
-			"author": "DrinkSoda",
+			"author": "Soda",
 			"more": "none",
 			"id": 61805507,
 			"pass": "Free to copy",
