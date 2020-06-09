@@ -1015,6 +1015,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "UsrailGD",
+					"link": "https://youtu.be/VRRc2D2Bk0I",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Concaved Memories",
 			"author": "oSpace",
@@ -1057,6 +1063,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=2TU7uX6uwXc&t=8s",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "UsrailGD",
+					"link": "https://youtu.be/PUEgBQjAvEE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Dolos",
@@ -1127,6 +1139,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "UsrailGD",
+					"link": "https://youtu.be/Av3cZlMdgZg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -1151,6 +1169,12 @@ const d = {
 					"link": "https://youtu.be/2Cxd6qSQm_w",
 					"percent": 79,
 					"hz": "60hz"
+				},
+				{
+					"user": "UsrailGD",
+					"link": "https://youtu.be/x-RrmyNM-Jc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Visible Ray",
