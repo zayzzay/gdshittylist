@@ -785,7 +785,12 @@ const d = {
 		/*=================================================================================*/
 		{
 		        "vids": [
-				
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/0H2GPqIJXCs",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
