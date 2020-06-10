@@ -1180,6 +1180,7 @@ const d = {
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=q-P4ybSLZP4",
 			"key": 46
+		},
 		/*=================================================================================*/
 		{
 			"vids": [
