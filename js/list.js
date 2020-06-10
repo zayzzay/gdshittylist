@@ -1288,7 +1288,7 @@ const d = {
 					"user": "UsrailGD",
 					"link": "https://youtu.be/x-RrmyNM-Jc",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Visible Ray",
