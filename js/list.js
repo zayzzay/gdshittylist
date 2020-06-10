@@ -510,6 +510,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=CqAMnnz5Nbw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Deimos",
 			"author": "oSpace",
