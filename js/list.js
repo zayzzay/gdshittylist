@@ -1180,6 +1180,19 @@ const d = {
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=q-P4ybSLZP4",
 			"key": 46
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Kidsmoke",
+			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
+			"more": "none",
+			"id": 60487752,
+			"pass": "258963",
+			"percentToQualify": 58,
+			"verificationVid": "https://www.youtube.com/watch?v=qnlbpIA9Zjg",
+			"key": 47
 		},
 		/*=================================================================================*/
 		{
