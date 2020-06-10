@@ -1189,6 +1189,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "amedxx2y",
+					"link": "https://youtu.be/4rSTiy3IF5w",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
