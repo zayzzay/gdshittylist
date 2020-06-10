@@ -589,6 +589,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=rrk0G7LX2-w",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Macabre",
 			"author": "oSpace and more [Serpyy]",
