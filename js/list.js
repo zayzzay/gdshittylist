@@ -1211,7 +1211,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=none",
-			"key": 47
+			"key": 48
 		},
 		/*=================================================================================*/
 		{
@@ -1248,7 +1248,7 @@ const d = {
 			"pass": "167349",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=bUz7ePRVGAk",
-			"key": 48
+			"key": 49
 		},
 		/*=================================================================================*/
 		{
@@ -1279,7 +1279,7 @@ const d = {
 			"pass": "042019",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6JYh8vNm-EA",
-			"key": 49
+			"key": 50
 		},
 		/*=================================================================================*/
 		{
@@ -1293,7 +1293,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=CwmVzTRcfGI",
-			"key": 50
+			"key": 51
 		},
 		/*=================================================================================*/
 		{
@@ -1330,7 +1330,7 @@ const d = {
 			"pass": "135086",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=mBa4Q1PFzN4",
-			"key": 51
+			"key": 52
 		},
 		/*=================================================================================*/
 		{
@@ -1349,7 +1349,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=f8Ih6EaNugI",
-			"key": 52
+			"key": 53
 		},
 		/*=================================================================================*/
 		{
@@ -1380,7 +1380,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=s-MQYRZdPQw",
-			"key": 53
+			"key": 54
 		},
 		/*=================================================================================*/
 		{
@@ -1417,7 +1417,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=0FM56f4CdH8",
-			"key": 54
+			"key": 55
 		},
 		/*=================================================================================*/
 		{
@@ -1466,7 +1466,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6GQliYTw6hQ",
-			"key": 55
+			"key": 56
 		},
 		/*=================================================================================*/
 
