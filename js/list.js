@@ -282,9 +282,9 @@ const d = {
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
-			"more": "001006",
+			"more": "none",
 			"id": 55367155,
-			"pass": "Look it up",
+			"pass": "001006",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=dnjnt9rI_qc",
 			"key": 12
