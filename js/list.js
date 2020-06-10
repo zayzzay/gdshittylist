@@ -563,6 +563,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=3myqjTCiRcw",
+					"percent": 65,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Calculator Core",
 			"author": "oSpace and more [oSpace]",
