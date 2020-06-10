@@ -485,7 +485,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/u4ZAb6xUbT0",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
