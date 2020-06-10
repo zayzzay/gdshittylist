@@ -210,7 +210,12 @@ const d = {
 		/*=================================================================================*/
 		{
 		        "vids": [
-				
+				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=6l9yo8vdfvY",
+					"percent": 80,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Catharsis",
 			"author": "TheKate and more [MrDash]",
