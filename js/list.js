@@ -263,9 +263,9 @@ const d = {
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
-			"more": "Free to copy",
+			"more": "none",
 			"id": 52494510,
-			"pass": "Look it up",
+			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=Iu08clOYt8I",
 			"key": 11
