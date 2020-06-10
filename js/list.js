@@ -1399,8 +1399,8 @@ const d = {
 			"vids": [
 				{
 					"user": "GdWaaab",
-					"link": "https://youtu.be/qgpAfrEMxOo",
-					"percent": 92,
+					"link": "https://youtu.be/C6YXuAQ-_kE",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 				{
