@@ -1300,6 +1300,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://youtu.be/iVqXMwGq7lU",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
