@@ -305,7 +305,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=fcqAzQsbVdY",
-			"key": 15
+			"key": 12
 		},
 		/*=================================================================================*/
 		{
@@ -386,7 +386,7 @@ const d = {
 			"pass": "001006",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=dnjnt9rI_qc",
-			"key": 12
+			"key": 15
 		},
 		/*=================================================================================*/
 		{
