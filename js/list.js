@@ -1239,6 +1239,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=MZ7TO8XnBb4",
+					"percent": 100,
+					"hz": "270hz"
+				},
 			],
 			"name": "Shitty Concaved Memories",
 			"author": "oSpace",
