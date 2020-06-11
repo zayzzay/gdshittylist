@@ -117,6 +117,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://youtu.be/7CGDyvOWgKc",
+					"percent": 72,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Triple Six",
 			"author": "LJosh",
