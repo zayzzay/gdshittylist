@@ -1039,6 +1039,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "GDTeabag",
+					"link": "https://youtu.be/x_twWtlkzvA?t=10",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
