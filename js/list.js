@@ -290,27 +290,16 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "GDTeaBag",
-					"link": "https://youtu.be/1Y1T2UdSCEY?t=9",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "sandstormy",
-					"link": "https://www.youtube.com/watch?v=JDN8z5TZEK4",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
-			"name": "Shitty Sonic Wave",
-			"author": "Acropolisboy [timckic]",
+			"name": "Shitty Zaphkiel",
+			"author": "Serpyy [XanPlayzGamez]",
 			"more": "none",
-			"id": 55367155,
-			"pass": "001006",
+			"id": 60976052,
+			"pass": "Free to copy",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=dnjnt9rI_qc",
-			"key": 12
+			"verificationVid": "https://www.youtube.com/watch?v=fcqAzQsbVdY",
+			"key": 15
 		},
 		/*=================================================================================*/
 		{
@@ -371,16 +360,27 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "GDTeaBag",
+					"link": "https://youtu.be/1Y1T2UdSCEY?t=9",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "sandstormy",
+					"link": "https://www.youtube.com/watch?v=JDN8z5TZEK4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
-			"name": "Shitty Zaphkiel",
-			"author": "Serpyy [XanPlayzGamez]",
+			"name": "Shitty Sonic Wave",
+			"author": "Acropolisboy [timckic]",
 			"more": "none",
-			"id": 60976052,
-			"pass": "Free to copy",
+			"id": 55367155,
+			"pass": "001006",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=fcqAzQsbVdY",
-			"key": 15
+			"verificationVid": "https://www.youtube.com/watch?v=dnjnt9rI_qc",
+			"key": 12
 		},
 		/*=================================================================================*/
 		{
