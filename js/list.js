@@ -207,7 +207,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=f3eqo3n4qtM",
+					"percent": 100,
+					"hz": "280hz"
+				},
 			],
 			"name": "Shitty Erebus",
 			"author": "LJosh",
@@ -430,6 +435,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=R0s0VKFhIn0",
+					"percent": 100,
+					"hz": "280hz"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
@@ -481,7 +492,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Redjohnboy",
+					"link": "https://youtu.be/KEYg2jEXAGE",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Step To Hell",
 			"author": "oSpace",
@@ -597,6 +613,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Redjohnboy",
+					"link": "https://youtu.be/PMiC5MZtUp4",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Deimos",
 			"author": "oSpace",
@@ -646,6 +668,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Redjohnboy",
+					"link": "https://youtu.be/8-C1g8dOxQ8",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -670,6 +698,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=rrk0G7LX2-w",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Redjohnboy",
+					"link": "https://youtu.be/Ew6z6afETG8",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Macabre",
@@ -795,6 +829,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Redjohnboy",
+					"link": "https://youtu.be/rldzCvlfWlQ",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -849,6 +889,12 @@ const d = {
 					"link": "https://youtu.be/wMW4CCWRAr4",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "HdLink13",
+					"link": "https://youtu.be/t3pwiVt0fUA",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Belloq",
@@ -906,6 +952,12 @@ const d = {
 					"link": "https://youtu.be/wJ_SVo8RKz4",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Redjohnboy",
+					"link": "https://youtu.be/QyJ0FlIm9u8",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Awakening Horus",
@@ -1089,6 +1141,12 @@ const d = {
 					"link": "https://youtu.be/YNQ5OdRPLdU",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "hello2578",
+					"link": "https://www.youtube.com/watch?v=iS8HDfqm9BY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -1289,6 +1347,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Redjohnboy",
+					"link": "https://youtu.be/9cyLRvU6x4k",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -1331,6 +1395,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=MZ7TO8XnBb4",
 					"percent": 100,
 					"hz": "270hz"
+				},
+				{
+					"user": "Redjohnboy",
+					"link": "https://youtu.be/1Xx5qJJ5lgo",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Concaved Memories",
@@ -1418,6 +1488,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Redjohnboy",
+					"link": "https://youtu.be/HJNYiDQ19ZE",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -1454,6 +1530,12 @@ const d = {
 					"user": "AcropolisBoy",
 					"link": "https://www.youtube.com/watch?v=Nq5IIUnlGFE",
 					"percent": 64,
+					"hz": "240hz"
+				},
+				{
+					"user": "TheRealSiel07",
+					"link": "https://youtu.be/npnvbRSlKGI",
+					"percent": 100,
 					"hz": "240hz"
 				},
 			],
@@ -1535,6 +1617,12 @@ const d = {
 					"link": "https://youtu.be/x-RrmyNM-Jc",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Redjohnboy",
+					"link": "https://youtu.be/UVyxOM8RMiM",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Visible Ray",
