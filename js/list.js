@@ -188,6 +188,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=JLHA0PdHatg",
+					"percent": 100,
+					"hz": "280hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
@@ -1425,7 +1431,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "HdLink13",
+					"link": "https://youtu.be/q1QsNJcv-vM",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
@@ -1660,6 +1671,12 @@ const d = {
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://www.youtube.com/watch?v=_Ksd6sKlD4g&t=234s",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "HdLink13",
+					"link": "https://youtu.be/zJvpNKM3PKM",
 					"percent": 100,
 					"hz": "60hz"
 				},
