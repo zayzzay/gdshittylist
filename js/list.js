@@ -91,7 +91,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "sandstormy",
+					"link": "https://www.youtube.com/watch?v=XhQY4p8uwYY",
+					"percent": 77,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
