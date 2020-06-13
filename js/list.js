@@ -1846,6 +1846,7 @@ const d = {
 					"link": "https://youtu.be/foDr8ieml08",
 					"percent": 100,
 					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
