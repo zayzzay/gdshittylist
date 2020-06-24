@@ -841,6 +841,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "Chojang",
+					"link": "https://youtu.be/iZ2bcBmMsqo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -901,6 +907,12 @@ const d = {
 					"link": "https://youtu.be/t3pwiVt0fUA",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Chojang",
+					"link": "https://youtu.be/zcwYCtLJd-0",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Belloq",
@@ -1151,6 +1163,12 @@ const d = {
 				{
 					"user": "hello2578",
 					"link": "https://www.youtube.com/watch?v=iS8HDfqm9BY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Chojang",
+					"link": "https://youtu.be/Q9Z6a_-8_Lg",
 					"percent": 100,
 					"hz": "Mobile"
 				},
