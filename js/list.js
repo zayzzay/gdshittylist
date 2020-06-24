@@ -410,6 +410,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Chojang",
+					"link": "https://youtu.be/x3Q2xm525Dg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty WOW",
 			"author": "oSpace [LJosh]",
