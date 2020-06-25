@@ -45,6 +45,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "sandstormy",
+					"link": "https://www.youtube.com/watch?v=7v2fT3H-Ffs&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -109,12 +115,6 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "sandstormy",
-					"link": "https://www.youtube.com/watch?v=XhQY4p8uwYY",
-					"percent": 77,
-					"hz": "144hz"
-				},
-				{
 					"user": "Starprint",
 					"link": "https://youtu.be/amrmrLjyy9Q",
 					"percent": 100,
@@ -125,6 +125,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=GJJoR3QzU1g",
 					"percent": 100,
 					"hz": "280hz"
+				},
+				{
+					"user": "sandstormy",
+					"link": "https://www.youtube.com/watch?v=_MyAoz49ebQ&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty The Golden",
@@ -257,6 +263,12 @@ const d = {
 					"percent": 100,
 					"hz": "280hz"
 				},
+				{
+					"user": "sandstormy",
+					"link": "https://www.youtube.com/watch?v=db6l9E6ZPEY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sunset Sandstorm",
 			"author": "LJosh",
@@ -275,6 +287,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=4P59t8EJLb0&t=",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=LXt7tDezbfE",
+					"percent": 100,
+					"hz": "280hz"
 				},
 
 			],
@@ -296,6 +314,7 @@ const d = {
 					"percent": 80,
 					"hz": "Mobile"
 				},
+				
 			],
 			"name": "Shitty Catharsis",
 			"author": "TheKate and more [MrDash]",
@@ -344,6 +363,18 @@ const d = {
 					"link": "https://youtu.be/lAkU4BWWto8",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=OiQlGRgGNnM",
+					"percent": 100,
+					"hz": "280hz"
+				},
+				{
+					"user": "Kr_flame",
+					"link": "https://youtu.be/cRbLlrEjdg4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Missing Benefits",
@@ -425,6 +456,12 @@ const d = {
 					"user": "Chojang",
 					"link": "https://youtu.be/x3Q2xm525Dg",
 					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Amedxx2y",
+					"link": "https://youtu.be/MVEP-lEM6vk",
+					"percent": 68,
 					"hz": "Mobile"
 				},
 			],
@@ -742,6 +779,12 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=tymWxxumiVk",
+					"percent": 100,
+					"hz": "200"
+				},
+				{
 					"user": "AcropolisBoy",
 					"link": "https://www.youtube.com/watch?v=3myqjTCiRcw",
 					"percent": 65,
@@ -755,8 +798,8 @@ const d = {
 				},
 				{
 					"user": "NanCho",
-					"link": "https://youtu.be/Xi_Ca7iaNQY",
-					"percent": 56,
+					"link": "https://youtu.be/z53uUl25Zr0",
+					"percent": 65,
 					"hz": "240"
 				},
 			],
@@ -1601,6 +1644,12 @@ const d = {
 					"link": "https://youtu.be/npnvbRSlKGI",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=HmxVeP9DriM",
+					"percent": 100,
+					"hz": "280hz"
 				},
 			],
 			"name": "Shitty Mujigae",
