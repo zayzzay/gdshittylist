@@ -226,7 +226,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=f3eqo3n4qtM",
+					"percent": 100,
+					"hz": "280hz"
+				},
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "LJosh",
@@ -245,6 +250,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=_VsX_49RE1w",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=lyXDe4fePRo",
+					"percent": 100,
+					"hz": "280hz"
 				},
 			],
 			"name": "Shitty Sunset Sandstorm",
@@ -742,6 +753,12 @@ const d = {
 					"percent": 77,
 					"hz": "Mobile"
 				},
+				{
+					"user": "NanCho",
+					"link": "https://youtu.be/Xi_Ca7iaNQY",
+					"percent": 56,
+					"hz": "240"
+				},
 			],
 			"name": "Shitty Calculator Core",
 			"author": "oSpace and more [oSpace]",
@@ -912,6 +929,12 @@ const d = {
 					"user": "Chojang",
 					"link": "https://youtu.be/zcwYCtLJd-0",
 					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "hello2578",
+					"link": "https://www.youtube.com/watch?v=yZPkddZYCdk&t=3s",
+					"percent": 72,
 					"hz": "Mobile"
 				},
 			],
@@ -1209,6 +1232,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Chojang",
+					"link": "https://youtu.be/GqgITM-NUGQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -1255,6 +1284,12 @@ const d = {
 					"link": "https://youtu.be/khDUrimLwGA",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Serpyy",
+					"link": "https://www.youtube.com/watch?v=dPR4li-aO0g",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty PV II",
@@ -1327,7 +1362,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=mPhVpA2g2EM&t=11s",
+					"percent": 100,
+					"hz": "200hz"
+				},
 			],
 			"name": "Shitty Battle of the Shades",
 			"author": "xSmajlik and Superxman777 [xSmajlik]",
@@ -1611,6 +1651,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Chojang",
+					"link": "https://www.youtube.com/watch?v=dz1pGfljRoY&t=51s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -1698,6 +1744,12 @@ const d = {
 					"link": "https://youtu.be/GCBDN97J-fs",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Chojang",
+					"link": "https://youtu.be/a8waYvacVIU",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Paroxysm",
@@ -1870,6 +1922,12 @@ const d = {
 					"link": "https://youtu.be/foDr8ieml08",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "qqfa",
+					"link": "https://www.youtube.com/watch?v=fycJloCpOOA",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Killerzone",
