@@ -666,6 +666,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/NuyfbfPPB-E",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
