@@ -51,6 +51,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/ZcN2N0CRsM8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -132,6 +138,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/bQP9DALtRyA",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -168,6 +180,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=BnZexkV-QjI",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/nriqQY8nh1c",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Triple Six",
@@ -552,6 +570,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/S68LjA4LTwI`",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Step To Hell",
 			"author": "oSpace",
@@ -728,6 +752,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/DQd4xvGYXYw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -826,6 +856,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=MjUlvTt31Wc",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/Fw4ta09GY10",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Orochi",
