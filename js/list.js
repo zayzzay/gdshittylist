@@ -3,6 +3,14 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				 {
+    "user": "Amedxx2y",
+    "link": "https://youtu.be/PPQfZlvOvVw",
+    "percent": 100,
+    "hz": "mobile"
+},
+
+				
 				{
     "user": "Amedxx2y",
     "link": "https://youtu.be/a5mC11bnHLk",
