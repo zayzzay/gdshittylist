@@ -748,6 +748,12 @@ const d = {
 		{
 			"vids": [
 				{
+    "user": "Amedxx2y",
+    "link": "https://youtu.be/IZRMNG4PRxE",
+    "percent": 100,
+    "hz": "mobile"
+},
+				{
 					"user": "rVlaash",
 					"link": "https://youtu.be/OqxLgOTQ9cs",
 					"percent": 100,
