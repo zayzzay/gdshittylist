@@ -419,6 +419,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=nDgBwccdbwk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 				
 			],
 			"name": "Shitty Zaphkiel",
@@ -1111,13 +1117,13 @@ const d = {
 		{
 			"vids": [
 				{
-    "user": "Amedxx2y",
-    "link": "https://youtu.be/dOTO17afdcI",
-    "percent": 100,
-    "hz": "mobile"
-},
+					"user": "Amedxx2y",
+                                        "link": "https://youtu.be/dOTO17afdcI",
+					"percent": 100,
+                                        "hz": "Mobile" 
+				},
 				{
-					"user": "rVlaash",
+                                        "user": "rVlaash",
 					"link": "https://youtu.be/VAkWqdvPNvk",
 					"percent": 100,
 					"hz": "Mobile"
