@@ -1556,6 +1556,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+    "user": "Amedxx2y",
+    "link": "https://youtu.be/eQtUBjtDogY",
+    "percent": 100,
+    "hz": "mobile"
+},
 					{
 					"user": "Whiliams8080",
 					"link": "https://www.youtube.com/watch?v=jUs2PRbtB88",
