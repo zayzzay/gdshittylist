@@ -1456,7 +1456,13 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-			],
+			        {
+                                         "user": "Fhyron06",
+                                         "link": "https://www.youtube.com/watch?v=6dys3PeoP38",
+                                         "percent": 100,
+                                         "hz": "240hz"
+                                },
+                        ],
 			"name": "Shitty Omega",
 			"author": "GDStarStorm and more [Megum]",
 			"more": "",
@@ -1469,12 +1475,7 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-                                         "user": "Fhyron06",
-                                         "link": "https://www.youtube.com/watch?v=6dys3PeoP38",
-                                         "percent": 100,
-                                         "hz": "240hz"
-                                },
+			
 
 			],
 			"name": "Shitty Abandoned Planet",
