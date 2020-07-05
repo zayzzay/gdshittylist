@@ -723,7 +723,7 @@ const d = {
 			"vids": [
 				{
     "user": "Amedxx2y",
-    "link": "https://youtu.be/t8yDWgktw2O",
+    "link": "https://youtu.be/t8yDWgktw20",
     "percent": 100,
     "hz": "mobile"
 },
@@ -1105,7 +1105,7 @@ const d = {
 			"vids": [
 				{
     "user": "Amedxx2y",
-    "link": "https://youtu.be/dOTO17afdcl",
+    "link": "https://youtu.be/dOTO17afdcI",
     "percent": 100,
     "hz": "mobile"
 },
