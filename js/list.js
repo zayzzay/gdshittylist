@@ -2157,7 +2157,14 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-			],
+			        {
+                                        "user": "Geometry Dash PJH",
+                                        "link": "https://youtu.be/P9JoQ7bysXc",
+                                        "percent": 58,
+                                        "hz": "mobile"
+                                },
+
+                        ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
 			"more": "none",
