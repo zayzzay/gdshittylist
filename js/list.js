@@ -717,6 +717,12 @@ const d = {
 		{
 			"vids": [
 				{
+    "user": "Amedxx2y",
+    "link": "https://youtu.be/t8yDWgktw2O",
+    "percent": 100,
+    "hz": "mobile"
+},
+				{
 					"user": "XanPlayzGamez",
 					"link": "https://youtu.be/UOK0tKqsxKU",
 					"percent": 100,
@@ -1092,6 +1098,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+    "user": "Amedxx2y",
+    "link": "https://youtu.be/dOTO17afdcl",
+    "percent": 100,
+    "hz": "mobile"
+},
 				{
 					"user": "rVlaash",
 					"link": "https://youtu.be/VAkWqdvPNvk",
