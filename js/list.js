@@ -1293,6 +1293,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+					{
+    "user": "Amedxx2y",
+    "link": "https://youtu.be/a5mC11bnHLk",
+    "percent": 100,
+    "hz": "mobile"
+},
 				{
 					"user": "rVlaash",
 					"link": "https://youtu.be/8L-Na4J4K10",
