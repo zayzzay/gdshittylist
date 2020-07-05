@@ -57,6 +57,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "redjohnboy",
+					"link": "https://www.youtube.com/watch?v=FnOk2zj5Chw&feature=youtu.be",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -905,6 +911,12 @@ const d = {
 					"percent": 65,
 					"hz": "240"
 				},
+				{
+					"user": "UsrailGD",
+					"link": "https://youtu.be/dZcFc7FLkxk",
+					"percent": 100,
+					"hz": "144"
+				},
 			],
 			"name": "Shitty Calculator Core",
 			"author": "oSpace and more [oSpace]",
@@ -1164,6 +1176,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "PriUsGD",
+					"link": "https://youtu.be/94ggU_s-gDo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -1390,6 +1408,12 @@ const d = {
 					"link": "https://youtu.be/Q9Z6a_-8_Lg",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "ItzRuPea",
+					"link": "https://youtu.be/PtvIspqEYUU",
+					"percent": 100,
+					"hz": "30hz"
 				},
 			],
 			"name": "Shitty Celestial Force",
