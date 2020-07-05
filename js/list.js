@@ -3,8 +3,6 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
-
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://www.youtube.com/watch?v=yMOeeOUUOxg",
