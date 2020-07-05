@@ -1285,11 +1285,11 @@ const d = {
 					"hz": "300hz"
 				},
 			        {
-    "user": "PriUsGD",
-    "link": "https://youtu.be/YlaehvdmMLU",
-    "percent": 100,
-    "hz": "144hz"
-},
+                                        "user": "PriUsGD",
+                                        "link": "https://youtu.be/YlaehvdmMLU",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
 
                         ],
 			"name": "Shitty Rate Demon",
