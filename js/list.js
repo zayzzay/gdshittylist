@@ -435,12 +435,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-    "user": "Amedxx2y",
-    "link": "https://youtu.be/PPQfZlvOvVw",
-    "percent": 100,
-    "hz": "mobile"
-},
+ 				{
+                                        "user": "Amedxx2y",
+                                        "link": "https://youtu.be/PPQfZlvOvVw",
+                                        "percent": 100,
+                                        "hz": "mobile"
+                                },
 
 				
 				{
@@ -504,7 +504,13 @@ const d = {
 					"percent": 68,
 					"hz": "Mobile"
 				},
-			],
+			        {
+                                        "user": "Fhyron06",
+                                        "link": “https://www.youtube.com/watch?v=5l-o3QcJvPo",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
+                        ],
 			"name": "Shitty WOW",
 			"author": "oSpace [LJosh]",
 			"more": "none",
