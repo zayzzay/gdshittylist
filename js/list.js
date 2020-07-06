@@ -888,6 +888,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=2vUjW5Kraag",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
 					"user": "amedxx2y",
 					"link": "https://youtu.be/ydmKp0WrkiM",
 					"percent": 100,
@@ -1845,6 +1851,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=PCyVkPugdio",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
 					"user": "Vaxer",
 					"link": "https://m.youtube.com/watch?v=ieMMVuIMZKM",
 					"percent": 100,
@@ -1882,6 +1894,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=2h5EX9IqWfc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
 					"user": "HdLink13",
 					"link": "https://youtu.be/q1QsNJcv-vM",
 					"percent": 100,
@@ -1900,6 +1918,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=XNeQQgGKc94",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 				{
 					"user": "AcropolisBoy",
 					"link": "https://www.youtube.com/watch?v=Nq5IIUnlGFE",
@@ -2004,6 +2028,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=-TeyD0HYGVo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 				{
 					"user": "Soda",
 					"link": "https://www.youtube.com/watch?v=Rt_aEjGLflI&t=29s",
@@ -2153,6 +2183,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=PtVpcRL29jA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://youtu.be/P0y3gXK4BgM",
