@@ -1566,6 +1566,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=rJcuv-zjSak&t=8s",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
 					"user": "XanPlayzGamez",
 					"link": "https://youtu.be/fup4VwhPK4k",
 					"percent": 100,
