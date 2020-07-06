@@ -869,7 +869,6 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-				{
 					"user": "XanPlayzGamez",
 					"link": "https://www.youtube.com/watch?v=PSAjB5fou68&feature=youtu.be",
 					"percent": 100,
