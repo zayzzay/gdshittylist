@@ -608,6 +608,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+					{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=53Cc3LU2LNM&feature=youtu.be",
+					"percent": 100,
+					"hz": "75hz"
+				},
 				{
     "user": "Amedxx2y",
     "link": "https://youtu.be/xLo_AuI9kYQ",
@@ -856,6 +862,13 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=4sJ_70nnPOc&feature=youtu.be",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://www.youtube.com/watch?v=PSAjB5fou68&feature=youtu.be",
