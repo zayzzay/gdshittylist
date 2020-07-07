@@ -802,6 +802,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "Chojang",
+					"link": "https://youtu.be/2XuPYTN03dk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Deimos",
 			"author": "oSpace",
@@ -912,6 +918,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "sandstormy",
+					"link": "https://www.youtube.com/watch?v=fMcQQDYRqhk&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Macabre",
 			"author": "oSpace and more [Serpyy]",
@@ -967,6 +979,12 @@ const d = {
 					"percent": 65,
 					"hz": "240hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/z53uUl25Zr0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Calculator Core",
 			"author": "oSpace and more [oSpace]",
@@ -995,6 +1013,12 @@ const d = {
 				{
 					"user": "zMarc",
 					"link": "https://youtu.be/Fw4ta09GY10",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "PriUsGD",
+					"link": "https://youtu.be/iBAcfSHUMjE",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -1096,6 +1120,24 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Vaxer",
+					"link": "https://m.youtube.com/watch?v=uf1UUyeEh6c",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Trollomggamer",
+					"link": "https://youtu.be/cqO8ChgleLw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "monstergamer546",
+					"link": "https://youtu.be/jbQzyqCSFpM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -1176,8 +1218,14 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "hello2578",
+					"user": "Vaxer",
 					"link": "https://www.youtube.com/watch?v=yZPkddZYCdk&t=3s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "hello2578",
+					"link": "https://m.youtube.com/watch?v=B1LpZRaNzFA",
 					"percent": 72,
 					"hz": "Mobile"
 				},
@@ -1266,6 +1314,12 @@ const d = {
 					"user": "GdWaaab",
 					"link": "https://youtu.be/FhVhrTFWnK8",
 					"percent": 74,
+					"hz": "Mobile"
+				},
+				{
+					"user": "monstergamer546",
+					"link": "https://youtu.be/yJsM1GmExs4",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 			],
@@ -1512,6 +1566,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Vaxer",
+					"link": "https://m.youtube.com/watch?v=fXMirh8TNfY&t=24s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "monstergamer546",
+					"link": "https://youtu.be/SgC6EfRBWOo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -1651,6 +1717,18 @@ const d = {
                                          "percent": 100,
                                          "hz": "240hz"
                                 },
+				{
+                                         "user": "Kr_Flame",
+                                         "link": "https://youtu.be/eZJVoIC8oDM",
+                                         "percent": 100,
+                                         "hz": "180hz"
+                                },
+				{
+                                         "user": "iRaily",
+                                         "link": "https://youtu.be/t_ve9hHjsqo",
+                                         "percent": 100,
+                                         "hz": "288hz"
+                                },
                         ],
 			"name": "Shitty Omega",
 			"author": "GDStarStorm and more [Megum]",
@@ -1690,6 +1768,12 @@ const d = {
 					"link": "https://youtu.be/7HbyUNUkCl8",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "PriUsGD",
+					"link": "https://youtu.be/IW81v479Usc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Explosion",
@@ -1774,6 +1858,24 @@ const d = {
 				{
 					"user": "Gloomy boy",
 					"link": "https://youtu.be/neCIOR6mFZM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Vaxer",
+					"link": "https://m.youtube.com/watch?v=z7yH-HtqR8Y",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Chojang",
+					"link": "https://youtu.be/f30L-BOk6yA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "monstergamer546",
+					"link": "https://youtu.be/Ohp-0zkC_1I",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -1948,6 +2050,24 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "eafan0",
+					"link": "https://youtu.be/80DdoD5VwE4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Vaxer",
+					"link": "https://m.youtube.com/watch?v=ieMMVuIMZKM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "monstergamer546"
+					"link": "https://youtu.be/F4oVDGJtpz0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -2086,6 +2206,12 @@ const d = {
 				{
 					"user": "md1159",
 					"link": "https://youtu.be/qqrHPVfTHyw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Vaxer",
+					"link": "https://m.youtube.com/watch?v=tZAKbxwEco4",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -2330,6 +2456,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Frigus",
+					"link": "https://www.youtube.com/watch?v=qHRO5WU2n6M",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
@@ -2425,7 +2557,19 @@ const d = {
                                         "user": "Geometry Dash PJH",
                                         "link": "https://youtu.be/P9JoQ7bysXc",
                                         "percent": 58,
-                                        "hz": "mobile"
+                                        "hz": "Mobile"
+                                },
+				{
+                                        "user": "redjohnboy",
+                                        "link": "https://youtu.be/0OriRj7k0Lo",
+                                        "percent": 100,
+                                        "hz": "165hz"
+                                },
+				{
+                                        "user": "monstergamer546",
+                                        "link": "https://youtu.be/sMCwOGl1kfs",
+                                        "percent": 100,
+                                        "hz": "Mobile"
                                 },
 
                         ],
