@@ -590,6 +590,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=bOHhdia7wSc",
+					"percent": 100,
+					"hz": "270hz"
+				},
+				{
 					"user": "XanPlayzGamez",
 					"link": "https://www.youtube.com/watch?v=Au-pIp2z230",
 					"percent": 100,
@@ -604,6 +610,8 @@ const d = {
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/708VHDpYJGo",
 			"key": 17
+		
+	           		
 		},
 		/*=================================================================================*/
 		{
@@ -728,6 +736,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=Pn_OeOB7-u8",
+					"percent": 100,
+					"hz": "280hz"
+				},
+				{
 					"user": "Soda",
 					"link": "https://youtu.be/u4ZAb6xUbT0",
 					"percent": 100,
@@ -758,6 +772,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=l0JOnlifnsg",
+					"percent": 100,
+					"hz": "240hz"
+				},
 				{
     "user": "Amedxx2y",
     "link": "https://youtu.be/t8yDWgktw20",
@@ -862,6 +882,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=7txLvxG1y5E&lc=UgxX_OXAgeBbkE2VqbJ4AaABAg",
+					"percent": 100,
+					"hz": "240hz"
+				},
 				{
 					"user": "Soda",
 					"link": "https://www.youtube.com/watch?v=4sJ_70nnPOc&feature=youtu.be",
@@ -985,6 +1011,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=c8lLnBVJg1g&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=26",
+					"percent": 100,
+					"hz": "240hz"
+				},
 				{
 					"user": "rVlaash",
 					"link": "https://youtu.be/WblsmOFsrlc",
@@ -1342,6 +1374,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=K0L21LKiukc",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
     "user": "Amedxx2y",
     "link": "https://youtu.be/iaYyMPBbIiE",
     "percent": 100,
@@ -1487,6 +1525,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=6Y9PDKwLzXM",
+					"percent": 100,
+					"hz": "240hz"
+				},
 				{
     "user": "Amedxx2y",
     "link": "https://youtu.be/OevB71R5Ow0",
