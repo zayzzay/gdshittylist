@@ -1177,6 +1177,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Aassbll",
+					"link": "https://www.youtube.com/watch?v=mDie98ouoPM&t=3s",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
 					"user": "Amedxx2y",
                                         "link": "https://youtu.be/dOTO17afdcI",
 					"percent": 100,
@@ -1985,6 +1991,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Aassbll",
+					"link": "https://www.youtube.com/watch?v=wwDpiz1PPlg",
+					"percent": 100,
+					"hz": "240hz"
+				},
 				{
 					"user": "Soda",
 					"link": "https://youtu.be/EzdPkO6xXKI",
