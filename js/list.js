@@ -623,13 +623,11 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-    "user": "Amedxx2y",
-    "link": "https://youtu.be/xLo_AuI9kYQ",
-    "percent": 100,
-    "hz": "mobile"
-},
-
-				
+                                        "user": "Amedxx2y",
+                                        "link": "https://youtu.be/xLo_AuI9kYQ",
+                                        "percent": 100,
+                                        "hz": "Mobile"
+                                },
 				{
 					"user": "Redjohnboy",
 					"link": "https://youtu.be/KEYg2jEXAGE",
@@ -680,15 +678,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-{
-    "user": "Amedxx2y",
-    "link": "https://youtu.be/HUmYrV8rroM",
-    "percent": 100,
-    "hz": "mobile"
-},
-
-
-                                
+                                {
+                                         "user": "Amedxx2y",
+                                         "link": "https://youtu.be/HUmYrV8rroM",
+                                         "percent": 100,
+                                         "hz": "Mobile"
+                                },
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://www.youtube.com/watch?v=q-Vfoemsmas",
@@ -779,11 +774,11 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-    "user": "Amedxx2y",
-    "link": "https://youtu.be/t8yDWgktw20",
-    "percent": 100,
-    "hz": "mobile"
-},
+                                        "user": "Amedxx2y",
+                                        "link": "https://youtu.be/t8yDWgktw20",
+                                        "percent": 100,
+                                        "hz": "mobile"
+                                },
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://youtu.be/UOK0tKqsxKU",
@@ -822,11 +817,11 @@ const d = {
 		{
 			"vids": [
 				{
-    "user": "Amedxx2y",
-    "link": "https://youtu.be/IZRMNG4PRxE",
-    "percent": 100,
-    "hz": "mobile"
-},
+                                        "user": "Amedxx2y",
+                                        "link": "https://youtu.be/IZRMNG4PRxE",
+                                        "percent": 100,
+                                        "hz": "Mobile"
+                                },
 				{
 					"user": "rVlaash",
 					"link": "https://youtu.be/OqxLgOTQ9cs",
@@ -1122,7 +1117,7 @@ const d = {
 				},
 				{
 					"user": "Vaxer",
-					"link": "https://m.youtube.com/watch?v=uf1UUyeEh6c",
+					"link": "https://www.youtube.com/watch?v=uf1UUyeEh6c",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -1299,7 +1294,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "Redjohnboy",
+					"user": "redjohnboy",
 					"link": "https://youtu.be/QyJ0FlIm9u8",
 					"percent": 100,
 					"hz": "165hz"
