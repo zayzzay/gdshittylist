@@ -2581,10 +2581,10 @@ const d = {
 			
 
 			],
-			"name": "test",
-			"author": "tester",
+			"name": "Shitty Test",
+			"author": "Tester69",
 			"more": "none",
-			"id": 13372286,
+			"id": 61583215,
 			"pass": "000000",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=SG-STCb-UTU",
