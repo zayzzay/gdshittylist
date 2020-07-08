@@ -407,7 +407,7 @@ const d = {
 					"hz": "280hz"
 				},
 				{
-					"user": "Kr_flame",
+					"user": "Kr_Flame",
 					"link": "https://youtu.be/cRbLlrEjdg4",
 					"percent": 100,
 					"hz": "240hz"
