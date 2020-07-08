@@ -508,22 +508,22 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-			        {
-                                        "user": "Fhyron06",
-                                        "link": "https://www.youtube.com/watch?v=5l-o3QcJvPo",
-                                        "percent": 100,
-                                        "hz": "240hz"
-                                },
 				{
-                                        "user": "PriUsGD",
-                                        "link": "https://youtu.be/Gl7w8A7jI3M",
-                                        "percent": 100,
-                                        "hz": "144hz"
-                                },
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=5l-o3QcJvPo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "PriUsGD",
+					"link": "https://youtu.be/Gl7w8A7jI3M",
+					"percent": 100,
+					"hz": "144hz"
+				},
 				{
 					"user": "Amedxx2y",
 					"link": "https://youtu.be/MVEP-lEM6vk",
-					"percent": 68,
+					"percent": 100,
 					"hz": "Mobile"
 				},
                         ],
@@ -797,7 +797,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Redjohnboy",
+					"user": "redjohnboy",
 					"link": "https://youtu.be/PMiC5MZtUp4",
 					"percent": 100,
 					"hz": "165hz"
@@ -913,7 +913,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Redjohnboy",
+					"user": "redjohnboy",
 					"link": "https://youtu.be/Ew6z6afETG8",
 					"percent": 100,
 					"hz": "165hz"
@@ -981,7 +981,7 @@ const d = {
 				},
 				{
 					"user": "iRaily",
-					"link": "https://youtu.be/z53uUl25Zr0",
+					"link": "https://www.youtube.com/watch?v=dZcFc7FLkxk&t=11s",
 					"percent": 100,
 					"hz": "144hz"
 				},
