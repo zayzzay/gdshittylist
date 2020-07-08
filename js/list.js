@@ -1301,13 +1301,13 @@ const d = {
 				},
 				{
 					"user": "PriUsGD",
-					"link": "https://youtu.be/94ggU_s-gDo",
+					"link": "https://youtu.be/wJ_SVo8RKz4",
 					"percent": 100,
 					"hz": "144hz"
 				},
 				{
 					"user": "GdWaaab",
-					"link": "https://youtu.be/FhVhrTFWnK8",
+					"link": "https://youtu.be/94ggU_s-gDo",
 					"percent": 74,
 					"hz": "Mobile"
 				},
@@ -1331,13 +1331,11 @@ const d = {
 		{
 			"vids": [
 				{
-    "user": "Amedxx2y",
-    "link": "https://youtu.be/MazleInGC7Y",
-    "percent": 100,
-    "hz": "mobile"
-},
-				
-				
+                                        "user": "Amedxx2y",
+                                        "link": "https://youtu.be/MazleInGC7Y",
+                                        "percent": 100,
+                                        "hz": "mobile"
+                                },
 			],
 			"name": "Shitty Matilda The Machine",
 			"author": "XanPlayzGamez and Serpyy [XanPlayzGamez]",
@@ -1429,11 +1427,11 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-    "user": "Amedxx2y",
-    "link": "https://youtu.be/iaYyMPBbIiE",
-    "percent": 100,
-    "hz": "mobile"
-},
+                                       "user": "Amedxx2y",
+                                       "link": "https://youtu.be/iaYyMPBbIiE",
+                                       "percent": 100,
+                                       "hz": "Mobile"
+                                },
 				{
 					"user": "Vink",
 					"link": "https://youtu.be/9DwE0aH5iY4",
@@ -1483,12 +1481,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-					{
-    "user": "Amedxx2y",
-    "link": "https://youtu.be/a5mC11bnHLk",
-    "percent": 100,
-    "hz": "mobile"
-},
+				{
+                                        "user": "Amedxx2y",
+                                        "link": "https://youtu.be/a5mC11bnHLk",
+                                        "percent": 100,
+                                        "hz": "mobile"
+                                },
 				{
 					"user": "rVlaash",
 					"link": "https://youtu.be/8L-Na4J4K10",
@@ -1593,11 +1591,11 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-    "user": "Amedxx2y",
-    "link": "https://youtu.be/OevB71R5Ow0",
-    "percent": 100,
-    "hz": "mobile"
-},
+                                        "user": "Amedxx2y",
+                                        "link": "https://youtu.be/OevB71R5Ow0",
+                                        "percent": 100,
+                                        "hz": "Mobile"
+                                },
 				{
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=JlR3k9QUFaE",
@@ -1809,23 +1807,23 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-    "user": "Amedxx2y",
-    "link": "https://youtu.be/eQtUBjtDogY",
-    "percent": 100,
-    "hz": "mobile"
-},
-					{
-					"user": "Whiliams8080",
+                                        "user": "Amedxx2y",
+                                        "link": "https://youtu.be/eQtUBjtDogY",
+                                        "percent": 100,
+                                        "hz": "Mobile"
+                                },
+			        {
+				        "user": "Whiliams8080",
 					"link": "https://www.youtube.com/watch?v=jUs2PRbtB88",
 					"percent": 100,
 					"hz": "120hz"
-				},
-				{
-					"user": "XanPlayzGamez",
+			        },
+			        {
+				        "user": "XanPlayzGamez",
 					"link": "https://youtu.be/w_UJ-IkSqhY",
 					"percent": 100,
 					"hz": "120hz"
-				},
+			        },
 				{
 					"user": "rVlaash",
 					"link": "https://www.youtube.com/watch?v=uTTagDEZSHk",
@@ -1937,11 +1935,11 @@ const d = {
 		{
 			"vids": [
 				{
-    "user": "Amedxx2y",
-    "link": "https://youtu.be/rc2yxlVzHX4",
-    "percent": 100,
-    "hz": "mobile"
-},
+                                        "user": "Amedxx2y",
+                                        "link": "https://youtu.be/rc2yxlVzHX4",
+                                        "percent": 100,
+                                        "hz": "Mobile"
+                                },
 				{
 					"user": "Roke556",
 					"link": "https://www.youtube.com/watch?v=CrutPAWjQLo",
@@ -2058,7 +2056,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "monstergamer546"
+					"user": "monster546",
 					"link": "https://youtu.be/F4oVDGJtpz0",
 					"percent": 100,
 					"hz": "Mobile"
