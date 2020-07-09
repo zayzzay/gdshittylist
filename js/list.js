@@ -374,6 +374,12 @@ const d = {
 					"percent": 80,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=_rP3WjgIo3Y",
+					"percent": 100,
+					"hz": "300hz"
+				},
 				
 			],
 			"name": "Shitty Catharsis",
@@ -1353,6 +1359,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=mmWJmuCcOsk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -1606,6 +1618,12 @@ const d = {
 					"link": "https://youtu.be/SgC6EfRBWOo",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=iAFRR8c0PY0",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -1908,6 +1926,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=D7leo4_EvPg",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -2035,6 +2059,12 @@ const d = {
 					"link": "https://youtu.be/W2bq3jgtw3A",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=ZqzyJCUi3iM",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Dolos",
