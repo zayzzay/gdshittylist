@@ -1181,6 +1181,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "iRaily"
+					"link": "https://www.youtube.com/watch?v=1nLhKkpWy4s"
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
