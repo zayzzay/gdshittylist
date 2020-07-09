@@ -132,6 +132,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "Xanii",
+					"link": "https://www.mediafire.com/file/3128yhf81tgxng8/mm.mp4/file",
+					"percent": 100,
+					"hz": "360hz"
+				},
+				{
 					"user": "Vink",
 					"link": "https://youtu.be/38vzRQIEE-w",
 					"percent": 55,
