@@ -63,6 +63,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "Xanii",
+					"link": "https://youtu.be/xIPlv1AKzB8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -112,6 +118,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=MXbEZ3iIeis",
 					"percent": 100,
 					"hz": "280hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/x6j3jM6oi-U",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Madmansion",
