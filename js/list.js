@@ -1460,7 +1460,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Fhyron06",
+					"link": "https://youtu.be/xGl72IQKGPM",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cadrega City",
 			"author": "Megum",
@@ -2335,6 +2340,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://youtu.be/VX9-Im9KJtg",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
@@ -2532,6 +2543,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=qHRO5WU2n6M",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://youtu.be/eqsVD2-AcVg",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Esencia",
