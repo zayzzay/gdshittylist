@@ -1182,8 +1182,8 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "iRaily"
-					"link": "https://www.youtube.com/watch?v=1nLhKkpWy4s"
+					"user": "iRaily",
+					"link": "https://www.youtube.com/watch?v=1nLhKkpWy4s",
 					"percent": 100,
 					"hz": "Mobile"
 				},
