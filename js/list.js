@@ -1873,8 +1873,8 @@ const d = {
 			"vids": [
 				{
 					"user": "GdWaaab",
-					"link": "https://youtu.be/TuaozU8AkPw",
-					"percent": 60,
+					"link": "https://youtu.be/c-8rDf08_Gc",
+					"percent": 83,
 					"hz": "Mobile"
 				},
 				{
