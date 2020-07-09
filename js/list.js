@@ -2404,6 +2404,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://youtu.be/BevJA_JUH6w",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
