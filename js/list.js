@@ -980,6 +980,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/TCuYG7pIs08",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Calculator Core",
 			"author": "oSpace and more [oSpace]",
