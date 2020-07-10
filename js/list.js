@@ -749,6 +749,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=Df_u7fcMdto&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=39",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zettabyte",
 			"author": "Serpyy",
