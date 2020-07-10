@@ -2543,7 +2543,7 @@ const d = {
 				},
 				{
 					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=OFXGwLRCsfo",
+					"link": "https://www.youtube.com/watch?v=OFXGwLRCsfo&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=46",
 					"percent": 100,
 					"hz": "240hz"
 				},
