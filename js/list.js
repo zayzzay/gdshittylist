@@ -1704,9 +1704,9 @@ const d = {
 				},
 				{
 					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=iAFRR8c0PY0",
+					"link": "https://youtu.be/Dyr_okpi9eI",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Celestial Force",
