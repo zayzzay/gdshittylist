@@ -291,6 +291,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/EkcBDA4zcXU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Erebus",
 			"author": "LJosh",
