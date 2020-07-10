@@ -2507,6 +2507,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Frigus",
+					"link": "https://www.youtube.com/watch?v=m4FgrWAbJl0",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
