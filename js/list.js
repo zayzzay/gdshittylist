@@ -297,6 +297,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Xanii",
+					"link": "https://www.mediafire.com/file/yfswh8t0f3q9943/a.mp4/file",
+					"percent": 100,
+					"hz": "360hz"
+				},
 			],
 			"name": "Shitty Erebus",
 			"author": "LJosh",
@@ -346,6 +352,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=db6l9E6ZPEY",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Chojang",
+					"link": "https://youtu.be/FXeIm0gI3ok",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Sunset Sandstorm",
@@ -525,6 +537,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=VL4JsbsSuek",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
@@ -579,6 +597,12 @@ const d = {
 					"link": "https://youtu.be/MVEP-lEM6vk",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "redjohnboy",
+					"link": "https://www.youtube.com/watch?v=c0DME4WJwkI",
+					"percent": 100,
+					"hz": "165hz"
 				},
                         ],
 			"name": "Shitty WOW",
@@ -683,7 +707,7 @@ const d = {
                                         "hz": "Mobile"
                                 },
 				{
-					"user": "Redjohnboy",
+					"user": "redjohnboy",
 					"link": "https://youtu.be/KEYg2jEXAGE",
 					"percent": 100,
 					"hz": "165hz"
@@ -693,6 +717,12 @@ const d = {
 					"link": "https://youtu.be/S68LjA4LTwI`",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=ywbmmsfvP3g",
+					"percent": 100,
+					"hz": "150hz"
 				},
 			],
 			"name": "Shitty Step To Hell",
@@ -913,7 +943,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Redjohnboy",
+					"user": "redjohnboy",
 					"link": "https://youtu.be/8-C1g8dOxQ8",
 					"percent": 100,
 					"hz": "165hz"
@@ -923,6 +953,12 @@ const d = {
 					"link": "https://youtu.be/DQd4xvGYXYw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=8XYhcvWLFEg&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=40",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Ragnarok",
@@ -1742,7 +1778,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=I8Xo3JL8fjs",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -2162,6 +2203,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=yrUjbDpVqN4&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=38",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -2476,6 +2523,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "md1159",
+					"link": "https://www.youtube.com/watch?v=mM_lWFYco7o",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Anoxysm",
 			"author": "Serpyy",
@@ -2688,6 +2741,12 @@ const d = {
                                         "link": "https://youtu.be/sMCwOGl1kfs",
                                         "percent": 100,
                                         "hz": "Mobile"
+                                },
+				{
+                                        "user": "Fhyron06",
+                                        "link": "https://www.youtube.com/watch?v=ian0tQvmEjs",
+                                        "percent": 100,
+                                        "hz": "240hz"
                                 },
 
                         ],
