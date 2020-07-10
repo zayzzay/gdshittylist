@@ -139,8 +139,8 @@ const d = {
 				},
 				{
 					"user": "Vink",
-					"link": "https://youtu.be/38vzRQIEE-w",
-					"percent": 55,
+					"link": "https://youtu.be/xwoEd3nJ5lo",
+					"percent": 100,
 					"hz": "120hz"
 				},
 			],
