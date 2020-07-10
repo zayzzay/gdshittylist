@@ -2578,6 +2578,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "HdLink13",
+					"link": "https://youtu.be/O14ROgcU6oE",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
