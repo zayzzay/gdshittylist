@@ -322,6 +322,12 @@ const d = {
 					"percent": 100,
 					"hz": "280hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/UvHv46sOzI4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "LJosh",
@@ -383,6 +389,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=LXt7tDezbfE",
 					"percent": 100,
 					"hz": "280hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/EXpkCJAOVJg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 
 			],
