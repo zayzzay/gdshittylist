@@ -654,6 +654,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=y8iGDQBObIA",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
