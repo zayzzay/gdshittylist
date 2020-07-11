@@ -2184,7 +2184,7 @@ const d = {
 					"user": "Fhyron06",
 					"link": "https://www.youtube.com/watch?v=ZqzyJCUi3iM",
 					"percent": 100,
-					"hz": "300hz"
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Dolos",
