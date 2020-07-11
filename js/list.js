@@ -587,7 +587,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "UsrailGD",
+					"user": "iRaily",
 					"link": "https://youtu.be/zPaTlPPZXwA",
 					"percent": 100,
 					"hz": "144hz"
@@ -1017,7 +1017,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "UsrailGD",
+					"user": "iRaily",
 					"link": "https://youtu.be/rFuwwGL6CK8",
 					"percent": 100,
 					"hz": "144hz"
@@ -1119,12 +1119,6 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=tymWxxumiVk",
 					"percent": 100,
 					"hz": "200hz"
-				},
-				{
-					"user": "UsrailGD",
-					"link": "https://youtu.be/dZcFc7FLkxk",
-					"percent": 100,
-					"hz": "144hz"
 				},
 				{
 					"user": "AcropolisBoy",
@@ -1256,12 +1250,6 @@ const d = {
 
 				},
 				{
-					"user": "UsrailGD",
-					"link": "https://youtu.be/gavAklsY_Cs",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
 					"user": "amedxx2y",
 					"link": "https://youtu.be/jKpRSrVnlyc",
 					"percent": 100,
@@ -1359,7 +1347,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "UsrailGD",
+					"user": "iRaily",
 					"link": "https://youtu.be/tAiyDE-EZbk",
 					"percent": 100,
 					"hz": "144hz"
@@ -1582,7 +1570,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "UsrailGD",
+					"user": "iRaily",
 					"link": "https://youtu.be/pA4EF1Yvs8E",
 					"percent": 100,
 					"hz": "144hz"
@@ -1729,7 +1717,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "UsrailGD",
+					"user": "iRaily",
 					"link": "https://youtu.be/F3J7eyyaXXo",
 					"percent": 100,
 					"hz": "144hz"
@@ -2132,7 +2120,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "UsrailGD",
+					"user": "iRaily",
 					"link": "https://youtu.be/VRRc2D2Bk0I",
 					"percent": 100,
 					"hz": "144hz"
@@ -2199,7 +2187,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "UsrailGD",
+					"user": "iRaily",
 					"link": "https://youtu.be/PUEgBQjAvEE",
 					"percent": 100,
 					"hz": "144hz"
@@ -2419,7 +2407,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "UsrailGD",
+					"user": "iRaily",
 					"link": "https://youtu.be/Av3cZlMdgZg",
 					"percent": 100,
 					"hz": "144hz"
@@ -2492,7 +2480,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "UsrailGD",
+					"user": "iRaily",
 					"link": "https://youtu.be/x-RrmyNM-Jc",
 					"percent": 100,
 					"hz": "Mobile"
@@ -2626,12 +2614,6 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=FWYFZfiJQ84&feature=youtu.be",
 					"percent": 100,
 					"hz": "Mobile"
-				},
-				{
-					"user": "md1159",
-					"link": "https://www.youtube.com/watch?v=mM_lWFYco7o",
-					"percent": 100,
-					"hz": "60hz"
 				},
 				{
 					"user": "Fhyron06",
