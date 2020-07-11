@@ -365,6 +365,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "PriUsGD",
+					"link": "https://youtu.be/FCDHwEHOgls",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sunset Sandstorm",
 			"author": "LJosh",
@@ -616,6 +622,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "Aassbll",
+					"link": "https://www.youtube.com/watch?v=p-Ek6R-MTtk",
+					"percent": 81,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty WOW",
 			"author": "oSpace [LJosh]",
@@ -843,6 +855,24 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1jUbZWVqn-Q",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/mW8g2QNZllk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=VVrOqsbs-2U",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Aassbll",
+					"link": "https://youtu.be/iYimiJf5eZQ",
+					"percent": 100,
+					"hz": "240hz"
 				},
 				{
 					"user": "AcropolisBoy",
@@ -1376,6 +1406,12 @@ const d = {
 					"percent": 72,
 					"hz": "Mobile"
 				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/K1DCmMw8oGc",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
@@ -1459,8 +1495,8 @@ const d = {
 				},
 				{
 					"user": "GdWaaab",
-					"link": "https://youtu.be/94ggU_s-gDo",
-					"percent": 74,
+					"link": "https://youtu.be/WAzd0hI3_do",
+					"percent": 96,
 					"hz": "Mobile"
 				},
 				{
@@ -1745,6 +1781,12 @@ const d = {
 					"link": "https://youtu.be/Dyr_okpi9eI",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/7gTpPbClcx8",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -2192,6 +2234,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/AxktHwJNsMo",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -2258,6 +2306,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=yrUjbDpVqN4&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=38",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/oHEifXBUIr4",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
