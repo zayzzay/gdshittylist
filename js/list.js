@@ -453,6 +453,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/tGV5_z4XRx8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 				
 			],
 			"name": "Shitty Catharsis",
