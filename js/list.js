@@ -709,6 +709,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=IiFqHmP1pa0&t=2s",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "GDTeaBag",
+					"link": "https://youtu.be/1Y1T2UdSCEY?t=1478",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -937,6 +949,12 @@ const d = {
 					"percent": 64,
 					"hz": "60hz"
 				},
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=OBH8lMkFbsY",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -999,6 +1017,18 @@ const d = {
 					"link": "https://youtu.be/20e3I-zjmLE",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=oXiRhT35zFU",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "GDTeaBag",
+					"link": "https://youtu.be/1Y1T2UdSCEY?t=713",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Tartarus",
@@ -1675,6 +1705,12 @@ const d = {
 					"link": "https://youtu.be/FIGIkVwuH8g",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=Pk5FkBDoT3M",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Glacial Core",
@@ -3031,6 +3067,18 @@ const d = {
                                         "link": "https://youtu.be/JXqpT6V5ZA0",
                                         "percent": 100,
                                         "hz": "144hz"
+                                },
+				{
+                                        "user": "GDTeaBag",
+                                        "link": "https://youtu.be/x_twWtlkzvA?t=2364",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
+				{
+                                        "user": "PotatoManPlays",
+                                        "link": "https://youtu.be/DYNm93S7SL0",
+                                        "percent": 100,
+                                        "hz": "60hz"
                                 },
 			],
 			"name": "Shitty Xo Circles",
