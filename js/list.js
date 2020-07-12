@@ -1024,7 +1024,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/XzxjsZlUU84",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Hyper Paracosm",
 			"author": "DigestedCitrus [Deimoz]",
