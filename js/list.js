@@ -2575,6 +2575,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/qLvxTjKJqaU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
