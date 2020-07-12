@@ -3,6 +3,20 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				
+			],
+			"name": "Shitty Infected Caverns",
+			"author": "LJosh",
+			"more": "none",
+			"id": 61748947,
+			"pass": "00011",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=hDFbSOlMUvE",
+			"key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://www.youtube.com/watch?v=yMOeeOUUOxg",
@@ -77,7 +91,44 @@ const d = {
 			"pass": "000009",
 			"percentToQualify": 56,
 			"verificationVid": "https://www.youtube.com/watch?v=-Zw0JVGLRlw",
-			"key": 0
+			"key": 1
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=f3eqo3n4qtM",
+					"percent": 100,
+					"hz": "280hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/ToIHi7iDIRs",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/EkcBDA4zcXU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Xanii",
+					"link": "https://www.mediafire.com/file/yfswh8t0f3q9943/a.mp4/file",
+					"percent": 100,
+					"hz": "360hz"
+				},
+			],
+			"name": "Shitty Erebus",
+			"author": "LJosh",
+			"more": "none",
+			"id": 59560393,
+			"pass": "000010",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=UBmcMgL0Pdg",
+			"key": 2
 		},
 		/*=================================================================================*/
 		{
@@ -114,22 +165,7 @@ const d = {
 			"pass": "666666",
 			"percentToQualify": 46,
 			"verificationVid": "https://www.youtube.com/watch?v=gvkoieLhRLo",
-			"key": 1
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Infected Caverns",
-			"author": "LJosh",
-			"more": "none",
-			"id": 61748947,
-			"pass": "00011",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=hDFbSOlMUvE",
-			"key": 2
-			
+			"key": 3
 		},
 		/*=================================================================================*/
 		{
@@ -166,7 +202,7 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=x89Bj43uEDU",
-			"key": 3
+			"key": 4
 		},
 		/*=================================================================================*/
 		{
@@ -215,7 +251,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/6mBUCC8dlCY",
-			"key": 4
+			"key": 5
 		},
 		/*=================================================================================*/
 		{
@@ -258,7 +294,7 @@ const d = {
 			"pass": "0005",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=oFUBGkctzR0",
-			"key": 5
+			"key": 6
 		},
 		/*=================================================================================*/
 		{
@@ -289,43 +325,6 @@ const d = {
 			"pass": "0002",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=rWcLT30sVj0",
-			"key": 6
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=f3eqo3n4qtM",
-					"percent": 100,
-					"hz": "280hz"
-				},
-				{
-					"user": "zMarc",
-					"link": "https://youtu.be/ToIHi7iDIRs",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/EkcBDA4zcXU",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Xanii",
-					"link": "https://www.mediafire.com/file/yfswh8t0f3q9943/a.mp4/file",
-					"percent": 100,
-					"hz": "360hz"
-				},
-			],
-			"name": "Shitty Erebus",
-			"author": "LJosh",
-			"more": "none",
-			"id": 59560393,
-			"pass": "000010",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=UBmcMgL0Pdg",
 			"key": 7
 		},
 		/*=================================================================================*/
