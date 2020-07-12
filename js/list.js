@@ -701,7 +701,7 @@ const d = {
 					"user": "Fhyron06",
 					"link": "https://www.youtube.com/watch?v=MIVb4GDO8pI",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Tapwreck",
@@ -2929,6 +2929,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
                                 },
+				{
+                                        "user": "Pisop",
+                                        "link": "https://youtu.be/mArriMNCVVk",
+                                        "percent": 72,
+                                        "hz": "Mobile"
+                                },
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -2965,6 +2971,18 @@ const d = {
                                         "link": "https://youtu.be/KI76aZQQZ7E",
                                         "percent": 100,
                                         "hz": "75hz"
+                                },
+				{
+                                        "user": "HdLink13",
+                                        "link": "https://youtu.be/LvZJ7Y0aygI",
+                                        "percent": 100,
+                                        "hz": "60hz"
+                                },
+				{
+                                        "user": "justiceguy",
+                                        "link": "https://www.youtube.com/watch?v=cQQ8N3vt5IM",
+                                        "percent": 100,
+                                        "hz": "60hz"
                                 },
 			],
 			"name": "Shitty Xo Circles",
