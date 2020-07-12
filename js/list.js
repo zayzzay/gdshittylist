@@ -390,6 +390,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/vSG9BVOndYk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sunset Sandstorm",
 			"author": "LJosh",
@@ -1386,6 +1392,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "justiceguy",
+					"link": "https://youtu.be/jUDCR2WixQk",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -1858,6 +1870,12 @@ const d = {
 					"link": "https://youtu.be/7gTpPbClcx8",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "justiceguy",
+					"link": "https://www.youtube.com/watch?v=RfY0iSnK-co",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -2384,6 +2402,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "justiceguy",
+					"link": "https://www.youtube.com/watch?v=Ep5coVf5QB8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -2753,6 +2777,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=Kh3UbxWuLmQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
@@ -2983,6 +3013,18 @@ const d = {
                                         "link": "https://www.youtube.com/watch?v=cQQ8N3vt5IM",
                                         "percent": 100,
                                         "hz": "60hz"
+                                },
+				{
+                                        "user": "SaTang",
+                                        "link": "https://youtu.be/mbvdVUIf7e4",
+                                        "percent": 100,
+                                        "hz": "60hz"
+                                },
+				{
+                                        "user": "FallenAresse",
+                                        "link": "https://youtu.be/BrQ59xNfFL4",
+                                        "percent": 100,
+                                        "hz": "240hz"
                                 },
 			],
 			"name": "Shitty Xo Circles",
