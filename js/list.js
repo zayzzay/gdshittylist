@@ -880,6 +880,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=SwZk3N-xCko",
+					"percent": 100,
+					"hz": "240hz"
+				},
 				
 			],
 			"name": "Shitty Innards",
@@ -981,6 +987,12 @@ const d = {
 					"link": "https://youtu.be/mO59qZitpGA",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/20e3I-zjmLE",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Tartarus",
@@ -2941,6 +2953,18 @@ const d = {
                                         "link": "https://youtu.be/aVBLi9HEVuk",
                                         "percent": 100,
                                         "hz": "240hz"
+                                },
+				{
+                                        "user": "Fhyron06",
+                                        "link": "https://www.youtube.com/watch?v=SjbnUb-4Tvs",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
+				{
+                                        "user": "Soda",
+                                        "link": "https://youtu.be/KI76aZQQZ7E",
+                                        "percent": 100,
+                                        "hz": "75hz"
                                 },
 			],
 			"name": "Shitty Xo Circles",
