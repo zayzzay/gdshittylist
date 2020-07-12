@@ -3,7 +3,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/bZ38Bk_mev8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Infected Caverns",
 			"author": "LJosh",
