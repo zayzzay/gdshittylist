@@ -690,6 +690,12 @@ const d = {
 					"percent": 100,
 					"hz": "280hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/zwC3CZoTm8M",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
