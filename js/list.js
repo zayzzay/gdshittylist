@@ -2320,6 +2320,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=NStsNppY_OY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Concaved Memories",
 			"author": "oSpace",
