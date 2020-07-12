@@ -2913,6 +2913,20 @@ const d = {
 			"key": 63
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+			
+			],
+			"name": "Shitty Xo Circles",
+			"author": "AcropolisBoy",
+			"more": "none",
+			"id": 60160311,
+			"pass": "Free to copy",
+			"percentToQualify": 61,
+			"verificationVid": "https://www.youtube.com/watch?v=qo9v8DgztNA",
+			"key": 64
+		},
+		/*=================================================================================*/
 		
 	],
 	"version": [
