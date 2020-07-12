@@ -1384,7 +1384,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "MineloGD",
+					"user": "rMinelo",
 					"link": "https://youtu.be/JxW4bYlV6l8",
 					"percent": 100,
 					"hz": "60hz"
@@ -2529,7 +2529,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "MineloGD",
+					"user": "rMinelo",
 					"link": "https://www.youtube.com/watch?v=TYRQHHUbNX8",
 					"percent": 100,
 					"hz": "60hz"
