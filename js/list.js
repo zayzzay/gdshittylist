@@ -2067,7 +2067,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Serpyy",
+					"user": "Soda",
 					"link": "https://www.youtube.com/watch?v=dPR4li-aO0g",
 					"percent": 100,
 					"hz": "75hz"
