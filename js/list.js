@@ -691,7 +691,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/gw0esWl_xJs",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=MIVb4GDO8pI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -965,7 +976,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Aassbll",
+					"link": "https://youtu.be/mO59qZitpGA",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Tartarus",
 			"author": "AcropolisBoy [Darkys]",
@@ -2901,7 +2917,6 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
                                 },
-
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -2915,7 +2930,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-			
+				{
+                                        "user": "iRaily",
+                                        "link": "https://youtu.be/7MQ-JWMmlnM",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
+				{
+                                        "user": "Aassbll",
+                                        "link": "https://youtu.be/aVBLi9HEVuk",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
