@@ -1878,6 +1878,12 @@ const d = {
 		{
 			"vids": [
 				{
+                                      "user": "Amedxx2y",
+                                      "link": "https://youtu.be/FOtOgWNbR5M",
+                                      "percent": 100,
+                                      "hz": "mobile"
+                                },
+				{
 					"user": "iRaily",
 					"link": "https://youtu.be/_z9PRYNzC3o",
 					"percent": 100,
@@ -2499,6 +2505,12 @@ const d = {
 		{
 			"vids": [
 				{
+                                      "user": "Amedxx2y",
+                                      "link": "https://youtu.be/hNa_IZi3APc",
+                                      "percent": 100,
+                                      "hz": "mobile"
+                                },
+				{
 					"user": "Soda",
 					"link": "https://youtu.be/vMDsbpYj_C8",
 					"percent": 100,
@@ -2529,6 +2541,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+                                      "user": "Amedxx2y",
+                                      "link": "https://youtu.be/UST1c83h7ZA",
+                                      "percent": 100,
+                                      "hz": "mobile"
+                                },
 				{
 					"user": "TheRealSiel07",
 					"link": "https://youtu.be/7SAawxqxzKM",
@@ -2811,6 +2829,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "amedxx2y",
+					"link": "https://youtu.be/YLuPNx5xL3s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			
 			],
 			"name": "Shitty xo",
