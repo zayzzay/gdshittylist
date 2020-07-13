@@ -2405,7 +2405,6 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-			
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
