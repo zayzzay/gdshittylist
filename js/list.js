@@ -1400,7 +1400,7 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-				
+				{
 					"user": "Fhyron06",
 					"link": "https://www.youtube.com/watch?v=gkvLFHDEZk4",
 					"percent": 100,
