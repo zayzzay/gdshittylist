@@ -2128,7 +2128,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/qyuNGE711Tk",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
