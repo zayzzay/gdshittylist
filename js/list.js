@@ -2399,7 +2399,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/vMDsbpYj_C8",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "monstergamer456",
+					"link": "https://youtu.be/-D3mTcGYbOI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
@@ -2430,6 +2441,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=PAkbrlaDjtU&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "azizRCL",
+					"link": "https://www.youtube.com/watch?v=jFev-_SsVCg",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Zodiac",
@@ -2714,7 +2731,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/yTuRCZuVOfA",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "HdLink13",
+					"link": "https://youtu.be/DCd8TcM6MPE",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
@@ -2967,7 +2995,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-			
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/yKw4uOXHXl0",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
