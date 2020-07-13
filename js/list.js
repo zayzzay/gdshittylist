@@ -934,7 +934,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
-				
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/e6X7phy3yuY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Innards",
 			"author": "Keleru",
