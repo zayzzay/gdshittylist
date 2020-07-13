@@ -1302,7 +1302,6 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
-			
 			],
 			"name": "Shitty UltraSans",
 			"author": "GDStarStorm and more [LJosh]",
