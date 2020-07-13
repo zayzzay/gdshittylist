@@ -2320,15 +2320,15 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
-	          	],
-		        "name": "Shitty Zodiac",
-			"author": "oSpace and more",
+			
+			],
+			"name": "Shitty Zodiac",
+			"author": "oSpace",
 			"more": "none",
 			"id": 53858796,
 			"pass": "Free to copy",
-			"percentToQualify": 56,
-			"verificationVid": "https://youtu.be/lFD9lHR562E",
+			"percentToQualify": 60,
+			"verificationVid": "https://www.youtube.com/watch?v=lFD9lHR562E",
 			"key": 54
 		},
 		/*=================================================================================*/
