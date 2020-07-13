@@ -1877,7 +1877,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-			
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/_z9PRYNzC3o",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/oMzOSbLotqI",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -2167,6 +2178,18 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/3I-vYaD0yG4",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "monstergamer546",
+					"link": "https://youtu.be/WiGydVcIpPY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -2194,7 +2217,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-			
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/BIBi_g01Y78",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Ad Aeternum",
 			"author": "Vlaash and more [rVlaash]",
@@ -2482,6 +2510,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=d5fesaV1_SI",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
@@ -2517,6 +2551,12 @@ const d = {
 					"user": "azizRCL",
 					"link": "https://www.youtube.com/watch?v=jFev-_SsVCg",
 					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "HdLink13",
+					"link": "https://youtu.be/Qkp4U8pFLvU",
+					"percent": 67,
 					"hz": "60hz"
 				},
 			],
@@ -2828,6 +2868,18 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "monstergamer546",
+					"link": "https://youtu.be/eLyMH9mzxd8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=Dog2BHuHhwY",
+					"percent": 100,
+					"hz": "240"
+				},
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
@@ -3061,7 +3113,24 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-			
+				{
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=qpIgt2C0Ma8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "azizRCL",
+					"link": "https://www.youtube.com/watch?v=zitCTwRDYvo",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/aI_UIBUNPiY",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -3525,6 +3594,12 @@ const d = {
 					"link": "https://youtu.be/scBAAvYTX6E",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "ZekronGD",
+					"link": "https://youtu.be/2jgviI1NFcg",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Xo Circles",
