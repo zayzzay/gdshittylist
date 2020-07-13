@@ -1130,7 +1130,7 @@ const d = {
 					"hz": "165hz"
 				},
 				{
-					"user": "Chojang",p
+					"user": "Chojang",
 					"link": "https://youtu.be/2XuPYTN03dk",
 					"percent": 100,
 					"hz": "Mobile"
