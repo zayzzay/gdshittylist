@@ -3033,6 +3033,20 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+			
+			],
+			"name": "Shitty Lucid Nightmares",
+			"author": "ShadowNinja441 and more [ShadowNinja441]",
+			"more": "none",
+			"id": 55566910,
+			"pass": "243759",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=YkGrbj0vucY",
+			"key": 73
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
 				{
 					"user": "md1159",
 					"link": "https://youtu.be/c0Yd4c9pRPo",
@@ -3047,7 +3061,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=CwmVzTRcfGI",
-			"key": 73
+			"key": 74
 		},
 		/*=================================================================================*/
 		{
@@ -3066,7 +3080,7 @@ const d = {
 			"pass": "101825",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=QBky9dJEi-M",
-			"key": 74
+			"key": 75
 		},
 		/*=================================================================================*/
 		{
@@ -3127,7 +3141,7 @@ const d = {
 			"pass": "135086",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=mBa4Q1PFzN4",
-			"key": 75
+			"key": 76
 		},
 		/*=================================================================================*/
 		{
@@ -3158,7 +3172,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=f8Ih6EaNugI",
-			"key": 76
+			"key": 77
 		},
 		/*=================================================================================*/
 		{
@@ -3213,7 +3227,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=s-MQYRZdPQw",
-			"key": 77
+			"key": 78
 		},
 		/*=================================================================================*/
 		{
@@ -3274,7 +3288,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=0FM56f4CdH8",
-			"key": 78
+			"key": 79
 		},
 		/*=================================================================================*/
 		{
@@ -3401,7 +3415,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6GQliYTw6hQ",
-			"key": 79
+			"key": 80
 		},
 		/*=================================================================================*/
 		{
@@ -3492,7 +3506,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=qo9v8DgztNA",
-			"key": 80
+			"key": 81
 		},
 		/*=================================================================================*/
 		
