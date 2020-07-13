@@ -2439,7 +2439,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "monstergamer456",
+					"user": "monstergamer546",
 					"link": "https://youtu.be/-D3mTcGYbOI",
 					"percent": 100,
 					"hz": "Mobile"
