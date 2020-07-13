@@ -1130,7 +1130,7 @@ const d = {
 					"hz": "165hz"
 				},
 				{
-					"user": "Chojang",
+					"user": "Chojang",p
 					"link": "https://youtu.be/2XuPYTN03dk",
 					"percent": 100,
 					"hz": "Mobile"
@@ -2322,7 +2322,7 @@ const d = {
 		{
 			"vids": [
 				
-		],
+	          	],
 		        "name": "Shitty Zodiac",
 			"author": "oSpace and more",
 			"more": "none",
@@ -2811,7 +2811,6 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-				
 			],
 			"name": "Shitty Heartbeat",
 			"author": "Serpyy",
