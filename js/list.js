@@ -2927,6 +2927,20 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+			
+			],
+			"name": "Shitty Ithacropolis",
+			"author": "Deleitor11",
+			"more": "none",
+			"id": 57700269,
+			"pass": "101825",
+			"percentToQualify": 58,
+			"verificationVid": "https://www.youtube.com/watch?v=QBky9dJEi-M",
+			"key": 69
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
 				{
 					"user": "Whiliams8080",
 					"link": "https://www.youtube.com/watch?v=aFZsevhsvvQ",
@@ -2983,7 +2997,7 @@ const d = {
 			"pass": "135086",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=mBa4Q1PFzN4",
-			"key": 69
+			"key": 70
 		},
 		/*=================================================================================*/
 		{
@@ -3014,7 +3028,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=f8Ih6EaNugI",
-			"key": 70
+			"key": 71
 		},
 		/*=================================================================================*/
 		{
@@ -3069,7 +3083,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=s-MQYRZdPQw",
-			"key": 71
+			"key": 72
 		},
 		/*=================================================================================*/
 		{
@@ -3130,7 +3144,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=0FM56f4CdH8",
-			"key": 72
+			"key": 73
 		},
 		/*=================================================================================*/
 		{
@@ -3257,7 +3271,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6GQliYTw6hQ",
-			"key": 73
+			"key": 74
 		},
 		/*=================================================================================*/
 		{
@@ -3348,7 +3362,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=qo9v8DgztNA",
-			"key": 74
+			"key": 75
 		},
 		/*=================================================================================*/
 		
