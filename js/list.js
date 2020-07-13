@@ -2057,7 +2057,7 @@ const d = {
 			"more": "none",
 			"id": 49170614,
 			"pass": "585585",
-			"percentToQualify": 57,
+			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=Sxmp93oZvy4",
 			"key": 45
 		},
