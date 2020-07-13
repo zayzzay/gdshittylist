@@ -2322,6 +2322,20 @@ const d = {
 		{
 			"vids": [
 				{
+		],
+		        "name": "Shitty Zodiac",
+			"author": "oSpace and more",
+			"more": "none",
+			"id": 53858796,
+			"pass": "Free to copy",
+			"percentToQualify": 56,
+			"verificationVid": "https://youtu.be/lFD9lHR562E",
+			"key": 55
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "rVlaash",
 					"link": "https://youtu.be/WblsmOFsrlc",
 					"percent": 100,
