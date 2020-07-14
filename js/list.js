@@ -1884,10 +1884,10 @@ const d = {
 		{
 			"vids": [
 				{
-                                      "user": "Amedxx2y",
-                                      "link": "https://youtu.be/FOtOgWNbR5M",
-                                      "percent": 100,
-                                      "hz": "mobile"
+                                       "user": "Amedxx2y",
+                                       "link": "https://youtu.be/FOtOgWNbR5M",
+                                       "percent": 100,
+                                       "hz": "Mobile"
                                 },
 				{
 					"user": "iRaily",
@@ -1900,6 +1900,12 @@ const d = {
 					"link": "https://youtu.be/oMzOSbLotqI",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "monstergamer546",
+					"link": "https://youtu.be/7-RR65b4Lbc",
+					"percent": 100,
+				        "hz": "Mobile"
 				},
 			],
 			"name": "Shitty Kenos",
