@@ -1907,7 +1907,13 @@ const d = {
 					"percent": 100,
 				        "hz": "Mobile"
 				},
-			],
+			        {
+					"user": "Lightbolts",
+					"link": "https://youtu.be/0sKePl8kpGs",
+					"percent": 100,
+				        "hz": "60hz"
+				},
+                        ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
 			"more": "none",
