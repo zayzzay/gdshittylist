@@ -2392,6 +2392,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				 {
+                                         "user": "Fhyron06",
+                                         "link": "https://www.youtube.com/watch?v=dOFUNH15v-M",
+                                         "percent": 100,
+                                         "hz": "240hz"
+                                },
 
 			],
 			"name": "Shitty Poltergeist",
@@ -2523,6 +2529,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=-vn24CnBqoA",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
                                       "user": "Amedxx2y",
                                       "link": "https://youtu.be/hNa_IZi3APc",
                                       "percent": 100,
@@ -2559,6 +2571,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=RhtQJDRShS8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 				{
                                       "user": "Amedxx2y",
                                       "link": "https://youtu.be/UST1c83h7ZA",
@@ -2899,6 +2917,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=ftLAlu6iR2s",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
 					"user": "Soda",
 					"link": "https://youtu.be/yTuRCZuVOfA",
 					"percent": 100,
@@ -3156,6 +3180,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=kdVRBcGmhhw",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
 					"user": "AcropolisBoy",
 					"link": "https://www.youtube.com/watch?v=qpIgt2C0Ma8",
 					"percent": 100,
@@ -3205,6 +3235,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=jCqe2PfUpFk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 				{
 					"user": "Soda",
 					"link": "https://youtu.be/yKw4uOXHXl0",
