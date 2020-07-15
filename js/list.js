@@ -2284,6 +2284,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/6er76pWej7Y?t=235",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -2859,6 +2865,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/6er76pWej7Y?t=363",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -3324,6 +3336,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/6er76pWej7Y?t=119",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -3385,6 +3403,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=4dtrirgNZLU&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/6er76pWej7Y",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
