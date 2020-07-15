@@ -3337,6 +3337,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=uybwDY8Tuv4",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Heartbeat",
 			"author": "Serpyy",
