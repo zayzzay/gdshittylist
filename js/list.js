@@ -9,6 +9,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=M4PVzQt9vAU",
+					"percent": 100,
+					"hz": "280hz"
+				},
 			],
 			"name": "Shitty Infected Caverns",
 			"author": "LJosh",
@@ -1695,6 +1701,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=PsryB2pqDgM&feature=youtu.be",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
@@ -1974,7 +1986,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-			
+				{
+					"user": "HdLink13",
+					"link": "https://youtu.be/eqoCsShn_jE",
+					"percent": 91,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Omnitoxin",
 			"author": "Segone",
@@ -2603,6 +2620,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=d5fesaV1_SI",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/xiWi3y9Qt48",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Vendetta",
@@ -3345,6 +3368,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "FallenAresse",
+					"link": "https://www.youtube.com/watch?v=4dtrirgNZLU&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -3491,6 +3520,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Kh3UbxWuLmQ",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "ZekronGD",
+					"link": "https://youtu.be/4VCqlJiYDcg",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty SPL",
