@@ -1567,6 +1567,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=tOI-iyJA7D0",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
 					"user": "rVlaash",
 					"link": "https://youtu.be/oMd3CqfBhvs",
 					"percent": 100,
