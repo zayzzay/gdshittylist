@@ -1962,7 +1962,7 @@ const d = {
 				},
 				{
 					"user": "GdWaaab",
-					"link": "https://youtu.be/6FA9sBA18MU",
+					"link": "https://youtu.be/69DCN5Zb9TE",
 					"percent": 100,
 					"hz": "Mobile"
 				},
