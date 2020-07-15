@@ -1954,6 +1954,12 @@ const d = {
 					"percent": 100,
 				        "hz": "60hz"
 				},
+				{
+					"user": "GdWaaab",
+					"link": "https://youtu.be/6FA9sBA18MU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -3727,6 +3733,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
                                 },
+				{
+					"user": "Kr_Flame",
+					"link": "https://youtu.be/INVA15tJ_b0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
