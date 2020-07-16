@@ -3781,6 +3781,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Plastornious",
+					"link": "https://youtu.be/mQYS1lwsqgM",
+					"percent": 58,
+					"hz": "75hz"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
