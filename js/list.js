@@ -2006,8 +2006,8 @@ const d = {
 			"vids": [
 				{
 					"user": "HdLink13",
-					"link": "https://youtu.be/eqoCsShn_jE",
-					"percent": 91,
+					"link": "https://youtu.be/odrb39-aLvA",
+					"percent": 100,
 					"hz": "60hz"
 				},
 			],
