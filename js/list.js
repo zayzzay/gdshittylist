@@ -1243,6 +1243,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "justiceguy",
+					"link": "https://www.youtube.com/watch?v=aulcw3aFh3A",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
