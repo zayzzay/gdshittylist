@@ -3884,6 +3884,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Wekil",
+					"link": "https://www.youtube.com/watch?v=mvPEiJsk93o",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
