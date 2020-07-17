@@ -299,7 +299,7 @@ const d = {
 				},
 				{
 					"user": "iRaily",
-					"link': "https://youtu.be/2Ug__m4QqYc",
+					"link': "",
 					"percent": 100,
 					"hz": "144hz"
 				},
