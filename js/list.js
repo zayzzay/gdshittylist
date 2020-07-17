@@ -297,6 +297,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "iRaily",
+					"link': "https://youtu.be/2Ug__m4QqYc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Triple Six",
 			"author": "LJosh",
