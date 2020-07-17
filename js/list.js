@@ -291,6 +291,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "1qawsz",
+					"link": "https://youtu.be/bXZkAgWkHnw",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Triple Six",
 			"author": "LJosh",
@@ -527,6 +533,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "justiceguy",
+					"link": "https://youtu.be/wJSFF9zVyjg",
+					"percent": 74,
+					"hz": "60hz"
+				},
+				{
+					"user": "1qawsz",
+					"link": "https://youtu.be/evopDhTXEfs",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -652,6 +670,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=p-Ek6R-MTtk",
 					"percent": 81,
 					"hz": "240hz"
+				},
+				{
+					"user": "1qawsz",
+					"link": "https://youtu.be/6FDMhSs6Obw",
+					"percent": 100,
+					"hz": "120hz"
 				},
                         ],
 			"name": "Shitty WOW",
@@ -909,6 +933,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=d14djfj-5L",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Eternal Moment",
 			"author": "Miini03",
@@ -933,6 +963,12 @@ const d = {
 					"link": "https://youtu.be/e6X7phy3yuY",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "1qawsz",
+					"link": "https://youtu.be/bV1TdXVaxl0",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Innards",
@@ -1226,7 +1262,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-			
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=Z4WuP46fJtc",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Delebit Oblivio",
 			"author": "HdLink13 [rVlaash]",
@@ -1393,6 +1434,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "1qawsz",
+					"link": "https://youtu.be/VUkjnS2r-zw",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Orochi",
 			"author": "Keleru",
@@ -1522,7 +1569,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-			
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=LDxpIyyYZFg",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cosmorush 21",
 			"author": "AcropolisBoy and Whiliams8080 [Bartoldo]",
@@ -1670,6 +1722,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=PsryB2pqDgM&feature=youtu.be",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Amedxx2y",
+					"link": "https://youtu.be/AINNvJDoams",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -2413,6 +2471,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=osBGzEebpxE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Explosion",
 			"author": "Serpyy",
@@ -2542,6 +2606,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "md1159",
+					"link": "https://youtu.be/AJses-tmw3M",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -2646,6 +2716,12 @@ const d = {
 					"percent": 67,
 					"hz": "60hz"
 				},
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/scMIIKYi-B0",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -2694,6 +2770,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=NStsNppY_OY",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "md1159",
+					"link": "https://youtu.be/P84VtDFsK-8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Concaved Memories",
@@ -2817,6 +2899,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "md1159",
+					"link": "https://youtu.be/sy8ykXT3f24",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -2889,6 +2977,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Ep5coVf5QB8",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "md1159",
+					"link": "https://youtu.be/3b72dgI_EnY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Blade of Justice",
@@ -3215,6 +3309,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "1qawsz",
+					"link": "https://youtu.be/SYORrgel4xA",
+					"percent": 100,
+					"hz": "120hz"
+				},
                         ],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
@@ -3503,6 +3603,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Acidius",
+					"link": "https://www.youtube.com/watch?v=f5YT15HAauo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
@@ -3699,9 +3805,15 @@ const d = {
 				},
 				{
 					"user": "Plastornious",
-					"link": "https://youtu.be/mQYS1lwsqgM",
-					"percent": 58,
+					"link": "https://youtu.be/7dd7wKwlrw8",
+					"percent": 88,
 					"hz": "75hz"
+				},
+				{
+					"user": "Acidius",
+					"link": "https://www.youtube.com/watch?v=5nX268ynpI4&feature=youtu.be",
+					"percent": 100,
+					"hz": "Mobile"
 				},
                         ],
 			"name": "Shitty Killerzone",
@@ -3817,6 +3929,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=mvPEiJsk93o",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Kr_Flame",
+					"link": "https://youtu.be/k38AS0vYIKA",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
