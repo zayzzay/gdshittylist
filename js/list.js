@@ -1827,7 +1827,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-			
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=vvMFZnLM2Hk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Pinball Panic",
 			"author": "HdLink13 [GDTeaBag]",
