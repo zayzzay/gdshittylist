@@ -1697,7 +1697,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-			
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=sMCRm04pkq4",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Retitled",
 			"author": "Soda",
