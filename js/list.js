@@ -2529,7 +2529,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-
+				{
+					"user": "Amedxx2y",
+					"link": "https://youtu.be/cF727HoCuTY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/VVH_cP_CJSs",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Penombre",
 			"author": "Miini03",
