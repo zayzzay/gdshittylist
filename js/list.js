@@ -1992,6 +1992,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Aassbll",
+					"link": "https://www.youtube.com/watch?v=5Jnzkb-pb3o",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
