@@ -2330,7 +2330,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=7enQjQzJ66o",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Skrillex Theory",
 			"author": "LJosh",
