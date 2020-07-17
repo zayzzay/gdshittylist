@@ -83,12 +83,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "redjohnboy",
-					"link": "",
-					"percent": 100,
-					"hz": "165hz"
-				},
-				{
 					"user": "Xanii",
 					"link": "https://youtu.be/xIPlv1AKzB8",
 					"percent": 100,
@@ -654,12 +648,6 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "redjohnboy",
-					"link": "",
-					"percent": 100,
-					"hz": "165hz"
-				},
-				{
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=p-Ek6R-MTtk",
 					"percent": 81,
@@ -835,12 +823,6 @@ const d = {
                                         "percent": 100,
                                         "hz": "Mobile"
                                 },
-				{
-					"user": "redjohnboy",
-					"link": "",
-					"percent": 100,
-					"hz": "165hz"
-				},
 				{
 					"user": "zMarc",
 					"link": "https://youtu.be/S68LjA4LTwI`",
@@ -1034,12 +1016,6 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-				{
-					"user": "redjohnboy",
-					"link": "",
-					"percent": 100,
-					"hz": "154hz"
-				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
@@ -1153,12 +1129,6 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "redjohnboy",
-					"link": "",
-					"percent": 100,
-					"hz": "165hz"
-				},
-				{
 					"user": "Chojang",
 					"link": "https://youtu.be/2XuPYTN03dk",
 					"percent": 100,
@@ -1218,12 +1188,6 @@ const d = {
 					"link": "https://youtu.be/rFuwwGL6CK8",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "redjohnboy",
-					"link": "",
-					"percent": 100,
-					"hz": "165hz"
 				},
 				{
 					"user": "zMarc",
@@ -1299,12 +1263,6 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=rrk0G7LX2-w",
 					"percent": 100,
 					"hz": "Mobile"
-				},
-				{
-					"user": "redjohnboy",
-					"link": "",
-					"percent": 100,
-					"hz": "165hz"
 				},
 				{
 					"user": "sandstormy",
@@ -1502,12 +1460,6 @@ const d = {
 					"link": "https://youtu.be/jKpRSrVnlyc",
 					"percent": 100,
 					"hz": "Mobile"
-				},
-				{
-					"user": "Redjohnboy",
-					"link": "",
-					"percent": 100,
-					"hz": "165hz"
 				},
 				{
 					"user": "Chojang",
@@ -1773,12 +1725,6 @@ const d = {
 					"link": "https://youtu.be/wJ_SVo8RKz4",
 					"percent": 100,
 					"hz": "60hz"
-				},
-				{
-					"user": "redjohnboy",
-					"link": "",
-					"percent": 100,
-					"hz": "165hz"
 				},
 				{
 					"user": "PriUsGD",
@@ -2561,12 +2507,6 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Redjohnboy",
-					"link": "",
-					"percent": 100,
-					"hz": "165hz"
-				},
-				{
 					"user": "Gloomy boy",
 					"link": "https://youtu.be/neCIOR6mFZM",
 					"percent": 100,
@@ -2750,12 +2690,6 @@ const d = {
 					"hz": "270hz"
 				},
 				{
-					"user": "Redjohnboy",
-					"link": "",
-					"percent": 100,
-					"hz": "165hz"
-				},
-				{
 					"user": "XanPlayzGamez",
 					"link": "https://www.youtube.com/watch?v=NStsNppY_OY",
 					"percent": 100,
@@ -2919,12 +2853,6 @@ const d = {
 					"link": "https://youtu.be/4rSTiy3IF5w",
 					"percent": 100,
 					"hz": "Mobile"
-				},
-				{
-					"user": "Redjohnboy",
-					"link": "",
-					"percent": 100,
-					"hz": "165hz"
 				},
 				{
 					"user": "eafan0",
@@ -3268,12 +3196,6 @@ const d = {
 					"link": "https://youtu.be/x-RrmyNM-Jc",
 					"percent": 100,
 					"hz": "Mobile"
-				},
-				{
-					"user": "Redjohnboy",
-					"link": "",
-					"percent": 100,
-					"hz": "165hz"
 				},
 			        {
                                         "user": "sandstormy",
@@ -3738,12 +3660,6 @@ const d = {
                                         "link": "https://youtu.be/P9JoQ7bysXc",
                                         "percent": 58,
                                         "hz": "Mobile"
-                                },
-				{
-                                        "user": "redjohnboy",
-                                        "link": "",
-                                        "percent": 100,
-                                        "hz": "165hz"
                                 },
 				{
                                         "user": "monstergamer546",
