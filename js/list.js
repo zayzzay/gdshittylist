@@ -84,7 +84,7 @@ const d = {
 				},
 				{
 					"user": "redjohnboy",
-					"link": "https://www.youtube.com/watch?v=FnOk2zj5Chw&feature=youtu.be",
+					"link": "",
 					"percent": 100,
 					"hz": "165hz"
 				},
@@ -655,7 +655,7 @@ const d = {
 				},
 				{
 					"user": "redjohnboy",
-					"link": "https://www.youtube.com/watch?v=c0DME4WJwkI",
+					"link": "",
 					"percent": 100,
 					"hz": "165hz"
 				},
@@ -837,7 +837,7 @@ const d = {
                                 },
 				{
 					"user": "redjohnboy",
-					"link": "https://youtu.be/KEYg2jEXAGE",
+					"link": "",
 					"percent": 100,
 					"hz": "165hz"
 				},
@@ -1036,7 +1036,7 @@ const d = {
 				},
 				{
 					"user": "redjohnboy",
-					"link": "https://youtu.be/gSpI0iujxn4",
+					"link": "",
 					"percent": 100,
 					"hz": "154hz"
 				},
@@ -1154,7 +1154,7 @@ const d = {
 				},
 				{
 					"user": "redjohnboy",
-					"link": "https://youtu.be/PMiC5MZtUp4",
+					"link": "",
 					"percent": 100,
 					"hz": "165hz"
 				},
@@ -1221,7 +1221,7 @@ const d = {
 				},
 				{
 					"user": "redjohnboy",
-					"link": "https://youtu.be/8-C1g8dOxQ8",
+					"link": "",
 					"percent": 100,
 					"hz": "165hz"
 				},
@@ -1302,7 +1302,7 @@ const d = {
 				},
 				{
 					"user": "redjohnboy",
-					"link": "https://youtu.be/Ew6z6afETG8",
+					"link": "",
 					"percent": 100,
 					"hz": "165hz"
 				},
@@ -1505,7 +1505,7 @@ const d = {
 				},
 				{
 					"user": "Redjohnboy",
-					"link": "https://youtu.be/rldzCvlfWlQ",
+					"link": "",
 					"percent": 100,
 					"hz": "165hz"
 				},
@@ -1776,7 +1776,7 @@ const d = {
 				},
 				{
 					"user": "redjohnboy",
-					"link": "https://youtu.be/QyJ0FlIm9u8",
+					"link": "",
 					"percent": 100,
 					"hz": "165hz"
 				},
@@ -2562,7 +2562,7 @@ const d = {
 				},
 				{
 					"user": "Redjohnboy",
-					"link": "https://youtu.be/9cyLRvU6x4k",
+					"link": "",
 					"percent": 100,
 					"hz": "165hz"
 				},
@@ -2751,7 +2751,7 @@ const d = {
 				},
 				{
 					"user": "Redjohnboy",
-					"link": "https://youtu.be/1Xx5qJJ5lgo",
+					"link": "",
 					"percent": 100,
 					"hz": "165hz"
 				},
@@ -2922,7 +2922,7 @@ const d = {
 				},
 				{
 					"user": "Redjohnboy",
-					"link": "https://youtu.be/HJNYiDQ19ZE",
+					"link": "",
 					"percent": 100,
 					"hz": "165hz"
 				},
@@ -3271,7 +3271,7 @@ const d = {
 				},
 				{
 					"user": "Redjohnboy",
-					"link": "https://youtu.be/UVyxOM8RMiM",
+					"link": "",
 					"percent": 100,
 					"hz": "165hz"
 				},
@@ -3741,7 +3741,7 @@ const d = {
                                 },
 				{
                                         "user": "redjohnboy",
-                                        "link": "https://youtu.be/0OriRj7k0Lo",
+                                        "link": "",
                                         "percent": 100,
                                         "hz": "165hz"
                                 },
