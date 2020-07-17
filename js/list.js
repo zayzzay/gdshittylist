@@ -2370,7 +2370,7 @@ const d = {
 					"user": "rMinelo",
 					"link": "https://youtu.be/xCtSxcKN2b8",
 					"percent": 100,
-					"hz": "75hz"
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Ad Aeternum",
