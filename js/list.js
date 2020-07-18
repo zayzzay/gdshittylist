@@ -2351,6 +2351,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Gloomy boy",
+					"link": "https://youtu.be/TeY3Hy70vSk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -3173,6 +3179,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=4QUH6geddoI&t",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Gloomy boy",
+					"link": "https://youtu.be/HTNmjD2MF4I",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Artifice",
