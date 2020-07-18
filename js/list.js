@@ -2033,6 +2033,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Surpl3x",
+					"link": "https://youtu.be/mvvP3xVfo6Y",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
