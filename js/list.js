@@ -2247,6 +2247,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/Ab4GPLrpCAM",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
