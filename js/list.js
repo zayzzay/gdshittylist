@@ -2541,6 +2541,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Aassbll",
+					"link": "https://youtu.be/JPseMwMJDe4",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Penombre",
 			"author": "Miini03",
