@@ -3524,6 +3524,12 @@ const d = {
 					"percent": 65,
 					"hz": "75hz"
 				},
+				{
+					"user": "Acidius",
+					"link": "https://www.youtube.com/watch?v=9Xfve9J8n-k",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
