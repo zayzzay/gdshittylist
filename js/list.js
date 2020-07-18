@@ -125,6 +125,12 @@ const d = {
 					"percent": 100,
 					"hz": "360hz"
 				},
+				{
+					"user": "Surpl3x",
+					"link": "https://youtu.be/kcYTwO4efk4",
+					"percent": 64,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Erebus",
 			"author": "LJosh",
