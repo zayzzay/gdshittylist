@@ -1094,6 +1094,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 			        },
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/4rlEqG-Gb3M",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Hyper Paracosm",
 			"author": "DigestedCitrus [Deimoz]",
