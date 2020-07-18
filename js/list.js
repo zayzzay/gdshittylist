@@ -2489,7 +2489,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=HA_TH-TgCiY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Abandoned Planet",
 			"author": "LJosh",
