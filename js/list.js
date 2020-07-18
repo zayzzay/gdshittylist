@@ -576,6 +576,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Surpl3x",
+					"link": "https://youtu.be/a7BoNtYmycM",
+					"percent": 62,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
