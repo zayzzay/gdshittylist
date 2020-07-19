@@ -965,7 +965,7 @@ const d = {
 				},
 				{
 					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=d14djfj-5L",
+					"link": "https://youtu.be/d14djfj-5Lo",
 					"percent": 100,
 					"hz": "240hz"
 				},
