@@ -2058,6 +2058,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Trollomggamer",
+					"link": "https://youtu.be/v-i2A80il9U",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -2879,6 +2885,12 @@ const d = {
 					"link": "https://youtu.be/scMIIKYi-B0",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Trollomggamer",
+					"link": "https://youtu.be/LoIw-6Achc8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Zodiac",
