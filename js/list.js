@@ -2788,6 +2788,18 @@ const d = {
 					"percent": 70,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ZekronGD",
+					"link": "https://youtu.be/VpVUGmdKFG0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Vink
+					"link": "https://youtu.be/K9djNkV8FTw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
