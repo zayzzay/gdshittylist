@@ -2084,6 +2084,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=_Ksd6sKlD4g",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Omnitoxin",
 			"author": "Segone",
