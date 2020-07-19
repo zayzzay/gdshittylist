@@ -2424,6 +2424,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Bluuper",
+					"link": "https://www.youtube.com/watch?v=09_XIes8zJ4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
