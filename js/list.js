@@ -2965,6 +2965,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Bluuper",
+					"link": "https://www.youtube.com/watch?v=6gTsCe-bD1s",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Concaved Memories",
 			"author": "oSpace",
