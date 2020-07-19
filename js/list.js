@@ -266,6 +266,38 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
+		
+			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=nDgBwccdbwk",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/SySShiQWDJA",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Surpl3x",
+					"link": "https://youtu.be/a7BoNtYmycM",
+					"percent": 62,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty Zaphkiel",
+			"author": "Serpyy [XanPlayzGamez]",
+			"more": "none",
+			"id": 60976052,
+			"pass": "Free to copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=fcqAzQsbVdY",
+			"key": 6
+		},
+		/*=================================================================================*/
+		{
 			"vids": [
 				{
 					"user": "XanPlayzGamez",
@@ -317,7 +349,7 @@ const d = {
 			"pass": "0005",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=oFUBGkctzR0",
-			"key": 6
+			"key": 7
 		},
 		/*=================================================================================*/
 		{
@@ -348,7 +380,7 @@ const d = {
 			"pass": "0002",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=rWcLT30sVj0",
-			"key": 7
+			"key": 8
 		},
 		/*=================================================================================*/
 		{
@@ -373,7 +405,7 @@ const d = {
 			"pass": "0009",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=axeVcW9WATs",
-			"key": 8
+			"key": 9
 		},
 		/*=================================================================================*/
 		{
@@ -428,7 +460,7 @@ const d = {
 			"pass": "0007",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=3C4XngzGGlE",
-			"key": 9
+			"key": 10
 		},
 		/*=================================================================================*/
 		{
@@ -460,7 +492,7 @@ const d = {
 			"pass": "0008",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=FiJIwowWp1g",
-			"key": 10
+			"key": 11
 		},
 		/*=================================================================================*/
 		{
@@ -492,7 +524,7 @@ const d = {
 			"pass": "032520",
 			"percentToQualify": 52,
 			"verificationVid": "https://www.youtube.com/watch?v=N9vQCwp01pM",
-			"key": 11
+			"key": 12
 		},
 		/*=================================================================================*/
 		{
@@ -571,37 +603,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=Iu08clOYt8I",
-			"key": 12
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=nDgBwccdbwk",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Vink",
-					"link": "https://youtu.be/SySShiQWDJA",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Surpl3x",
-					"link": "https://youtu.be/a7BoNtYmycM",
-					"percent": 62,
-					"hz": "Mobile"
-				},
-			],
-			"name": "Shitty Zaphkiel",
-			"author": "Serpyy [XanPlayzGamez]",
-			"more": "none",
-			"id": 60976052,
-			"pass": "Free to copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=fcqAzQsbVdY",
 			"key": 13
 		},
 		/*=================================================================================*/
