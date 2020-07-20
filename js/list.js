@@ -1761,6 +1761,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "WhiteTeeth",
+					"link": "https://youtu.be/eNavw1w0gaY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
