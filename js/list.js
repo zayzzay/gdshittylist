@@ -1218,6 +1218,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Trollomggamer",
+					"link": "https://youtu.be/q4s5-eDpitQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Deimos",
 			"author": "oSpace",
