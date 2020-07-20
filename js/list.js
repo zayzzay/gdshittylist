@@ -4220,6 +4220,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Wave",
+					"link": "https://youtu.be/XbhNzXA2Bvw",
+					"percent": 94,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
