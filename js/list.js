@@ -4249,12 +4249,6 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "Rigno",
-					"link": "https://www.youtube.com/watch?v=UHeYPWxftck",
-					"percent": 72,
-					"hz": "240hz"
-				},
-				{
 					"user": "Surpl3x",
 					"link": "https://youtu.be/O8az1oj7xDs",
 					"percent": 100,
