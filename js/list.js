@@ -1736,7 +1736,7 @@ const d = {
 					"user": "N1kix",
 					"link": "https://youtu.be/K1DCmMw8oGc",
 					"percent": 100,
-					"hz": "180hz"
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Belloq",
