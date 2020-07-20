@@ -2660,6 +2660,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=_KO2XXht08Q",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Penombre",
 			"author": "Miini03",
