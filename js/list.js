@@ -4080,6 +4080,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Redjohnboy",
+					"link": "https://youtu.be/mqHd-7CePpg",
+					"percent": 100,
+					"hz": "60hz"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
