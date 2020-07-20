@@ -1633,6 +1633,12 @@ const d = {
 					"percent": 69,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Frigus",
+					"link": "https://youtu.be/86-1ZKdPpOQ",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
