@@ -1185,6 +1185,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/2Al4j_4sxJY",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Tartarus",
 			"author": "AcropolisBoy [Darkys]",
@@ -1194,7 +1200,6 @@ const d = {
 			"percentToQualify": 53,
 			"verificationVid": "https://www.youtube.com/watch?v=YXi4n8byylM",
 			"key": 27
-			
 		},
 		/*=================================================================================*/
 		{
