@@ -4239,8 +4239,8 @@ const d = {
 				},
 				{
 					"user": "Rigno",
-					"link": "https://youtu.be/PlftKMz56d8",
-					"percent": 70,
+					"link": "https://www.youtube.com/watch?v=UHeYPWxftck",
+					"percent": 72,
 					"hz": "240hz"
 				},
 				{
