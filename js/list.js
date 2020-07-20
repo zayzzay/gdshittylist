@@ -292,6 +292,12 @@ const d = {
 					"percent": 62,
 					"hz": "Mobile"
 				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=ub82Xb1C8os",
+					"percent": 96,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
