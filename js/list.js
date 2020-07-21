@@ -2612,6 +2612,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=KHX8KDLEkUY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty PV II",
 			"author": "Serpyy and more [Serpyy]",
@@ -3492,6 +3498,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=B1rfHuJYA0g",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Gabe",
+					"link": "https://youtu.be/PKAtDeYh5t8",
+					"percent": 100,
+					"hz": "60hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
