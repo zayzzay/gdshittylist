@@ -2630,7 +2630,7 @@ const d = {
 			"id": 60253685,
 			"pass": "Free to copy",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=none",
+			"verificationVid": "https://www.youtube.com/watch?v=I8Xo3JL8fjs",
 			"key": 54
 		},
 		/*=================================================================================*/
