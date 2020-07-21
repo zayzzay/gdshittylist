@@ -3266,7 +3266,12 @@ const d = {
 		/*=================================================================================*/
 		{
                         "vids": [
-            
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/tcDkAgXnBXs",
+					"percent": 100,
+					"hz": "75hz"
+				},
                         ],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
