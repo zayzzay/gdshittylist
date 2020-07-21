@@ -3436,10 +3436,7 @@ const d = {
                                         "link": "https://www.youtube.com/watch?v=-YKuASXsK9Y",
                                         "percent": 100,
                                         "hz": "240hz"
-                                },
-
-       
-
+				},
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
