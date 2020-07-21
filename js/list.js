@@ -4213,7 +4213,7 @@ const d = {
 				},
 				{
 					"user": "Rigno",
-					"link": "https://youtu.be/ri2FaxnjV_U",
+					"link": "https://www.youtube.com/watch?v=E9a8xHz5iqY",
 					"percent": 59,
 					"hz": "236hz"
 				},
