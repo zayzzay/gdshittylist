@@ -836,6 +836,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/F_kWIMXD2tE",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -1258,6 +1264,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/8VWDHVUaSs0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Deimos",
 			"author": "oSpace",
@@ -1533,6 +1545,12 @@ const d = {
 					"link": "https://youtu.be/VUkjnS2r-zw",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Kr_Flame",
+					"link": "https://youtu.be/lcjr1z5Lawk",
+					"percent": 71,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Orochi",
@@ -1973,7 +1991,7 @@ const d = {
                                         "user": "Amedxx2y",
                                         "link": "https://youtu.be/MazleInGC7Y",
                                         "percent": 100,
-                                        "hz": "mobile"
+                                        "hz": "Mobile"
                                 },
 			],
 			"name": "Shitty Matilda The Machine",
@@ -2146,6 +2164,12 @@ const d = {
 					"link": "https://youtu.be/xGl72IQKGPM",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/F_kWIMXD2tE?t=126",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Cadrega City",
@@ -2660,6 +2684,12 @@ const d = {
                                          "link": "https://youtu.be/t_ve9hHjsqo",
                                          "percent": 100,
                                          "hz": "288hz"
+                                },
+				{
+                                         "user": "N1kix",
+                                         "link": "https://youtu.be/F_kWIMXD2tE?t=285",
+                                         "percent": 100,
+                                         "hz": "120hz"
                                 },
                         ],
 			"name": "Shitty Omega",
