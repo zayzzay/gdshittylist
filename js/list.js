@@ -3599,7 +3599,6 @@ const d = {
                                         "percent": 100,
                                         "hz": "75hz"
 				},
-                    
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
