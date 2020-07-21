@@ -458,6 +458,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/i08XJjvIv6A",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Sunset Sandstorm",
 			"author": "LJosh",
