@@ -3394,6 +3394,15 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+                                        "user": "Fhyron06",
+                                        "link": "https://www.youtube.com/watch?v=-YKuASXsK9Y",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
+
+       
+
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
@@ -3547,6 +3556,13 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+                                        "user": "Soda"
+                                        "link": "https://www.youtube.com/watch?v=vIgmQdDkcnA",
+                                        "percent": 100
+                                        "hz": "75hz"
+				},
+                    
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
