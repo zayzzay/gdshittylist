@@ -2080,14 +2080,7 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
-				{
-                                         "user": "Fhyron06",
-                                         "link": "https://www.youtube.com/watch?v=RBtuAeTNXMY",
-                                         "percent": 100,
-                                         "hz": "240hz"
-                                },
-
-			],
+	                ],
 			"name": "Shitty Ancestral Calamity",
 			"author": "oSpace and more [oSpace]",
 			"more": "none",
@@ -2096,6 +2089,9 @@ const d = {
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=maJcSIR-SLU",
 			"key": 43
+				
+
+			
 		},
 		/*=================================================================================*/
 		{
