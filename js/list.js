@@ -1906,6 +1906,20 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+                                        "user": "ViperVenom95",
+                                        "link": "https://youtu.be/qE-xhzSMwaM",
+                                        "percent": 100,
+                                        "hz": "60hz"
+                                },
+				{
+                                        "user": "Acidius",
+                                        "link": "https://www.youtube.com/watch?v=aA1pTII2Xyw",
+                                        "percent": 100,
+                                        "hz": "Mobile"
+                                },
+
+
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
@@ -2066,6 +2080,13 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+                                         "user": "Fhyron06",
+                                         "link": "https://www.youtube.com/watch?v=RBtuAeTNXMY",
+                                         "percent": 100,
+                                         "hz": "240hz"
+                                },
+
 			],
 			"name": "Shitty Ancestral Calamity",
 			"author": "oSpace and more [oSpace]",
