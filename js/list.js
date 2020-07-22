@@ -2060,6 +2060,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=RBtuAeTNXMY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Ancestral Calamity",
 			"author": "oSpace and more [oSpace]",
