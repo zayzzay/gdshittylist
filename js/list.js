@@ -2796,6 +2796,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+								{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=UNk3d5ub0pg",
+					"percent": 100,
+					"hz": "240hz"
+				},
 				{
 					"user": "Amedxx2y",
 					"link": "https://youtu.be/cF727HoCuTY",
@@ -3272,6 +3278,12 @@ const d = {
 		/*=================================================================================*/
 		{
                         "vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=ua_x9jkQYw8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 				{
 					"user": "Soda",
 					"link": "https://youtu.be/tcDkAgXnBXs",
