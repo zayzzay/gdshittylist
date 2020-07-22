@@ -4280,6 +4280,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+					{
+					"user": "Bluuper",
+					"link": "https://youtu.be/gml6nDgFCzA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
@@ -4436,6 +4442,12 @@ const d = {
 					"link": "https://youtu.be/i08XJjvIv6A",
 					"percent": 60,
 					"hz": "236hz"
+				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/dGHrLzuxtrI",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
@@ -4605,6 +4617,12 @@ const d = {
 					"link": "https://youtu.be/ZPD9eZEjAnM",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "MythicalTG",
+					"link": "https://youtu.be/7Y12fJwFAj8",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
