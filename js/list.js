@@ -3779,7 +3779,6 @@ const d = {
                                         "percent": 100,
                                         "hz": "120hz"
                                 },
-
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
