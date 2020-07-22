@@ -2989,6 +2989,13 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+                                        "user": "N1kix",
+                                        "link": "https://youtu.be/q0ZmKhOgkks",
+                                        "percent": 100,
+                                        "hz": "120hz"
+                                },
+
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -3056,6 +3063,13 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+                                        "user": "N1kix",
+                                        "link": "https://youtu.be/q0ZmKhOgkks",
+                                        "percent": 100,
+                                        "hz": "120hz"
+                                },
+
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
@@ -3557,6 +3571,13 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+                                        "user": "N1kix",
+                                        "link": "https://youtu.be/q0ZmKhOgkks",
+                                        "percent": 100,
+                                        "hz": "120hz"
+                                },
+
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
@@ -3752,6 +3773,13 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+                                        "user": "N1kix",
+                                        "link": "https://youtu.be/q0ZmKhOgkks",
+                                        "percent": 100,
+                                        "hz": "120hz"
+                                },
+
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -4155,6 +4183,13 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+                                        "user": "Soda",
+                                        "link": "https://www.youtube.com/watch?v=Y-R5ZXJ31HE",
+                                        "percent": 100,
+                                        "hz": "75hz"
+                                 },
+
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
