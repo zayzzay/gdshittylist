@@ -347,6 +347,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Amedxx2y",
+					"link": "https://youtu.be/O7OP_1gQRn0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Triple Six",
 			"author": "LJosh",
@@ -3607,6 +3613,12 @@ const d = {
                                         "link": "https://www.youtube.com/watch?v=vIgmQdDkcnA",
                                         "percent": 100,
                                         "hz": "75hz"
+				},
+				{
+					"user": "Aurora",
+                                        "link": "https://youtu.be/i9SBv4TiQZ4",
+                                        "percent": 100,
+                                        "hz": "240hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
