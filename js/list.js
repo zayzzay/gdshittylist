@@ -1490,6 +1490,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/_hja-CmLOpE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty UltraSans",
 			"author": "GDStarStorm and more [LJosh]",
