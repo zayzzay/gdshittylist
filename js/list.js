@@ -2023,6 +2023,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "Mobile"
                                 },
+				{
+					"user": "Fhyron06",
+                                        "link": "https://www.youtube.com/watch?v=w-O0aLYvGhA",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Matilda The Machine",
 			"author": "XanPlayzGamez and Serpyy [XanPlayzGamez]",
@@ -3623,6 +3629,12 @@ const d = {
 				{
 					"user": "Aurora",
                                         "link": "https://youtu.be/i9SBv4TiQZ4",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
+				{
+					"user": "Pipzzzzzzz",
+                                        "link": "https://youtu.be/OjeQLpnIbkQ",
                                         "percent": 100,
                                         "hz": "240hz"
 				},
