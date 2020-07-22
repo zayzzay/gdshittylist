@@ -1765,6 +1765,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/JbCPOMj7hC4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cosmorush 21",
 			"author": "AcropolisBoy and Whiliams8080 [Bartoldo]",
@@ -2672,6 +2678,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/ete22W_2wE8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Skrillex Theory",
 			"author": "LJosh",
@@ -2838,6 +2850,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=kykh6GTmjjE&feature=youtu.be",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/A3wKlHl5IDI",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Abandoned Planet",
