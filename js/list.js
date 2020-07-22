@@ -3296,6 +3296,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "Aassbll",
+					"link": "https://www.youtube.com/watch?v=DuKQxM2bBXE",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
