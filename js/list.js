@@ -3498,7 +3498,7 @@ const d = {
             
                        ],
                        "name": "Shitty Poltergeist",
-                       "author": "AcropolisBoy [Example]",
+                       "author": "AcropolisBoy",
                        "more": "none",
                        "id": 49472213,
                        "pass": "Free to copy",
