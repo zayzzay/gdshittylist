@@ -2359,12 +2359,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "crumche",
-					"link": "https://cdn.discordapp.com/attachments/457568615026393098/735507273497051216/shitty_tapwreck.mp4",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
 					"user": "Whiteteeth",
 					"link": "https://youtu.be/CuMVpAlcBSA",
 					"percent": 77,
