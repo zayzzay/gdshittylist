@@ -1391,6 +1391,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/HZlZyd0cF_M",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -2211,6 +2217,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/NAhwILsxFOc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Whiteteeth",
+					"link": "https://youtu.be/pRp_5UtS5c0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -2333,6 +2351,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=DsposltVn94",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Whiteteeth",
+					"link": "https://youtu.be/CuMVpAlcBSA",
+					"percent": 77,
+					"hz": "Mobile"
 				},
                         ],
 			"name": "Shitty Rate Demon",
