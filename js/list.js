@@ -3495,7 +3495,12 @@ const d = {
 		/*=================================================================================*/
 		{
                        "vids": [
-            
+			       {
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/mjR5jie7d_Q",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
