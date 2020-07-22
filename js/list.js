@@ -1936,8 +1936,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "Mobile"
                                 },
-
-
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/QLCgjLkb08E",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
