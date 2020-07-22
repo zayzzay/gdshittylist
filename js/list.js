@@ -1028,6 +1028,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/xcXCRmfB6tQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Eternal Moment",
 			"author": "Miini03",
@@ -2231,6 +2237,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=_Ksd6sKlD4g",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=NVVecRhUDwM",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Omnitoxin",
@@ -3638,6 +3650,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+				{
+					"user": "Aiden",
+                                        "link": "https://www.youtube.com/watch?v=tL9GFtiZjUE",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -3936,6 +3954,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=9Xfve9J8n-k",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "aurora",
+					"link": "https://youtu.be/Wfx9XRmKhjg",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
@@ -4488,6 +4512,12 @@ const d = {
 					"link": "https://youtu.be/Eo2XPGolIvQ",
 					"percent": 100,
 					"hz": "236hz"
+				},
+				{
+					"user": "aurora",
+					"link": "https://youtu.be/ZPD9eZEjAnM",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
