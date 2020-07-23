@@ -4015,7 +4015,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "Mobile"
                                 },
-
+				{
+					"user": "iRaily",
+                                        "link": "https://youtu.be/NMzRyBxZ6j8",
+                                        "percent": 100,
+                                        "hz": "144hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
