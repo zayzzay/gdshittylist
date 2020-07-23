@@ -2072,6 +2072,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://www.youtube.com/watch?v=_1lYJu681jc&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
@@ -3721,6 +3727,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
+			       {
+				       "user": "GDMeric",
+				       "link": "https://youtu.be/NK_TfQKAdwI",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -4020,6 +4032,18 @@ const d = {
                                         "link": "https://youtu.be/NMzRyBxZ6j8",
                                         "percent": 100,
                                         "hz": "144hz"
+				},
+				{
+					"user": "GDMeric",
+                                        "link": "https://youtu.be/daF8DxZzkm4",
+                                        "percent": 100,
+                                        "hz": "144hz"
+				},
+				{
+					"user": "saturn",
+                                        "link": "https://youtu.be/lpVDS4Dk3_E",
+                                        "percent": 100,
+                                        "hz": "288hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
