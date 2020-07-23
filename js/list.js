@@ -390,6 +390,12 @@ const d = {
 					"percent": 100,
 					"hz": "280hz"
 				},
+				{
+					"user": "asdner",
+					"link": "https://youtu.be/iu2KnUqX9Do",
+					"percent": 94,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
@@ -784,6 +790,12 @@ const d = {
 					"link": "https://youtu.be/zwC3CZoTm8M",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "DJJDK",
+					"link": "https://youtu.be/lKz0a2JWDjU",
+					"percent": 67,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Sonic Wave",
@@ -2293,6 +2305,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Gabe",
+					"link": "https://youtu.be/irkN1-v4hWg",
+					"percent": 100,
+					"hz": "60hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -2421,6 +2439,12 @@ const d = {
 					"link": "https://youtu.be/CuMVpAlcBSA",
 					"percent": 77,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/l7wkr3xxqdE",
+					"percent": 100,
+					"hz": "288hz"
 				},
                         ],
 			"name": "Shitty Rate Demon",
@@ -3335,6 +3359,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 			        },
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/yWzG5PX3uXE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -3474,6 +3504,12 @@ const d = {
 					"link": "https://youtu.be/gokIMTNX7po",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "nayf",
+					"link": "https://youtu.be/Ykdj_EIjp_c",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
                         "name": "Shitty Ouroboros",
@@ -4068,6 +4104,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "nayf",
+					"link": "https://youtu.be/6G2exZJK184",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -4591,6 +4633,12 @@ const d = {
 					"link": "https://youtu.be/raidI8z1Ayo",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/C945aVMPbsM",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
