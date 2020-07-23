@@ -180,6 +180,10 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+					"user": "piesy",
+					"link": "https://youtu.be/vXjPp_g_Vjo",
+					"percent": 100,
+					"hz": "240hz"
 			],
 			"name": "Shitty AfterCataBath",
 			"author": "AcropolisBoy [LJosh]",
@@ -427,6 +431,10 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{	"user": "GDmeric",
+					"link": "https://youtu.be/IPtkOZMWzYw",
+					"percent": 100,
+					"hz": "144hz"
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
@@ -2405,6 +2413,12 @@ const d = {
 					"percent": 81,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Cailloux",
+					"link": "https://www.instagram.com/tv/CB8QDN3oOg4/",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -3316,6 +3330,12 @@ const d = {
                                         "link": "https://youtu.be/JmANfMH3xmo",
                                         "percent": 100,
                                         "hz": "288hz"
+                                },
+				{
+                                        "user": "Cailloux",
+                                        "link": "https://www.instagram.com/tv/CCaqY2pIXuL/",
+                                        "percent": 100,
+                                        "hz": "144hz"
                                 },
 
 			],
@@ -4395,6 +4415,12 @@ const d = {
 				{
 					"user": "GDMeric",
 					"link": "https://www.youtube.com/watch?v=oSgPQ7szFFk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Cailloux",
+					"link": "https://www.instagram.com/tv/CCEpyK_IXyF/",
 					"percent": 100,
 					"hz": "144hz"
 				},
