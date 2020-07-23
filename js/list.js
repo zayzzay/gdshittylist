@@ -2758,6 +2758,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/8mCwpC2mLzY",
+					"percent": 51,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -2816,6 +2822,12 @@ const d = {
 				{
 					"user": "Bluuper",
 					"link": "https://www.youtube.com/watch?v=09_XIes8zJ4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Matter",
+					"link": "https://www.youtube.com/watch?v=7WA1p47Q64k",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -3611,6 +3623,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/_PHaYg_SD3I",
+					"percent": 58,
+					"hz": "240hz"
+				},
                         ],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
@@ -4370,9 +4388,15 @@ const d = {
 				},
 				{
 					"user": "vekarzi",
-					"link": "https://youtu.be/7AMSKMxNL1Y",
+					"link": "https://www.youtube.com/watch?v=7AMSKMxNL1Y&feature=youtu.be",
 					"percent": 67,
 					"hz": "75hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://www.youtube.com/watch?v=oSgPQ7szFFk",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
