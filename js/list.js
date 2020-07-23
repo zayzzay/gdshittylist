@@ -266,6 +266,13 @@ const d = {
 					"percent": 80,
 					"hz": "60hz"
 				},
+				{
+                                        "user": "Asdner",
+                                        "link": "https://youtu.be/LNFviXcUkeU",
+                                        "percent": 61,
+                                        "hz": "144hz"
+                                },
+
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -1181,6 +1188,13 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+                                        "user": "nayf",
+                                        "link": "https://youtu.be/5DNaZzeu4KU",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
+
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -1256,6 +1270,20 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+                                        "user": "nayf",
+                                        "link": "https://youtu.be/fOKTa2D6ruU",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
+				{
+                                        "user": "Asdner",
+                                        "link": "https://youtu.be/0ci9fHpSCRw",
+                                        "percent": 63,
+                                        "hz": "69hz"
+                                },
+
+
                         ],
 			"name": "Shitty Hyper Paracosm",
 			"author": "DigestedCitrus [Deimoz]",
@@ -3951,6 +3979,13 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+				{
+                                        "user": "GrimPencil16",
+                                        "link": "https://youtu.be/lOHUnzTE1fE",
+                                        "percent": 100,
+                                        "hz": "Mobile"
+                                },
+
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -4712,6 +4747,13 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+                                        "user": "Matter",
+                                        "link": "https://www.youtube.com/watch?v=aoAddEO5Luo",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
+
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
