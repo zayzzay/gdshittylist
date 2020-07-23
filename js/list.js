@@ -4978,7 +4978,7 @@ const d = {
 				},
 				{
 					"user": "GDMaric",
-					"link": "https://www.youtube.com/watch?v=84oBuc80KyM",
+					"link": "https://www.youtube.com/watch?v=oS_09W2Elv4",
 					"percent": 100,
 					"hz": "144hz"
 				},
