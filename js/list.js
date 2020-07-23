@@ -1764,6 +1764,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/ps9vpsVhetg",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -3168,6 +3174,12 @@ const d = {
                                         "link": "https://youtu.be/q0ZmKhOgkks",
                                         "percent": 100,
                                         "hz": "120hz"
+                                },
+				{
+                                        "user": "Cyns",
+                                        "link": "https://youtu.be/JmANfMH3xmo",
+                                        "percent": 100,
+                                        "hz": "288hz"
                                 },
 
 			],
