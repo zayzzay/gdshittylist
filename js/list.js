@@ -298,6 +298,18 @@ const d = {
 					"percent": 62,
 					"hz": "Mobile"
 				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/I0ZkTmg1MYU",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -395,6 +407,12 @@ const d = {
 					"link": "https://youtu.be/iu2KnUqX9Do",
 					"percent": 94,
 					"hz": "288hz"
+				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Balengu Vortex",
@@ -796,6 +814,12 @@ const d = {
 					"link": "https://youtu.be/lKz0a2JWDjU",
 					"percent": 67,
 					"hz": "165hz"
+				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Sonic Wave",
@@ -1226,6 +1250,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty Hyper Paracosm",
 			"author": "DigestedCitrus [Deimoz]",
@@ -1500,6 +1530,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=fMcQQDYRqhk&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Macabre",
@@ -1989,6 +2025,12 @@ const d = {
 					"link": "https://youtu.be/QLCgjLkb08E",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -3615,6 +3657,18 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "RG",
+				       "link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+			       {
+				       "user": "Cyns",
+				       "link": "https://youtu.be/e7rFSg5vvr8",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -3888,6 +3942,12 @@ const d = {
 				{
 					"user": "Aiden",
                                         "link": "https://www.youtube.com/watch?v=tL9GFtiZjUE",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
+				{
+					"user": "RG",
+                                        "link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
                                         "percent": 100,
                                         "hz": "240hz"
 				},
@@ -4280,6 +4340,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Z6JrT390Ygc",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Paroxysm",
@@ -4826,6 +4892,12 @@ const d = {
 					"link": "https://youtu.be/6QTI6IrXlfM",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Matter",
+					"link": "https://www.youtube.com/watch?v=84oBuc80KyM",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
