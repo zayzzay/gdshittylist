@@ -180,10 +180,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
 					"user": "piesy",
 					"link": "https://youtu.be/vXjPp_g_Vjo",
 					"percent": 100,
 					"hz": "240hz"
+				},
 			],
 			"name": "Shitty AfterCataBath",
 			"author": "AcropolisBoy [LJosh]",
