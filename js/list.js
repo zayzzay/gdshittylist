@@ -437,6 +437,7 @@ const d = {
 					"link": "https://youtu.be/IPtkOZMWzYw",
 					"percent": 100,
 					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
