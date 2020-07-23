@@ -2393,6 +2393,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Geometry Dash PJH",
+					"link": "https://youtu.be/5POPLE5ScJs",
+					"percent": 81,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -3708,6 +3714,12 @@ const d = {
 				       "link": "https://youtu.be/e7rFSg5vvr8",
 				       "percent": 100,
 				       "hz": "288hz"
+			       },
+			       {
+				       "user": "Fhyron06",
+				       "link": "https://www.youtube.com/watch?v=dOFUNH15v-M",
+				       "percent": 100,
+				       "hz": "240hz"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
