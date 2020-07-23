@@ -2066,6 +2066,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Aassbll",
+					"link": "https://youtu.be/W7DgnpBIKaw",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
@@ -3746,6 +3752,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://www.youtube.com/watch?v=mgicD6trv1A",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -4946,6 +4958,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=84oBuc80KyM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "GDMaric",
+					"link": "https://www.youtube.com/watch?v=84oBuc80KyM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "saturn",
+					"link": "https://youtu.be/5QYSzf0zJbI",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
