@@ -4759,6 +4759,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
                                 },
+				{
+                                        "user": "Baechukimchi",
+                                        "link": "https://www.youtube.com/watch?v=CZZe93qyakE",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
 
                         ],
 			"name": "Shitty Killerzone",
