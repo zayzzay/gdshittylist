@@ -4246,6 +4246,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://www.youtube.com/watch?v=I_nm9rlthsQ&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -4977,7 +4983,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMaric",
+					"user": "GDMeric",
 					"link": "https://www.youtube.com/watch?v=oS_09W2Elv4",
 					"percent": 100,
 					"hz": "144hz"
