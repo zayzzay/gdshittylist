@@ -1869,6 +1869,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "nayf",
+					"link": "https://youtu.be/CjwcxM64fRI",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -2094,6 +2100,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=_1lYJu681jc&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "nayf",
+					"link": "https://youtu.be/C9dlsPLsGZk",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -2427,6 +2439,12 @@ const d = {
 					"link": "https://www.instagram.com/tv/CB8QDN3oOg4/",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "nayf",
+					"link": "https://youtu.be/hYd-yJ9THr8",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Kenos",
@@ -3414,6 +3432,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "nayf",
+					"link": "https://youtu.be/cdDiK_Ug6ZU",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -3655,7 +3679,7 @@ const d = {
 				{
 					"user": "Pipzzzzzzz",
 					"link": "https://youtu.be/_PHaYg_SD3I",
-					"percent": 58,
+					"percent": 56,
 					"hz": "240hz"
 				},
                         ],
@@ -4097,6 +4121,18 @@ const d = {
                                         "link": "https://youtu.be/lpVDS4Dk3_E",
                                         "percent": 100,
                                         "hz": "288hz"
+				},
+				{
+					"user": "Evilperson34",
+                                        "link": "https://www.youtube.com/watch?v=pqKx0X9W8r4&feature=youtu.be",
+                                        "percent": 100,
+                                        "hz": "280hz"
+				},
+				{
+					"user": "TH54",
+                                        "link": "https://www.youtube.com/watch?v=LvD3tPgaWiI",
+                                        "percent": 100,
+                                        "hz": "240hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
