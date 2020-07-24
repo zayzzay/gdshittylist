@@ -17,8 +17,8 @@ const d = {
 				},
 				{
 					"user": "piesy",
-					"link": "https://youtu.be/AI5WS1lZ58s",
-					"percent": 83,
+					"link": "https://youtu.be/-txomH44h_s",
+					"percent": 100,
 					"hz": "240hz"
 				},
 				{
@@ -26,6 +26,12 @@ const d = {
 					"link": "https://youtu.be/zwTRBYKIlOo",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/glqx_WVzOWk",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Infected Caverns",
@@ -2119,6 +2125,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "FallenAresse",
+					"link": "https://www.youtube.com/watch?v=pm1Bd32ksnA&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
@@ -2956,6 +2968,12 @@ const d = {
 					"link": "https://youtu.be/JRba5uucny4",
 					"percent": 69,
 					"hz": "165hz"
+				},
+				{
+					"user": "CarmenWinstead",
+					"link": "https://www.youtube.com/watch?v=2sccv83MyDg",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Thinking Space",
@@ -4249,6 +4267,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Tbocelot10",
+					"link": "https://youtu.be/dQN40dm7znk",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -4942,6 +4966,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "288hz"
                                  },
+				{
+                                        "user": "Tonyearl",
+                                        "link": "https://youtu.be/ytQAAfex6HM",
+                                        "percent": 100,
+                                        "hz": "300hz"
+                                 },
 
 			],
 			"name": "Shitty SPL",
@@ -5009,6 +5039,12 @@ const d = {
 					"link": "https://youtu.be/gml6nDgFCzA",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Tonyearl",
+					"link": "https://youtu.be/7RthPG51cAc",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Esencia",
@@ -5429,6 +5465,12 @@ const d = {
 				{
 					"user": "Baechukimchi",
 					"link": "https://www.youtube.com/watch?v=1XgCxp3v92c",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "HamburgerMan",
+					"link": "https://www.youtube.com/watch?v=EEaBiyKKo4M",
 					"percent": 100,
 					"hz": "240hz"
 				},
