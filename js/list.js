@@ -100,6 +100,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/Vh1Np-_D478",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -523,6 +529,12 @@ const d = {
 					"link": "https://youtu.be/i08XJjvIv6A",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Matter",
+					"link": "https://www.youtube.com/watch?v=WQpM8_IjQlQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sunset Sandstorm",
@@ -1897,6 +1909,12 @@ const d = {
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://youtu.be/JbCPOMj7hC4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Matter",
+					"link": "https://www.youtube.com/watch?v=pmI1gKRd2dQ",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -3815,6 +3833,18 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "aurora",
+				       "link": "https://youtu.be/nlZNt1F9ptU",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+			        {
+				       "user": "Evilperson34",
+				       "link": "https://www.youtube.com/watch?v=auqTk_AMguI&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "280hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -4972,6 +5002,18 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
                                 },
+				{
+                                        "user": "Tbocelot10",
+                                        "link": "https://youtu.be/hx6cNk4Xi54",
+                                        "percent": 100,
+                                        "hz": "60hz"
+                                },
+				{
+                                        "user": "Tonyearl",
+                                        "link": "https://youtu.be/L0DywESoC58",
+                                        "percent": 100,
+                                        "hz": "300hz"
+                                },
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -5170,6 +5212,12 @@ const d = {
 					"link": "https://youtu.be/TsD9HZqjbuk",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Tbocelot10",
+					"link": "https://youtu.be/WyPkHC1FFA0",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
