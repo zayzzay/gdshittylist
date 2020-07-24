@@ -4093,11 +4093,17 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
-			        {
+			       {
 				       "user": "Alphanetic",
-				       "link": " https://youtu.be/teN6cpebxqY",
+				       "link": "https://youtu.be/teN6cpebxqY",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Tbocelot10",
+				       "link": "https://youtu.be/ywPx74z4qQc",
+				       "percent": 100,
+				       "hz": "60hz"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
