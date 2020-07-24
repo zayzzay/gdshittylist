@@ -642,6 +642,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Alphanetic",
+					"link": " https://youtu.be/XPy30wsqEIk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Hatred",
 			"author": "LJosh",
