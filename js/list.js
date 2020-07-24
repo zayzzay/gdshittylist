@@ -2805,6 +2805,12 @@ const d = {
 					"percent": 51,
 					"hz": "240hz"
 				},
+				{
+					"user": "DJJDK",
+					"link": "https://youtu.be/JRba5uucny4",
+					"percent": 69,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -3364,7 +3370,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
                                 },
-
+				{
+                                        "user": "nayf",
+                                        "link": "https://youtu.be/iTj6FSNSIW4",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
@@ -3896,6 +3907,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+				{
+                                        "user": "nayf",
+                                        "link": "https://youtu.be/nobiI-uyqps",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
@@ -4134,6 +4151,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+				{
+					"user": "nayf",
+                                        "link": "https://youtu.be/VoF7OW54Of4",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -4273,6 +4296,12 @@ const d = {
 					"link": "https://youtu.be/SYORrgel4xA",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "nayf",
+					"link": "https://youtu.be/x-zut6LkWU4",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Visible Ray",
@@ -4551,6 +4580,12 @@ const d = {
 				{
 					"user": "RG",
 					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "nayf",
+					"link": "https://youtu.be/EbdE7ADS6Ns",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -5129,6 +5164,12 @@ const d = {
 					"link": "https://youtu.be/5QYSzf0zJbI",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Tonyearl",
+					"link": "https://youtu.be/TsD9HZqjbuk",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
