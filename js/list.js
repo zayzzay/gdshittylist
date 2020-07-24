@@ -932,6 +932,13 @@ const d = {
 					"percent": 100,
 					"hz": "360hz"
 				},
+				{
+                                        "user": "GDMeric",
+                                        "link": "https://www.youtube.com/watch?v=J82TfOgxcPI",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
+
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
@@ -3693,8 +3700,13 @@ const d = {
 		/*=================================================================================*/
 		{
                         "vids": [
-				
-                        ],
+				{
+                                        "user": "Soda",
+                                        "link": "https://www.youtube.com/watch?v=OA1MVGVfee0&t=3s",
+                                        "percent": 100,
+                                        "hz": "75hz"
+                                },
+	                ],
                         "name": "Shitty Ethereal Artifice",
                         "author": "Megum and More [Megum]",
                         "more": "none",
