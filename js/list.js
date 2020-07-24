@@ -598,6 +598,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GrimPencil16",
+					"link": "https://youtu.be/m7dyn6qeBmE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Hatred",
 			"author": "LJosh",
@@ -1711,6 +1717,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/j8nBgezuIgw",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Calculator Core",
 			"author": "oSpace and more [oSpace]",
@@ -2641,6 +2653,12 @@ const d = {
 					"link": "https://youtu.be/VXyoz7XC03M",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "saturn",
+					"link": "https://youtu.be/2biRnWjyaSo",
+					"percent": 100,
+					"hz": "288hz"
 				},
                         ],
 			"name": "Shitty Rate Demon",
@@ -4490,6 +4508,12 @@ const d = {
 					"link": "https://www.instagram.com/tv/CCwvzYkIwFm/",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Whiteteeth",
+					"link": "https://youtu.be/tVaaZRu9_EU",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
