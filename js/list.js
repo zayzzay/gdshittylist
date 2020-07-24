@@ -57,7 +57,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://youtu.be/e4CleTX6wWs",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "Fhyron06",
@@ -677,7 +677,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=b2Samlnkxm4",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "AcropolisBoy",
@@ -825,7 +825,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=p-Ek6R-MTtk",
 					"percent": 81,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "1qawsz",
@@ -1228,7 +1228,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://youtu.be/iYimiJf5eZQ",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "AcropolisBoy",
@@ -1291,7 +1291,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://youtu.be/G3EkIFzAovI",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Wasureta",
@@ -1367,7 +1367,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://youtu.be/mO59qZitpGA",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "Soda",
@@ -1513,7 +1513,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=RwHeNSH-qvk",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "iRaily",
@@ -1831,7 +1831,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=jNNCzs8nks0",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "XanPlayzGamez",
@@ -2166,7 +2166,7 @@ const d = {
 					"user": "Kanolli",
 					"link": "https://www.youtube.com/watch?v=QpvFoC7nPBo",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -2185,7 +2185,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=mDie98ouoPM&t=3s",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "Amedxx2y",
@@ -2451,7 +2451,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=5Jnzkb-pb3o",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "Surpl3x",
@@ -3239,7 +3239,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://youtu.be/JPseMwMJDe4",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "Soda",
@@ -3563,7 +3563,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=i4K8TkM04qo",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "iRaily",
@@ -3679,7 +3679,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=2TU7uX6uwXc&t=8s",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "iRaily",
@@ -3764,7 +3764,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=DuKQxM2bBXE",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "monstergamer456",
@@ -4289,7 +4289,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=wwDpiz1PPlg",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "Soda",
@@ -4465,7 +4465,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=rFyjOfAjQxQ",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "ZekronGD",
@@ -4666,7 +4666,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://www.youtube.com/watch?v=K9HpySLTwpI",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "XanPlayzGamez",
@@ -5134,7 +5134,7 @@ const d = {
                                         "user": "Aassbll",
                                         "link": "https://youtu.be/aVBLi9HEVuk",
                                         "percent": 100,
-                                        "hz": "240hz"
+                                        "hz": "60hz"
                                 },
 				{
                                         "user": "Fhyron06",
