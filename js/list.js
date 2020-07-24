@@ -771,6 +771,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Cyns",
+					"link": "https://www.youtube.com/watch?v=AnaWwQfhPsM",
+					"percent": 79,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -4110,6 +4116,12 @@ const d = {
 				       "link": "https://youtu.be/ywPx74z4qQc",
 				       "percent": 100,
 				       "hz": "60hz"
+			       },
+			       {
+				       "user": "Gherkin",
+				       "link": "https://youtu.be/B43T4uPNnzs",
+				       "percent": 100,
+				       "hz": "Mobile"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
