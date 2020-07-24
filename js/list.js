@@ -2380,6 +2380,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "saturn",
+					"link": "https://youtu.be/97I9pUDFtF0",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -3384,10 +3390,10 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-                                      "user": "Amedxx2y",
-                                      "link": "https://youtu.be/hNa_IZi3APc",
-                                      "percent": 100,
-                                      "hz": "mobile"
+                                       "user": "Amedxx2y",
+                                       "link": "https://youtu.be/hNa_IZi3APc",
+                                       "percent": 100,
+                                       "hz": "Mobile"
                                 },
 				{
 					"user": "Soda",
@@ -4515,6 +4521,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Baechukimchi",
+					"link": "https://www.youtube.com/watch?v=BrZngPZFlXo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -5309,6 +5321,12 @@ const d = {
 					"link": "https://youtu.be/TlTdGlNI_PQ",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "Baechukimchi",
+					"link": "https://www.youtube.com/watch?v=1XgCxp3v92c",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
