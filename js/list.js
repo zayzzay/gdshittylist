@@ -2568,6 +2568,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "FallenAresse",
+					"link": "https://www.youtube.com/watch?v=RKFNrNZvOBU&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
