@@ -2221,7 +2221,7 @@ const d = {
 					"user": "Kanolli",
 					"link": "https://www.youtube.com/watch?v=QpvFoC7nPBo",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
