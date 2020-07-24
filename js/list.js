@@ -28,12 +28,7 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://www.youtube.com/watch?v=yMOeeOUUOxg",
-					"percent": 100,
-					"hz": "120hz"
-				},
+				
 				{
 					"user": "GDTeaBag",
 					"link": "https://www.youtube.com/watch?v=HLZe5440T_g",
