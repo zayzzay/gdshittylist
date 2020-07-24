@@ -2612,6 +2612,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "aurora",
+					"link": "https://youtu.be/Hj5z-Ag5nF8",
+					"percent": 65,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -3572,6 +3578,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=ph5Cif2ED3U",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -4023,6 +4035,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
                                 },
+				{
+                                        "user": "DaddyGoose",
+                                        "link": "https://www.youtube.com/watch?v=s-Ms_nt1-no&feature=youtu.be",
+                                        "percent": 100,
+                                        "hz": "210hz"
+                                },
 
 			],
 			"name": "Shitty Artifice",
@@ -4199,6 +4217,12 @@ const d = {
                                         "link": "https://youtu.be/VoF7OW54Of4",
                                         "percent": 100,
                                         "hz": "240hz"
+				},
+				{
+					"user": "DaddyGoose",
+                                        "link": "https://www.youtube.com/watch?v=XwE2H3fkYyU&feature=youtu.be",
+                                        "percent": 100,
+                                        "hz": "210hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
