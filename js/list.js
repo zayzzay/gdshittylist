@@ -876,6 +876,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/vVddM40VLWY",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
@@ -2141,6 +2147,12 @@ const d = {
 				{
 					"user": "nayf",
 					"link": "https://youtu.be/C9dlsPLsGZk",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Kanolli",
+					"link": "https://www.youtube.com/watch?v=QpvFoC7nPBo",
 					"percent": 100,
 					"hz": "240hz"
 				},
