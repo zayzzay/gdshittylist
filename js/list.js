@@ -2247,6 +2247,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Aiden",
+					"link": "https://www.youtube.com/watch?v=_yjF68PvlOc",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
@@ -2464,6 +2470,12 @@ const d = {
 					"link": "https://youtu.be/97I9pUDFtF0",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Alphanetic",
+					"link": " https://youtu.be/wnmJg_hum5M ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Glacial Core",
@@ -3863,6 +3875,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/P14JP5BvYQQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -4057,6 +4075,12 @@ const d = {
 				       "link": "https://youtu.be/curqSg4FFfk",
 				       "percent": 100,
 				       "hz": "360hz"
+			       },
+			          {
+				       "user": "TH54",
+				       "link": "https://youtu.be/WhjVxYZIBsw",
+				       "percent": 100,
+				       "hz": "240hz"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
@@ -4417,6 +4441,12 @@ const d = {
                                         "link": "https://www.youtube.com/watch?v=XwE2H3fkYyU&feature=youtu.be",
                                         "percent": 100,
                                         "hz": "210hz"
+				},
+				{
+					"user": "Alphanetic",
+                                        "link": "https://youtu.be/9ZQUanZPNBU",
+                                        "percent": 100,
+                                        "hz": "144hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
@@ -5509,6 +5539,12 @@ const d = {
 					"link": "https://youtu.be/XemuyjYjEp0",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Kanolli",
+					"link": "https://www.youtube.com/watch?v=MNO1AF_pzrA",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
