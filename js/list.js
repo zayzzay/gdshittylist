@@ -587,6 +587,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Amedxx2y",
+					"link": "https://youtu.be/7PsRypetCBw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sunset Sandstorm",
 			"author": "LJosh",
