@@ -3833,6 +3833,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+                                {
+					"user": "DJJDK",
+					"link": "https://www.twitch.tv/videos/689534889",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
