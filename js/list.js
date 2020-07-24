@@ -3172,9 +3172,15 @@ const d = {
 				},
 				{
 					"user": "Alphanetic",
-					"link": " https://youtu.be/fix5Sx8p_5U",
+					"link": "https://youtu.be/fix5Sx8p_5U",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/-ytR49MZoLM",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Arctic Lights",
