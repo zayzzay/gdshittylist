@@ -21,6 +21,12 @@ const d = {
 					"percent": 83,
 					"hz": "240hz"
 				},
+				{
+					"user": "saturn",
+					"link": "https://youtu.be/zwTRBYKIlOo",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Infected Caverns",
 			"author": "LJosh",
@@ -297,7 +303,12 @@ const d = {
                                         "percent": 61,
                                         "hz": "144hz"
                                 },
-
+				{
+                                        "user": "nayf",
+                                        "link": "https://youtu.be/h_pY3Wcq3wg",
+                                        "percent": 100,
+                                        "hz": "360hz"
+                                },
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -341,6 +352,12 @@ const d = {
 					"link": "https://youtu.be/I0ZkTmg1MYU",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://www.youtube.com/watch?v=VLOHaT0GLHo&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Zaphkiel",
@@ -450,6 +467,21 @@ const d = {
 					"link": "https://youtu.be/IPtkOZMWzYw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{	"user": "iRaily",
+					"link": "https://youtu.be/qXTFVx89sOg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{	"user": "nayf",
+					"link": "https://youtu.be/4F---w1ti6c",
+					"percent": 100,
+					"hz": "360hz"
+				},
+				{	"user": "saturn",
+					"link": "https://youtu.be/lMdKWPACHF4",
+					"percent": 100,
+					"hz": "360hz"
 				},
 			],
 			"name": "Shitty Balengu Vortex",
@@ -887,6 +919,18 @@ const d = {
 					"link": "https://youtu.be/vVddM40VLWY",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "saturn",
+					"link": "https://youtu.be/rLnAEHHbtec",
+					"percent": 100,
+					"hz": "360hz"
+				},
+				{
+					"user": "nayf",
+					"link": "https://youtu.be/Pm5LiYjmaKk",
+					"percent": 100,
+					"hz": "360hz"
 				},
 			],
 			"name": "Shitty Sonic Wave",
@@ -1342,8 +1386,12 @@ const d = {
                                         "percent": 63,
                                         "hz": "69hz"
                                 },
-
-
+				{
+                                        "user": "GDMeric",
+                                        "link": "https://youtu.be/8OTlECSBRgU",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
                         ],
 			"name": "Shitty Hyper Paracosm",
 			"author": "DigestedCitrus [Deimoz]",
@@ -3863,6 +3911,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "nayf",
+					"link": "https://youtu.be/WXRu9MTYO0I",
+					"percent": 100,
+					"hz": "360hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -3912,11 +3966,17 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
-			        {
+			       {
 				       "user": "Evilperson34",
 				       "link": "https://www.youtube.com/watch?v=auqTk_AMguI&feature=youtu.be",
 				       "percent": 100,
 				       "hz": "280hz"
+			       },
+			       {
+				       "user": "nayf",
+				       "link": "https://youtu.be/curqSg4FFfk",
+				       "percent": 100,
+				       "hz": "360hz"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
@@ -4750,6 +4810,12 @@ const d = {
 				{
 					"user": "Bluuper",
 					"link": "https://youtu.be/B6oJvRzyLTc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/cB3KuqiQVKs",
 					"percent": 100,
 					"hz": "144hz"
 				},
