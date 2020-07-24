@@ -101,6 +101,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/qNUxJrbC_8U",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -1374,6 +1380,12 @@ const d = {
 					"link": "https://youtu.be/2Al4j_4sxJY",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/UnDTeJSKe24",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Tartarus",
