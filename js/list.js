@@ -453,7 +453,7 @@ const d = {
 			"vids": [
 				{
 					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=f3eqo3n4qtM",
+					"link": "https://youtu.be/cvpixmgb4mw",
 					"percent": 100,
 					"hz": "280hz"
 				},
@@ -566,6 +566,12 @@ const d = {
 					"link": "https://youtu.be/7fks6q5VBQE",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "GDmeric",
+					"link": "https://youtu.be/7PD1l8dMuUI",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Hatred",
@@ -3819,9 +3825,15 @@ const d = {
 				},
 				{
 					"user": "piesy",
-					"link": "https://www.youtube.com/watch?v=mgicD6trv1A",
+					"link": "https://youtu.be/Qe5UqFuJ55w",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Kanolli",
+					"link": "https://www.youtube.com/watch?v=hwJydbTVAYI",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty xo",
@@ -4317,6 +4329,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Cailloux",
+					"link": "https://www.instagram.com/tv/CCwvzYkIwFm/",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -4411,8 +4429,8 @@ const d = {
 				},
 				{
 					"user": "vekarzi",
-					"link": "https://www.youtube.com/watch?v=7AMSKMxNL1Y&feature=youtu.be",
-					"percent": 67,
+					"link": "https://youtu.be/7PD1l8dMuUI",
+					"percent": 95,
 					"hz": "75hz"
 				},
 				{
@@ -4877,7 +4895,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
                                 },
-
+				{
+                                        "user": "GDmeric",
+                                        "link": "https://youtu.be/g9SIz5L7yVs",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
