@@ -784,6 +784,12 @@ const d = {
 					"percent": 79,
 					"hz": "288hz"
 				},
+				{
+					"user": "saturn",
+					"link": "https://youtu.be/krZroYFKbdE",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -896,6 +902,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/gh2YrHb4CfE",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty WOW",
 			"author": "oSpace [LJosh]",
@@ -969,7 +981,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
                                 },
-
+				{
+                                        "user": "piesy",
+                                        "link": "https://youtu.be/L_Eg3UEsv70",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
@@ -2938,6 +2955,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "saturn",
+					"link": "https://youtu.be/iMSQd1aP_Fg",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -3034,6 +3057,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=2sccv83MyDg",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Tonyearl",
+					"link": "https://youtu.be/YDlm6XLlkMA",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Thinking Space",
@@ -3206,6 +3235,12 @@ const d = {
 					"link": "https://youtu.be/-ytR49MZoLM",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "saturn",
+					"link": "https://youtu.be/9hPk3mm7q7E",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Arctic Lights",
@@ -3796,6 +3831,24 @@ const d = {
 		/*=================================================================================*/
 		{
                         "vids": [
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/QCxiGpdu6K8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/wWfq8h0SeIM",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Moosh",
+					"link": "https://www.youtube.com/watch?v=JuGj7aj1oyQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -3984,6 +4037,12 @@ const d = {
 					"link": "https://youtu.be/_PHaYg_SD3I",
 					"percent": 56,
 					"hz": "240hz"
+				},
+				
+					"user": "Amedxx2y",
+					"link": "https://youtu.be/aJTKLF2P2xs",
+					"percent": 100,
+					"hz": "Mobile"
 				},
                         ],
                         "name": "Shitty Ouroboros",
@@ -4399,6 +4458,12 @@ const d = {
 					"link": "https://youtu.be/dQN40dm7znk",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "saturn",
+					"link": "https://youtu.be/01_FIYWEck8",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Mujigae",
@@ -5104,19 +5169,25 @@ const d = {
                                         "link": "https://www.youtube.com/watch?v=Y-R5ZXJ31HE",
                                         "percent": 100,
                                         "hz": "75hz"
-                                 },
-				{
-                                        "user": "mestupid",
+                                },
+			        {
+                                       "user": "mestupid",
                                         "link": "https://youtu.be/HbXBNU50QLc",
                                         "percent": 100,
                                         "hz": "288hz"
-                                 },
-				{
+                                },
+			        {
                                         "user": "Tonyearl",
                                         "link": "https://youtu.be/ytQAAfex6HM",
                                         "percent": 100,
                                         "hz": "300hz"
                                  },
+				{
+					"user": "saturn",
+					"link": "https://youtu.be/HG9F0zM8fBU",
+					"percent": 100,
+					"hz": "288hz"
+				},
 
 			],
 			"name": "Shitty SPL",
@@ -5402,6 +5473,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "288hz"
                                 },
+				{
+                                        "user": "Ensanity",
+                                        "link": "https://youtu.be/CYTwR8ulkOg",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -5648,6 +5725,12 @@ const d = {
 					"link": "https://youtu.be/aqHns_dDAVo",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				
+					"user": "Ensanity",
+					"link": "https://youtu.be/VKUHNn3j6y0",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
