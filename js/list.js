@@ -2919,6 +2919,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Tonyearl",
+					"link": "https://youtu.be/GqjXgPdp5Mo",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -4866,6 +4872,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Tbocelot10",
+					"link": "https://youtu.be/cKnjYIkGGuQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -5615,6 +5627,12 @@ const d = {
 					"user": "Gherkin",
 					"link": "https://youtu.be/aqHns_dDAVo",
 					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Glokk38",
+					"link": "https://youtu.be/cWnvw_fx_68",
+					"percent": 98,
 					"hz": "Mobile"
 				},
 			],
