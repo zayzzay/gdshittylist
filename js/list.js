@@ -3865,7 +3865,7 @@ const d = {
 				},
 				{
 					"user": "Soda",
-					"link": "https://www.youtube.com/watch?v=1AySuJ0Dzf0&feature=youtu.be",.
+					"link": "https://www.youtube.com/watch?v=1AySuJ0Dzf0&feature=youtu.be",
 					"percent": 100,
 					"hz": "75hz"
 				},
