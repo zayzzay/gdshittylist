@@ -3087,13 +3087,13 @@ const d = {
 				},
 				{
 					"user": "ShadowNinja441",
-					"link": "https://youtu.be/GqjXgPdp5Mo",
+					"link": "https://youtu.be/AF4fS1BE55A",
 					"percent": 100,
 					"hz": "Mobile"
 				},
 				{
 					"user": "Tonyearl",
-					"link": "https://youtu.be/AF4fS1BE55A",
+					"link": "https://youtu.be/GqjXgPdp5Mo",
 					"percent": 100,
 					"hz": "300hz"
 				},
