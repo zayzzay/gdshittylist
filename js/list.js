@@ -5726,7 +5726,7 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-				
+				{
 					"user": "Ensanity",
 					"link": "https://youtu.be/VKUHNn3j6y0",
 					"percent": 100,
