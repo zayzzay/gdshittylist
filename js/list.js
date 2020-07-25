@@ -2636,6 +2636,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/Uaynj4_HJWw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -2933,6 +2939,12 @@ const d = {
 					"link": "https://youtu.be/6zBW6gLyoiY",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/JZcTBJg4m9U",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Rate Demon",
