@@ -1365,6 +1365,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/umtLxUfo7mQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -1440,15 +1446,21 @@ const d = {
                                 },
 				{
                                         "user": "Alphanetic",
-                                        "link": " https://youtu.be/F6mnTmLrhfA",
+                                        "link": "https://youtu.be/F6mnTmLrhfA",
                                         "percent": 100,
                                         "hz": "144hz"
                                 },
 				{
                                         "user": "WowoGD",
-                                        "link": " https://www.youtube.com/watch?v=T7f-idWGhL8&feature=youtu.be",
+                                        "link": "https://www.youtube.com/watch?v=T7f-idWGhL8&feature=youtu.be",
                                         "percent": 100,
                                         "hz": "240hz"
+                                },
+				{
+                                        "user": "GDMeric",
+                                        "link": "https://youtu.be/4XAHRnQckdE",
+                                        "percent": 100,
+                                        "hz": "144hz"
                                 },
 			],
 			"name": "Shitty Aquatic Auroras",
@@ -3426,7 +3438,7 @@ const d = {
                                          "user": "XanPlayzGamez",
                                          "link": "https://youtu.be/A3wKlHl5IDI",
                                          "percent": 100,
-                                        "hz": "144hz"
+                                         "hz": "144hz"
                                 },
 			],
 			"name": "Shitty Abandoned Planet",
@@ -3445,7 +3457,13 @@ const d = {
                                          "user": "GDMeric",
                                          "link": "https://youtu.be/qBjlZECPKd0",
                                          "percent": 100,
-                                        "hz": "144hz"
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Fhyron06",
+                                         "link": "https://www.youtube.com/watch?v=GCQ_3_i5xvg",
+                                         "percent": 100,
+                                         "hz": "240hz"
                                 },
 			],
 			"name": "Shitty Bloodbath",
@@ -3984,6 +4002,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/9GZkpwtPn7A",
+					"percent": 100,
+					"hz": "240hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -4364,6 +4388,12 @@ const d = {
 			       {
 				       "user": "MiniShoey",
 				       "link": "https://youtu.be/zatAUEb0stA",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+			       {
+				       "user": "WowoGD",
+				       "link": "https://youtu.be/_8utgTYcVw8",
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
@@ -4775,6 +4805,18 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+				{
+					"user": "Bluuper",
+                                        "link": "https://youtu.be/tyPFGpW2LUo",
+                                        "percent": 100,
+                                        "hz": "144hz"
+				},
+				{
+					"user": "WowoGD",
+                                        "link": "https://youtu.be/nGeZikUizE0",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -5042,6 +5084,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/OxvKS75SX1E",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -5157,6 +5205,12 @@ const d = {
 					"link": "https://youtu.be/LCwud4FcxUw",
 					"percent": 73,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/PIh-SXLd6bU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
