@@ -3881,6 +3881,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "MiniShoey",
+					"link": "https://youtu.be/umgxfRuWYfk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -4257,6 +4263,12 @@ const d = {
 				       "link": "https://youtu.be/mjaRWTAoldQ",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+			       {
+				       "user": "MiniShoey",
+				       "link": "https://youtu.be/zatAUEb0stA",
+				       "percent": 100,
+				       "hz": "240hz"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
