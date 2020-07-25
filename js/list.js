@@ -3345,6 +3345,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Creatormichealr",
+					"link": "https://youtu.be/6n3sP7wq9OI",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
