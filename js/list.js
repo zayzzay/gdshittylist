@@ -1359,6 +1359,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "nayf",
+					"link": "https://youtu.be/ZLPE5qVv2tU",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -2573,12 +2579,6 @@ const d = {
 				{
 					"user": "Fhyron06",
 					"link": "https://www.youtube.com/watch?v=Pk5FkBDoT3M",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "nayf",
-					"link": "https://youtu.be/ZLPE5qVv2tU",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -4575,6 +4575,12 @@ const d = {
 					"link": "https://youtu.be/ljE11r2f29g",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://www.youtube.com/watch?v=1lPH9LfiZxE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Mujigae",
