@@ -4517,6 +4517,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "180hz"
 			       },
+			       {
+				       "user": "ThanosPig",
+				       "link": "https://youtu.be/WL_I4ZPgJfg",
+				       "percent": 100,
+				       "hz": "Mobile"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
