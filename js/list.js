@@ -1224,6 +1224,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/8CKd0OxsWb8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zettabyte",
 			"author": "Serpyy",
