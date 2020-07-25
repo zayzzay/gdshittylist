@@ -484,10 +484,17 @@ const d = {
 					"percent": 100,
 					"hz": "360hz"
 				},
-				{	"user": "saturn",
+				{
+					"user": "saturn",
 					"link": "https://youtu.be/lMdKWPACHF4",
 					"percent": 100,
 					"hz": "360hz"
+				},
+				{
+					"user": "EyeHurty",
+					"link": "https://www.youtube.com/watch?v=65fq1emObZY&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Balengu Vortex",
@@ -1334,6 +1341,12 @@ const d = {
                                         "link": "https://www.youtube.com/watch?v=mKHWyOMB4n8&feature=youtu.be",
                                         "percent": 100,
                                         "hz": "288hz"
+                                },
+				{
+                                        "user": "GrimPencil16",
+                                        "link": "https://youtu.be/mtGu0B-zb3k",
+                                        "percent": 100,
+                                        "hz": "Mobile"
                                 },
 			],
 			"name": "Shitty Aquatic Auroras",
