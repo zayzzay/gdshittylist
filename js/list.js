@@ -706,13 +706,13 @@ const d = {
 		{
 			"vids": [
 				{
-                                      "user": "Amedxx2y",
-                                      "link": "https://youtu.be/AlTh7-Cpsnc",
-                                      "percent": 100,
-                                      "hz": "mobile"
+                                       "user": "Amedxx2y",
+                                       "link": "https://youtu.be/AlTh7-Cpsnc",
+                                       "percent": 100,
+                                       "hz": "mobile"
                                 },
 				{
-					"user": "Whiliams8080",
+				        "user": "Whiliams8080",
 					"link": "https://www.youtube.com/watch?v=HMU_TVA7U14",
 					"percent": 100,
 					"hz": "120hz"
@@ -1129,8 +1129,6 @@ const d = {
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/708VHDpYJGo",
 			"key": 19
-		
-	           		
 		},
 		/*=================================================================================*/
 		{
@@ -1297,7 +1295,6 @@ const d = {
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=yW9oNZ07yC8",
 			"key": 23
-			
 		},
 		/*=================================================================================*/
 		{
@@ -3397,7 +3394,7 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-								{
+				{
 					"user": "Fhyron06",
 					"link": "https://www.youtube.com/watch?v=UNk3d5ub0pg",
 					"percent": 100,
@@ -3549,7 +3546,6 @@ const d = {
                                         "percent": 100,
                                         "hz": "120hz"
                                 },
-
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -4032,6 +4028,7 @@ const d = {
 					"percent": 56,
 					"hz": "240hz"
 				},
+				{
 					"user": "Amedxx2y",
 					"link": "https://youtu.be/aJTKLF2P2xs",
 					"percent": 100,
