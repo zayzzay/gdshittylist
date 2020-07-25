@@ -1588,7 +1588,7 @@ const d = {
 				},
 				{
 					"user": "piesy",
-					"link": "https://youtu.be/8VWDHVUaSs0",
+					"link": "https://youtu.be/8MZCWRAeCFg",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -3857,6 +3857,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=np8B4f-cWn8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -3879,6 +3885,12 @@ const d = {
                                 {
                                         "user": "nayf",
                                         "link": "https://www.youtube.com/watch?v=-CT6hpRXUEU&pbjreload=101",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
+				{
+                                        "user": "Fhyron06",
+                                        "link": "https://www.youtube.com/watch?v=tHpuU-uqQ4k",
                                         "percent": 100,
                                         "hz": "240hz"
                                 },
