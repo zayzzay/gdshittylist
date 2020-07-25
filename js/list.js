@@ -692,7 +692,6 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-				
 			],
 			"name": "Shitty Catharsis",
 			"author": "TheKate and more [MrDash]",
@@ -1138,7 +1137,7 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-					{
+				{
 					"user": "Soda",
 					"link": "https://www.youtube.com/watch?v=53Cc3LU2LNM&feature=youtu.be",
 					"percent": 100,
@@ -2463,9 +2462,6 @@ const d = {
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=maJcSIR-SLU",
 			"key": 43
-				
-
-			
 		},
 		/*=================================================================================*/
 		{
