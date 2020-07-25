@@ -4038,7 +4038,6 @@ const d = {
 					"percent": 56,
 					"hz": "240hz"
 				},
-				
 					"user": "Amedxx2y",
 					"link": "https://youtu.be/aJTKLF2P2xs",
 					"percent": 100,
@@ -5181,14 +5180,13 @@ const d = {
                                         "link": "https://youtu.be/ytQAAfex6HM",
                                         "percent": 100,
                                         "hz": "300hz"
-                                 },
-				{
+                                },
+			        {
 					"user": "saturn",
 					"link": "https://youtu.be/HG9F0zM8fBU",
 					"percent": 100,
 					"hz": "288hz"
 				},
-
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
