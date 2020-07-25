@@ -2958,6 +2958,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/LNh1WHjZkiw",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
