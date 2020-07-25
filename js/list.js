@@ -133,7 +133,7 @@ const d = {
 				},
 				{
 					"user": "Magma",
-					"link": "https://www.youtube.com/watch?v=FaIvB3wRWY0&feature=youtu.be",
+					"link": "https://www.youtube.com/watch?v=FaIvB3wRWY0&feature=youtu.be"
 					"percent": 100,
 					"hz": "300hz"
 				},
@@ -2979,6 +2979,12 @@ const d = {
 				{
 					"user": "TH54",
 					"link": "https://youtu.be/LNh1WHjZkiw",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/897quD-2eXg",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -6080,12 +6086,6 @@ const d = {
 					"link": "https://youtu.be/sY1srPp90Tk",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "Creatormichealr",
-					"link": "https://youtu.be/cofNUL6d2zk",
-					"percent": 100,
-					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
