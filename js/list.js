@@ -1162,6 +1162,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/0qmVV9H_N9U",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Wcropolix",
 			"author": "LJosh",
