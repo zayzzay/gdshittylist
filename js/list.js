@@ -131,6 +131,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=FaIvB3wRWY0&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
