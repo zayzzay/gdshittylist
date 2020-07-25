@@ -4918,6 +4918,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Matter",
+					"link": "https://youtu.be/tX_jMwTxOZo",
+					"percent": 100,
+					"hz": "144hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
