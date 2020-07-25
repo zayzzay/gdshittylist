@@ -3387,6 +3387,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+                                         "user": "GDMeric",
+                                         "link": "https://youtu.be/qBjlZECPKd0",
+                                         "percent": 100,
+                                        "hz": "144hz"
+                                },
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
