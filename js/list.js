@@ -133,7 +133,7 @@ const d = {
 				},
 				{
 					"user": "Magma",
-					"link": "https://www.youtube.com/watch?v=FaIvB3wRWY0&feature=youtu.be",
+					"link": "https://www.youtube.com/watch?v=FaIvB3wRWY0&feature=youtu.be"
 					"percent": 100,
 					"hz": "300hz"
 				},
