@@ -3692,6 +3692,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
                                 },
+				{
+                                        "user": "Baechukimchi",
+                                        "link": "https://www.youtube.com/watch?v=XaJU5yk-82E",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
