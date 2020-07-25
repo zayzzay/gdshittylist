@@ -3782,18 +3782,17 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [
-				
-		        ],
-			"name": "Shitty Cataclysm",
-			"author": "AcropolisBoy [LJosh]",
-			"more": "none",
-			"id": 57920891,
-			"pass": "444446",
-			"percentToQualify": 61,
-			"verificationVid": "https://www.youtube.com/watch?v=LeykUbA7N5Y",
-			"key": 66
-		},
+                        "vids": [
+	                ],
+                        "name": "Cataclysm",
+                        "author": "AcropolisBoy [LJosh]",
+                        "more": "none",
+                        "id": 57920891,
+                        "pass": "444446",
+                        "percentToQualify": 61,
+                        "verificationVid": "https://www.youtube.com/watch?v=LeykUbA7N5Y&t=44s",
+                        "key": 66
+                }, 
 		/*=================================================================================*/
 		{
                         "vids": [
@@ -3803,7 +3802,7 @@ const d = {
                                         "percent": 100,
                                         "hz": "75hz"
                                 },
-				{
+                                {
                                         "user": "nayf",
                                         "link": "https://www.youtube.com/watch?v=-CT6hpRXUEU&pbjreload=101",
                                         "percent": 100,
