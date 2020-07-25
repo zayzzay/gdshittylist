@@ -806,10 +806,8 @@ const d = {
                                         "user": "Amedxx2y",
                                         "link": "https://youtu.be/PPQfZlvOvVw",
                                         "percent": 100,
-                                        "hz": "mobile"
+                                        "hz": "Mobile"
                                 },
-
-				
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://youtu.be/GFQow4P97Hc",
