@@ -365,6 +365,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Moosh",
+					"link": "https://www.youtube.com/watch?v=MAfShe_Y1qU",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -1051,6 +1057,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/6uYGgp-cbm8",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -1573,6 +1585,12 @@ const d = {
 					"link": "https://youtu.be/8VWDHVUaSs0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/8VWDHVUaSs0",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Deimos",
@@ -3657,10 +3675,10 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-                                      "user": "Amedxx2y",
-                                      "link": "https://youtu.be/UST1c83h7ZA",
-                                      "percent": 100,
-                                      "hz": "mobile"
+                                       "user": "Amedxx2y",
+                                       "link": "https://youtu.be/UST1c83h7ZA",
+                                       "percent": 100,
+                                       "hz": "Mobile"
                                 },
 				{
 					"user": "TheRealSiel07",
@@ -4204,6 +4222,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			       },
+			       {
+				       "user": "Ensanity",
+				       "link": "https://youtu.be/mjaRWTAoldQ",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -4455,6 +4479,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/ljE11r2f29g",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -4581,6 +4611,18 @@ const d = {
                                         "link": "https://youtu.be/f8OMc_y2fBo",
                                         "percent": 100,
                                         "hz": "180hz"
+				},
+				{
+					"user": "Ensanity",
+                                        "link": "https://youtu.be/nSumERWB5kE",
+                                        "percent": 100,
+                                        "hz": "144hz"
+				},
+				{
+					"user": "Moosh",
+                                        "link": "https://www.youtube.com/watch?v=gLjG0WPHw5Q",
+                                        "percent": 100,
+                                        "hz": "240hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
@@ -4842,6 +4884,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ok3DDww-q0Q&feature=youtu.be",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/oS6-mlax2D4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
@@ -5720,6 +5768,12 @@ const d = {
 					"link": "https://youtu.be/VKUHNn3j6y0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				
+					"user": "xBlur",
+					"link": "https://youtu.be/ILC6gIhv-nQ",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
