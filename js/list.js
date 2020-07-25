@@ -5769,7 +5769,7 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-				
+				{
 					"user": "xBlur",
 					"link": "https://youtu.be/ILC6gIhv-nQ",
 					"percent": 100,
