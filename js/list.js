@@ -527,6 +527,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MiniShoey",
+					"link": "https://www.youtube.com/watch?v=OBrc5hk4A8Y",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "LJosh",
@@ -2390,6 +2396,12 @@ const d = {
 					"link": "https://youtu.be/kHpeq5nFcYQ",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Dist3nd",
+					"link": "https://www.youtube.com/watch?v=Qx3XXoJFtmU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Awakening Horus",
@@ -4642,6 +4654,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+				{
+					"user": "MiniShoey",
+                                        "link": "https://youtu.be/KTnpNEPeXC4",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -5018,6 +5036,12 @@ const d = {
 					"link": "https://www.instagram.com/tv/CCEpyK_IXyF/",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "GdWaaab",
+					"link": "https://youtu.be/LCwud4FcxUw",
+					"percent": 73,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ithacropolis",
@@ -5790,6 +5814,12 @@ const d = {
 				{
 					"user": "xBlur",
 					"link": "https://youtu.be/ILC6gIhv-nQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "MiniShoey",
+					"link": "https://youtu.be/zByFP8ckyPE",
 					"percent": 100,
 					"hz": "240hz"
 				},
