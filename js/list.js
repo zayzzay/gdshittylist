@@ -4393,6 +4393,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Baechukimchi", 
+					"link": "https://www.youtube.com/watch?v=MBoQaR2lCzQ&t=3s",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
