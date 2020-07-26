@@ -5733,6 +5733,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/bZF9o6Fsvn4",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
