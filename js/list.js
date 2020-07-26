@@ -3871,7 +3871,7 @@ const d = {
                                         "hz": "120hz"
                                 },
 				{
-                                        "user": "TH54",
+                                        "user": "N1kix",
                                         "link": "https://youtu.be/JBe0XHQfWc0",
                                         "percent": 100,
                                         "hz": "240hz"
@@ -4168,6 +4168,12 @@ const d = {
 					"percent": 82,
 					"hz": "60hz"
 				},
+				{
+					"user": "Arctic",
+					"link": "https://youtu.be/19nkxhv5XkY",
+					"percent": 97,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -4388,7 +4394,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Blathers",
+					"user": "Blasthers",
 					"link": "https://www.youtube.com/watch?v=N_mFhFGiFJ8",
 					"percent": 100,
 					"hz": "144hz"
