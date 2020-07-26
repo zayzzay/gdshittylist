@@ -1020,6 +1020,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
                                 },
+				{
+                                        "user": "piesy",
+                                        "link": "https://www.youtube.com/watch?v=I8pAS30Dvh0&feature=youtu.be",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
@@ -1522,6 +1528,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
                                 },
+				{
+                                        "user": "Creatormichaelr",
+                                        "link": "https://youtu.be/pfMwc4BSbW4",
+                                        "percent": 100,
+                                        "hz": "300hz"
+                                },
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -1849,6 +1861,12 @@ const d = {
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://youtu.be/wWjc2fh1qjM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/OnTAP5fqjFc",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -2212,6 +2230,12 @@ const d = {
 					"link": "https://youtu.be/CjwcxM64fRI",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/dVmG_SEWtoc",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -3793,6 +3817,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "120hz"
                                 },
+				{
+                                        "user": "N1kix",
+                                        "link": "https://youtu.be/JBe0XHQfWc0",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -4079,6 +4109,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Arctic",
+					"link": "https://youtu.be/tNccN0OSnMI",
+					"percent": 100,
+					"hz": "82hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -4291,6 +4327,12 @@ const d = {
 					"link": "https://youtu.be/P14JP5BvYQQ",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Matter",
+					"link": "https://www.youtube.com/watch?v=XUjhTEikPqU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Dolos",
