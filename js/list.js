@@ -6265,7 +6265,6 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-			
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
