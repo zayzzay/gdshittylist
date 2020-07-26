@@ -333,11 +333,17 @@ const d = {
                                         "hz": "144hz"
                                 },
 				{
-                                        "user": "nayf",
+                                        "user": "GDMeric",
+                                        "link": "https://youtu.be/3thN6SRQ-Uc",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
+				{
+					"user": "nayf",
                                         "link": "https://youtu.be/h_pY3Wcq3wg",
                                         "percent": 100,
                                         "hz": "360hz"
-                                },
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
