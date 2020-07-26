@@ -1196,6 +1196,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/UnLDOyNWrvs",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
