@@ -1117,6 +1117,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Moosh",
+					"link": "https://www.youtube.com/watch?v=jX1JxxxwZiA",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -1191,6 +1197,12 @@ const d = {
 					"link": "https://youtu.be/0qmVV9H_N9U",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "Moosh",
+					"link": "https://www.youtube.com/watch?v=_fYQFh69Nz4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Wcropolix",
