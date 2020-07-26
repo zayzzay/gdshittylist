@@ -39,6 +39,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Moosh",
+					"link": "https://www.youtube.com/watch?v=_njs7EUTO9I",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Infected Caverns",
 			"author": "LJosh",
@@ -865,6 +871,12 @@ const d = {
 				{
 					"user": "Fhyron06",
 					"link": "https://www.youtube.com/watch?v=VL4JsbsSuek",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/unOGw2hWu5E",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -2523,6 +2535,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Moosh",
+					"link": "https://www.youtube.com/watch?v=ljnVB-An4Ic",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
@@ -3338,6 +3356,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Moosh",
+					"link": "https://www.youtube.com/watch?v=4gTYBRqJ8BY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -4112,8 +4136,8 @@ const d = {
 				{
 					"user": "Arctic",
 					"link": "https://youtu.be/tNccN0OSnMI",
-					"percent": 100,
-					"hz": "82hz"
+					"percent": 82,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Just Dance",
@@ -4331,6 +4355,12 @@ const d = {
 				{
 					"user": "Matter",
 					"link": "https://www.youtube.com/watch?v=XUjhTEikPqU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Blasthers",
+					"link": "https://www.youtube.com/watch?v=N_mFhFGiFJ8",
 					"percent": 100,
 					"hz": "144hz"
 				},
