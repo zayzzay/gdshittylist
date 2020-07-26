@@ -3500,6 +3500,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Tonyearl",
+					"link": "https://youtu.be/TxuZYl5jCkk",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
