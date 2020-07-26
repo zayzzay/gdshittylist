@@ -5321,6 +5321,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/3rFf-HT_xD0",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
