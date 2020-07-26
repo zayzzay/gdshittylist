@@ -4165,12 +4165,6 @@ const d = {
 				{
 					"user": "Arctic",
 					"link": "https://youtu.be/tNccN0OSnMI",
-					"percent": 82,
-					"hz": "60hz"
-				},
-				{
-					"user": "Arctic",
-					"link": "https://youtu.be/19nkxhv5XkY",
 					"percent": 97,
 					"hz": "60hz"
 				},
