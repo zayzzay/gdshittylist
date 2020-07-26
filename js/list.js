@@ -1055,6 +1055,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/U2OMle-wyDE",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
@@ -1226,6 +1232,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=_fYQFh69Nz4",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/UrzhzAV2qiQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Wcropolix",
@@ -3992,11 +4004,17 @@ const d = {
                                         "hz": "144hz"
                                 },
 				{
-                                        "user": "TH54",
-                                        "link": "https://youtu.be/DQBH5gG0IVI",
+                                        "user": "WowoGD",
+                                        "link": "https://youtu.be/ek1vpWNHuDY",
                                         "percent": 100,
                                         "hz": "240hz"
                                 },
+				{
+					"user": "TH54",
+                                        "link": "https://youtu.be/DQBH5gG0IVI",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
@@ -4130,6 +4148,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=6gTsCe-bD1s",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "FrEnchKebAb",
+					"link": "https://youtu.be/NHtVW5SbSUI",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Concaved Memories",
@@ -4683,6 +4707,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=rrVHYEcOpPc",
 				       "percent": 100,
 				       "hz": "288hz"
+			       },
+			       {
+				       "user": "Bluuper",
+				       "link": "https://youtu.be/zR6L4YDkHs0",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
