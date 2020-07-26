@@ -4824,6 +4824,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/-hsPIB5MnpM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
