@@ -1134,6 +1134,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "saturn",
+					"link": "https://www.youtube.com/watch?v=nfcT51SRiBU",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -4666,6 +4672,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			       },
+			       {
+				       "user": "saturn",
+				       "link": "https://www.youtube.com/watch?v=rrVHYEcOpPc",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -4849,6 +4861,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
                                 },
+				{
+					"user": "saturn",
+					"link": "https://www.youtube.com/watch?v=gxD9Rgbfs6Q",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
