@@ -4709,6 +4709,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "HdLink13",
+					"link": "https://youtu.be/ZNhBNXyAN3o",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
