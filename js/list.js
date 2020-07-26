@@ -1425,6 +1425,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/L_w5YJ7chLo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -1612,6 +1618,12 @@ const d = {
 				{
 					"user": "piesy",
 					"link": "https://youtu.be/BHmPa5mS3vw",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/D3wrCInCRpQ",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -2366,6 +2378,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=MYiZJB_ElGc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Retitled",
 			"author": "Soda",
@@ -2846,6 +2864,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=RKFNrNZvOBU&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=r6AaNnoZHH0",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
 			"name": "Shitty Kenos",
