@@ -1039,7 +1039,7 @@ const d = {
                                 },
 				{
 					"user": "MythicalTG",
-					"link": "https://youtu.be/XCZRGwchXmg"
+					"link": "https://youtu.be/XCZRGwchXmg",
 					"percent": 100,
 					"hz": "144hz"
 				},
