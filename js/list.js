@@ -4502,6 +4502,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/DxzTaCXm-lg",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
