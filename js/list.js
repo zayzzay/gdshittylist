@@ -3586,6 +3586,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Tonyearl",
+					"link": "https://youtu.be/koYFi0-VKvM",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Ad Aeternum",
 			"author": "Vlaash and more [rVlaash]",
