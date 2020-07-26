@@ -3978,6 +3978,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
                                 },
+				{
+                                        "user": "Creatormichaelr",
+                                        "link": "https://youtu.be/zAyUqb3zTGI0",
+                                        "percent": 100,
+                                        "hz": "300hz"
+                                },
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
