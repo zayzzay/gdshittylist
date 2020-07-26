@@ -4037,7 +4037,7 @@ const d = {
 					"user": "SlayTrixx",
 					"link": "https://youtu.be/zFa93uOBiBw",
 					"percent": 79,
-					"hz": "60"
+					"hz": "60hz"
 				},
 				{
 					"user": "ZekronGD",
