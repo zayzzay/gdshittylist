@@ -2553,7 +2553,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Creatormichealr",
+					"user": "Creatormichaelr",
 					"link": "https://youtu.be/oHdg_paLFqs",
 					"percent": 100,
 					"hz": "300hz"
@@ -3459,7 +3459,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Creatormichealr",
+					"user": "Creatormichaelr",
 					"link": "https://youtu.be/6n3sP7wq9OI",
 					"percent": 100,
 					"hz": "300hz"
@@ -4236,7 +4236,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Creatormichealr",
+					"user": "Creatormichaelr",
 					"link": "https://youtu.be/q8llNdwyjyc",
 					"percent": 100,
 					"hz": "300hz"
@@ -5122,7 +5122,7 @@ const d = {
                                         "hz": "240hz"
 				},
 				{
-					"user": "Creatormichealr",
+					"user": "Creatormichaelr",
 					"link": "https://youtu.be/fKSodlpsINM",
 					"percent": 100,
 					"hz": "300hz"
@@ -5413,7 +5413,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Creatormichealr",
+					"user": "Creatormichaelr",
 					"link": "https://youtu.be/cUIKl70NgfE",
 					"percent": 100,
 					"hz": "300hz"
@@ -6345,7 +6345,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Creatormichealr",
+					"user": "Creatormichaelr",
 					"link": "https://youtu.be/cofNUL6d2zk",
 					"percent": 100,
 					"hz": "300hz"
