@@ -3525,6 +3525,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Tonyearl",
+					"link": "https://youtu.be/p7YowFcwk7s",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Skrillex Theory",
 			"author": "LJosh",
