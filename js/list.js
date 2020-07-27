@@ -4141,6 +4141,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "300hz"
 				},
+				{
+					"user": "xBlur",
+                                        "link": "https://youtu.be/Ccmgzsypw-w",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
