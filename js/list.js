@@ -537,6 +537,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "crumche",
+					"link": "https://cdn.discordapp.com/attachments/737134935881809963/737135467493064704/shitty_balengu_vortex.mp4",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
