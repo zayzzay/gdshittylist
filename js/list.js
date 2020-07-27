@@ -14,7 +14,7 @@ const d = {
                        "author": "Magma",
                        "more": "none",
                        "id": 63009517,
-                       "pass": "Free to copy,
+                       "pass": "Free to copy",
                        "percentToQualify": 45,
                        "verificationVid": "https://www.youtube.com/watch?v=I4IICgiqfbE&t=65s",
                        "key": 0
