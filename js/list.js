@@ -2508,6 +2508,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "ShDwGhost",
+					"link": "https://youtu.be/Q3hqsKVJkKk",
+					"percent": 92,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
@@ -4050,6 +4056,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "300hz"
                                 },
+				{
+					"user": "Baechukimchi",
+                                        "link": "https://www.youtube.com/watch?v=1CsZqUoG8gU",
+                                        "percent": 100,
+                                        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -4378,6 +4390,18 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Baechukimchi",
+					"link": "https://www.youtube.com/watch?v=NhQx_IGMHqE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/hD-k6DNOBng",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -4450,6 +4474,12 @@ const d = {
 					"link": "https://youtu.be/-RDBi1J-LVU",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/2-AFWCTWV3I",
+					"percent": 100,
+					"hz": "144hz"
 				},
 	                ],
                         "name": "Shitty Cataclysm",
@@ -4620,6 +4650,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=MBoQaR2lCzQ&t=3s",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Bluuper", 
+					"link": "https://youtu.be/egAwDtby4lU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Dolos",
