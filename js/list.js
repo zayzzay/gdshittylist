@@ -59,6 +59,55 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=f3eqo3n4qtM",
+					"percent": 100,
+					"hz": "280hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/ToIHi7iDIRs",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/EkcBDA4zcXU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Xanii",
+					"link": "https://www.mediafire.com/file/yfswh8t0f3q9943/a.mp4/file",
+					"percent": 100,
+					"hz": "360hz"
+				},
+				{
+					"user": "Surpl3x",
+					"link": "https://youtu.be/kcYTwO4efk4",
+					"percent": 64,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=FaIvB3wRWY0&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
+			],
+			"name": "Shitty Erebus",
+			"author": "LJosh",
+			"more": "none",
+			"id": 59560393,
+			"pass": "000010",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=UBmcMgL0Pdg",
+			"key": 1
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "GDTeaBag",
 					"link": "https://www.youtube.com/watch?v=HLZe5440T_g",
 					"percent": 100,
@@ -150,55 +199,6 @@ const d = {
 			"pass": "000009",
 			"percentToQualify": 56,
 			"verificationVid": "https://www.youtube.com/watch?v=-Zw0JVGLRlw",
-			"key": 1
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=f3eqo3n4qtM",
-					"percent": 100,
-					"hz": "280hz"
-				},
-				{
-					"user": "zMarc",
-					"link": "https://youtu.be/ToIHi7iDIRs",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/EkcBDA4zcXU",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Xanii",
-					"link": "https://www.mediafire.com/file/yfswh8t0f3q9943/a.mp4/file",
-					"percent": 100,
-					"hz": "360hz"
-				},
-				{
-					"user": "Surpl3x",
-					"link": "https://youtu.be/kcYTwO4efk4",
-					"percent": 64,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Magma",
-					"link": "https://www.youtube.com/watch?v=FaIvB3wRWY0&feature=youtu.be",
-					"percent": 100,
-					"hz": "300hz"
-				},
-			],
-			"name": "Shitty Erebus",
-			"author": "LJosh",
-			"more": "none",
-			"id": 59560393,
-			"pass": "000010",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=UBmcMgL0Pdg",
 			"key": 2
 		},
 		/*=================================================================================*/
