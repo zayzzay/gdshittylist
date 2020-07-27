@@ -2660,6 +2660,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/HEINvZpNrCs",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
