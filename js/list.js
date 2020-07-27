@@ -1249,6 +1249,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Veedio",
+					"link": "https://youtu.be/5jYrlpX621s",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -5106,6 +5112,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/w13-X0NEf1Y",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -6547,6 +6559,12 @@ const d = {
 					"link": "https://youtu.be/LcswALS2uho",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Veedio",
+					"link": "https://youtu.be/CMs9GZF1lQ8",
+					"percent": 100,
+					"hz": "60hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
