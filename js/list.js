@@ -4162,8 +4162,8 @@ const d = {
 				},
 				{
 					"user": "SlayTrixx",
-					"link": "https://youtu.be/zFa93uOBiBw",
-					"percent": 79,
+					"link": "https://youtu.be/dQfwROlwt0M",
+					"percent": 95,
 					"hz": "60hz"
 				},
 				{
