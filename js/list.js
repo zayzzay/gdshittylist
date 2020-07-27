@@ -2124,6 +2124,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=PbY_eY-pDRE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Macabre",
 			"author": "oSpace and more [Serpyy]",
