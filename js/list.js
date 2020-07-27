@@ -6054,6 +6054,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Questionblockg",
+					"link": "https://youtu.be/GkqUVm7z2JA",
+					"percent": 69,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
@@ -6583,6 +6589,12 @@ const d = {
 					"link": "https://youtu.be/iVCkYIaQ0PA",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Wyaaronpc",
+					"link": "https://youtu.be/lLQ05a-q7ZEA",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
