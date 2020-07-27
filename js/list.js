@@ -210,6 +210,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/i44nBARc1Y8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -510,6 +516,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=M7KRfcBRr7Q",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Triple Six",
 			"author": "LJosh",
@@ -586,6 +598,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=lUW-AFgfpjc",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
@@ -616,6 +634,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=OBrc5hk4A8Y",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=P4Y_gwphI_o",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Poltergeist Reborn",
@@ -2959,6 +2983,12 @@ const d = {
 					"link": "https://youtu.be/Uaynj4_HJWw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/ED7XoSUU6HU",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Glacial Core",
@@ -6806,6 +6836,18 @@ const d = {
 					"link": "https://youtu.be/lLQ05a-q7ZEA",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "ShDwGhost",
+					"link": "https://youtu.be/5f-DSUJLzr0",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/Xs0xlbtTG6E",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Xo Circles",
