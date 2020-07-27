@@ -2,6 +2,25 @@ const d = {
 	"list": [
 		/*=================================================================================*/
 		{
+                       "vids": [
+			       {
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/Vi6NIYsp0Sk",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Shitty Azure Flare",
+                       "author": "Magma",
+                       "more": "none",
+                       "id": 63009517,
+                       "pass": "Free to copy,
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=I4IICgiqfbE&t=65s",
+                       "key": 0
+                },
+		/*=================================================================================*/
+		{
 			"vids": [
 				{
 					"user": "XanPlayzGamez",
