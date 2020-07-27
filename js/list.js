@@ -2335,7 +2335,7 @@ const d = {
 				{
 					"user": "Veedio",
 					"link": "https://www.youtube.com/watch?v=twyt4L9GkRM&feature=youtu.be",
-					"percent": 60,
+					"percent": 100,
 					"hz": "60hz"
 				},
 			],
