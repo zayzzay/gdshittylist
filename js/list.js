@@ -2484,6 +2484,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Veedio",
+					"link": "https://www.youtube.com/watch?v=YC1-HycNC_0&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
