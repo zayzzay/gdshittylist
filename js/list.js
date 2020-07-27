@@ -350,6 +350,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "300hz"
 				},
+				{
+					"user": "HamburgerMan",
+                                        "link": "https://www.youtube.com/watch?v=ppBpFy-_eHI",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -1335,6 +1341,12 @@ const d = {
 					"link": "https://youtu.be/NiF973ZPn28",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Veedio",
+					"link": "https://www.youtube.com/watch?v=H4uBxxSu7sw&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Step To Hell",
@@ -2610,7 +2622,7 @@ const d = {
 					"user": "Aassbll",
 					"link": "https://youtu.be/W7DgnpBIKaw",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "GDMeric",
@@ -2677,6 +2689,12 @@ const d = {
 					"link": "https://youtu.be/HEINvZpNrCs",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "ThanosPig",
+					"link": "https://youtu.be/xwlz48dMsPM",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -5733,6 +5751,12 @@ const d = {
 				{
 					"user": "GrimPencil16",
 					"link": "https://youtu.be/GVt3gMhUYm8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ThanosPig",
+					"link": "https://youtu.be/MhothPmCAic",
 					"percent": 100,
 					"hz": "Mobile"
 				},
