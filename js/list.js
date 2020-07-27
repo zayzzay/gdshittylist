@@ -344,6 +344,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "360hz"
 				},
+				{
+					"user": "Magma",
+                                        "link": "https://www.youtube.com/watch?v=fP-ywcYMj2k",
+                                        "percent": 100,
+                                        "hz": "300hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -4189,6 +4195,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+				{
+					"user": "Bluuper",
+                                        "link": "https://youtu.be/tKhCmNhYtGs",
+                                        "percent": 100,
+                                        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
@@ -6106,6 +6118,12 @@ const d = {
 					"link": "https://youtu.be/HG9F0zM8fBU",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Questionblockg",
+					"link": "https://youtu.be/7PeIJ5zkLdU",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty SPL",
