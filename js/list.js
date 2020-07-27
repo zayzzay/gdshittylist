@@ -400,6 +400,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "crumche",
+					"link": "https://cdn.discordapp.com/attachments/737134935881809963/737135132728623144/shitty_zaphkiel.mp4",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
