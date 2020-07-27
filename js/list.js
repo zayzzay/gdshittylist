@@ -1708,6 +1708,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "300hz"
                                 },
+				{
+                                        "user": "piesy",
+                                        "link": "https://youtu.be/EbjCM5E5vrQ",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
