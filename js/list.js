@@ -3203,6 +3203,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "crumche",
+					"link": "https://cdn.discordapp.com/attachments/737134935881809963/737135852580503562/shitty_rate_demon.mp4",
+					"percent": 100,
+					"hz": "120hz"
+				},
                         ],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
