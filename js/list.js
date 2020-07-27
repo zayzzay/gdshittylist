@@ -4238,6 +4238,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "StatiicBluey",
+					"link": "https://youtu.be/qwtBxTwh_cY",
+					"percent": 97,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
