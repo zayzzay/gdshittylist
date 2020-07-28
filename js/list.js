@@ -1317,6 +1317,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Batle",
+					"link": "https://youtu.be/v1WIiWmi3Uw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
