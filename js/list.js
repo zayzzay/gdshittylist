@@ -4437,6 +4437,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/7ogohe6sF0g",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
