@@ -2787,6 +2787,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "HamburgerMan",
+					"link": "https://www.youtube.com/watch?v=iQbSk_jiIMY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
