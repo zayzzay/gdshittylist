@@ -113,6 +113,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/rMLFHCCz2d8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Erebus",
 			"author": "LJosh",
@@ -4316,6 +4322,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/GPeYeUawslE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
@@ -6123,6 +6135,12 @@ const d = {
 					"link": "https://youtu.be/bZF9o6Fsvn4",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=WYp99ObkxzE",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Paroxysm",
