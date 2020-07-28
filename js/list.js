@@ -2946,6 +2946,7 @@ const d = {
 			"more": "none",
 			"id": 54841903,
 			"pass": "Free to copy",
+                        "hacked": true,
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=1Y1T2UdSCEY&t=2425s",
 			"key": 44
@@ -3430,6 +3431,7 @@ const d = {
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=s9tbL0aa21U",
 			"key": 51
+		},
 		/*=================================================================================*/
 		{
 			"vids": [
