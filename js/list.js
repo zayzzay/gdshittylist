@@ -70,6 +70,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/KAyEJsWFPq8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Infected Caverns",
 			"author": "LJosh",
