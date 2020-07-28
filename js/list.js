@@ -1261,6 +1261,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/ZESrQKrA5A8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -5596,6 +5602,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/pzWrPABkhSI",
+					"percent": 100,
+					"hz": "240hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -6318,6 +6330,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=wuoDmdY2fB8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
@@ -6962,6 +6980,12 @@ const d = {
 					"link": "https://youtu.be/Xs0xlbtTG6E",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/N_d8aVh0wv4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
