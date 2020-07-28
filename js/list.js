@@ -1319,7 +1319,7 @@ const d = {
 				},
 				{
 					"user": "Batle",
-					"link": "https://youtu.be/v1WIiWmi3Uw",
+					"link": "https://youtu.be/2egLEnqpgBc",
 					"percent": 100,
 					"hz": "Mobile"
 				},
