@@ -3632,6 +3632,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/DnuzItTbNMs",
+					"percent": 58,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
