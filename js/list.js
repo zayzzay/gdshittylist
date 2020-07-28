@@ -7120,6 +7120,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Fwin",
+					"link": "https://www.youtube.com/watch?v=Vm-LTDhduLo",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
