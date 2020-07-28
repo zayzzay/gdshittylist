@@ -2799,6 +2799,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Dist3nd",
+					"link": "https://youtu.be/OAeNFP8xZSU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
@@ -3188,6 +3194,12 @@ const d = {
 					"link": "https://youtu.be/2L9ncSUyRd0",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Dist3nd",
+					"link": "https://youtu.be/Ev-J06dA7aQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
 			"name": "Shitty Kenos",
@@ -5014,6 +5026,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=a0oL2EsWk-4&feature=youtu.be",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -6083,8 +6101,8 @@ const d = {
 				},
 				{
 					"user": "vekarzi",
-					"link": "https://youtu.be/7PD1l8dMuUI",
-					"percent": 95,
+					"link": "https://youtu.be/J0Gsc8obSZk",
+					"percent": 100,
 					"hz": "75hz"
 				},
 				{
