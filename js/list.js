@@ -2922,11 +2922,11 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=vvMFZnLM2Hk",
-					"percent": 100,
-					"hz": "240hz"
-				},
+                                        "user": "Fhyron06",
+                                        "link": "https://www.youtube.com/watch?v=vvMFZnLM2Hk",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
 			],
 			"name": "Shitty Pinball Panic",
 			"author": "HdLink13 [GDTeaBag]",
@@ -2946,8 +2946,7 @@ const d = {
 			"more": "none",
 			"id": 54841903,
 			"pass": "Free to copy",
-			"hacked": true,
-			"percentToQualify": 50,
+			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=1Y1T2UdSCEY&t=2425s",
 			"key": 44
 		},
