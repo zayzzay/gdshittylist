@@ -4395,6 +4395,12 @@ const d = {
 					"percent": 97,
 					"hz": "144hz"
 				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/SIZBylbAK5g",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -5074,6 +5080,12 @@ const d = {
 				       "link": "https://youtu.be/BTYkSLyirD0",
 				       "percent": 100,
 				       "hz": "Mobile"
+			       },
+			       {
+				       "user": "Creatormichaelr",
+				       "link": "https://youtu.be/YiT2m8Lb6ks",
+				       "percent": 100,
+				       "hz": "300hz"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
