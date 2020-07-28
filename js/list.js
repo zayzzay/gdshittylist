@@ -9,6 +9,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "piesy",
+				       "link": "https://youtu.be/30KjuruqQBA",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
                        ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -3950,6 +3956,12 @@ const d = {
                                          "percent": 100,
                                          "hz": "144hz"
                                 },
+				{
+                                         "user": "piesy",
+                                         "link": "https://youtu.be/dmyXIAYLWRA",
+                                         "percent": 100,
+                                         "hz": "240hz"
+                                },
 			],
 			"name": "Shitty Abandoned Planet",
 			"author": "LJosh",
@@ -5647,6 +5659,12 @@ const d = {
 				{
 					"user": "piesy",
 					"link": "https://youtu.be/pzWrPABkhSI",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "ImInquired",
+					"link": "https://www.youtube.com/watch?v=6HFYNe6Nk2Y&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
 				},
