@@ -4735,6 +4735,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Zirkitri",
+					"link": "https://youtu.be/jopHgAILLms",
+					"percent": 100,
+					"hz": "60hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
