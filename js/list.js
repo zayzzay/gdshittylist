@@ -2681,6 +2681,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Nevise",
+					"link": "https://www.youtube.com/watch?v=zgzIIyRjhF8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cosmorush 21",
 			"author": "AcropolisBoy and Whiliams8080 [Bartoldo]",
@@ -4801,6 +4807,12 @@ const d = {
 				{
 					"user": "GDMeric",
 					"link": "https://youtu.be/aXFAt1oRyj8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Zurteh",
+					"link": "https://youtu.be/IA6qxID5TZ8",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -6980,6 +6992,12 @@ const d = {
 					"percent": 69,
 					"hz": "Mobile"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/qjLpmyDU_7A",
+					"percent": 69,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
@@ -7611,6 +7629,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=qN7M-EaiBrg",
 					"percent": 100,
                                         "hz": "144hz"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/JdPb70I1-ZU",
+					"percent": 100,
+                                        "hz": "120hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
