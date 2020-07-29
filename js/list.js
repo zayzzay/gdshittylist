@@ -5331,6 +5331,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/z95vHioRyLc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
