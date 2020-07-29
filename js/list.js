@@ -4894,6 +4894,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ThanosPig",
+					"link": "https://youtu.be/cG83WV_6k7Q",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
