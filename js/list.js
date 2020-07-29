@@ -411,6 +411,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/Dr9CCbQBQ1k",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -1188,6 +1194,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Tonyearl",
+					"link": "https://youtu.be/NDKHBemzxPw",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -1287,6 +1299,24 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/1J1PAjvwHuw",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=gsp5iLJ4AIc",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/g_b4V-UtMFM",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Wcropolix",
 			"author": "LJosh",
@@ -1341,6 +1371,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=H4uBxxSu7sw&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/sAzeOcSklpw",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Step To Hell",
@@ -2841,6 +2877,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Spacethug",
+					"link": "https://youtu.be/ZkZ_rV6_6Fw",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
@@ -2947,6 +2989,12 @@ const d = {
 				{
 					"user": "HamburgerMan",
 					"link": "https://www.youtube.com/watch?v=zBIPHVBNoPg",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/0Tlr2x16pEQ",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -5104,6 +5152,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=a0oL2EsWk-4&feature=youtu.be",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://www.youtube.com/watch?v=twF685Ao1YA",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
