@@ -4715,7 +4715,7 @@ const d = {
 			"id": 58030170,
 			"pass": "Free to copy",
 			"percentToQualify": 58,
-			"verificationVid": "https://youtu.be/TwBHuCPo6DA",
+			"verificationVid": "https://www.youtube.com/watch?v=JWRsQF6ktIo",
 			"key": 67
 		},
 		/*=================================================================================*/
