@@ -3483,6 +3483,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Charlielance",
+					"link": "https://youtu.be/GXpCmXTo8_w",
+					"percent": 100,
+					"hz": "120hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
