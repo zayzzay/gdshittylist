@@ -1921,6 +1921,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Dist3nd",
+					"link": "https://youtu.be/YKgGhQnGFg0",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Hyper Paracosm",
 			"author": "DigestedCitrus [Deimoz]",
@@ -2883,6 +2889,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/dY600MCVQbg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
@@ -3510,6 +3522,12 @@ const d = {
 					"link": "https://cdn.discordapp.com/attachments/737134935881809963/737135852580503562/shitty_rate_demon.mp4",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/OUShXF_tj3c",
+					"percent": 100,
+					"hz": "Mobile"
 				},
                         ],
 			"name": "Shitty Rate Demon",
@@ -4503,6 +4521,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "GDWish",
+					"link": "https://youtu.be/vwYkQcDVCsA",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
@@ -4818,6 +4842,12 @@ const d = {
 					"link": "https://youtu.be/jopHgAILLms",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Zurteh",
+					"link": "https://youtu.be/2157xqHaI-0",
+					"percent": 100,
+					"hz": "144hz"
 				},
 	                ],
                         "name": "Shitty Cataclysm",
@@ -5824,6 +5854,12 @@ const d = {
 					"link": "https://youtu.be/UqmQXgD0wpY",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Charlielance",
+					"link": "https://www.youtube.com/watch?v=wcAchL5fex0",
+					"percent": 100,
+					"hz": "120hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
@@ -7257,6 +7293,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Vm-LTDhduLo",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Deados35",
+					"link": "https://youtu.be/eBXo7pQGDA4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
