@@ -1604,6 +1604,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/3ENFoJxDyBM",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -1712,6 +1718,12 @@ const d = {
                                         "link": "https://www.youtube.com/watch?v=Ss2l2eqCJ1A",
                                         "percent": 100,
                                         "hz": "240hz"
+				},
+				{
+					"user": "Conical",
+                                        "link": "https://youtu.be/LDy1Yaho4OI",
+                                        "percent": 100,
+                                        "hz": "180hz"
 				},
 			],
 			"name": "Shitty Aquatic Auroras",
@@ -1926,6 +1938,12 @@ const d = {
 					"link": "https://youtu.be/YKgGhQnGFg0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/4uzus2QK3i4",
+					"percent": 100,
+					"hz": "180hz"
 				},
                         ],
 			"name": "Shitty Hyper Paracosm",
@@ -3042,6 +3060,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+				 	"user": "Fhyron06",
+                                        "link": "https://www.youtube.com/watch?v=Yj_b4n8fvXY",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},	
 			],
 			"name": "Shitty Low Death",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -4132,6 +4156,12 @@ const d = {
                                          "percent": 100,
                                          "hz": "60hz"
                                 },
+				{
+                                         "user": "chalielance",
+                                         "link": "https://www.youtube.com/watch?v=F2nMJ5VidZ0",
+                                         "percent": 100,
+                                         "hz": "120hz"
+                                },
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -4234,6 +4264,12 @@ const d = {
 				{
 					"user": "GDMeric",
 					"link": "https://youtu.be/tW25q_3XIuU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/89BuUOym07M",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -4849,6 +4885,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Charlielance",
+					"link": "https://www.youtube.com/watch?v=VibJFGJ5XtE",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/zPOqKpYNbJo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -5022,6 +5070,12 @@ const d = {
 				{
 					"user": "Bluuper", 
 					"link": "https://youtu.be/egAwDtby4lU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Darkrai26", 
+					"link": "https://youtu.be/TuOGqJyDORI",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -6630,6 +6684,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=wuoDmdY2fB8",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Batle",
+					"link": "https://youtu.be/ZUH1_v5fXzo",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty SPL",
