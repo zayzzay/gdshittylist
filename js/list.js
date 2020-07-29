@@ -295,6 +295,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Charlielance",
+					"link": "https://youtu.be/qTXK4xkwWvg",
+					"percent": 64,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty AfterCataBath",
 			"author": "AcropolisBoy [LJosh]",
@@ -508,6 +514,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=6hr-BW8wVi4",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Hulunn",
+					"link": "https://www.youtube.com/watch?v=gJ-WtJC3PZs",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Zaphkiel",
@@ -2253,6 +2265,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Zshadoweye",
+					"link": "https://www.youtube.com/watch?v=VMwNvh2XNIY&t=8s",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Hulunn",
+					"link": "https://www.youtube.com/watch?v=IEmv5ZMteNg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -2649,6 +2673,12 @@ const d = {
 					"link": "https://youtu.be/3eM0tTLRZAA",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ShadowNinja441",
+					"link": "https://youtu.be/aARZjbwEuEM",
+					"percent": 78,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -4287,6 +4317,12 @@ const d = {
                                          "percent": 100,
                                          "hz": "144hz"
                                 },
+				{
+					"user": "Charlielance",
+                                         "link": "https://www.youtube.com/watch?v=F2nMJ5VidZ0",
+                                         "percent": 100,
+                                         "hz": "120hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -4791,6 +4827,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Hulunn",
+					"link": "https://www.youtube.com/watch?v=DL0RxLgqXbc",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -4950,6 +4992,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/qczRgts6UHA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -5064,6 +5112,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=KZ6YPbVxn9k",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Hulunn",
+					"link": "https://www.youtube.com/watch?v=Kr-AbWnESCA",
+					"percent": 100,
+					"hz": "300hz"
 				},
 	                ],
                         "name": "Shitty Cataclysm",
@@ -5246,6 +5300,12 @@ const d = {
 					"link": "https://youtu.be/TuOGqJyDORI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Nevise", 
+					"link": "https://youtu.be/cxUXlSX6Oes",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Dolos",
@@ -6998,6 +7058,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/g_l8_vTIkhI",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
@@ -7250,6 +7316,12 @@ const d = {
 					"link": "https://youtu.be/GqOgRYZ18b4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://www.youtube.com/watch?v=Wx4B2yto2WM&feature=youtu.be",
+					"percent": 100,
+					"hz": "120hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
@@ -7635,6 +7707,12 @@ const d = {
 					"link": "https://youtu.be/JdPb70I1-ZU",
 					"percent": 100,
                                         "hz": "120hz"
+				},
+				{
+					"user": "Hulunn",
+					"link": "https://www.youtube.com/watch?v=Pk3bVbLHuQs",
+					"percent": 100,
+                                        "hz": "300hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
