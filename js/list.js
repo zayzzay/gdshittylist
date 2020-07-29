@@ -1099,109 +1099,6 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "GDTeaBag",
-					"link": "https://youtu.be/1Y1T2UdSCEY?t=9",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "sandstormy",
-					"link": "https://www.youtube.com/watch?v=JDN8z5TZEK4",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=R0s0VKFhIn0",
-					"percent": 100,
-					"hz": "280hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/zwC3CZoTm8M",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "DJJDK",
-					"link": "https://youtu.be/lKz0a2JWDjU",
-					"percent": 67,
-					"hz": "165hz"
-				},
-				{
-					"user": "RG",
-					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Conical",
-					"link": "https://youtu.be/vVddM40VLWY",
-					"percent": 100,
-					"hz": "180hz"
-				},
-				{
-					"user": "saturn",
-					"link": "https://youtu.be/rLnAEHHbtec",
-					"percent": 100,
-					"hz": "360hz"
-				},
-				{
-					"user": "nayf",
-					"link": "https://youtu.be/Pm5LiYjmaKk",
-					"percent": 100,
-					"hz": "360hz"
-				},
-				{
-                                        "user": "GDMeric",
-                                        "link": "https://www.youtube.com/watch?v=J82TfOgxcPI",
-                                        "percent": 100,
-                                        "hz": "144hz"
-                                },
-				{
-                                        "user": "piesy",
-                                        "link": "https://youtu.be/L_Eg3UEsv70",
-                                        "percent": 100,
-                                        "hz": "240hz"
-                                },
-				{
-                                        "user": "HamburgerMan",
-                                        "link": "https://www.youtube.com/watch?v=I8pAS30Dvh0&feature=youtu.be",
-                                        "percent": 100,
-                                        "hz": "240hz"
-                                },
-				{
-					"user": "MythicalTG",
-					"link": "https://youtu.be/XCZRGwchXmg",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Creatormichaelr",
-					"link": "https://youtu.be/U2OMle-wyDE",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "Wyaaronpc",
-					"link": "https://youtu.be/w_PzMka7VeA",
-					"percent": 100,
-					"hz": "240hz"
-				},
-			],
-			"name": "Shitty Sonic Wave",
-			"author": "Acropolisboy [timckic]",
-			"more": "none",
-			"id": 55367155,
-			"pass": "001006",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=dnjnt9rI_qc",
-			"key": 17
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
 					"user": "iRaily",
 					"link": "https://youtu.be/gw0esWl_xJs",
 					"percent": 100,
@@ -1299,7 +1196,7 @@ const d = {
 			"pass": "666666",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=Qthrvca6JAs",
-			"key": 18
+			"key": 17
 			
 		},
 		/*=================================================================================*/
@@ -1343,7 +1240,7 @@ const d = {
 			"pass": "Not copyable",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=qP0v6diamBM",
-			"key": 19
+			"key": 18
 		},
 		/*=================================================================================*/
 		{
@@ -1398,7 +1295,7 @@ const d = {
 			"pass": "000002",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/708VHDpYJGo",
-			"key": 20
+			"key": 19
 		},
 		/*=================================================================================*/
 		{
@@ -1453,7 +1350,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=f8HQ1T1HmXs",
-			"key": 21
+			"key": 20
 		},
 		/*=================================================================================*/
 		{
@@ -1502,7 +1399,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=2Mkex3RGOnQ",
-			"key": 22
+			"key": 21
 		},
 		/*=================================================================================*/
 		{
@@ -1563,7 +1460,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=CEO9I6Xr7EE",
-			"key": 23
+			"key": 22
 		},
 		/*=================================================================================*/
 		{
@@ -1594,7 +1491,7 @@ const d = {
 			"pass": "000005",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=yW9oNZ07yC8",
-			"key": 24
+			"key": 23
 		},
 		/*=================================================================================*/
 		{
@@ -1679,7 +1576,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=I8Xo3JL8fjs",
-			"key": 25
+			"key": 24
 		},
 		/*=================================================================================*/
 		{
@@ -1788,7 +1685,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=gx-NqXHlGoA",
-			"key": 26
+			"key": 25
 			
 		},
 		/*=================================================================================*/
@@ -1826,6 +1723,109 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=Wc_Jj3oWXL0",
+			"key": 26
+		},
+		/*=================================================================================*/
+{
+			"vids": [
+				{
+					"user": "GDTeaBag",
+					"link": "https://youtu.be/1Y1T2UdSCEY?t=9",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "sandstormy",
+					"link": "https://www.youtube.com/watch?v=JDN8z5TZEK4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=R0s0VKFhIn0",
+					"percent": 100,
+					"hz": "280hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/zwC3CZoTm8M",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "DJJDK",
+					"link": "https://youtu.be/lKz0a2JWDjU",
+					"percent": 67,
+					"hz": "165hz"
+				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/vVddM40VLWY",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "saturn",
+					"link": "https://youtu.be/rLnAEHHbtec",
+					"percent": 100,
+					"hz": "360hz"
+				},
+				{
+					"user": "nayf",
+					"link": "https://youtu.be/Pm5LiYjmaKk",
+					"percent": 100,
+					"hz": "360hz"
+				},
+				{
+                                        "user": "GDMeric",
+                                        "link": "https://www.youtube.com/watch?v=J82TfOgxcPI",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
+				{
+                                        "user": "piesy",
+                                        "link": "https://youtu.be/L_Eg3UEsv70",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
+				{
+                                        "user": "HamburgerMan",
+                                        "link": "https://www.youtube.com/watch?v=I8pAS30Dvh0&feature=youtu.be",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
+				{
+					"user": "MythicalTG",
+					"link": "https://youtu.be/XCZRGwchXmg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/U2OMle-wyDE",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "Wyaaronpc",
+					"link": "https://youtu.be/w_PzMka7VeA",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Shitty Sonic Wave",
+			"author": "Acropolisboy [timckic]",
+			"more": "none",
+			"id": 55367155,
+			"pass": "001006",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=dnjnt9rI_qc",
 			"key": 27
 		},
 		/*=================================================================================*/
