@@ -1338,6 +1338,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Mark Napkin",
+					"link": "https://www.youtube.com/watch?v=9b5ZY0Spu9k",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
