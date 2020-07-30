@@ -5468,12 +5468,6 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "Dashermachine",
-					"link": "https://youtu.be/jY4nmfkf5Yw?t=333",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
 					"user": "DomanikGD",
 					"link": "https://www.youtube.com/watch?v=falDjPuq1Y8",
 					"percent": 100,
