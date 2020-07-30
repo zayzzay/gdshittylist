@@ -7763,7 +7763,7 @@ const d = {
 				{
 					"user": "jToniX",
 					"link": "https://youtu.be/L6h_23zAqvI",
-					"percent": 92,
+					"percent": 100,
 					"hz": "144hz"
 				},
                         ],
