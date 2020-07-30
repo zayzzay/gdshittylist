@@ -7508,13 +7508,13 @@ const d = {
 					"user": "Acute",
 					"link": "https://www.youtube.com/watch?v=CwlZUv1BTQQ",
 					"percent": 100,
-					"hz": "Mobile
+					"hz": "Mobile"
 				},
 				{
 					"user": "Poptart",
 					"link": "https://youtu.be/csfVLGbt4xM?t=2268",
 					"percent": 100,
-					"hz": "Mobile
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ithacropolis",
