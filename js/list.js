@@ -337,6 +337,12 @@ const d = {
 					"percent": 71,
 					"hz": "144hz"
 				},
+				{
+					"user": "Magma",
+					"link": "https://youtu.be/029iKjYBwIY",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty AfterCataBath",
 			"author": "AcropolisBoy [LJosh]",
