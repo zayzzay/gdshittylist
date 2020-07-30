@@ -3301,6 +3301,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "CavEmaN_mElviN",
+					"link": "https://www.youtube.com/watch?v=o_uVrbakW-o&list=PLAHT5vTrU-yiL3XyTFLt8XbRvYqQOXGIj&index=2&t=0s",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
