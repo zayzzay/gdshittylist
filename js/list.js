@@ -149,6 +149,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/NhblI6Pof9U",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Erebus",
 			"author": "LJosh",
