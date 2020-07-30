@@ -7983,6 +7983,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/MWcXWOfMdi0",
+					"percent": 100,
+					"hz": "300hz"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
