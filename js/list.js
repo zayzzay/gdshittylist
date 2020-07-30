@@ -137,6 +137,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=VVlo70fIQgk&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Erebus",
 			"author": "LJosh",
@@ -1742,6 +1748,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=QdeGziaS_Vg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -1871,9 +1883,15 @@ const d = {
 				},
 				{
 					"user": "Th13teen",
-                                        "link": "hthttps://www.youtube.com/watch?v=3piPIETFRiE&feature=youtu.be",
+                                        "link": "https://www.youtube.com/watch?v=3piPIETFRiE&feature=youtu.be",
                                         "percent": 100,
                                         "hz": "240hz"
+				},
+				{
+					"user": "TFIBB",
+                                        "link": "https://www.youtube.com/watch?v=JFopyaIUxZE",
+                                        "percent": 100,
+                                        "hz": "144hz"
 				},
 			],
 			"name": "Shitty Aquatic Auroras",
@@ -3175,6 +3193,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Daxy",
+					"link": "https://youtu.be/5f8eMVzNt1M",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
@@ -3637,6 +3661,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=lLFK-2OkXQc&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Daxy",
+					"link": "https://youtu.be/K9mtshD2XC4",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
 			"name": "Shitty Kenos",
@@ -5072,6 +5102,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=0X90DmVlN70",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/CGdV6PIqTr8",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Plasma Pulse",
@@ -7723,6 +7759,12 @@ const d = {
 					"link": "https://youtu.be/8qjQ6jlsb-M",
 					"percent": 92,
 					"hz": "240hz"
+				},
+				{
+					"user": "jToniX",
+					"link": "https://youtu.be/L6h_23zAqvI",
+					"percent": 92,
+					"hz": "144hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
