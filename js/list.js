@@ -7662,6 +7662,12 @@ const d = {
 					"percent": 75,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Deados35",
+					"link": "https://youtu.be/Pg0g1BKohJQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Anoxysm",
 			"author": "Serpyy",
