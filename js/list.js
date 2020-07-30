@@ -907,6 +907,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=rBz7CHbsnxo&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Hatred",
 			"author": "LJosh",
@@ -1863,6 +1869,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
 				},
+				{
+					"user": "Th13teen",
+                                        "link": "hthttps://www.youtube.com/watch?v=3piPIETFRiE&feature=youtu.be",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -2103,6 +2115,12 @@ const d = {
 				{
 					"user": "lvcxs",
 					"link": "https://youtu.be/djw8L1n5iD8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Daxy",
+					"link": "https://youtu.be/yQ9W_1zBCes",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -2524,6 +2542,12 @@ const d = {
 				{
 					"user": "xBlur",
 					"link": "https://youtu.be/j8nBgezuIgw",
+					"percent": 100,
+					"hz": "240hz"
+				},
+					{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=9KVEx5misGY&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -3607,6 +3631,12 @@ const d = {
 					"link": "https://youtu.be/GXpCmXTo8_w",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=lLFK-2OkXQc&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Kenos",
@@ -5600,6 +5630,12 @@ const d = {
 					"link": "https://youtu.be/BexhA1AOU8A",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=OsDxCsAVRCc&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
                         "name": "Shitty Ouroboros",
