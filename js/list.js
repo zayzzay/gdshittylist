@@ -5297,6 +5297,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "BOSTONTHEKIDRS",
+					"link": "https://youtu.be/MPRMl52rLOg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
