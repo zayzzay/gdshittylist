@@ -761,6 +761,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Plasmic",
+					"link": "https://www.youtube.com/watch?v=zK9kLcbufNQ&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "LJosh",
