@@ -7227,6 +7227,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Bangaled",
+					"link": "https://youtu.be/OY7avW4RMjM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
