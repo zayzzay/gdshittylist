@@ -7033,6 +7033,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Zexer",
+					"link": "https://www.youtube.com/watch?v=MoCZIpRzWnM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
