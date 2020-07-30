@@ -593,6 +593,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/P8RlkDbb2HM",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
