@@ -1997,6 +1997,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/ui_O83s4C6w",
+					"percent": 73,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
@@ -3103,6 +3109,17 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=q-2K4-iPRXM",
 					"percent": 100,
 					"hz": "300hz"
+				},{
+					"user": "Zurteh",
+					"link": "https://youtu.be/mBN17sut-HI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Makov",
+					"link": "https://youtu.be/42-T3D5Val0",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -4057,6 +4074,12 @@ const d = {
 					"link": "https://youtu.be/4wUVMp91qvQ",
 					"percent": 51,
 					"hz": "240hz"
+				},
+				{
+					"user": "Matter",
+					"link": "https://youtu.be/cBOpDBEaoz8",
+					"percent": 51,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Thinking Space",
@@ -5857,6 +5880,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Acute",
+					"link": "https://www.youtube.com/watch?v=WoDZAyjV4JM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -5905,6 +5934,12 @@ const d = {
 					"link": "https://youtu.be/-hsPIB5MnpM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/1qugombbG9Q",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Kidsmoke",
@@ -7965,6 +8000,12 @@ const d = {
 					"link": "https://youtu.be/cxsJHtmktjM",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Mattbott321",
+					"link": "https://youtu.be/72cY03-ntO8",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
