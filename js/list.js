@@ -1930,6 +1930,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/cSbOj55gKqc",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
@@ -2044,6 +2050,12 @@ const d = {
 					"link": "https://youtu.be/ui_O83s4C6w",
 					"percent": 73,
 					"hz": "Mobile"
+				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=mFVy4uV52yU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sonic Wave",
@@ -4981,6 +4993,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=vyFKDF_osP4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
@@ -6453,6 +6471,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=oXuZuyp6sFQ&feature=youtu.be",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Daxy",
+					"link": "https://youtu.be/rYg9WdFG0nk",
+					"percent": 100,
+					"hz": "144hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
@@ -8253,6 +8277,12 @@ const d = {
 					"link": "https://youtu.be/5QEkCCvJjIM",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=n-U9_OOFLLg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
