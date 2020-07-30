@@ -2458,6 +2458,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/nNgAcfLkUzM",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Delebit Oblivio",
 			"author": "HdLink13 [rVlaash]",
