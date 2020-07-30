@@ -6071,6 +6071,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Zexer",
+					"link": "https://www.youtube.com/watch?v=Rh18D_IW92Y",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
