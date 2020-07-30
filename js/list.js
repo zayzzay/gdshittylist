@@ -5546,6 +5546,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Ultraviolet",
+					"link": "https://www.youtube.com/watch?v=e144nZXLJaM",
+					"percent": 100,
+					"hz": "180hz"
+				},
 	                ],
                         "name": "Shitty Ethereal Artifice",
                         "author": "Megum and More [Megum]",
