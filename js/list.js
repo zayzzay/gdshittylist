@@ -2100,6 +2100,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Ivcxs",
+					"link": "https://youtu.be/djw8L1n5iD8",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Hyper Paracosm",
 			"author": "DigestedCitrus [Deimoz]",
@@ -3132,6 +3138,12 @@ const d = {
 					"link": "https://youtu.be/42-T3D5Val0",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Ivcxs",
+					"link": "https://youtu.be/n5qR1WPRlHA",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -5013,6 +5025,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=0X90DmVlN70",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -5322,6 +5340,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=FAFUzoz3FaI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Zshadoweye",
+					"link": "https://www.youtube.com/watch?v=frbZPXJnWi8",
+					"percent": 100,
+					"hz": "60hz"
 				},
 	                ],
                         "name": "Shitty Ethereal Artifice",
@@ -5831,6 +5855,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			       },
+			         {
+				       "user": "jToniX",
+				       "link": "https://youtu.be/wt1Js275CKA",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -6043,6 +6073,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=gxD9Rgbfs6Q",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Zshadoweye",
+					"link": "https://www.youtube.com/watch?v=r19Tfdp9MWY&t=3s",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -6745,6 +6781,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=uybwDY8Tuv4",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/U9mcizYMxYY",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Heartbeat",
@@ -7604,6 +7646,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Daxy",
+					"link": "https://youtu.be/8qjQ6jlsb-M",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -8028,6 +8076,12 @@ const d = {
 				{
 					"user": "zArctic",
 					"link": "https://www.youtube.com/watch?v=32oLBDZ5gNg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Daxy",
+					"link": "https://youtu.be/luR8zJ_Z7L0",
 					"percent": 100,
 					"hz": "144hz"
 				},
