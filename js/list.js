@@ -5727,6 +5727,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Plasmic",
+					"link": "https://www.youtube.com/watch?v=BKb7zHK2vB0&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
