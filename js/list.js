@@ -6773,6 +6773,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/ImlljAxfDsQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
