@@ -6706,6 +6706,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/uhaOW20AJsM",
+					"percent": 100,
+					"hz": "144hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -6796,6 +6802,12 @@ const d = {
 					"link": "https://youtu.be/ImlljAxfDsQ",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/DrfLJYI9NEY",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Sigma",
