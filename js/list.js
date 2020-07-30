@@ -7366,6 +7366,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "best play",
+					"link": "https://youtu.be/jUtRz6aXIFU?t=21",
+					"percent": 65,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
