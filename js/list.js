@@ -1718,6 +1718,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Arcturus",
+					"link": "https://youtu.be/ddiBa8gjbyw",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -2727,6 +2733,12 @@ const d = {
 					"link": "https://youtu.be/aARZjbwEuEM",
 					"percent": 78,
 					"hz": "Mobile"
+				},
+				{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=eXPMR6z7HEY",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -5772,6 +5784,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
+			       {
+				       "user": "Zirkitri",
+				       "link": "https://www.youtube.com/watch?v=j2UYxOyU3y0",
+				       "percent": 100,
+				       "hz": "60hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -7141,6 +7159,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Deados35",
+					"link": "https://youtu.be/wkX0a_Xp830",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
@@ -7249,6 +7273,12 @@ const d = {
 					"link": "https://youtu.be/PvdEbLQ45o0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=uvyCTM10muo",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Esencia",
@@ -7514,6 +7544,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=cWx1_Bjjyw4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=900jdAG7Bvs",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
@@ -7921,6 +7957,12 @@ const d = {
 				{
 					"user": "Acute",
 					"link": "https://www.youtube.com/watch?v=Ge8XIh_Bp10",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Poptart",
+					"link": "https://youtu.be/cxsJHtmktjM",
 					"percent": 100,
 					"hz": "Mobile"
 				},
