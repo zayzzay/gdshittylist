@@ -2511,6 +2511,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/wayGeWhEum0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
