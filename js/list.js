@@ -3199,6 +3199,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/jY4nmfkf5Yw?t=81",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
@@ -3878,6 +3884,12 @@ const d = {
 				{
 					"user": "Aassbll",
 					"link": "https://youtu.be/bHdylIWaQsk",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/jY4nmfkf5Yw?t=162",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -5109,6 +5121,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/jY4nmfkf5Yw",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -5400,6 +5418,12 @@ const d = {
 					"link": "https://youtu.be/YC3LUHTBAH8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/jY4nmfkf5Yw?t=333",
+					"percent": 100,
+					"hz": "60hz"
 				},
 	                ],
                         "name": "Shitty Cataclysm",
@@ -7778,6 +7802,12 @@ const d = {
 					"link": "https://youtu.be/L6h_23zAqvI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/jY4nmfkf5Yw?t=246",
+					"percent": 100,
+					"hz": "60hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
