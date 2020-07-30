@@ -297,7 +297,7 @@ const d = {
 				},
 				{
 					"user": "GDMeric",
-					"link": "https://youtu.be/vXjPp_g_Vjo",
+					"link": "https://youtu.be/m8QFrYZSdwI",
 					"percent": 100,
 					"hz": "144hz"
 				},
