@@ -2429,6 +2429,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/-CAKv6rGcIE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Macabre",
 			"author": "oSpace and more [Serpyy]",
@@ -3436,6 +3442,12 @@ const d = {
 				{
 					"user": "Matter",
 					"link": "https://www.youtube.com/watch?v=krMFmv6lF5Y",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "lvcxs",
+					"link": "https://youtu.be/_Qq1ldRT5D8",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -5177,6 +5189,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Daxy",
+					"link": "https://youtu.be/bJmSHxNf5vM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -5501,6 +5519,12 @@ const d = {
 				{
 					"user": "TheRealYeeter",
 					"link": "https://youtu.be/z95vHioRyLc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "GrimPencil16",
+					"link": "https://youtu.be/Yv9TPylJvxs",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -6757,6 +6781,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/zkT-dht86Zw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -7652,6 +7682,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "opayc",
+					"link": "https://youtu.be/8qjQ6jlsb-M",
+					"percent": 92,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -8084,6 +8120,18 @@ const d = {
 					"link": "https://youtu.be/luR8zJ_Z7L0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Bangaled",
+					"link": "https://youtu.be/j8YVJczaZYM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Acetolysis",
+					"link": "https://youtu.be/5QEkCCvJjIM",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
