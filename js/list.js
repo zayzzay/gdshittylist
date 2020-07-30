@@ -581,6 +581,12 @@ const d = {
 					"percent": 94,
 					"hz": "300hz"
 				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=hSV2erBIcdw",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
