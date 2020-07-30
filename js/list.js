@@ -5436,6 +5436,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/9pkF6dV1XLk",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Silver Shade",
 			"author": "Aassbll",
