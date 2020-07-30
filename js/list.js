@@ -7982,6 +7982,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Makov",
+					"link": "https://youtu.be/pYX3LsEkiy4",
+					"percent": 59,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
