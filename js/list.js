@@ -696,6 +696,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/XUxxTnbdwTY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Triple Six",
 			"author": "LJosh",
@@ -850,6 +856,12 @@ const d = {
 					"link": "https://youtu.be/t0zbmHj-DJ8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/x1XSEfknGvo",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Poltergeist Reborn",
@@ -4585,6 +4597,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/_xgywaUPKlU",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -7230,6 +7248,12 @@ const d = {
     					"percent": 100,
     					"hz": "144hz"
 				},
+				{
+  					"user": "XImaPlayerX",
+  					"link": "https://youtu.be/wPxJQfYrxAQ?t=626",
+    					"percent": 100,
+    					"hz": "75hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -7626,6 +7650,18 @@ const d = {
 				{
 					"user": "X99",
 					"link": "https://youtu.be/-zC5d6VzS-w",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "XImaPlayerX",
+					"link": "https://youtu.be/wPxJQfYrxAQ?t=515",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "GreenLemon",
+					"link": "https://youtu.be/xcmjAn8Re40",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -8148,6 +8184,12 @@ const d = {
 					"link": "https://youtu.be/wPxJQfYrxAQ?t=261",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/OvJOotsVwl8",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Paroxysm",
