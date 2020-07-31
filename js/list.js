@@ -27,6 +27,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			         {
+				       "user": "Arcturus",
+				       "link": "https://youtu.be/BBwbaXfxXkM",
+				       "percent": 69,
+				       "hz": "300hz"
+			       },
                        ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -3607,6 +3613,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=iGd6wbp2eZY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
@@ -6855,6 +6867,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/R1Lledqywy0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -6915,6 +6933,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=R2_yesBQ_lQ&feature=youtu.be",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/us_ZhYHGMls",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Kidsmoke",
@@ -7006,6 +7030,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=r19Tfdp9MWY&t=3s",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/xf2y2TWZViE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -7307,6 +7337,18 @@ const d = {
   					"link": "https://youtu.be/wPxJQfYrxAQ?t=626",
     					"percent": 100,
     					"hz": "75hz"
+				},
+				{
+  					"user": "Bentai",
+  					"link": "https://www.youtube.com/watch?v=TP6414kRbZo&feature=youtu.be",
+    					"percent": 100,
+    					"hz": "300hz"
+				},
+				{
+  					"user": "Arcturus",
+  					"link": "https://youtu.be/FD6cqRxNhlo",
+    					"percent": 100,
+    					"hz": "300hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
