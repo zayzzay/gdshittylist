@@ -1787,6 +1787,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/PpVWSe6NhJY",
+					"percent": 59,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -4726,6 +4732,14 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=L8Alnquqkes&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				
+				
 			],
 			"name": "Shitty Ad Aeternum",
 			"author": "Vlaash and more [rVlaash]",
