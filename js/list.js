@@ -3184,6 +3184,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "xBlur",
+					"link": "https://www.youtube.com/watch?v=_MfOwMB4zZo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
