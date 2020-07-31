@@ -349,6 +349,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=pqkReFB6n2w&t=85s",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty AfterCataBath",
 			"author": "AcropolisBoy [LJosh]",
@@ -3559,6 +3565,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "XImaPlayerX",
+					"link": "https://youtu.be/wPxJQfYrxAQ?t=333",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "rVlaash",
@@ -6003,6 +6015,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "RageRod",
+					"link": "https://youtu.be/Vz1rt8ftMEQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -7980,6 +7998,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "XImaPlayerX",
+					"link": "https://youtu.be/wPxJQfYrxAQ?t=404",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -8119,6 +8143,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "XImaPlayerX",
+					"link": "https://youtu.be/wPxJQfYrxAQ?t=261",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -8191,6 +8221,12 @@ const d = {
 					"link": "https://youtu.be/Pg0g1BKohJQ",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "XImaPlayerX",
+					"link": "https://youtu.be/wPxJQfYrxAQ?t=153",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Anoxysm",
@@ -8795,6 +8831,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "XImaPlayerX",
+					"link": "https://youtu.be/wPxJQfYrxAQ?t=72",
+					"percent": 100,
+					"hz": "75hz"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -9341,6 +9383,12 @@ const d = {
 					"link": "https://youtu.be/z9vrpBBMOuk",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "XImaPlayerX",
+					"link": "https://youtu.be/wPxJQfYrxAQ",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
