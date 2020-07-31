@@ -839,6 +839,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/t0zbmHj-DJ8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "LJosh",
@@ -1075,6 +1081,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=sgt4_lcrxEw",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://www.youtube.com/watch?v=r8dABwGrPyY&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Catharsis",
@@ -1791,6 +1803,12 @@ const d = {
 					"user": "TH54",
 					"link": "https://youtu.be/PpVWSe6NhJY",
 					"percent": 59,
+					"hz": "240hz"
+				},
+				{
+					"user": "xBlur",
+					"link": "https://www.youtube.com/watch?v=R2Khy_1Qc24&feature=youtu.be",
+					"percent": 100,
 					"hz": "240hz"
 				},
 			],
@@ -3097,6 +3115,12 @@ const d = {
 				{
 					"user": "TH54",
 					"link": "https://www.youtube.com/watch?v=eXPMR6z7HEY",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/_MfOwMB4zZo",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -5518,6 +5542,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+								{
+					"user": "xBlur",
+					"link": "https://youtu.be/uQjjkRQ-iyI",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -5960,6 +5990,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=TocGnHJi_jk&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Bentai",
+					"link": "https://www.youtube.com/watch?v=l3E6wUgFk7Y",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "XImaPlayerX",
+					"link": "https://youtu.be/wPxJQfYrxAQ?t=745",
+					"percent": 100,
+					"hz": "75hz"
 				},
 	                ],
                         "name": "Shitty Cataclysm",
@@ -6626,6 +6668,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "120hz"
 			       },
+			       {
+				       "user": "XImaPlayerX",
+				       "link": "https://youtu.be/wPxJQfYrxAQ?t=686",
+				       "percent": 96,
+				       "hz": "75hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -6708,6 +6756,12 @@ const d = {
 				{
 					"user": "kuwushi",
 					"link": "https://www.youtube.com/watch?v=IHPnIPGN4R8&t=80s",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Bentai",
+					"link": "https://www.youtube.com/watch?v=baUpz1AFcvY",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -9281,6 +9335,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=cFFH3Ot_UHo",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Zirkitri",
+					"link": "https://youtu.be/z9vrpBBMOuk",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Xo Circles",
