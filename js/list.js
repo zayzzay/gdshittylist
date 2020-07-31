@@ -27,11 +27,17 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
-			         {
+			       {
 				       "user": "Arcturus",
 				       "link": "https://youtu.be/BBwbaXfxXkM",
 				       "percent": 69,
 				       "hz": "300hz"
+			       },
+			       {
+				       "user": "Viewsonic",
+				       "link": "https://www.youtube.com/watch?v=NIHY86mHMcA",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
                        ],
                        "name": "Shitty Azure Flare",
@@ -1963,6 +1969,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Arcturus",
+					"link": "https://youtu.be/3wSAdd7Ioo8",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Eternal Moment",
 			"author": "Miini03",
@@ -3166,6 +3178,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/SYvmboMYy5c",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -3618,6 +3636,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=iGd6wbp2eZY",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Arcturus",
+					"link": "https://youtu.be/AvLr44My8W8",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -4354,6 +4378,12 @@ const d = {
 					"link": "https://youtu.be/QUZeuOGSA9Q",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Arcturus",
+					"link": "https://youtu.be/C6Rd6EfsVdQ",
+					"percent": 100,
+					"hz": "300hz"
 				},
                         ],
 			"name": "Shitty Rate Demon",
@@ -6776,6 +6806,12 @@ const d = {
 				       "percent": 96,
 				       "hz": "75hz"
 			       },
+			        {
+				       "user": "MP3141",
+				       "link": "https://youtu.be/_H9YY9K4st8",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -8984,6 +9020,12 @@ const d = {
 				{
 					"user": "XImaPlayerX",
 					"link": "https://youtu.be/wPxJQfYrxAQ?t=72",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "JOR_DEN",
+					"link": "https://www.youtube.com/watch?v=Ci6BMU5At2s",
 					"percent": 100,
 					"hz": "75hz"
 				},
