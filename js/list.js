@@ -5429,7 +5429,7 @@ const d = {
 			"id": 57704931,
 			"pass": "Free to copy",
 			"percentToQualify": 59,
-			"verificationVid": "https://www.youtube.com/watch?v=JWRsQF6ktIo",
+			"verificationVid": "https://www.youtube.com/watch?v=WCJzAF1EZmk",
 			"key": 68
 		},
 		/*=================================================================================*/
