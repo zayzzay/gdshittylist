@@ -5953,7 +5953,7 @@ const d = {
 					"user": "Zirkitri",
 					"link": "https://youtu.be/jopHgAILLms",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": "Mobile"
 				},
 				{
 					"user": "Zurteh",
@@ -6678,7 +6678,7 @@ const d = {
 				       "user": "Zirkitri",
 				       "link": "https://www.youtube.com/watch?v=j2UYxOyU3y0",
 				       "percent": 100,
-				       "hz": "60hz"
+				       "hz": "Mobile"
 			       },
 			       {
 				       "user": "jToniX",
@@ -8811,7 +8811,7 @@ const d = {
 					"user": "Zirkitri",
 					"link": "https://youtu.be/vJm--cOIAO4",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": "Mobile"
 				},
 				{
 					"user": "MP3141",
@@ -9398,12 +9398,6 @@ const d = {
 				},
 				{
 					"user": "randomguy555",
-					"link": "https://youtu.be/WlJ9QImu4tA",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Zirkitri",
 					"link": "https://youtu.be/WlJ9QImu4tA",
 					"percent": 100,
 					"hz": "60hz"
