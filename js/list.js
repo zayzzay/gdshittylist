@@ -5565,6 +5565,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/jXuslA3l9Fs",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
@@ -6806,11 +6812,17 @@ const d = {
 				       "percent": 96,
 				       "hz": "75hz"
 			       },
-			        {
+			       {
 				       "user": "MP3141",
 				       "link": "https://youtu.be/_H9YY9K4st8",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Dashermachine",
+				       "link": "https://youtu.be/jXuslA3l9Fs?t=85",
+				       "percent": 100,
+				       "hz": "60hz"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
@@ -7796,6 +7808,12 @@ const d = {
 					"link": "https://youtu.be/xcmjAn8Re40",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/jXuslA3l9Fs?t=172",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
