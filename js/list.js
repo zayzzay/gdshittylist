@@ -1233,6 +1233,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/9oq4wCooLN8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -3137,10 +3143,10 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "xBlur",
-					"link": "https://youtu.be/_MfOwMB4zZo",
+					"user": "Tai0",
+					"link": "https://youtu.be/sVRCqpxhD-Y",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -3582,6 +3588,12 @@ const d = {
 					"link": "https://youtu.be/wPxJQfYrxAQ?t=333",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "InferiorPatty",
+					"link": "https://www.youtube.com/watch?v=1AodoHnzmuE&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -4069,6 +4081,12 @@ const d = {
 					"link": "https://www.twitch.tv/videos/696256569",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/HiokzFe4ngI",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
 			"name": "Shitty Kenos",
@@ -8039,6 +8057,18 @@ const d = {
 					"link": "https://youtu.be/wPxJQfYrxAQ?t=404",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "lvcxs",
+					"link": "https://youtu.be/mmdUlPgsxMU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/EKh7QG5d81M",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
