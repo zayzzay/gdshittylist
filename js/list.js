@@ -1512,6 +1512,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/4k4D2tjAa0w",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -1640,6 +1646,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=HXH-KC-yQ1M&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=DP8b3m_melQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty WcropoliX",
@@ -3716,6 +3728,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "IIEliteRainII",
+					"link": "https://youtu.be/EJW_AOcZ2aM",
+					"percent": 96,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -4316,6 +4334,12 @@ const d = {
 				{
 					"user": "Zexer",
 					"link": "https://www.youtube.com/watch?v=NBaS1C9ynzM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "lvcxs",
+					"link": "https://youtu.be/QUZeuOGSA9Q",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -5493,6 +5517,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/cSw5OVpN6IE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
@@ -6304,6 +6334,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=uBF6X39kdOg",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "VdT",
+					"link": "https://youtu.be/AJFkV1kZLyY",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Dolos",
