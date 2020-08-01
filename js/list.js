@@ -3944,7 +3944,7 @@ const d = {
                                         "hz": "240hz"
 				},
 			],
-			"name": "Shitty x",
+			"name": "Shitty Low Death",
 			"author": "AcropolisBoy [GDTeaBag]",
 			"more": "none",
 			"id": 54841903,
