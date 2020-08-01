@@ -1387,6 +1387,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=z5T9VAjF_60",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
@@ -1465,6 +1471,12 @@ const d = {
 					"link": "https://youtu.be/R9_KmhU6yc0",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=E9IgH8dDXYQ",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty WOW",
@@ -1628,6 +1640,12 @@ const d = {
 					"link": "https://youtu.be/PTl6kNRqPp0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=Ai2zBdu4Z1Y",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Tapwreck",
@@ -3372,6 +3390,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=eC76q2m48SY&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Bleamer",
+					"link": "https://www.youtube.com/watch?v=RLCCrlAFI1A&t=",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -6424,6 +6448,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/9qRxe7ctspI",
+					"percent": 100,
+					"hz": "120hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -8586,6 +8616,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=srQdFz0fJVc&feature=youtu.be",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Yaev",
+					"link": "https://www.youtube.com/watch?v=NrZQD7Pt2b0",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
