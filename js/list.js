@@ -5017,7 +5017,7 @@ const d = {
 				{
 					"user": "xBlur",
 					"link": "https://youtu.be/5nYw0zqw8yU",
-					"percent": "100,
+					"percent": 100,
 					"hz": "240hz"
 				},
 			],
