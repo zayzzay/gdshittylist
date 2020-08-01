@@ -3943,6 +3943,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Low Death",
 			"author": "AcropolisBoy [GDTeaBag]",
