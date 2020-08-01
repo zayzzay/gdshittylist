@@ -5892,6 +5892,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -9856,6 +9862,12 @@ const d = {
 				{
 					"user": "Arctic",
 					"link": "https://youtu.be/m_VQaticFg8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
 					"percent": 100,
 					"hz": "60hz"
 				},
