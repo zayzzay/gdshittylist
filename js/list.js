@@ -2244,12 +2244,6 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
 				},
-				{
-					"user" "RG",
-					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
-					"percent": 100,
-					"hz": "144hz"
-				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -3943,14 +3937,8 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
-				{
-					"user" "RG",
-					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
-					"percent": 100,
-					"hz": "240hz"
-				},
 			],
-			"name": "Shitty Low Death",
+			"name": "Shitty x",
 			"author": "AcropolisBoy [GDTeaBag]",
 			"more": "none",
 			"id": 54841903,
@@ -5897,12 +5885,6 @@ const d = {
 					"link": "https://www.twitch.tv/videos/696193106",
 					"percent": 100,
 					"hz": "120hz"
-				},
-				{
-					"user": "RG",
-					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
-					"percent": 100,
-					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Plasma Pulse",
@@ -8192,7 +8174,7 @@ const d = {
 				},
 				{
 					"user": "RG",
-					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk"
+					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -9870,12 +9852,6 @@ const d = {
 					"link": "https://youtu.be/m_VQaticFg8",
 					"percent": 100,
 					"hz": "60hz"
-				},
-				{
-					"user": "RG",
-					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
-					"percent": 100,
-					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
