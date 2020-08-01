@@ -9873,7 +9873,7 @@ const d = {
 				},
 				{
 					"user": "RG",
-					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk"
+					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
 					"percent": 100,
 					"hz": "240hz"
 				},
