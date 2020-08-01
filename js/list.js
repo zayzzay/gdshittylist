@@ -1381,6 +1381,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/qrtHzMxhiuA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
