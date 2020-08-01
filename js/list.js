@@ -5880,12 +5880,6 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "StatiicBluey",
-					"link": "https://youtu.be/qwtBxTwh_cY",
-					"percent": 97,
-					"hz": "144hz"
-				},
-				{
 					"user": "Bluuper",
 					"link": "https://youtu.be/SIZBylbAK5g",
 					"percent": 100,
