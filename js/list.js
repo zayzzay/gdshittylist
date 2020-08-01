@@ -853,6 +853,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=H8WR_jg6GCw&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
@@ -2055,6 +2061,12 @@ const d = {
 					"link": "https://youtu.be/3wSAdd7Ioo8",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=TvuT3rbtmMg&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Eternal Moment",
@@ -5414,6 +5426,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=JEdVIplYmmg&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Battle of the Shades",
 			"author": "xSmajlik and Superxman777 [xSmajlik]",
@@ -7070,6 +7088,12 @@ const d = {
 				       "link": "https://youtu.be/Dj_zjZNpbwg",
 				       "percent": 100,
 				       "hz": "240hz"
+			       },
+			        {
+				       "user": "Akira Kurisu",
+				       "link": "https://youtu.be/Vm691W1q72A",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
@@ -8750,6 +8774,12 @@ const d = {
 					"link": "https://youtu.be/wPxJQfYrxAQ?t=153",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "XImaPlayerX",
+					"link": "https://youtu.be/SAIXgW3Tp_A",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Anoxysm",
