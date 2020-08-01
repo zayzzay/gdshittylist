@@ -1138,6 +1138,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=RWR2UhaXaww",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Hatred",
 			"author": "LJosh",
@@ -1477,6 +1483,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=E9IgH8dDXYQ",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Glommy Boy",
+					"link": "https://youtu.be/LvY-jHBQyO4",
+					"percent": 80,
+					"hz": "Mobile"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/5USdJxTvaDk",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
 			"name": "Shitty WOW",
@@ -2036,6 +2054,12 @@ const d = {
 					"link": "https://youtu.be/fPkgS8HrbGM",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/8G2BklNDD6Y",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Zettabyte",
@@ -4012,6 +4036,12 @@ const d = {
 					"link": "https://youtu.be/_MIZqMPpFRE",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://www.youtube.com/watch?v=Cg5CNYkHuPw&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Awakening Horus",
@@ -7856,6 +7886,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "MacJubber",
+					"link": "https://youtu.be/galVWvfE3ek",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -8210,6 +8246,12 @@ const d = {
 				{
 					"user": "MP3141",
 					"link": "https://youtu.be/U9mcizYMxYY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/qRDjlluk8_Q",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -8622,6 +8664,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=NrZQD7Pt2b0",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/0V-UatW68wo",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
