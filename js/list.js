@@ -105,7 +105,7 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
 					"percent": 100,
 					"hz": "240hz"
-				}
+				},
 			],
 			"name": "Shitty Infected Caverns",
 			"author": "LJosh",
@@ -2249,7 +2249,7 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
 					"percent": 100,
 					"hz": "144hz"
-				}
+				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -3948,7 +3948,7 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
 					"percent": 100,
 					"hz": "240hz"
-				}
+				},
 			],
 			"name": "Shitty Low Death",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -5903,7 +5903,7 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
 					"percent": 100,
 					"hz": "240hz"
-				}
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -8195,7 +8195,7 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk"
 					"percent": 100,
 					"hz": "240hz"
-				}
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -9876,7 +9876,7 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk"
 					"percent": 100,
 					"hz": "240hz"
-				}
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
