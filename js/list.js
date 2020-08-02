@@ -1677,6 +1677,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Bleamer",
+					"link": "https://www.youtube.com/watch?v=fpXJng6_PLI",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -4085,6 +4091,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/sQlYpdapjdk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -4517,6 +4529,12 @@ const d = {
 					"link": "https://youtu.be/F_kWIMXD2tE?t=126",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Bleamer",
+					"link": "https://www.youtube.com/watch?v=4Hi333RhjFM&t=",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Cadrega City",
@@ -6937,6 +6955,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Bleamer",
+					"link": "https://www.youtube.com/watch?v=xjXUSqjHHmc",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
@@ -7413,6 +7437,12 @@ const d = {
 					"link": "https://youtu.be/LEvb9NoJ5Tk",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Bleamer",
+					"link": "https://www.youtube.com/watch?v=zJ0Z6Es9dvQ",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty xo",
@@ -8023,6 +8053,12 @@ const d = {
 					"link": "https://youtu.be/galVWvfE3ek",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Bleamer",
+					"link": "https://www.youtube.com/watch?v=2YAZnXi6O4s",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Sigma",
@@ -10314,6 +10350,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ReiwvmDFOXU&feature=youtu.be",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Bleamer",
+					"link": "https://www.youtube.com/watch?v=pBp998fr8As",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
