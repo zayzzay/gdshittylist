@@ -6203,6 +6203,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/_MIwIzYky7k",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
