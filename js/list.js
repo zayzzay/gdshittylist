@@ -6374,6 +6374,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/DiJuTcL_6PI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
