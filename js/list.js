@@ -2595,12 +2595,6 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "TheRealYeeter",
-					"link": "https://youtu.be/ui_O83s4C6w",
-					"percent": 73,
-					"hz": "Mobile"
-				},
-				{
 					"user": "TFIBB",
 					"link": "https://www.youtube.com/watch?v=mFVy4uV52yU",
 					"percent": 100,
