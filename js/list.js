@@ -306,6 +306,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Wadur",
+					"link": "https://www.youtube.com/watch?v=wslabkKax7Q",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
