@@ -901,6 +901,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Slithium",
+					"link": "https://youtu.be/eCGeqNP21T4",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
@@ -2047,6 +2053,12 @@ const d = {
 					"link": "https://youtu.be/QNsxM5ecCq0",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Slithium",
+					"link": "https://youtu.be/yyuIWw8aYsc",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Arctic Lights",
@@ -4348,6 +4360,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Slithium",
+					"link": "https://youtu.be/35JNSlSB5Sg",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -6046,6 +6064,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "StarLight722",
+					"link": "https://youtu.be/iBNuq01WN08",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Vendetta",
 			"author": "Megum",
@@ -6227,6 +6251,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "StarLight722",
+					"link": "https://youtu.be/lxB5b2vRI6I",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Plasma Pulse",
@@ -9815,6 +9845,12 @@ const d = {
 					"link": "https://youtu.be/35C3Jp0EjtI",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Acetolysis",
+					"link": "https://youtu.be/lFiLMHIMILc",
+					"percent": 100,
+					"hz": "60hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
