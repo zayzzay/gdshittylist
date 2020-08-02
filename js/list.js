@@ -10555,6 +10555,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "1987Evan",
+					"link": "https://youtu.be/bWJFa5aHHQM",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "Xela343",
+					"link": "https://www.youtube.com/watch?v=TkvsrcdpoCg",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
