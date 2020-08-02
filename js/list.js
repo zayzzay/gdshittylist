@@ -683,6 +683,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Emonadeo",
+					"link": "https://youtu.be/xC0B1t_m_7M",
+					"percent": 58,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -10392,6 +10398,12 @@ const d = {
 					"link": "https://youtu.be/7GW3lRWHlu4",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "KriSsi",
+					"link": "https://youtu.be/3sHRb8Q_STc",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
