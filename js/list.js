@@ -1095,6 +1095,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=vg_W3giAekw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sunset Sandstorm",
 			"author": "LJosh",
@@ -6070,8 +6076,14 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Just_Lemon",
+					"link": "https://www.youtube.com/watch?v=_uFYoNF3I-U",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
-			"name": "Shitty Vendetta",
+			"name": "Shitty VendetTa",
 			"author": "Megum",
 			"more": "none",
 			"id": 52617967,
