@@ -9388,6 +9388,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Batle",
+					"link": "https://youtu.be/ZUH1_v5fXzo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
