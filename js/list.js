@@ -549,6 +549,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "lvcxs",
+					"link": "https://youtu.be/3LsLKR_PyKQ",
+					"percent": 79,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -2024,6 +2030,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Migel",
+					"link": "https://youtu.be/QNsxM5ecCq0",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -2151,6 +2163,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=TvuT3rbtmMg&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/bzvyocg_7u4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Eternal Moment",
@@ -6598,6 +6616,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/qtH6fFL9EDE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -9744,6 +9768,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "StarLight722",
+					"link": "https://youtu.be/35C3Jp0EjtI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -10356,6 +10386,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=pBp998fr8As",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "StarLight722",
+					"link": "https://youtu.be/7GW3lRWHlu4",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Xo Circles",
