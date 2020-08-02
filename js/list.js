@@ -10531,6 +10531,30 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/afnk0uvbd6c",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Jah",
+					"link": "https://www.youtube.com/watch?v=DBDRF-jwVvU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Emonadeo",
+					"link": "https://www.youtube.com/watch?v=KfXyAjRrGrY",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/MfNQvbQ4SmI",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
