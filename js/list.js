@@ -4002,7 +4002,7 @@ const d = {
 				},
 			],
 			"name": "Shitty Devil Vortex",
-			"author": "rVlaash",
+			"author": "Vlaash",
 			"more": "none",
 			"id": 60330613,
 			"pass": "137349",
