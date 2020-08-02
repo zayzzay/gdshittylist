@@ -112,6 +112,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=2fq3rqNYoAY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Infected Caverns",
 			"author": "LJosh",
@@ -557,9 +563,9 @@ const d = {
 				},
 				{
 					"user": "lvcxs",
-					"link": "https://youtu.be/3LsLKR_PyKQ",
-					"percent": 79,
-					"hz": "288hz"
+					"link": "https://www.youtube.com/watch?v=JCgFICK47cA",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty The Golden",
@@ -6082,6 +6088,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Daxy",
+					"link": "https://youtu.be/SaK37XstL8o",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -6282,6 +6294,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "mrbananan",
+					"link": "https://www.youtube.com/watch?v=dwJ3z_QAZFs&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Anoxysm",
 			"author": "Serpyy",
@@ -6427,6 +6445,12 @@ const d = {
 					"link": "https://youtu.be/KWSN6cfDh1Y",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/PFeYx_djxLc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Concaved Memories",
@@ -7510,7 +7534,7 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
-			        {
+			       {
 				       "user": "Akira Kurisu",
 				       "link": "https://youtu.be/Vm691W1q72A",
 				       "percent": 100,
@@ -7521,7 +7545,13 @@ const d = {
 					"link": "https://youtu.be/Ltzt5PUijuw",
 					"percent": 100,
 					"hz": "144hz"
-				},
+			       },
+			       {
+					"user": "mrbananan",
+					"link": "https://www.youtube.com/watch?v=KpZJEFnOtQo&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -8779,6 +8809,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Emonadeo",
+					"link": "https://www.youtube.com/watch?v=jmqFrg5WYmY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -9044,6 +9080,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "DoubleSsymbol",
+					"link": "https://www.youtube.com/watch?v=H96n9NmVWOY",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -9194,6 +9236,12 @@ const d = {
 					"link": "https://youtu.be/OvJOotsVwl8",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "mrbananan",
+					"link": "https://www.youtube.com/watch?v=M2G3hDIlZHE&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Paroxysm",
