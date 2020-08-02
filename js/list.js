@@ -185,6 +185,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Amza",
+					"link": "https://youtu.be/iI1v8sv-n-I",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Erebus",
 			"author": "LJosh",
@@ -536,6 +542,12 @@ const d = {
 					"link": "https://youtu.be/pr-nb7n_2-0",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Bleamer",
+					"link": "https://www.youtube.com/watch?v=_o95uAZFsBA",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty The Golden",
@@ -2685,6 +2697,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Blathers",
+					"link": "https://youtu.be/FiKIpuPcZ-g",
+					"percent": 69,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Hyper Paracosm",
 			"author": "DigestedCitrus [Deimoz]",
@@ -4469,6 +4487,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Blathers",
+					"link": "https://youtu.be/QhmvLpOYFng",
+					"percent": 91,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -4890,6 +4914,12 @@ const d = {
 				{
 					"user": "Th13teen",
 					"link": "https://www.youtube.com/watch?v=EwV7_oheaz0&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/B8UE_kkbLpw",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -6810,6 +6840,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/Ww2se8d4gIQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -7372,6 +7408,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Zirkitri",
+					"link": "https://youtu.be/LEvb9NoJ5Tk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -7872,6 +7914,12 @@ const d = {
 					"link": "https://youtu.be/On4HywGFh64",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Bleamer",
+					"link": "https://www.youtube.com/watch?v=MUnAzV2M2z0",
+					"percent": 100,
+					"hz": "288hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
@@ -8760,6 +8808,12 @@ const d = {
 					"link": "https://youtu.be/0V-UatW68wo",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "zriv",
+					"link": "https://youtu.be/RiBG6ir-Bgk",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
