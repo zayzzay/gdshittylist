@@ -3482,6 +3482,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/bW7xKUbCLLE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cosmorush 21",
 			"author": "AcropolisBoy and Whiliams8080 [Bartoldo]",
@@ -4270,6 +4276,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/Eb-_hF5_dss",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -5019,6 +5031,12 @@ const d = {
 					"link": "https://youtu.be/5nYw0zqw8yU",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/UXxUlDEH7Ps",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Thinking Space",
@@ -7251,6 +7269,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+					"user": "FrostBurn",
+					"link": "https://youtu.be/Ltzt5PUijuw",
+					"percent": 100,
+					"hz": "144hz"
+				},
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -7842,6 +7866,12 @@ const d = {
   					"link": "https://youtu.be/pVVMTTcpk2o",
     					"percent": 71,
     					"hz": "240hz"
+				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/On4HywGFh64",
+					"percent": 100,
+					"hz": "144hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
@@ -9618,6 +9648,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/56Y1P-pN6Gg",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -10212,6 +10248,12 @@ const d = {
 					"link": "https://youtu.be/tAgz4LhXbVQ",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/gRpGrppsGsE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
