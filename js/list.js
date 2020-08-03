@@ -4868,6 +4868,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/NyUCMlmzIh8",
+					"percent": 100,
+					"hz": "180hz"
+				},
                         ],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
