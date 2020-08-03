@@ -318,6 +318,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/zm-qy7oyMdc",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -713,6 +719,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Bleamer",
+					"link": "https://www.youtube.com/watch?v=9P_PZhQP2Es",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -789,6 +801,12 @@ const d = {
 				{
 					"user": "piesy",
 					"link": "https://youtu.be/XUxxTnbdwTY",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=PmxUxHpq6iA&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -1216,6 +1234,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://www.twitch.tv/videos/699053634",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Hatred",
 			"author": "LJosh",
@@ -1409,6 +1433,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=PDwlExBdL2E",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=QujrmwBzIjk",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Missing Benefits",
@@ -1981,6 +2011,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/PZ494rurvbk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Step To Hell",
 			"author": "oSpace",
@@ -2132,6 +2168,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://www.twitch.tv/videos/699006327",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -2186,6 +2228,12 @@ const d = {
 					"link": "https://youtu.be/8G2BklNDD6Y",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/A-nV05xEjRM",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Zettabyte",
@@ -2259,6 +2307,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=TvuT3rbtmMg&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=CEO9I6Xr7EE",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Eternal Moment",
@@ -3119,6 +3173,12 @@ const d = {
 					"link": "hhttps://www.youtube.com/watch?v=DseNofoMZ7A&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=dF83WTlXt5Q",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ragnarok",
@@ -4413,6 +4473,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=kexZD6JJck0&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 	                ],
 			"name": "Shitty Ancestral Calamity",
 			"author": "oSpace and more [oSpace]",
@@ -5551,6 +5617,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://www.twitch.tv/videos/699015968",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Ad Aeternum",
 			"author": "Vlaash and more [rVlaash]",
@@ -6551,6 +6623,12 @@ const d = {
 					"link": "https://youtu.be/X5-c0Rp0Mac",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=jAQ7i3mEtM0",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Anoxysm",
@@ -8197,6 +8275,24 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/3CBZtd22bW8",
+					"percent": 72,
+					"hz": "120hz"
+				},
+				{
+					"user": "HideriGh",
+					"link": "https://youtu.be/RsrNMBgMuFM",
+					"percent": 70,
+					"hz": "144hz"
+				},
+				{
+					"user": "misterious",
+					"link": "https://youtu.be/VQF7vDQfkAg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
@@ -8564,6 +8660,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Xela343",
+					"link": "https://www.youtube.com/watch?v=EHOkE4sEcpg",
+					"percent": 100,
+					"hz": "144hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -8812,6 +8914,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Ayanakodji",
+					"link": "https://youtu.be/PzP6FJaMt-Q",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
@@ -9052,6 +9160,12 @@ const d = {
 					"link": "https://youtu.be/w5fKxC46m8o",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/_4mKMvuPxhs",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
@@ -9722,6 +9836,12 @@ const d = {
 					"link": "https://youtu.be/1PN4wvOdwYI",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/foHYoN4X6lc",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Paroxysm",
@@ -11076,6 +11196,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=TkvsrcdpoCg",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Just_Lemon",
+					"link": "https://www.youtube.com/watch?v=gjUMKqoCw3c",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
