@@ -4078,6 +4078,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://www.twitch.tv/videos/698155940",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
