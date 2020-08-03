@@ -4204,6 +4204,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "nileum",
+					"link": "https://www.youtube.com/watch?v=qmeYiQGc3ao&t=2s",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -4411,6 +4417,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "zMarc",
+					"link": "https://www.youtube.com/watch?v=tEWbtRTkpL4&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Low Death",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -4599,6 +4611,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=HtrSRnugYdI&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "nileum",
+					"link": "https://www.youtube.com/watch?v=XDz4zmJziwY",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Glacial Core",
@@ -9396,6 +9414,12 @@ const d = {
 					"link": "https://youtu.be/ElZ8kprFUoE",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "StarLight772",
+					"link": "https://youtu.be/ElZ8kprFUoE",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Mujigae",
