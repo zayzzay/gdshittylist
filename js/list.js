@@ -3086,8 +3086,8 @@ const d = {
 				},
 				{
 					"user": "Jah",
-					"link": "https://www.youtube.com/watch?v=LJ1WfknmLmE",
-					"percent": 60,
+					"link": "hhttps://www.youtube.com/watch?v=DseNofoMZ7A&feature=youtu.be",
+					"percent": 100,
 					"hz": "144hz"
 				},
 			],
@@ -7855,8 +7855,8 @@ const d = {
 				},
 				{
 					"user": "Rigno",
-					"link": "https://www.youtube.com/watch?v=UTdvOerlZys",
-					"percent": 57,
+					"link": "https://youtu.be/IASLbWI6aws",
+					"percent": 68,
 					"hz": "236hz"
 				},
 				{
