@@ -9207,12 +9207,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "best play",
-					"link": "https://youtu.be/jUtRz6aXIFU?t=21",
-					"percent": 65,
-					"hz": "60hz"
-				},
-				{
 					"user": "chogath",
 					"link": "https://youtu.be/bZd9O5TtTKc?t=251",
 					"percent": 100,
