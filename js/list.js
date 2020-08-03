@@ -1459,6 +1459,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://www.twitch.tv/videos/698094594",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
