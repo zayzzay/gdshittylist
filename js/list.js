@@ -8789,6 +8789,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "vlubz",
+					"link": "https://youtu.be/kW3B3SZQ09E",
+					"percent": 62,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
