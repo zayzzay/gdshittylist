@@ -6418,6 +6418,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ItsHyper37",
+					"link": "https://www.youtube.com/watch?v=ZYJE4avpe04",
+					"percent": 96,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -9707,6 +9713,12 @@ const d = {
 				{
 					"user": "Blast",
 					"link": "https://youtu.be/AODiNj9Y9g0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "StarLight772",
+					"link": "https://www.youtube.com/watch?v=Z1ZcTvp5ITs&feature=youtu.be",
 					"percent": 100,
 					"hz": "Mobile"
 				},
