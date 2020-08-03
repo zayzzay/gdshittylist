@@ -6468,6 +6468,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/X5-c0Rp0Mac",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Anoxysm",
 			"author": "Serpyy",
@@ -6995,6 +7001,18 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Just_Lemon",
+					"link": "https://www.youtube.com/watch?v=AertgIuf8_U&t=1s",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/b7P_TO0m6Ws",
+					"percent": 100,
+					"hz": "240hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -7043,6 +7061,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=e144nZXLJaM",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/fMg9HxkKXaA",
+					"percent": 100,
+					"hz": "240hz"
 				},
 	                ],
                         "name": "Shitty Ethereal Artifice",
@@ -7261,6 +7285,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/3b2wyy6Ys_A",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -7357,6 +7387,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=xjXUSqjHHmc",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/Dr-jdlFEJJE",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
                         "name": "Shitty Ouroboros",
@@ -7484,6 +7520,12 @@ const d = {
 					"link": "https://youtu.be/DVFh8poZYNU",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/ZSwM7MGx8M0",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
@@ -7744,6 +7786,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 			       },
+			       {
+					"user": "UNarwall",
+					"link": "https://youtu.be/SQ64QLR91RMe",
+					"percent": 100,
+					"hz": "240hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -7932,6 +7980,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/0Pb9mmB5Yv0",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
@@ -8038,6 +8092,12 @@ const d = {
 				{
 					"user": "piesy",
 					"link": "https://youtu.be/fSGBbOvbPbU",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/dBfxbw3R5tI",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -8396,6 +8456,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=EshMRcf5alA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/CW98S7sW-F4",
+					"percent": 100,
+					"hz": "240hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -8511,6 +8583,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/uBNpgyClqqM",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -8619,6 +8697,18 @@ const d = {
 					"link": "https://youtu.be/rEeKl5RHwco",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "LandonW3",
+					"link": "https://youtu.be/Bg0ZggrIMd0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/BtsKoa5rxyI",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Visible Ray",
@@ -8849,6 +8939,18 @@ const d = {
 					"percent": 62,
 					"hz": "60hz"
 				},
+				{
+					"user": "Just_Lemon",
+					"link": "https://www.youtube.com/watch?v=a48R6x6DdAc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/w5fKxC46m8o",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -9046,6 +9148,12 @@ const d = {
 				{
 					"user": "Emonadeo",
 					"link": "https://www.youtube.com/watch?v=jmqFrg5WYmY",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/IzN7qRVECZg",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -9327,10 +9435,10 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "best play",
-					"link": "https://www.youtube.com/watch?v=a8OvhWtXx38",
-					"percent": 79,
-					"hz": "60hz"
+					"user": "UNarwall",
+					"link": "https://youtu.be/xmJVeGdHSto",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
@@ -9488,6 +9596,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=M2G3hDIlZHE&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Emonadeo",
+					"link": "https://www.youtube.com/watch?v=iFQDdwdmUWs",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/1PN4wvOdwYI",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Paroxysm",
@@ -10175,6 +10295,12 @@ const d = {
 					"link": "https://youtu.be/WnvJ3dzkrD8",
 					"percent": 74,
 					"hz": "236hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/r3nGTltia6Y",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
