@@ -6390,6 +6390,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Jah",
+					"link": "https://www.youtube.com/watch?v=AqgejGkdu1M&feature=youtu.be",
+					"percent": 76,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Anoxysm",
 			"author": "Serpyy",
