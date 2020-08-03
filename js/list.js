@@ -2273,6 +2273,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/_oH6tEu5a_8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Innards",
 			"author": "Keleru",
