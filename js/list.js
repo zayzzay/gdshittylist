@@ -2544,6 +2544,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Unecycle",
+					"link": "https://youtu.be/mNaO6KgKHJI",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -4342,6 +4348,12 @@ const d = {
 					"link": "https://youtu.be/sQlYpdapjdk",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "IIEliteRainII",
+					"link": "https://youtu.be/D-uxwY3oCOA",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Awakening Horus",
@@ -7174,6 +7186,12 @@ const d = {
 					"link": "https://youtu.be/b7P_TO0m6Ws",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Wadur",
+					"link": "https://youtu.be/DU8wIe3yYKY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 	                ],
                         "name": "Shitty Cataclysm",
@@ -11202,6 +11220,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=gjUMKqoCw3c",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "IIEliteRainII",
+					"link": "https://youtu.be/hSsSlc8aKwM",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
