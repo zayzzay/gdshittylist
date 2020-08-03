@@ -3072,6 +3072,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Jah",
+					"link": "https://www.youtube.com/watch?v=LJ1WfknmLmE",
+					"percent": 60,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -3558,6 +3564,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=6RjEi0jZMoY",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "nIleum",
+					"link": "https://youtu.be/sHHVUoTXwgQ",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -8342,6 +8354,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Emonadeo",
+					"link": "https://www.youtube.com/watch?v=RA-9zYp3xHU",
+					"percent": 100,
+					"hz": "240hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -9277,6 +9295,12 @@ const d = {
 					"link": "https://youtu.be/AODiNj9Y9g0",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "best play",
+					"link": "https://www.youtube.com/watch?v=a8OvhWtXx38",
+					"percent": 79,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
