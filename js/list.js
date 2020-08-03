@@ -701,6 +701,12 @@ const d = {
 					"percent": 58,
 					"hz": "240hz"
 				},
+				{
+					"user": "Migel",
+					"link": "https://youtu.be/P2jtZjKyZwY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -3529,6 +3535,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "hren228",
+					"link": "https://www.youtube.com/watch?v=6RjEi0jZMoY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -3708,6 +3720,12 @@ const d = {
 				{
 					"user": "Acute",
 					"link": "https://www.youtube.com/watch?v=YA7odpGibVE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Batle",
+					"link": "https://youtu.be/1mC7EOdzT9c",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -5267,6 +5285,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "emberlol",
+					"link": "https://youtu.be/pPCQZ-mrarQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -6238,6 +6262,12 @@ const d = {
 					"link": "https://youtu.be/_MIwIzYky7k",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/so0HsNiN7cY",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Zodiac",
@@ -7588,6 +7618,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 			       },
+			       {
+					"user": "InferiorPatty",
+					"link": "https://www.youtube.com/watch?v=EQgJn4vQY58&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -7866,6 +7902,12 @@ const d = {
 					"link": "https://youtu.be/2Hc0YNGewwA",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/fSGBbOvbPbU",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -9127,6 +9169,12 @@ const d = {
 					"link": "https://youtu.be/JS3x5YXRYBk",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/AODiNj9Y9g0",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ithacropolis",
