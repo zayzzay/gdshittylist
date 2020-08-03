@@ -7841,6 +7841,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Rigno",
+					"link": "https://www.youtube.com/watch?v=UTdvOerlZys",
+					"percent": 57,
+					"hz": "236hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
