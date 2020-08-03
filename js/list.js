@@ -1447,6 +1447,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/whv_hAob_hw",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
@@ -4176,6 +4182,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
                                 },
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/jAswegucN80",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Pinball Panic",
 			"author": "HdLink13 [GDTeaBag]",
@@ -4570,6 +4582,12 @@ const d = {
 					"link": "https://youtu.be/QhmvLpOYFng",
 					"percent": 91,
 					"hz": "144hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/394bewBjfZY",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Kenos",
@@ -9103,6 +9121,12 @@ const d = {
 					"link": "https://youtu.be/20zWbfjrfGE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/JS3x5YXRYBk",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
