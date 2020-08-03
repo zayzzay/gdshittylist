@@ -2072,6 +2072,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/rkRr0QWI1t0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -5464,6 +5470,12 @@ const d = {
                                          "percent": 100,
                                          "hz": "288hz"
                                 },
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/M9yNoT7JOi4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Abandoned Planet",
 			"author": "LJosh",
@@ -9085,6 +9097,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=H96n9NmVWOY",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/20zWbfjrfGE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
