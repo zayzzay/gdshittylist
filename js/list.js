@@ -8252,6 +8252,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "RageRod",
+					"link": "https://www.youtube.com/watch?v=RwlDbvatpg4",
+					"percent": 100,
+					"hz": "60hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
