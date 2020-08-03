@@ -4686,6 +4686,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "nIleum",
+					"link": "https://youtu.be/1PD7C4BaOJc",
+					"percent": 70,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Cadrega City",
 			"author": "Megum",
