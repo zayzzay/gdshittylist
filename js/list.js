@@ -45,9 +45,15 @@ const d = {
 				       "percent": 77,
 				       "hz": "288hz"
 			       },
-			        {
+			       {
 				       "user": "X99",
 				       "link": "https://youtu.be/Y0m_nRpMs1k",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+			       {
+				       "user": "MrSaturnY",
+				       "link": "https://youtu.be/UPunQ9xoCh0",
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
