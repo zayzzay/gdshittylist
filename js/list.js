@@ -4618,6 +4618,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Creatormichealr",
+					"link": "https://www.youtube.com/watch?v=7re163PqgSs&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -6744,6 +6750,12 @@ const d = {
 					"link": "https://youtu.be/rQlrduYxLII",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "zriv",
+					"link": "https://youtu.be/qFAnrjQ-KhQ",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Plasma Pulse",
@@ -9897,6 +9909,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Unecycle",
+					"link": "https://www.youtube.com/watch?v=yt5Qtg0TiK8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -10180,6 +10198,12 @@ const d = {
 					"link": "https://youtu.be/kzcWFAWInYg",
 					"percent": 98,
 					"hz": "300hz"
+				},
+				{
+					"user": "Acetolysis",
+					"link": "https://www.youtube.com/watch?v=cMrDgA1K1wg&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Esencia",
