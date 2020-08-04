@@ -5132,6 +5132,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "StarLight772",
+					"link": "https://youtu.be/msWNa05B1rM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -5316,6 +5322,12 @@ const d = {
 				{
 					"user": "ItsHyper37",
 					"link": "https://www.youtube.com/watch?v=VdB90VaX3kY&t=18s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "StarLight772",
+					"link": "https://youtu.be/FhBu7Ky3qkc",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -6581,6 +6593,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Narwall",
+					"link": "https://youtu.be/wWcbObbh6gc",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -7035,6 +7053,12 @@ const d = {
 					"link": "https://youtu.be/-VqtoEb6N1U",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Narwall",
+					"link": "https://youtu.be/g_h3wcN6t58",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Silver Shade",
@@ -10674,6 +10698,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Quetzal",
+					"link": "https://youtu.be/A8Rn7xzXil4",
+					"percent": 58,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -11358,6 +11388,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Z37dJFoPEhU",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Julpiin",
+					"link": "https://youtu.be/i1bNqnNbZpk",
+					"percent": 75,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
