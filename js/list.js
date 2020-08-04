@@ -5508,9 +5508,9 @@ const d = {
 				},
 				{
 					"user": "Wadur",
-					"link": "https://www.youtube.com/watch?v=p3tr0euV9Qk&feature=youtu.be",
+					"link": "https://youtu.be/QShzZJAMeDo",
 					"percent": 100,
-					"hz": "288hz"
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Thinking Space",
@@ -11487,8 +11487,8 @@ const d = {
 				},
 				{
 					"user": "RussianKazoo",
-					"link": "https://youtu.be/Smd4qK676Uc",
-					"percent": 92,
+					"link": "https://youtu.be/mlZtzojHGH4",
+					"percent": 100,
 					"hz": "144hz"
 				},
 				{
@@ -11520,6 +11520,18 @@ const d = {
 					"link": "https://youtu.be/0nuCfAT8jcE",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "DerpOverlord",
+					"link": "https://www.reddit.com/r/geometrydash/comments/gyjlnc/4th_poopy_level_of_the_day/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "avrg",
+					"link": "https://youtu.be/M5fND_38LdU",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
