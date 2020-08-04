@@ -5156,6 +5156,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=nGM6pp-W7bo&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -7050,6 +7056,12 @@ const d = {
 				{
 					"user": "Narwall",
 					"link": "https://youtu.be/6cXDbVNTpEU",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=KcljiUSE3ls&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
 				},
