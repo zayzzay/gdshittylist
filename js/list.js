@@ -2387,6 +2387,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/f4VMDbvSmqU",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Innards",
 			"author": "Keleru",
@@ -4876,6 +4882,12 @@ const d = {
 					"link": "https://youtu.be/iDr6A48F-Sk",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/f_-8-HvY3BA",
+					"percent": 100,
+					"hz": "Mobile"
 				},
                         ],
 			"name": "Shitty Kenos",
@@ -10104,6 +10116,18 @@ const d = {
 				{
 					"user": "Xela343",
 					"link": "https://www.youtube.com/watch?v=iPIpD75-GUM",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Just_Lemon",
+					"link": "https://www.youtube.com/watch?v=4dvF4JCiMA4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/3Wl4sncUzs4",
 					"percent": 100,
 					"hz": "240hz"
 				},
