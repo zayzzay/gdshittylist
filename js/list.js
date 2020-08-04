@@ -4356,12 +4356,6 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "IIEliteRainII",
-					"link": "https://youtu.be/EJW_AOcZ2aM",
-					"percent": 96,
-					"hz": "75hz"
-				},
-				{
 					"user": "Ultraviolet",
 					"link": "https://youtu.be/_MIZqMPpFRE",
 					"percent": 100,
