@@ -130,6 +130,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Wadur",
+					"link": "https://www.youtube.com/watch?v=Ic4ZjPLXtxI&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Infected Caverns",
 			"author": "LJosh",
@@ -7065,6 +7071,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "KriSsi",
+					"link": "https://www.youtube.com/watch?v=Dpj4GrPfBDU&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -10812,6 +10824,12 @@ const d = {
 					"percent": 58,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Reimii",
+					"link": "https://youtu.be/rRxJ6zJWhRM",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -11532,6 +11550,12 @@ const d = {
 					"link": "https://youtu.be/M5fND_38LdU",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Reimii",
+					"link": "https://youtu.be/tmpANtEP8cQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
