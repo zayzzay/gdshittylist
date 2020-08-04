@@ -1440,6 +1440,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "lvcxs",
+					"link": "https://youtu.be/WANAFyq8vNc",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -2549,6 +2555,12 @@ const d = {
 					"link": "https://youtu.be/mNaO6KgKHJI",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "X99",
+					"link": "https://youtu.be/Y0m_nRpMs1k",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Aquatic Auroras",
@@ -8720,6 +8732,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Unecycle",
+					"link": "https://www.youtube.com/watch?v=HE_czvDJ-L8",
+					"percent": 100,
+					"hz": "300hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -9912,6 +9930,12 @@ const d = {
 				{
 					"user": "Unecycle",
 					"link": "https://www.youtube.com/watch?v=yt5Qtg0TiK8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Xela343",
+					"link": "https://www.youtube.com/watch?v=iPIpD75-GUM",
 					"percent": 100,
 					"hz": "240hz"
 				},
