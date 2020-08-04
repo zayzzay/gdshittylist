@@ -6189,6 +6189,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Narwall",
+					"link": "https://youtu.be/9bL6DRLFIzA",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -6775,6 +6781,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Narwall",
+					"link": "https://youtu.be/QM0EQzMZDTo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -6857,6 +6869,12 @@ const d = {
 				{
 					"user": "Th13teen",
 					"link": "https://www.youtube.com/watch?v=OV7bP4tPQ7o&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Narwall",
+					"link": "https://youtu.be/gMew-zgIClk",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -6956,6 +6974,12 @@ const d = {
 					"link": "https://youtu.be/DiJuTcL_6PI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Narwall",
+					"link": "https://youtu.be/6cXDbVNTpEU",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Just Dance",
@@ -7766,6 +7790,12 @@ const d = {
 					"link": "https://youtu.be/ZSwM7MGx8M0",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Creatormichealr",
+					"link": "https://youtu.be/MH1T0d-npqE",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
