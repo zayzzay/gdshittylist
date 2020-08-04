@@ -520,12 +520,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "SaTang",
-					"link": "https://youtu.be/dEaZ7ZPHLgo",
-					"percent": 80,
-					"hz": "60hz"
-				},
-				{
                                         "user": "Asdner",
                                         "link": "https://youtu.be/LNFviXcUkeU",
                                         "percent": 61,
