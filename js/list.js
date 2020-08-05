@@ -366,6 +366,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Arcturus",
+					"link": "https://youtu.be/0ZwTMJKss0k",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -2651,6 +2657,12 @@ const d = {
 					"link": "https://youtu.be/mNaO6KgKHJI",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/gsfFuhmxiXU",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Aquatic Auroras",
