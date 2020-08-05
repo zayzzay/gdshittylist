@@ -4919,6 +4919,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Wrandom Stuff",
+					"link": "https://youtu.be/iX6NyFXYQO8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
