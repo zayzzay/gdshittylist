@@ -3034,6 +3034,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=lwinR_RBLNE&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Tartarus",
 			"author": "AcropolisBoy [Darkys]",
