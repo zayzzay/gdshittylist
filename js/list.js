@@ -4938,6 +4938,12 @@ const d = {
 					"percent": 70,
 					"hz": "300hz"
 				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=fsZZtpOFl9A&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cadrega City",
 			"author": "Megum",
