@@ -6102,6 +6102,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/Slky5On0bAE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Explosion",
 			"author": "Serpyy",
@@ -6217,6 +6223,12 @@ const d = {
 					"link": "https://youtu.be/favZqo0bnhs",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/OQDgTMDqWOg",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Battle of the Shades",
@@ -10600,6 +10612,12 @@ const d = {
 					"link": "https://youtu.be/NNVoEHEssC4",
 					"percent": 96,
 					"hz": "75hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://www.youtube.com/watch?v=aMe44ql8iGo&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Esencia",
