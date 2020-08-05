@@ -615,6 +615,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "aurora",
+					"link": "https://youtu.be/KPoUdXQ062o",
+					"percent": 82,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -1184,6 +1190,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=vg_W3giAekw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/yrqrbRNwWjY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Sunset Sandstorm",
@@ -1913,6 +1925,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/2egLEnqpgBc",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Bluuper",
+					"link": "https://www.youtube.com/watch?v=e8smOCv-J5E",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -2237,6 +2261,12 @@ const d = {
 				{
 					"user": "Tai0",
 					"link": "https://www.twitch.tv/videos/699006327",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://www.youtube.com/watch?v=q8R7rzaLfPc&feature=youtu.be",
 					"percent": 100,
 					"hz": "120hz"
 				},
@@ -6687,6 +6717,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1Fbp_i9TF9M&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "avrg",
+					"link": "https://www.youtube.com/watch?v=tR0cRmf_Vgk",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty VendetTa",
