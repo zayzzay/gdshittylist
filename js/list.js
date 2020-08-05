@@ -1979,6 +1979,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "mikey100mike",
+					"link": "https://www.youtube.com/watch?v=MvpvJt1gQmg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -2457,6 +2463,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=QUIrHaCg6u0&feature=youtu.be",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://www.youtube.com/watch?v=xWxax4mV7Ao&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Eternal Moment",
@@ -3220,6 +3232,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=gqFRFgnaXlc&feature=youtu.be",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Renar333"
+					"link": "https://www.youtube.com/watch?v=I8s_Z5xhRU4&feature=youtu.be",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Deimos",
@@ -5062,6 +5080,12 @@ const d = {
 					"link": "https://youtu.be/iX6NyFXYQO8",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Quacc",
+					"link": "https://www.youtube.com/watch?v=fTelq85JfjY&feature=youtu.be",
+					"percent": 59,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Kenos",
@@ -7673,6 +7697,7 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -8699,6 +8724,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=LYpPBv3begg&feature=youtu.be",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "FrostBurn
+					"link": "https://youtu.be/_PKhc20wU7I",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Kidsmoke",
@@ -10792,6 +10823,12 @@ const d = {
 					"link": "https://youtu.be/RHvX6k1gCSM",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "IlEliteRainlI",
+					"link": "https://www.youtube.com/watch?v=JwaEpicfqbM&feature=youtu.be",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Esencia",
