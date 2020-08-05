@@ -8761,7 +8761,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "FrostBurn
+					"user": "FrostBurn",
 					"link": "https://youtu.be/_PKhc20wU7I",
 					"percent": 100,
 					"hz": "144hz"
