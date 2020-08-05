@@ -9461,6 +9461,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "BOSTONTHEKIDRS",
+					"link": "https://youtu.be/psxnx_Wk0Ac",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
