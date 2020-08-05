@@ -360,6 +360,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/MAZaHLKFgGc",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -6053,6 +6059,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "UNarwall",
+					"link": "https://www.youtube.com/watch?v=_kP1pL_KulA&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -6174,6 +6186,12 @@ const d = {
 					"link": "https://youtu.be/MiK-jN8bbDk",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/pUhQmO_Ml08",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Penombre",
@@ -6663,6 +6681,12 @@ const d = {
 					"link": "https://youtu.be/ZjFxqi3Rn1k",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://www.youtube.com/watch?v=1Fbp_i9TF9M&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty VendetTa",
