@@ -6118,6 +6118,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://www.youtube.com/watch?v=Eowr6BFsRnc&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Abandoned Planet",
 			"author": "LJosh",
