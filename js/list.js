@@ -9667,6 +9667,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/dceQD7-yp3c?t=116",
+					"percent": 59,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
