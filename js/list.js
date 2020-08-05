@@ -396,6 +396,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=8xnPoVijVDs",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -1032,6 +1038,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=tc0_i3AIzVE",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Ultraviolet",
+					"link": "https://www.youtube.com/watch?v=iU5ZggqBjUI&feature=youtu.be",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Balengu Vortex",
@@ -3671,6 +3683,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Elevens",
+					"link": "https://www.youtube.com/watch?v=CzQZqwvyqmw",
+					"percent": 59,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Orochi",
 			"author": "Keleru",
@@ -6191,6 +6209,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MP3141
+					"link": "https://www.youtube.com/watch?v=t00imbixk_4&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -6245,6 +6269,12 @@ const d = {
 					"link": "https://youtu.be/Slky5On0bAE",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://www.youtube.com/watch?v=bcF--eldRO8&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Explosion",
