@@ -488,6 +488,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/tq3wL8VC9eI",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Madmansion",
 			"author": "Aassbll",
@@ -1469,6 +1475,12 @@ const d = {
 					"link": "https://youtu.be/WANAFyq8vNc",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/7rMQK6kjOWY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Missing Benefits",
@@ -2671,6 +2683,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/AkIpAN_F-XA",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
@@ -3245,6 +3263,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=dF83WTlXt5Q",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/eGsKy8bqmKE",
+					"percent": 100,
+					"hz": "120"
 				},
 			],
 			"name": "Shitty Ragnarok",
@@ -4276,6 +4300,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Just_Lemon",
+					"link": "https://www.youtube.com/watch?v=YwQ51DU1eiU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -4695,6 +4725,12 @@ const d = {
 					"link": "https://youtu.be/VebLdLLP7IU",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/NlNmW26C8sU",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Glacial Core",
@@ -9265,6 +9301,12 @@ const d = {
 				{
 					"user": "Ayanakodji",
 					"link": "https://youtu.be/PzP6FJaMt-Q",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/PnObzfVhtWs",
 					"percent": 100,
 					"hz": "Mobile"
 				},
