@@ -1324,6 +1324,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Bleamer",
+					"link": "https://www.youtube.com/watch?v=5nTF8qMZz4o",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Hatred",
 			"author": "LJosh",
@@ -5547,6 +5553,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "YemenHD",
+					"link": "https://youtu.be/4xIkPkNDmVM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -6917,6 +6929,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Novavsn",
+					"link": "https://youtu.be/CeRbj3kRiF4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -8187,6 +8205,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/2pW4dms70ec",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -8591,6 +8615,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/cUXgG7eThtM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -8663,6 +8693,12 @@ const d = {
 					"link": "https://youtu.be/0Pb9mmB5Yv0",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://www.youtube.com/watch?v=LYpPBv3begg&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Kidsmoke",
@@ -11189,6 +11225,12 @@ const d = {
 					"link": "https://youtu.be/zFocGFVBa-M",
 					"percent": 57,
 					"hz": "60hz"
+				},
+				{
+					"user": "IIEliteRainII",
+					"link": "https://www.youtube.com/watch?v=tpn6O696W-w",
+					"percent": 100,
+					"hz": "75hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
