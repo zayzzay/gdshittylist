@@ -142,6 +142,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MrSaturnY",
+					"link": "https://www.youtube.com/watch?v=W6RyzM-mluE",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Plasmic",
+					"link": "https://www.youtube.com/watch?v=XxrRfwPngzU",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Infected Caverns",
 			"author": "LJosh",
@@ -220,6 +232,12 @@ const d = {
 					"link": "https://youtu.be/iI1v8sv-n-I",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Plasmic	",
+					"link": "https://www.youtube.com/watch?v=W_rStwm0IL0&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Erebus",
@@ -456,6 +474,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=pqkReFB6n2w&t=85s",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Wadur",
+					"link": "https://www.youtube.com/watch?v=pqkReFB6n2w&t=85s",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty AfterCataBath",
@@ -2422,6 +2446,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://www.youtube.com/watch?v=QUIrHaCg6u0&feature=youtu.be",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Eternal Moment",
 			"author": "Miini03",
@@ -3322,7 +3352,13 @@ const d = {
 					"user": "Renar333",
 					"link": "https://youtu.be/eGsKy8bqmKE",
 					"percent": 100,
-					"hz": "120"
+					"hz": "120hz"
+				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/prtHBSPAjCk",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ragnarok",
@@ -3421,6 +3457,12 @@ const d = {
 					"link": "https://youtu.be/b5HMyCGA_Dg",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "lvcxs",
+					"link": "https://www.youtube.com/watch?v=WI_sSmcA4fU&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Macabre",
@@ -7607,6 +7649,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://www.youtube.com/watch?v=P_Swe23RYJ8&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -9653,6 +9701,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "GoldenPlayz",
+					"link": "https://www.youtube.com/watch?v=TLPhTxpbJZY",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -10696,6 +10750,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=aMe44ql8iGo&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/RHvX6k1gCSM",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Esencia",
