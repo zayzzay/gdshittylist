@@ -234,7 +234,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Plasmic	",
+					"user": "Plasmic",
 					"link": "https://www.youtube.com/watch?v=W_rStwm0IL0&feature=youtu.be",
 					"percent": 100,
 					"hz": "300hz"
