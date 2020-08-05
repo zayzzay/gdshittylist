@@ -7732,8 +7732,7 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=P_Swe23RYJ8&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				
+				},	
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
