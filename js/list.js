@@ -8180,6 +8180,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Yellow Doop [GD] alt",
+					"link": "https://youtu.be/_Fq5WYMekME",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
