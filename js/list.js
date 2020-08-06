@@ -3402,6 +3402,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Wadur",
+					"link": "https://www.youtube.com/watch?v=GHDQ1g5TFRg&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "spacethug",
+					"link": "https://youtu.be/ItZCBy0yRG8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -7504,6 +7516,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/LFB67T5D8sw",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Silver Shade",
 			"author": "Aassbll",
@@ -9851,6 +9869,18 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Wadur",
+					"link": "https://www.youtube.com/watch?v=t2A8kw7YhsE&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Spacethug",
+					"link": "https://youtu.be/uGDFNZ5kf-g",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -10074,6 +10104,12 @@ const d = {
 					"link": "https://youtu.be/dceQD7-yp3c?t=116",
 					"percent": 59,
 					"hz": "60hz"
+				},
+				{
+					"user": "zriv",
+					"link": "https://youtu.be/fp6b_5ucDvo",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Mujigae",
@@ -11351,6 +11387,12 @@ const d = {
 					"link": "https://youtu.be/2Yu0clanNCw",
 					"percent": 74,
 					"hz": "60hz"
+				},
+				{
+					"user": "zriv",
+					"link": "https://youtu.be/IaHfKNOaw7o",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
