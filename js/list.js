@@ -11371,12 +11371,6 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "IIEliteRainII",
-					"link": "https://www.youtube.com/watch?v=tpn6O696W-w",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
 					"user": "Wave",
 					"link": "https://youtu.be/2Yu0clanNCw",
 					"percent": 74,
