@@ -487,6 +487,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/Zue-Isg--Ms",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty AfterCataBath",
 			"author": "AcropolisBoy [LJosh]",
@@ -6856,6 +6862,24 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Xela343",
+					"link": "https://youtu.be/JLQBhbyHptI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "quacc",
+					"link": "https://youtu.be/N7mftzWGNmw",
+					"percent": 72,
+					"hz": "240hz"
+				},
+				{
+					"user": "eafan0",
+					"link": "https://youtu.be/dKVQ6tiIRuM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -7732,7 +7756,13 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=P_Swe23RYJ8&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
-				},	
+				},
+				{
+					"user": "Arcturus",
+					"link": "https://youtu.be/HaTbGO0lktc",
+					"percent": 100,
+					"hz": "300hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -8125,6 +8155,12 @@ const d = {
 					"link": "https://youtu.be/Dr-jdlFEJJE",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "lNEFIX",
+					"link": "https://youtu.be/by47Fuz0YqA",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
                         "name": "Shitty Ouroboros",
@@ -8680,6 +8716,12 @@ const d = {
 					"link": "https://youtu.be/cUXgG7eThtM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "StarLight722",
+					"link": "https://youtu.be/sCppAt3tCVQ",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty xo",
@@ -11303,6 +11345,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=tpn6O696W-w",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Wave",
+					"link": "https://youtu.be/2Yu0clanNCw",
+					"percent": 74,
+					"hz": "60hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
