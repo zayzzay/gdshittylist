@@ -4337,7 +4337,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Ivcxs",
+					"user": "lvcxs",
 					"link": "https://youtu.be/n5qR1WPRlHA",
 					"percent": 100,
 					"hz": "144hz"
@@ -10918,12 +10918,6 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=cMrDgA1K1wg&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
-				},
-				{
-					"user": "IIEliteRainII",
-					"link": "https://youtu.be/NNVoEHEssC4",
-					"percent": 96,
-					"hz": "75hz"
 				},
 				{
 					"user": "UNarwall",
