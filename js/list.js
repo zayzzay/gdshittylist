@@ -1959,6 +1959,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Arcturus",
+					"link": "https://youtu.be/Eamt3npOVrM",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
