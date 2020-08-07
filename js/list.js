@@ -6323,6 +6323,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Forz1ple",
+					"link": "https://www.youtube.com/watch?v=lMnAL71iTWA",
+					"percent": 100,
+					"hz": "216hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -8432,6 +8438,12 @@ const d = {
 					"link": "https://youtu.be/2pW4dms70ec",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Forz1ple",
+					"link": "https://www.youtube.com/watch?v=CNwbNg_fxU0",
+					"percent": 100,
+					"hz": "72hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
@@ -12240,6 +12252,18 @@ const d = {
 					"link": "https://youtu.be/LIrtMScegBc",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Forz1ple",
+					"link": "https://www.youtube.com/watch?v=49ftMDWFzBA&feature=youtu.be",
+					"percent": 100,
+					"hz": "72hz"
+				},
+				{
+					"user": "Kind1e",
+					"link": "https://vimeo.com/445421003",
+					"percent": 72,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Xo Circles",
