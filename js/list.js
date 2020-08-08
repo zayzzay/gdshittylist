@@ -12313,6 +12313,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Jef GD",
+					"link": "https://youtu.be/7m9psqKY4jw",
+					"percent": 61,
+					"hz": "30hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
