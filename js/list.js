@@ -5183,12 +5183,6 @@ const d = {
 					"percent": 59,
 					"hz": "240hz"
 				},
-				{
-					"user": "Blast",
-					"link": "https://youtu.be/f_-8-HvY3BA",
-					"percent": 100,
-					"hz": "Mobile"
-				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
