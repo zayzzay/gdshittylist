@@ -9036,6 +9036,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://www.twitch.tv/videos/701002051",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
