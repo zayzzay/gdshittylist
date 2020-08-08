@@ -1614,6 +1614,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://www.twitch.tv/videos/700989857",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
