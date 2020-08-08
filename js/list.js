@@ -12289,6 +12289,12 @@ const d = {
 					"percent": 72,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Jeysun",
+					"link": "https://www.youtube.com/watch?v=ex6rA4Z-dHo",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
