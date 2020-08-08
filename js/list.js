@@ -1433,6 +1433,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/sp4LAVd8D2k",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Catharsis",
 			"author": "TheKate and more [MrDash]",
