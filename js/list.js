@@ -2122,6 +2122,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/sR6bv2NUHgU",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
