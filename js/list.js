@@ -7175,6 +7175,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/yVVGVgZC1N0",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
