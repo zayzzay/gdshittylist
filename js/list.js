@@ -7163,6 +7163,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "NovaVSN",
+					"link": "https://www.youtube.com/watch?v=CeRbj3kRiF4&t=117s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
