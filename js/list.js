@@ -10533,12 +10533,6 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Blast",
-					"link": "https://youtu.be/AODiNj9Y9g0",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "StarLight772",
 					"link": "https://www.youtube.com/watch?v=Z1ZcTvp5ITs&feature=youtu.be",
 					"percent": 100,
