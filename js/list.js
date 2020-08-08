@@ -11021,10 +11021,16 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "UNarwall",
+					"user": "HideriGH",
 					"link": "https://youtu.be/9sappwgSJ1U",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "IIEliteRainII",
+					"link": "https://youtu.be/ikjztx5j-hM",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty SPL",
