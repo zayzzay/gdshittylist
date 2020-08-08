@@ -10152,6 +10152,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=98IMiHK0LMU&t=5s",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Heartbeat",
 			"author": "Serpyy",
