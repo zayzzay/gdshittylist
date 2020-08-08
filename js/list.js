@@ -9967,8 +9967,8 @@ const d = {
 				},
 				{
 					"user": "vlubz",
-					"link": "https://youtu.be/kW3B3SZQ09E",
-					"percent": 62,
+					"link": "https://youtu.be/DwuFiYUtKV8",
+					"percent": 100,
 					"hz": "60hz"
 				},
 				{
