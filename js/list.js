@@ -40,12 +40,6 @@ const d = {
 				       "hz": "144hz"
 			       },
 			       {
-				       "user": "Praerius",
-				       "link": "https://www.youtube.com/watch?v=0KAcoIr72_k&feature=youtu.be",
-				       "percent": 77,
-				       "hz": "288hz"
-			       },
-			       {
 				       "user": "X99",
 				       "link": "https://youtu.be/Y0m_nRpMs1k",
 				       "percent": 100,
