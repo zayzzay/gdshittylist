@@ -1069,6 +1069,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/svyPIN6wM_E",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
