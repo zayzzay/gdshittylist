@@ -7006,6 +7006,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/6Ghq9YZkd4A",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
