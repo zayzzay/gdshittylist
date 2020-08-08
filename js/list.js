@@ -9217,6 +9217,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/bZDmcsyIlOU",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
