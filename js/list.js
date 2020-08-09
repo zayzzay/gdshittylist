@@ -2843,7 +2843,7 @@ const d = {
 				        "hz": "144hz"
 				},
 				{
-					"user": "Lupe1204
+					"user": "Lupe1204",
 					"link": "https://youtu.be/MLEE78gUFVM",
 					"percent": 100,
 				        "hz": "Mobile"
