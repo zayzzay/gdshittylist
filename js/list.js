@@ -875,6 +875,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/zR4MabJXyfI",
+					"percent": 59,
+					"hz": "100hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -5977,6 +5983,12 @@ const d = {
                                          "percent": 100,
                                          "hz": "144hz"
                                 },
+				{
+                                         "user": "Forz1ple",
+                                         "link": "https://youtu.be/FaH_kOgvaeA",
+                                         "percent": 100,
+                                         "hz": "216hz"
+                                },
                         ],
 			"name": "Shitty Omega",
 			"author": "GDStarStorm and more [Megum]",
@@ -6494,6 +6506,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=JXjjj-S7VKw",
 					"percent": 71,
 					"hz": "144hz"
+				},
+				{
+					"user": "Hixobit",
+					"link": "https://www.youtube.com/watch?v=NdKxcFVsfz8&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Bloodbath",
@@ -8184,6 +8202,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Hixobit",
+					"link": "https://www.youtube.com/watch?v=DsZkMLMmRTM",
+					"percent": 100,
+					"hz": "300hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -8474,6 +8498,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "MacJubber",
+					"link": "https://youtu.be/TaBU6nLbOKc",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -8588,6 +8618,12 @@ const d = {
 					"link": "https://omlet.gg/v/atBvReGrglWHzLRMO",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "GDWish",
+					"link": "https://youtu.be/f1M0MDMpHZ8",
+					"percent": 100,
+					"hz": "300hz"
 				},
                         ],
                         "name": "Shitty Ouroboros",
@@ -8739,6 +8775,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=CNwbNg_fxU0",
 					"percent": 100,
 					"hz": "72hz"
+				},
+				{
+					"user": "Just_Lemon",
+					"link": "https://www.youtube.com/watch?v=NnqU3KVhyqY",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
@@ -10887,6 +10929,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SlicedBred",
+					"link": "https://www.youtube.com/watch?v=8DFCAweo_qs&feature=youtu.be",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -12685,6 +12733,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=3wT9jwTrlBo&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "MacJubber",
+					"link": "https://youtu.be/TaBU6nLbOKc",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
