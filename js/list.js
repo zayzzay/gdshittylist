@@ -7586,6 +7586,12 @@ const d = {
 					"percent": 100,
 					"hz": "72hz"
 				},
+				{
+					"user": "Poptart",
+					"link": "https://youtu.be/NceIGdvSU7M?t=166",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -9101,6 +9107,12 @@ const d = {
 				       "link": "https://youtu.be/N5k9PVxjj3c",
 				       "percent": 100,
 				       "hz": "180hz"
+			       },
+			       {
+				       "user": "Poptart",
+				       "link": "https://youtu.be/NceIGdvSU7M?t=700",
+				       "percent": 100,
+				       "hz": "Mobile"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
