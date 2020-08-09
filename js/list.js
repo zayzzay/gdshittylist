@@ -7464,6 +7464,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/lhwTPaYD35w",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Firepower",
 			"author": "AcropolisBoy [GDTeaBag]",
