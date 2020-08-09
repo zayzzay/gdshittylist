@@ -6163,7 +6163,8 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=q-2K4-iPRXM",
 					"percent": 100,
 					"hz": "300hz"
-				},{
+				},
+				{
 					"user": "Zurteh",
 					"link": "https://youtu.be/mBN17sut-HI",
 					"percent": 100,
@@ -6318,6 +6319,12 @@ const d = {
 					"link": "https://youtu.be/UDujQaQIG_I",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "DerpOverlord",
+					"link": "https://youtu.be/YlgZ3NqEPEw",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Devil Vortex",
