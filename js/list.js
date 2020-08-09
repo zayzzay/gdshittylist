@@ -11950,8 +11950,8 @@ const d = {
 				},
 				{
 					"user": "Wave",
-					"link": "https://youtu.be/2Yu0clanNCw",
-					"percent": 74,
+					"link": "https://youtu.be/7baqrYCb9Mg",
+					"percent": 100,
 					"hz": "60hz"
 				},
 				{
