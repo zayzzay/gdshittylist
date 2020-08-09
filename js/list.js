@@ -4074,7 +4074,7 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "MacJubber
+					"user": "MacJubber",
 					"link": "https://youtu.be/TaBU6nLbOKc",
 					"percent": 100,
 					"hz": "300hz"
