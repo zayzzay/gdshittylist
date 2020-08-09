@@ -81,6 +81,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			       },
+			       {
+				       "user": "DreamingLlama",
+				       "link": "https://youtu.be/XLOmZj0PEko",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
                        ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -12625,6 +12631,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=_HRRQjAhLkI",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Kind1e",
+					"link": "https://vimeo.com/445421003",
+					"percent": 73,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Ky",
+					"link": "https://www.youtube.com/watch?v=3wT9jwTrlBo&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
