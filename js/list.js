@@ -275,6 +275,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/CukyXoFJ4w4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Erebus",
 			"author": "LJosh",
@@ -2824,6 +2830,18 @@ const d = {
 					"percent": 100,
 				        "hz": "240hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/0eDvOMhWg0w",
+					"percent": 100,
+				        "hz": "144hz"
+				},
+				{
+					"user": "Lupe1204
+					"link": "https://youtu.be/MLEE78gUFVM",
+					"percent": 100,
+				        "hz": "Mobile"
+				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -4046,6 +4064,12 @@ const d = {
 				{
 					"user": "nIleum",
 					"link": "https://youtu.be/sHHVUoTXwgQ",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "MacJubber
+					"link": "https://youtu.be/TaBU6nLbOKc",
 					"percent": 100,
 					"hz": "300hz"
 				},
@@ -7792,6 +7816,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "MP3141
+					"link": "https://youtu.be/8YzNvQk64wM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -10850,6 +10880,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=fKYxj-rNH8M",
 					"percent": 100,
 					"hz": "1440hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/qK2zTmwxJdk",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
