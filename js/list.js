@@ -11171,6 +11171,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=blfmv23Pk50",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
