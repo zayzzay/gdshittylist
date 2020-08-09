@@ -1959,6 +1959,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/iq90D4QAcAg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty WcropoliX",
 			"author": "LJosh",
