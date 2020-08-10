@@ -6677,13 +6677,13 @@ const d = {
 					"link": "https://youtu.be/dQPxOZ6M1_s",
 					"percent": 100,
 					"hz": "288hz"
-				}
+				},
 				{
 					"user": "Bluuper",
 					"link": "https://www.youtube.com/watch?v=eoiKIi9gm-s",
 					"percent": 100,
 					"hz": "144hz"
-				}
+				},
 		],
 			"name": "Shitty The Hell Field",
 			"author": "AcropolisBoy [GDTeaBag]",
