@@ -450,6 +450,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "YemenHD",
+					"link": "https://youtu.be/nfEJxFxXMXU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
