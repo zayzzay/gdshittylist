@@ -5822,6 +5822,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=muFlgGj77d4&feature=youtu.be",
 					"percent": 100,
 					"hz": "288hz"
+				},	
+				{
+					"user": "domi77",
+					"link": "https://youtu.be/nni4_1ZLFLQ",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Black Blizzard",
