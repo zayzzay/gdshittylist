@@ -6362,6 +6362,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Baechukimchi",
+					"link": "https://www.youtube.com/watch?v=tVqpyO9dK6w",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
