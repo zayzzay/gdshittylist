@@ -7950,6 +7950,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/mO2zOjsPCC8",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Silver Shade",
 			"author": "Aassbll",
