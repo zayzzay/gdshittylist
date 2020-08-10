@@ -5859,6 +5859,12 @@ const d = {
 					"link": "https://youtu.be/Mpyd_0_7D70",
 					"percent": 100,
 					"hz": "288hz"
+				},	
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/g78XCAsffpA",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Skrillex Theory",
