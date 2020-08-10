@@ -11467,6 +11467,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "bluey",
+					"link": "https://www.youtube.com/watch?v=FJZ1uPD3dLo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
