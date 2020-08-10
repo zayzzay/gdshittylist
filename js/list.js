@@ -2019,6 +2019,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Xela343",
+					"link": "https://www.youtube.com/watch?v=1b6e4X3zJM8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty WcropoliX",
 			"author": "LJosh",
