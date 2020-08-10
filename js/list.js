@@ -11202,6 +11202,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "VeryCoolBeans",
+					"link": "https://youtu.be/RNp88t_oQ74",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
