@@ -6513,6 +6513,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "YemenHD",
+					"link": "https://youtu.be/nx6-TIu1KYw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
