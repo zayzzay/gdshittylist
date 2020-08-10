@@ -5939,6 +5939,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/R5Kz2jy61mY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ad Aeternum",
 			"author": "Vlaash and more [rVlaash]",
