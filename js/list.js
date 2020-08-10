@@ -881,6 +881,12 @@ const d = {
 					"percent": 59,
 					"hz": "100hz"
 				},
+				{
+					"user": "YemenHD",
+					"link": "https://youtu.be/05peU8nj2PA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
