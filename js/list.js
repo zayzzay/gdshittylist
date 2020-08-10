@@ -6629,6 +6629,11 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/dQPxOZ6M1_s",
+					"percent": 100,
+					"hz": "288hz"
 		],
 			"name": "Shitty The Hell Field",
 			"author": "AcropolisBoy [GDTeaBag]",
