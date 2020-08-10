@@ -11412,6 +11412,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "VeryCoolBeans",
+					"link": "https://www.youtube.com/watch?v=ecN7uB3I4pk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
