@@ -7355,6 +7355,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "RageRod",
+					"link": "https://www.youtube.com/watch?v=tVEmec6YMNw&lc=UgyCNLpFnaDCI3Gh81p4AaABAg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
