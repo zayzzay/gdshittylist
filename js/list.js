@@ -11068,6 +11068,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "Rly"
+					"link": "https://youtu.be/mFU7G5xULPc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
