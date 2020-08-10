@@ -3125,6 +3125,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=3VHbY5wsYmA&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
+				},	
+				{
+					"user": "Xela343",
+					"link": "https://www.youtube.com/watch?v=lv-9bPJenFQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sonic Wave",
