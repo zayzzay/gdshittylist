@@ -990,6 +990,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/xEm-pSUI_uk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Triple Six",
 			"author": "LJosh",
