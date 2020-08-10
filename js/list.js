@@ -5055,6 +5055,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Forz1ple",
+					"link": "https://youtu.be/KoB4s662LAw",
+					"percent": 100,
+					"hz": "216hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -8377,6 +8383,12 @@ const d = {
 					"link": "https://youtu.be/S6P_vWq1G2A",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Forz1ple",
+					"link": "https://youtu.be/UzFBpynaE0w",
+					"percent": 100,
+					"hz": "72hz"
 				},
 	                ],
                         "name": "Shitty Cataclysm",
