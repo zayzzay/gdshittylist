@@ -2206,6 +2206,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "StarLight722",
+					"link": "https://youtu.be/OpG999E2f5U",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -3264,6 +3270,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=6_tVPDOI5HA&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "ShDwGhost",
+					"link": "https://youtu.be/SxjXiqXR4kk",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
 			"name": "Shitty Hyper Paracosm",
@@ -6422,6 +6434,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "StarLight722",
+					"link": "https://youtu.be/rHCPHADSJQY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -8389,6 +8407,12 @@ const d = {
 					"link": "https://youtu.be/UzFBpynaE0w",
 					"percent": 100,
 					"hz": "72hz"
+				},
+				{
+					"user": "Matter",
+					"link": "https://www.youtube.com/watch?v=nsSVjyhlqag",
+					"percent": 100,
+					"hz": "144hz"
 				},
 	                ],
                         "name": "Shitty Cataclysm",
@@ -11364,6 +11388,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/vP5lfdL_8DY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -11539,6 +11569,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/vP5lfdL_8DY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
@@ -11699,6 +11735,12 @@ const d = {
 				{
 					"user": "VeryCoolBeans",
 					"link": "https://youtu.be/MIgFaQJGQHY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/vP5lfdL_8DY",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -12176,6 +12218,12 @@ const d = {
 					"link": "https://youtu.be/uqzpZR6IhvE",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/vP5lfdL_8DY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
                         ],
 			"name": "Shitty Killerzone",
@@ -12993,6 +13041,12 @@ const d = {
 					"link": "https://youtu.be/TaBU6nLbOKc",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/vP5lfdL_8DY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Xo Circles",
