@@ -5055,6 +5055,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Forz1ple",
+					"link": "https://youtu.be/KoB4s662LAw",
+					"percent": 100,
+					"hz": "216hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
