@@ -1303,6 +1303,18 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "FrenchFry",
+					"link": "https://www.youtube.com/watch?v=nsasAcBQyd4&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Lupe1204",
+					"link": "https://www.youtube.com/watch?v=Zs0iyznAuBA&feature=youtu.be",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
@@ -2458,6 +2470,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://www.youtube.com/watch?v=1y-8LnpTTpg&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -2729,6 +2747,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=bNI4dJl1lJA",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Lupe1204",
+					"link": "https://www.youtube.com/watch?v=MLEE78gUFVM&feature=youtu.be",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Arctic Lights",
@@ -3455,6 +3479,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=hAnTHYmkYcI",
 					"percent": 67,
 					"hz": "240hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://www.youtube.com/watch?v=DeylK9xhPg4&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sonic Wave",
@@ -8977,6 +9007,12 @@ const d = {
 					"link": "https://www.twitch.tv/videos/706864911",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/MJPquL-kHsk",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Silver Shade",
