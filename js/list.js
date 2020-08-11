@@ -7200,6 +7200,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "jah",
+					"link": "https://www.youtube.com/watch?v=YJ2mW6TUQyA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 		],
 			"name": "Shitty The Hell Field",
 			"author": "AcropolisBoy [GDTeaBag]",
