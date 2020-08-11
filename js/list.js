@@ -2387,6 +2387,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/-L-IdSuj3Vs",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Step To Hell",
 			"author": "oSpace",
@@ -9113,6 +9119,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "HopZy",
+					"link": "https://www.youtube.com/watch?v=evKfibrlIPk",
+					"percent": 57,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -11705,6 +11717,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=22mV0JcXn1Q&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/S1OCoyxJUUo?t=4564",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
