@@ -462,6 +462,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/tYQ8U7NUSo4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -10991,6 +10997,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "VeryCoolBeans",
+					"link": "https://www.youtube.com/watch?v=-QcXBK72PeM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -11339,6 +11351,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1LScNqiOgeU",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/kCfPVIFc200",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
