@@ -10449,6 +10449,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/oLbI3EqD9eo?t=966",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -10555,6 +10561,12 @@ const d = {
 				{
 					"user": "VeryCoolBeans",
 					"link": "https://youtu.be/5EE9PPaEuCA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/oLbI3EqD9eo?t=841",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -10708,6 +10720,12 @@ const d = {
 					"link": "https://youtu.be/hAkOnHjURiI",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/oLbI3EqD9eo?t=661",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -11263,6 +11281,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/oLbI3EqD9eo?t=394",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -11407,6 +11431,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Uq1OXZ6-gBs",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/oLbI3EqD9eo?t=232",
+					"percent": 100,
+					"hz": "Mobile"
 				},
                         ],
 			"name": "Shitty Visible Ray",
@@ -11721,6 +11751,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/oLbI3EqD9eo?t=128",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -11767,6 +11803,12 @@ const d = {
 				{
 					"user": "VeryCoolBeans",
 					"link": "https://youtu.be/dPg92Jq6Cl8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/oLbI3EqD9eo?t=546",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -11998,6 +12040,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Np6MnSGdR3k",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/oLbI3EqD9eo",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Mujigae",
