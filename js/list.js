@@ -9618,6 +9618,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=R_PrINxG9R4",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
