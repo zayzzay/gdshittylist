@@ -789,6 +789,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Hixobit",
+					"link": "https://www.youtube.com/watch?v=FSY630n5J2o",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
