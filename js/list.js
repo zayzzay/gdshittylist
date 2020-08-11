@@ -287,6 +287,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=1142",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Erebus",
 			"author": "LJosh",
@@ -565,6 +571,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=4",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty AfterCataBath",
 			"author": "AcropolisBoy [LJosh]",
@@ -765,6 +777,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=1220",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -928,6 +946,12 @@ const d = {
 					"link": "https://youtu.be/1FlPicOX72U",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=1054",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Zaphkiel",
@@ -2121,6 +2145,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=964",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty WcropoliX",
 			"author": "LJosh",
@@ -2580,6 +2610,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=353",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -3010,6 +3046,12 @@ const d = {
 					"percent": 100,
 				        "hz": "300hz"
 				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=277",
+					"percent": 100,
+				        "hz": "288hz"
+				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -3267,6 +3309,12 @@ const d = {
 				{
 					"user": "Praerius",
 					"link": "https://www.youtube.com/watch?v=umrRuJt3wBA&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=757",
 					"percent": 100,
 					"hz": "288hz"
 				},
@@ -5629,6 +5677,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MacJubber",
+					"link": "https://youtu.be/U0spBo1Nd00",
+					"percent": 100,
+					"hz": "300hz"
+				},
                         ],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -7141,6 +7195,12 @@ const d = {
 					"link": "https://youtu.be/Q_17PFCIqbU",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "MacJubber",
+					"link": "https://youtu.be/U0spBo1Nd00",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Penombre",
@@ -10577,6 +10637,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=GDLtmCVo0bo",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "MacJubber",
+					"link": "https://youtu.be/U0spBo1Nd00",
+					"percent": 100,
+					"hz": "300hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
