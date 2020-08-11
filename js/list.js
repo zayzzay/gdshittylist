@@ -281,6 +281,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Kuiper1",
+					"link": "https://youtu.be/4qaUiTzr1xw",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Erebus",
 			"author": "LJosh",
@@ -4202,6 +4208,12 @@ const d = {
 				{
 					"user": "Covieta",
 					"link": "https://youtu.be/_a0Rb4yAZeQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "EL YO MISMO",
+					"link": "https://www.youtube.com/watch?v=-n3PtowJnVI",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -10315,6 +10327,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/TTW-poto9xY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -11556,6 +11574,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=FJZ1uPD3dLo",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/JZR5vMMz87s",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Paroxysm",
