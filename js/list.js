@@ -3863,6 +3863,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/ZBLjE7VSivE",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Delebit Oblivio",
 			"author": "HdLink13 [rVlaash]",
@@ -4797,6 +4803,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/a1q-4pI7nhk?t=327",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -4926,6 +4938,12 @@ const d = {
 					"link": "https://youtu.be/fmpZB_BfaO0",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/M6MW1H56UiA",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Matilda The Machine",
@@ -8659,6 +8677,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/a1q-4pI7nhk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/rh_Lx1DAzKg",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -10981,6 +11011,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Baechukimchi",
+					"link": "https://www.youtube.com/watch?v=MfKQSjI42wU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -11426,6 +11462,12 @@ const d = {
 					"link": "https://www.twitch.tv/videos/706400497",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "mrbananan",
+					"link": "https://www.youtube.com/watch?v=b9vn-R-dZpI",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
@@ -12500,6 +12542,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Acetolysis",
+					"link": "https://youtu.be/641Eb8C-87o",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
@@ -12674,6 +12722,12 @@ const d = {
 					"link": "https://youtu.be/QUJsFRg3mUw",
 					"percent": 64,
 					"hz": "60hz"
+				},
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/a1q-4pI7nhk?t=94",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Esencia",
