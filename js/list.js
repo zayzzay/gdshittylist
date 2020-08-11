@@ -1267,6 +1267,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Ryth",
+					"link": "https://www.youtube.com/watch?v=YUoseOc7O0w&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
