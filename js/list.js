@@ -3908,6 +3908,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/mb1Xbr6Bbwo",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Calculator Core",
 			"author": "oSpace and more [oSpace]",
@@ -7942,6 +7948,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Poptart",
+					"link": "https://youtu.be/NceIGdvSU7M",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -9506,6 +9518,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			       },
+			       {
+				       "user": "Poptart",
+				       "link": "https://youtu.be/NceIGdvSU7M",
+				       "percent": 100,
+				       "hz": "Mobile"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -9753,6 +9771,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ItqicD5-r78",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "VeryCoolBeans",
+					"link": "https://youtu.be/5EE9PPaEuCA",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Kidsmoke",
@@ -10875,6 +10899,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=98IMiHK0LMU&t=5s",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "VeryCoolBeans",
+					"link": "https://youtu.be/dPg92Jq6Cl8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Heartbeat",
