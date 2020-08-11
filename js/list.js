@@ -828,12 +828,6 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Hulunn",
-					"link": "https://www.youtube.com/watch?v=e_R395pxhIA",
-					"percent": 77,
-					"hz": "300hz"
-				},
-				{
 					"user": "Hixobit",
 					"link": "https://www.youtube.com/watch?v=VxfW19iNr88&feature=youtu.be",
 					"percent": 100,
@@ -5285,6 +5279,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/eQzLu7aNrhA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cadrega City",
 			"author": "Megum",
@@ -5327,6 +5327,12 @@ const d = {
 					"link": "https://youtu.be/sziIi0QVYGA",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/p2gHaQg6CuY",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Omnitoxin",
@@ -9655,7 +9661,7 @@ const d = {
 					"user": "iRaily",
 					"link": "https://youtu.be/XLBmDGAM258",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "Mobile"
 				},
 				{
 					"user": "Bluuper",
