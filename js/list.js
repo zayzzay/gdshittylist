@@ -819,6 +819,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "xRiver007",
+					"link": "https://www.youtube.com/watch?v=3nmjby3pYp0",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
