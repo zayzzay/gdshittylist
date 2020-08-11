@@ -8347,6 +8347,12 @@ const d = {
 					"percent": 100,
 					"hz": "216hz"
 				},
+				{
+					"user": "HopZy",
+					"link": "https://www.youtube.com/watch?v=Jl-2_W0Bs1g",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
