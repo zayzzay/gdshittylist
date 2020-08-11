@@ -7456,6 +7456,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Whiteteeth",
+					"link": "https://youtu.be/5hevBtRFTNI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Distraught",
 			"author": "AlexTheGS33 and more [AlexTheGS33]",
