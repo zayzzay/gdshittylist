@@ -311,6 +311,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/9rhIv45iNEU",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Erebus",
 			"author": "LJosh",
