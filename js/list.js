@@ -1197,8 +1197,8 @@ const d = {
 				},
 				{
 					"user": "FrenchFry",
-					"link": "https://youtu.be/nsasAcBQyd4",
-					"percent": 66,
+					"link": "https://www.youtube.com/watch?v=mwLPVnsccA4&feature=youtu.be",
+					"percent": 100,
 					"hz": "240hz"
 				},
 			],
@@ -7562,8 +7562,8 @@ const d = {
 				},
 				{
 					"user": "ItsHyper37",
-					"link": "https://www.youtube.com/watch?v=ZYJE4avpe04",
-					"percent": 96,
+					"link": "https://youtu.be/nPGI1Llfivk",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 				{
