@@ -7663,6 +7663,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Forz1ple",
+					"link": "https://youtu.be/ZudTcPBDr2M",
+					"percent": 100,
+					"hz": "216hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -13300,6 +13306,12 @@ const d = {
 					"link": "https://youtu.be/vP5lfdL_8DY",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Forz1ple",
+					"link": "https://www.youtube.com/watch?reload=9&v=49ftMDWFzBA",
+					"percent": 100,
+					"hz": "72hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
