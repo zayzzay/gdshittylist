@@ -4959,6 +4959,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/MeoFdsWBJS8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -5235,6 +5241,12 @@ const d = {
 					"link": "https://youtu.be/5CyFYvTFCRo",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/BrAH45aEVRY",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
 			"name": "Shitty Kenos",
@@ -7898,6 +7910,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Hixobit",
+					"link": "https://www.youtube.com/watch?v=xUeh8DUua0U",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Anoxysm",
 			"author": "Serpyy",
@@ -10549,6 +10567,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "VeryCoolBeans",
+					"link": "https://www.youtube.com/watch?v=Krnyu0cjrYg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -10964,6 +10988,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=6-7TiFEiX8Q",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "jToniX",
+					"link": "https://youtu.be/65tMA8kgFlk",
+					"percent": 100,
+					"hz": "80hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
