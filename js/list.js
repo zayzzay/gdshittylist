@@ -4235,6 +4235,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/H0XTLEckIxU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -6949,6 +6955,12 @@ const d = {
 					"link": "https://youtu.be/oN-YwjqI2l8",
 					"percent": 100,
 					"hz": "72hz"
+				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/Q_17PFCIqbU",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Penombre",
