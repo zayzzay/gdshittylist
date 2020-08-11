@@ -747,6 +747,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/VdARbCKYjTg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -1188,6 +1194,12 @@ const d = {
 					"link": "https://youtu.be/N_dxLCk1D0k",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "FrenchFry",
+					"link": "https://youtu.be/nsasAcBQyd4",
+					"percent": 66,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Balengu Vortex",
@@ -7084,6 +7096,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://youtu.be/G-t338wYSUE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Distraught",
 			"author": "AlexTheGS33 and more [AlexTheGS33]",
@@ -8263,6 +8281,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=IIpQCQC93wo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -9234,6 +9258,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=NnqU3KVhyqY",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/MH1T0d-npqE",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
