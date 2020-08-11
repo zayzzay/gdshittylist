@@ -2823,6 +2823,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/Le7142EF1Xs",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Innards",
 			"author": "Keleru",
@@ -9589,6 +9595,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "HopZy",
+					"link": "https://www.youtube.com/watch?v=u9rMrRthUAw",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -10997,6 +11009,12 @@ const d = {
 				{
 					"user": "Ayanakodji",
 					"link": "https://youtu.be/PzP6FJaMt-Q",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "VeryCoolBeans",
+					"link": "https://www.youtube.com/watch?v=04NaIF_sqbQ",
 					"percent": 100,
 					"hz": "Mobile"
 				},
