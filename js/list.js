@@ -8937,6 +8937,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "YemenHD",
+					"link": "https://youtu.be/vn3R-yUbQ5o",
+					"percent": 100,
+					"hz": "144hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -9854,6 +9860,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
+			       {
+				       "user": "YemenHD",
+				       "link": "https://youtu.be/qF7ke3k7-BA",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -10649,6 +10661,12 @@ const d = {
 					"link": "https://youtu.be/U0spBo1Nd00",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "YemenHD",
+					"link": "https://youtu.be/PLiPKw-CfI0",
+					"percent": 100,
+					"hz": "144hz"
 				},
                 	],
 			"name": "Shitty Sakupen Hell",
