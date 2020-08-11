@@ -4140,6 +4140,12 @@ const d = {
 					"link": "https://youtu.be/E1lMglgi8W8",
 					"percent": 100,
 					"hz": "120hz"
+				},	
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/xWVgKJ86UNQ",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty UltraSans",
