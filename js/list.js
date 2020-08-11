@@ -1243,6 +1243,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Hixobit",
+					"link": "https://www.youtube.com/watch?v=KydkaNiN5bc&feature=youtu.be,
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
@@ -7134,6 +7140,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/tOUGnlZhUXc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 		],
 			"name": "Shitty The Hell Field",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -7890,6 +7902,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ShDwGhost",
+					"link": "https://www.twitch.tv/videos/706393214",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -8332,6 +8350,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Ky",
+					"link": "https://www.youtube.com/watch?v=DaAC1PUOp5E&lc=Ugx8Cv9CD2iUkF2ksYd4AaABAg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -8428,6 +8452,12 @@ const d = {
 					"link": "https://youtu.be/R11dUH5PeHk",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "monstergamer546",
+					"link": "https://youtu.be/iJUMHDrLwQI",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Concaved Memories",
@@ -9050,6 +9080,12 @@ const d = {
 					"link": "https://youtu.be/NvSbanfvN6w?t=432",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "HopZy",
+					"link": "https://www.youtube.com/watch?v=B0d1fxaa9Js",
+					"percent": 100,
+					"hz": "120hz"
 				},
 	                ],
                         "name": "Shitty Cataclysm",
@@ -9989,6 +10025,12 @@ const d = {
 			       {
 				       "user": "YemenHD",
 				       "link": "https://youtu.be/qF7ke3k7-BA",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "ShDwGhost",
+				       "link": "https://www.twitch.tv/videos/706410218",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
@@ -11078,6 +11120,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Hixobit",
+					"link": "https://www.youtube.com/watch?v=Uq1OXZ6-gBs",
+					"percent": 100,
+					"hz": "300hz"
+				},
                         ],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
@@ -11372,6 +11420,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=SK908A8_QjU",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "ShDwGhost",
+					"link": "https://www.twitch.tv/videos/706400497",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
@@ -12017,6 +12071,12 @@ const d = {
 					"link": "https://youtu.be/SOMTxshiwNA",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "SulexGD",
+					"link": "https://youtu.be/7dEDqFjRYOs",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ithacropolis",
