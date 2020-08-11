@@ -3486,6 +3486,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "xRiver007",
+					"link": "https://www.youtube.com/watch?v=tL5hIIBZXjk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
@@ -3630,6 +3636,12 @@ const d = {
 					"link": "https://youtu.be/8UMKv7SWbnQ",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "xRiver007",
+					"link": "https://youtu.be/ZpV4bAiSOVc",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Hyper Paracosm",
