@@ -8076,6 +8076,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "StatiicBluey",
+					"link": "https://www.youtube.com/watch?v=h5Es8WkNpOw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
