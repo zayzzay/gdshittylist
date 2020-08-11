@@ -3554,6 +3554,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=662",
+					"percent": 100,
+				        "hz": "288hz"
+				},
 			],
 			"name": "Shitty Tartarus",
 			"author": "AcropolisBoy [Darkys]",
@@ -3814,6 +3820,12 @@ const d = {
 					"link": "https://youtu.be/nNgAcfLkUzM",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/IWYtysTCEPk",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Delebit Oblivio",
@@ -7019,6 +7031,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=537",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -8943,6 +8961,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=432",
+					"percent": 100,
+					"hz": "288hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -10118,6 +10142,12 @@ const d = {
 					"user": "VeryCoolBeans",
 					"link": "https://youtu.be/5EE9PPaEuCA",
 					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "SwordK",
+					"link": "https://youtu.be/toCc5fshV8s",
+					"percent": 58,
 					"hz": "Mobile"
 				},
 			],
