@@ -559,6 +559,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Hixobit",
+					"link": "https://www.youtube.com/watch?v=gKR8F6i7Azc",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty AfterCataBath",
 			"author": "AcropolisBoy [LJosh]",
@@ -3840,6 +3846,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "MacJubber",
+					"link": "https://youtu.be/U0spBo1Nd00",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Macabre",
 			"author": "oSpace and more [Serpyy]",
@@ -5284,6 +5296,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MacJubber",
+					"link": "https://youtu.be/U0spBo1Nd00",
+					"percent": 100,
+					"hz": "300hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -6118,6 +6136,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/StFCzP222mw",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -6723,6 +6747,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MacJubber",
+					"link": "https://youtu.be/U0spBo1Nd00",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -6920,6 +6950,12 @@ const d = {
 				{
 					"user": "Covieta",
 					"link": "https://youtu.be/1xKbR_MFcCA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "YemenHD",
+					"link": "https://youtu.be/8ZIQbUKW2Fk",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -7686,6 +7722,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Dist3nd",
+					"link": "https://youtu.be/9eNuomFkOVg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -8339,6 +8381,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=3VnUM-OlhPg",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "MacJubber",
+					"link": "https://youtu.be/U0spBo1Nd00",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Just Dance",
@@ -9245,6 +9293,12 @@ const d = {
 					"link": "https://youtu.be/f1M0MDMpHZ8",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Just_Lemon",
+					"link": "https://www.youtube.com/watch?v=cgeYrksPJ3U",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
                         "name": "Shitty Ouroboros",
