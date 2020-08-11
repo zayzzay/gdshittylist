@@ -1124,6 +1124,85 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Fhyron06",
+					"link": "https://youtu.be/cvpixmgb4mw",
+					"percent": 100,
+					"hz": "280hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/UvHv46sOzI4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MiniShoey",
+					"link": "https://www.youtube.com/watch?v=OBrc5hk4A8Y",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=P4Y_gwphI_o",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "Plasmic",
+					"link": "https://www.youtube.com/watch?v=zK9kLcbufNQ&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=CxEqBdkOk2w",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/t0zbmHj-DJ8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/x1XSEfknGvo",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/KAPId9vQGmk",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/ZVwuFSYby74",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Hixobit",
+					"link": "https://www.youtube.com/watch?v=3wF5jn9Z6k0&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
+			],
+			"name": "Shitty Poltergeist Reborn",
+			"author": "LJosh",
+			"more": "none",
+			"id": 59560323,
+			"pass": "0009",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=axeVcW9WATs",
+			"key": 9
+		},
+		/*=================================================================================*/
+				{
+			"vids": [
+				{
 					"user": "XanPlayzGamez",
 					"link": "https://www.youtube.com/watch?v=iaMO1bEwKYE",
 					"percent": 100,
@@ -1323,85 +1402,6 @@ const d = {
 			"pass": "0002",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=rWcLT30sVj0",
-			"key": 9
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Fhyron06",
-					"link": "https://youtu.be/cvpixmgb4mw",
-					"percent": 100,
-					"hz": "280hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/UvHv46sOzI4",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "MiniShoey",
-					"link": "https://www.youtube.com/watch?v=OBrc5hk4A8Y",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Magma",
-					"link": "https://www.youtube.com/watch?v=P4Y_gwphI_o",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "Plasmic",
-					"link": "https://www.youtube.com/watch?v=zK9kLcbufNQ&feature=youtu.be",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "TFIBB",
-					"link": "https://www.youtube.com/watch?v=CxEqBdkOk2w",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/t0zbmHj-DJ8",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Renar333",
-					"link": "https://youtu.be/x1XSEfknGvo",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/KAPId9vQGmk",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/ZVwuFSYby74",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Hixobit",
-					"link": "https://www.youtube.com/watch?v=3wF5jn9Z6k0&feature=youtu.be",
-					"percent": 100,
-					"hz": "300hz"
-				},
-			],
-			"name": "Shitty Poltergeist Reborn",
-			"author": "LJosh",
-			"more": "none",
-			"id": 59560323,
-			"pass": "0009",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=axeVcW9WATs",
 			"key": 10
 		},
 		/*=================================================================================*/
