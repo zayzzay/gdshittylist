@@ -1964,6 +1964,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "HilonekTXT",
+					"link": "https://www.youtube.com/watch?v=LHGMzAatNxI&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -10760,6 +10766,12 @@ const d = {
 					"link": "https://youtu.be/uGDFNZ5kf-g",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "lNEFIX",
+					"link": "https://youtu.be/UOJ0UJyYBJA",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
