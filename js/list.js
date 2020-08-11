@@ -8834,6 +8834,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://www.twitch.tv/videos/706864911",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Silver Shade",
 			"author": "Aassbll",
