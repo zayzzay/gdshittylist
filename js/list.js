@@ -989,6 +989,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "xRiver007",
+					"link": "https://www.youtube.com/watch?v=q_4OrZCVFrE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
