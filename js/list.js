@@ -1245,7 +1245,7 @@ const d = {
 				},
 				{
 					"user": "Hixobit",
-					"link": "https://www.youtube.com/watch?v=KydkaNiN5bc&feature=youtu.be,
+					"link": "https://www.youtube.com/watch?v=KydkaNiN5bc&feature=youtu.be",
 					"percent": 100,
 					"hz": "300hz"
 				},
