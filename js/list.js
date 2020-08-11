@@ -6994,6 +6994,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Aassbll",
+					"link": "https://www.youtube.com/watch?v=n9moT6SWsYs",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Distraught",
 			"author": "AlexTheGS33 and more [AlexTheGS33]",
