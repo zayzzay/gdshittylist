@@ -2404,6 +2404,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/M4Kdtf1m83Q",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
