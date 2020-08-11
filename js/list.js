@@ -2096,6 +2096,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/NjsxZzP4M2s",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
