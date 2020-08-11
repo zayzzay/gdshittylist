@@ -8429,12 +8429,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Poptart",
-					"link": "https://youtu.be/NceIGdvSU7M",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "Ky",
 					"link": "https://www.youtube.com/watch?v=DaAC1PUOp5E&lc=Ugx8Cv9CD2iUkF2ksYd4AaABAg",
 					"percent": 100,
@@ -10111,12 +10105,6 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=GIgO5uuUiAI&t",
 				       "percent": 100,
 				       "hz": "60hz"
-			       },
-			       {
-				       "user": "Poptart",
-				       "link": "https://youtu.be/NceIGdvSU7M",
-				       "percent": 100,
-				       "hz": "Mobile"
 			       },
 			       {
 				       "user": "FrenchFry",
