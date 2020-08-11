@@ -3828,6 +3828,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "GrimPencil16",
+					"link": "https://youtu.be/7CevVoSQI-A",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Macabre",
 			"author": "oSpace and more [Serpyy]",
