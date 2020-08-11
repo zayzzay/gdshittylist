@@ -7349,6 +7349,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "ItsHyper37",
+					"link": "https://www.youtube.com/watch?v=Z3fp3DYNb_U",
+					"percent": 84,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
