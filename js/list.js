@@ -1903,6 +1903,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Veedio",
+					"link": "https://www.youtube.com/watch?v=VkDsVuGjx7k&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
+				},
                         ],
 			"name": "Shitty WOW",
 			"author": "oSpace [LJosh]",
@@ -2791,6 +2797,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://www.youtube.com/watch?v=h3-2t396isI&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zettabyte",
 			"author": "Serpyy",
@@ -2879,6 +2891,12 @@ const d = {
 				{
 					"user": "GDMeric",
 					"link": "https://www.youtube.com/watch?v=xWxax4mV7Ao&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/wpolz7Ogf-E",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -5010,6 +5028,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/KinSi1Hqyd4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 		],
 			"name": "Shitty BioMachinist",
 			"author": "TheKate and SoyNadie [Vlaash]",
@@ -6586,6 +6610,12 @@ const d = {
 				{
 					"user": "MP3141",
 					"link": "https://youtu.be/JR0pyjD3DUc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://www.youtube.com/watch?v=oige3OtPrDs&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -12553,6 +12583,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://www.youtube.com/watch?v=nf4Xh_yw0ck&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -12737,6 +12773,12 @@ const d = {
 				{
 					"user": "Acetolysis",
 					"link": "https://youtu.be/641Eb8C-87o",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "CarlosArt16",
+					"link": "https://www.youtube.com/watch?v=hoLnYSPRdeY&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -14284,6 +14326,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=QizyQLYHc-A",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "ZedGMD",
+					"link": "https://www.youtube.com/watch?v=_xAKlQK2Nho",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
