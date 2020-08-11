@@ -4746,6 +4746,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Aassbll",
+					"link": "https://youtu.be/2QxbuKbrxjY",
+					"percent": 100,
+					"hz": "60hz"
+				},
 		],
 			"name": "Shitty BioMachinist",
 			"author": "TheKate and SoyNadie [Vlaash]",
