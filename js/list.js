@@ -6928,22 +6928,10 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Baechukimchi",
-					"link": "https://www.youtube.com/watch?v=tVqpyO9dK6w",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
 					"user": "HilonekTXT",
 					"link": "https://www.youtube.com/watch?v=wrP5NCoUU2U&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "Baechukimchi",
-					"link": "https://youtu.be/tVqpyO9dK6w",
-					"percent": 100,
-					"hz": "240hz"
 				},
 				{
 					"user": "MacJubber",
