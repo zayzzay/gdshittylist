@@ -5551,6 +5551,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/jaKz55pksO4",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -5750,6 +5756,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/9KXEdgirjFc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -5913,6 +5925,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/HbbwzzrQY1s",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -6039,6 +6057,12 @@ const d = {
 					"link": "https://youtu.be/nni4_1ZLFLQ",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/Z7s-O9eRyes",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Black Blizzard",
@@ -7101,6 +7125,12 @@ const d = {
 					"link": "https://youtu.be/G-t338wYSUE",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Forz1ple",
+					"link": "https://youtu.be/pnH8ho3kctY",
+					"percent": 100,
+					"hz": "72hz"
 				},
 			],
 			"name": "Shitty Distraught",
@@ -8684,6 +8714,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=eQP7wwoHya4",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Ky",
+					"link": "https://www.youtube.com/watch?v=6a4rbhh0_F0",
+					"percent": 100,
+					"hz": "60hz"
 				},
 	                ],
                         "name": "Shitty Cataclysm",
