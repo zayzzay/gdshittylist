@@ -5554,6 +5554,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "HopZy",
+					"link": "https://www.youtube.com/watch?v=-LpIFmFwvpc",
+					"percent": 100,
+					"hz": "120hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
