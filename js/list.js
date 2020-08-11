@@ -2290,6 +2290,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/uuVjY5ogArE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -5199,6 +5205,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=G9N2KfGM3jY",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Novavsn",
+					"link": "https://youtu.be/5CyFYvTFCRo",
+					"percent": 100,
+					"hz": "Mobile"
 				},
                         ],
 			"name": "Shitty Kenos",
@@ -10856,6 +10868,12 @@ const d = {
 					"link": "https://youtu.be/UOJ0UJyYBJA",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "VeryCoolBeans",
+					"link": "https://www.youtube.com/watch?v=6-7TiFEiX8Q",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
