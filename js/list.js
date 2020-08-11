@@ -12174,6 +12174,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Best play",
+					"link": "https://youtu.be/4ro54ae6Qe8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
