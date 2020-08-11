@@ -911,6 +911,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/1FlPicOX72U",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -4238,6 +4244,12 @@ const d = {
 				{
 					"user": "TheRealYeeter",
 					"link": "https://youtu.be/H0XTLEckIxU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/_6tpOkVgPJw",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -11078,6 +11090,12 @@ const d = {
 				{
 					"user": "VeryCoolBeans",
 					"link": "https://www.youtube.com/watch?v=-QcXBK72PeM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/wF4CvI9gTFk",
 					"percent": 100,
 					"hz": "Mobile"
 				},
