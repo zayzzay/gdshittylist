@@ -5368,6 +5368,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "InferiorPatty",
+					"link": "https://www.youtube.com/watch?v=xIkFuwD0BVg&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -5700,6 +5706,12 @@ const d = {
 					"link": "https://youtu.be/U0spBo1Nd00",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "mrbananan",
+					"link": "https://www.youtube.com/watch?v=TnclGCcTNqo",
+					"percent": 100,
+					"hz": "60hz"
 				},
                         ],
 			"name": "Shitty Rate Demon",
@@ -7061,6 +7073,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=eoiKIi9gm-s",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=UOmGmQCR1Ss",
+					"percent": 100,
+					"hz": "240hz"
 				},
 		],
 			"name": "Shitty The Hell Field",
@@ -9559,6 +9577,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "mrbananan",
+					"link": "https://www.youtube.com/watch?v=TnclGCcTNqo",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -11897,6 +11921,12 @@ const d = {
 					"link": "https://youtu.be/S1OCoyxJUUo?t=4564",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "GunnarDog",
+					"link": "https://youtu.be/SOMTxshiwNA",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
