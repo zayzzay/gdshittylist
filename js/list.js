@@ -3560,6 +3560,12 @@ const d = {
 					"percent": 100,
 				        "hz": "288hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/UDESbri5pbk",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Tartarus",
 			"author": "AcropolisBoy [Darkys]",
@@ -7507,8 +7513,8 @@ const d = {
 				},
 				{
 					"user": "ItsHyper37",
-					"link": "https://www.youtube.com/watch?v=Z3fp3DYNb_U",
-					"percent": 84,
+					"link": "https://youtu.be/p8PaA3lhfoM",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 			],
@@ -13012,6 +13018,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/0v3VVM0TwoU",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -13858,6 +13870,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=kHj_iE_2eS4",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/x8QGPMwrIPI",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
