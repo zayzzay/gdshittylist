@@ -6567,6 +6567,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "HilonekTXT",
+					"link": "https://www.youtube.com/watch?v=wrP5NCoUU2U&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -11978,6 +11984,12 @@ const d = {
 					"link": "https://youtu.be/vP5lfdL_8DY",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "XoaOfficial",
+					"link": "https://youtu.be/QUJsFRg3mUw",
+					"percent": 64,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Esencia",
