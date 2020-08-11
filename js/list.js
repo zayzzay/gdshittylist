@@ -1395,6 +1395,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Reimii",
+					"link": "https://youtu.be/ccM-TcyF-GQ",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Sunset Sandstorm",
 			"author": "LJosh",
@@ -2245,6 +2251,12 @@ const d = {
 				{
 					"user": "StarLight722",
 					"link": "https://youtu.be/OpG999E2f5U",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/7rMQK6kjOWY",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -6804,6 +6816,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=bcF--eldRO8&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/ZOBDrKZDBkA",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Explosion",
