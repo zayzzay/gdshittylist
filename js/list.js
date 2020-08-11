@@ -2393,12 +2393,6 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Blast",
-					"link": "https://youtu.be/7rMQK6kjOWY",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "iRaily",
 					"link": "https://youtu.be/uuVjY5ogArE",
 					"percent": 100,
