@@ -1958,6 +1958,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/6bZMv2q0m8A",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -6548,6 +6554,12 @@ const d = {
 					"link": "https://youtu.be/nx6-TIu1KYw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Baechukimchi",
+					"link": "https://www.youtube.com/watch?v=tVqpyO9dK6w",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
