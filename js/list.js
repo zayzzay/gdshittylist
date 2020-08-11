@@ -10479,6 +10479,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Xela343",
+					"link": "https://www.youtube.com/watch?v=VeFgZOKDCHc",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
