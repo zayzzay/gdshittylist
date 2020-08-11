@@ -6699,6 +6699,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Baechukimchi",
+					"link": "https://youtu.be/tVqpyO9dK6w",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -7650,6 +7656,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Zshadoweye",
+					"link": "https://www.youtube.com/watch?v=5A5KAfuEYH0",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -7953,6 +7965,18 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/w9oDuaT-AQU",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/JlbUBhhVUcM",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Firepower",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -8164,6 +8188,12 @@ const d = {
 					"link": "https://youtu.be/gMew-zgIClk",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/R11dUH5PeHk",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Concaved Memories",
@@ -8762,6 +8792,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=6a4rbhh0_F0",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "FrenchFry",
+					"link": "https://www.youtube.com/watch?v=aok24rvU918&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
 				},
 	                ],
                         "name": "Shitty Cataclysm",
