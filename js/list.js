@@ -7912,6 +7912,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Baechukimchi",
+					"link": "https://www.youtube.com/watch?v=Jcdd3tYByrQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -9470,6 +9476,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "300hz"
 			       },
+			       {
+				       "user": "Ky",
+				       "link": "https://www.youtube.com/watch?v=GIgO5uuUiAI&t",
+				       "percent": 100,
+				       "hz": "60hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -9608,6 +9620,12 @@ const d = {
 					"link": "https://youtu.be/sCppAt3tCVQ",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/RF1OBaH528M",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty xo",
@@ -9850,6 +9868,12 @@ const d = {
 					"link": "https://youtu.be/bZDmcsyIlOU",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/hAkOnHjURiI",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Artifice",
