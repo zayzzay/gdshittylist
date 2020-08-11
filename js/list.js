@@ -1419,6 +1419,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "lvcxs",
+					"link": "https://youtu.be/kxCURw1nOBw",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Sunset Sandstorm",
 			"author": "LJosh",
@@ -4453,6 +4459,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "lvcxs",
+					"link": "https://youtu.be/rdM1_lMtj8Y",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
@@ -4934,6 +4946,12 @@ const d = {
 					"link": "https://youtu.be/r9uJD61eQEs",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/7re163PqgSs",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Glacial Core",
@@ -11501,6 +11519,12 @@ const d = {
 					"link": "https://youtu.be/kCfPVIFc200",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Ky",
+					"link": "https://www.youtube.com/watch?v=22mV0JcXn1Q&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
