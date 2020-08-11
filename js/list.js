@@ -8410,6 +8410,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Whiteteeth",
+					"link": "https://youtu.be/es50dzz0LXc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
