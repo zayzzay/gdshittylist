@@ -614,6 +614,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Praerius",
+					"link": "https://www.youtube.com/watch?v=sM9D4V74iMM&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Madmansion",
 			"author": "Aassbll",
@@ -2985,6 +2991,12 @@ const d = {
 					"link": "https://youtu.be/MLEE78gUFVM",
 					"percent": 100,
 				        "hz": "Mobile"
+				},
+				{
+					"user": "Hixobit",
+					"link": "https://youtu.be/Pxv81MHjitk",
+					"percent": 100,
+				        "hz": "300hz"
 				},
 			],
 			"name": "Shitty Aquatic Auroras",
@@ -9644,6 +9656,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			       },
+			       {
+				       "user": "FrenchFry",
+				       "link": "https://www.youtube.com/watch?v=QnSfrsyiLl0&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -13540,6 +13558,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?reload=9&v=49ftMDWFzBA",
 					"percent": 100,
 					"hz": "72hz"
+				},
+				{
+					"user": "Mee6fanboy",
+					"link": "https://www.youtube.com/watch?v=Lz67pFIVWAk",
+					"percent": 61,
+					"hz": "144hz"
+				},
+				{
+					"user": "Nebula",
+					"link": "https://www.youtube.com/watch?v=4PW_9IciioQ&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
