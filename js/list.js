@@ -208,6 +208,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "DreamingLlama",
+					"link": "https://youtu.be/Egr1-y-S8kw",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Infected Caverns",
 			"author": "LJosh",
@@ -1207,6 +1213,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Ryth",
+					"link": "https://www.youtube.com/watch?v=0ppWO7aoxRo",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "LJosh",
@@ -1575,6 +1587,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Ryth",
+					"link": "https://www.youtube.com/watch?v=0ppWO7aoxRo",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Sunset Sandstorm",
 			"author": "LJosh",
@@ -1675,6 +1693,12 @@ const d = {
 				{
 					"user": "piesy",
 					"link": "https://youtu.be/vIJsu-rx1j4",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Ryth",
+					"link": "https://www.youtube.com/watch?v=0ppWO7aoxRo",
 					"percent": 100,
 					"hz": "288hz"
 				},
@@ -1938,6 +1962,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=VkDsVuGjx7k&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Ryth",
+					"link": "https://www.youtube.com/watch?v=0ppWO7aoxRo",
+					"percent": 100,
+					"hz": "288hz"
 				},
                         ],
 			"name": "Shitty WOW",
@@ -2294,6 +2324,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=TYNK52EyksE",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Ryth",
+					"link": "https://www.youtube.com/watch?v=0ppWO7aoxRo",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty WcropoliX",
@@ -3346,6 +3382,12 @@ const d = {
 					"link": "https://youtu.be/BpWUvremZ5Q",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Ryth",
+					"link": "https://www.youtube.com/watch?v=0ppWO7aoxRo",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Wasureta",
@@ -4871,6 +4913,12 @@ const d = {
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://www.youtube.com/watch?v=MYiZJB_ElGc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/ivXgQU8KXEA",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -14534,6 +14582,12 @@ const d = {
 				{
 					"user": "ZedGMD",
 					"link": "https://www.youtube.com/watch?v=_xAKlQK2Nho",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "RespectYou",
+					"link": "https://youtu.be/d1eHI5WpajU",
 					"percent": 100,
 					"hz": "60hz"
 				},
