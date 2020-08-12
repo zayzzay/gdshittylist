@@ -13350,6 +13350,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "RespectYou",
+					"link": "https://youtu.be/-84e9515f8A",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
