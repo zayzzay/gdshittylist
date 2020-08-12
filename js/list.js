@@ -2567,6 +2567,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=a_Di7aiYlgA",
+					"percent": 100,
+					"hz": "3000hz"
+				},
 			],
 			"name": "Shitty Step To Hell",
 			"author": "oSpace",
