@@ -5037,6 +5037,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/XylZ7STi9KY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
