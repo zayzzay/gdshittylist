@@ -1037,6 +1037,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MacJubber",
+					"link": "https://youtu.be/YxL7lIDPDGI?t=84",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -8033,6 +8039,12 @@ const d = {
 					"link": "https://youtu.be/p8PaA3lhfoM",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "MacJubber",
+					"link": "https://youtu.be/YxL7lIDPDGI",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Factory Realm X",
