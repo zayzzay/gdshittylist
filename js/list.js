@@ -4462,6 +4462,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/VidKcIzg-hM",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Orochi",
 			"author": "Keleru",
