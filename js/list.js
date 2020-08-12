@@ -2283,6 +2283,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=TYNK52EyksE",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty WcropoliX",
 			"author": "LJosh",
