@@ -9074,6 +9074,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "ItsHyper37",
+					"link": "https://youtu.be/uuPpOqrEO0Q",
+					"percent": 77,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -13732,6 +13738,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=oX6FNJvGpEM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "RespectYou",
+					"link": "https://youtu.be/X_PQJBJ_RT0",
+					"percent": 100,
+					"hz": "60hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
