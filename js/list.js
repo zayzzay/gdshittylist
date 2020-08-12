@@ -2583,7 +2583,13 @@ const d = {
 					"user": "Magma",
 					"link": "https://www.youtube.com/watch?v=a_Di7aiYlgA",
 					"percent": 100,
-					"hz": "3000hz"
+					"hz": "300hz"
+				},
+				{
+					"user": "Hixobit",
+					"link": "https://www.youtube.com/watch?v=OQ28X1aMeII&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Step To Hell",
