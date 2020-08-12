@@ -1702,6 +1702,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/41S0XgwG-XE",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Hatred",
 			"author": "LJosh",
