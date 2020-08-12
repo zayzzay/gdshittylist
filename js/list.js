@@ -5826,6 +5826,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/G7Ml-GI3pog",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cadrega City",
 			"author": "Megum",
@@ -10768,6 +10774,12 @@ const d = {
 					"link": "https://youtu.be/toCc5fshV8s",
 					"percent": 58,
 					"hz": "Mobile"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://www.youtube.com/watch?v=Nqra8dydTSE&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Kidsmoke",
