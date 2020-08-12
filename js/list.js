@@ -202,6 +202,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/od50lMI73Uw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Infected Caverns",
 			"author": "LJosh",
