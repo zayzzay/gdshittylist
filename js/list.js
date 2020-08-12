@@ -11289,6 +11289,62 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
+
+			"vids": [
+				{
+					"user": "md1159",
+					"link": "https://youtu.be/c0Yd4c9pRPo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=uybwDY8Tuv4",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/U9mcizYMxYY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/qRDjlluk8_Q",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=98IMiHK0LMU&t=5s",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "VeryCoolBeans",
+					"link": "https://youtu.be/dPg92Jq6Cl8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/oLbI3EqD9eo?t=546",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty Heartbeat",
+			"author": "Serpyy",
+			"more": "none",
+			"id": 61062560,
+			"pass": "Free to copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=CwmVzTRcfGI",
+			"key": 88
+		},
+		/*=================================================================================*/
+		{
 			"vids": [
 				{
 					"user": "Fhyron06",
@@ -11622,7 +11678,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=-u-ijZwZuz4",
-			"key": 88
+			"key": 89
 		},
 		/*=================================================================================*/
 		{
@@ -12037,62 +12093,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=lDiqYSya0NA",
-			"key": 89
-		},
-		/*=================================================================================*/
-		{
-
-			"vids": [
-				{
-					"user": "md1159",
-					"link": "https://youtu.be/c0Yd4c9pRPo",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=uybwDY8Tuv4",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/U9mcizYMxYY",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/qRDjlluk8_Q",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Soda",
-					"link": "https://www.youtube.com/watch?v=98IMiHK0LMU&t=5s",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
-					"user": "VeryCoolBeans",
-					"link": "https://youtu.be/dPg92Jq6Cl8",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Rly",
-					"link": "https://youtu.be/oLbI3EqD9eo?t=546",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-			],
-			"name": "Shitty Heartbeat",
-			"author": "Serpyy",
-			"more": "none",
-			"id": 61062560,
-			"pass": "Free to copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=CwmVzTRcfGI",
 			"key": 90
 		},
 		/*=================================================================================*/
