@@ -9183,6 +9183,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=NRGWlOvIIhU&t=1s",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Silver Shade",
 			"author": "Aassbll",
