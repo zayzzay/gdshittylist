@@ -4946,6 +4946,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/7BgQ-ruyp-g",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
