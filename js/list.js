@@ -4413,6 +4413,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "lvcxs",
+					"link": "https://youtu.be/u2mkBgqcHRA",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Subversive",
 			"author": "AcropolisBoy [Serpyy]",
