@@ -11186,6 +11186,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/7lK0H138PY8",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
