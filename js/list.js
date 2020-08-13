@@ -11650,6 +11650,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/gyX4rzDh5cI",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
