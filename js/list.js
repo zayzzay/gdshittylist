@@ -1436,6 +1436,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/Hxn5Q-X2buI",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "LJosh",
@@ -2553,6 +2559,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1y-8LnpTTpg&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/7rMQK6kjOWY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Missing Benefits",
@@ -4745,6 +4757,12 @@ const d = {
 					"link": "https://youtu.be/J_yDRqWqIeU",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Charlielance",
+					"link": "https://www.youtube.com/watch?v=r7OZ5PAFcgo",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -7597,6 +7615,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "michael1604",
+					"link": "https://youtu.be/ZLDYCKqiSrw",
+					"percent": 100,
+					"hz": "60hz"
+				},
 		],
 			"name": "Shitty The Hell Field",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -9834,6 +9858,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=TvvEzbBE9yU&feature=youtu.be",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/CqrT-fmgG20",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Dolos",
@@ -13186,6 +13216,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=hoLnYSPRdeY&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/ivdhxxp7wzc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty SPL",
