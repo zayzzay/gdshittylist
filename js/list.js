@@ -534,6 +534,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "FrenchFry",
+					"link": "https://www.youtube.com/watch?v=Z90GxX93bO0&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
