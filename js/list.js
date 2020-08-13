@@ -13373,7 +13373,8 @@ const d = {
 					"link": "https://youtu.be/-84e9515f8A",
 					"percent": 100,
 					"hz": "60hz"
-				{
+				},
+                                {
 					"user": "GDMeric",
 					"link": "https://youtu.be/9dW2AT3XHbY",
 					"percent": 100,
