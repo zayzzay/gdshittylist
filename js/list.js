@@ -1431,12 +1431,6 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "FrenchFry",
-					"link": "https://www.youtube.com/watch?v=nsasAcBQyd4&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
 					"user": "Lupe1204",
 					"link": "https://www.youtube.com/watch?v=Zs0iyznAuBA&feature=youtu.be",
 					"percent": 100,
