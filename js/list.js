@@ -6999,6 +6999,12 @@ const d = {
                                          "percent": 100,
                                          "hz": "216hz"
                                 },
+				{
+                                         "user": "Bluuper",
+                                         "link": "https://youtu.be/zkteQFODn6o",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },
                         ],
 			"name": "Shitty Omega",
 			"author": "GDStarStorm and more [Megum]",
@@ -7931,6 +7937,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/ZMEVL76Joxc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Distraught",
 			"author": "AlexTheGS33 and more [AlexTheGS33]",
@@ -8450,6 +8462,12 @@ const d = {
 					"link": "https://youtu.be/0-bJZ740OBk",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/KRaBf1iuS4Y",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Firepower",
