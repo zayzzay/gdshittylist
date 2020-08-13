@@ -10981,6 +10981,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ItsHyper37",
+					"link": "https://youtu.be/HdhmgimuDUw",
+					"percent": 80,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
