@@ -347,6 +347,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/RN-E2FKycVs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Erebus",
 			"author": "LJosh",
@@ -1060,6 +1066,12 @@ const d = {
 					"link": "https://youtu.be/YxL7lIDPDGI?t=84",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=QWWJ2BN4kD4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Zaphkiel",
@@ -3932,6 +3944,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://www.twitch.tv/videos/708869822",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Tartarus",
 			"author": "AcropolisBoy [Darkys]",
@@ -5041,6 +5059,12 @@ const d = {
 					"link": "https://youtu.be/7BgQ-ruyp-g",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "ItsHyper37",
+					"link": "https://youtu.be/dP5mQ5AP6R8",
+					"percent": 67,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Belloq",
@@ -7602,6 +7626,12 @@ const d = {
 				{
 					"user": "UNarwall",
 					"link": "https://youtu.be/OQDgTMDqWOg",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Xela343",
+					"link": "https://www.youtube.com/watch?v=3HOdjd7ZrdA",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -11414,6 +11444,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/kQQH2WgANXo",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
@@ -12800,6 +12836,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "IIEliteRainII",
+					"link": "https://youtu.be/Ma062Iq_U6g",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -13548,7 +13590,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "IlEliteRainlI",
+					"user": "IIEliteRainII",
 					"link": "https://www.youtube.com/watch?v=JwaEpicfqbM&feature=youtu.be",
 					"percent": 100,
 					"hz": "75hz"
