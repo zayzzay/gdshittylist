@@ -1995,8 +1995,8 @@ const d = {
 				},
 				{
 					"user": "Glommy Boy",
-					"link": "https://youtu.be/LvY-jHBQyO4",
-					"percent": 80,
+					"link": "https://youtu.be/OEbi2Q4sTUM",
+					"percent": 89,
 					"hz": "Mobile"
 				},
 				{
@@ -10101,9 +10101,9 @@ const d = {
 				},
 				{
 					"user": "HopZy",
-					"link": "https://www.youtube.com/watch?v=evKfibrlIPk",
-					"percent": 57,
-					"hz": "120hz"
+					"link": "https://www.youtube.com/watch?v=HHoykBdFGhg",
+					"percent": 100,
+					"hz": "180hz"
 				},
 				{
 					"user": "HowlingBolt",
@@ -11102,8 +11102,8 @@ const d = {
 				},
 				{
 					"user": "ItsHyper37",
-					"link": "https://youtu.be/HdhmgimuDUw",
-					"percent": 80,
+					"link": "https://youtu.be/SyUQQz68SX4",
+					"percent": 81,
 					"hz": "Mobile"
 				},
 			],
