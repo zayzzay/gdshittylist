@@ -5550,6 +5550,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Piesy",
+					"link": "https://youtu.be/VKjXJD1fLk0",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Pinball Panic",
 			"author": "HdLink13 [GDTeaBag]",
