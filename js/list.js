@@ -12198,6 +12198,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Whiteteeth",
+					"link": "https://youtu.be/3WcPbXEqy68",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
