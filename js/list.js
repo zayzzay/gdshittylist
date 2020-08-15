@@ -9380,6 +9380,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "GDPentol",
+					"link": "https://youtu.be/e_cAGlWKIyM",
+					"percent": 72,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
