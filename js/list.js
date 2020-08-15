@@ -4727,6 +4727,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/GqDEVj1PCl4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Subversive",
 			"author": "AcropolisBoy [Serpyy]",
