@@ -15420,6 +15420,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=7GuVs4Ju9FY",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "NordicJB",
+					"link": "https://youtu.be/CUEIJ0n7nIE",
+					"percent": 100,
+					"hz": "144hz"
 				},	
 			],
 			"name": "Shitty Xo Circles",
