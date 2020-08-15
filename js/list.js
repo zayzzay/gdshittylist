@@ -3757,6 +3757,12 @@ const d = {
 					"percent": 97,
 					"hz": "180hz"
 				},
+				{
+					"user": "RageRod",
+					"link": "https://www.youtube.com/watch?v=oIFXGO1oLF4&feature=youtu.be",
+					"percent": 79,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
