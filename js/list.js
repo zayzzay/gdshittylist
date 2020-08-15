@@ -9935,6 +9935,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Acidius",
+					"link": "https://www.youtube.com/watch?v=uSvN_VPJw9k",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
