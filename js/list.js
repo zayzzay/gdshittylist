@@ -8940,6 +8940,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/JPfgq3g61e8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Concaved Memories",
 			"author": "oSpace",
