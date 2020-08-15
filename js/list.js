@@ -5380,6 +5380,12 @@ const d = {
 					"percent": 83,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ItzRuPea",
+					"link": "https://www.youtube.com/watch?v=OHd7mntHLqc",
+					"percent": 100,
+					"hz": "80hz"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
