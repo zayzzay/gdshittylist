@@ -12210,6 +12210,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Acetolysis",
+					"link": "https://youtu.be/aGUdUjWQeUM",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
