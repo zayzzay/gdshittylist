@@ -5684,6 +5684,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "lvcxs",
+					"link": "https://youtu.be/RWQ8vnLmVq8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Abandoned Planet",
 			"author": "LJosh",
