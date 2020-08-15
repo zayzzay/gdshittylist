@@ -5346,8 +5346,8 @@ const d = {
 				},
 				{
 					"user": "ItsHyper37",
-					"link": "https://youtu.be/dP5mQ5AP6R8",
-					"percent": 67,
+					"link": "https://youtu.be/yyYjmWpZGc4",
+					"percent": 83,
 					"hz": "Mobile"
 				},
 			],
