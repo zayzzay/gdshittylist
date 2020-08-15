@@ -8505,6 +8505,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "lvcxs",
+					"link": "https://youtu.be/UgBkhL_SfD8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Firepower",
 			"author": "AcropolisBoy [GDTeaBag]",
