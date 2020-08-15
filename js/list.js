@@ -12456,6 +12456,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Fwin",
+					"link": "https://www.youtube.com/watch?v=h2BOWWgVNTw&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
