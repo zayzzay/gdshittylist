@@ -10008,6 +10008,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/StB1TkQzTuA",
+					"percent": 100,
+					"hz": "240hz"
+				},
 	                ],
                         "name": "Shitty Ethereal Artifice",
                         "author": "Megum and more [Megum]",
