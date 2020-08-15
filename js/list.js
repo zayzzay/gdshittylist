@@ -9096,6 +9096,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/ukii_rtiReg",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Concaved Memories",
 			"author": "oSpace",
