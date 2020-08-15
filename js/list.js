@@ -4090,6 +4090,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/glAV2U2TZ5s",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Deimos",
 			"author": "oSpace",
