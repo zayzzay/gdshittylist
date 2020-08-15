@@ -8914,6 +8914,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=b-S4mfx3J4o",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
