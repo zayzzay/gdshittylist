@@ -2427,6 +2427,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "STPIKARI",
+					"link": "https://www.youtube.com/watch?v=oT6tv6G6goQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty WcropoliX",
 			"author": "LJosh",
