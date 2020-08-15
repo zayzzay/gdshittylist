@@ -9875,6 +9875,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MathGenius",
+					"link": "https://www.youtube.com/watch?v=h0XOKN89Gng",
+					"percent": 100,
+					"hz": "144hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
