@@ -7766,6 +7766,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/DHlbh3CCYjo",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Penombre",
 			"author": "Miini03",
