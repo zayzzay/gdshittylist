@@ -2661,6 +2661,103 @@ const d = {
 			"key": 18
 		},
 		/*=================================================================================*/
+				{
+			"vids": [
+                                {
+                                         "user": "Amedxx2y",
+                                         "link": "https://youtu.be/HUmYrV8rroM",
+                                         "percent": 100,
+                                         "hz": "Mobile"
+                                },
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=q-Vfoemsmas",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=UlJ9KGc3JF8&t=15s",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=nWwv_IZztGo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://youtu.be/d14djfj-5Lo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/kbY8P_mROcs",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/2WninFz4FeA",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/xcXCRmfB6tQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Arcturus",
+					"link": "https://youtu.be/3wSAdd7Ioo8",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=TvuT3rbtmMg&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=CEO9I6Xr7EE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://www.youtube.com/watch?v=QUIrHaCg6u0&feature=youtu.be",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://www.youtube.com/watch?v=xWxax4mV7Ao&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/wpolz7Ogf-E",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Eternal Moment",
+			"author": "Miini03",
+			"more": "none",
+			"id": 59680007,
+			"pass": "Free to copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=CEO9I6Xr7EE",
+			"key": 19
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
@@ -2749,7 +2846,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=f8HQ1T1HmXs",
-			"key": 19
+			"key": 20
 		},
 		/*=================================================================================*/
 				{
@@ -2780,7 +2877,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=nrDrncLXevE",
-			"key": 20
+			"key": 21
 		},
 		/*=================================================================================*/
 		{
@@ -3003,7 +3100,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=I8Xo3JL8fjs",
-			"key": 21
+			"key": 22
 		},
 		/*=================================================================================*/
 		{
@@ -3082,103 +3179,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=2Mkex3RGOnQ",
-			"key": 22
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-                                {
-                                         "user": "Amedxx2y",
-                                         "link": "https://youtu.be/HUmYrV8rroM",
-                                         "percent": 100,
-                                         "hz": "Mobile"
-                                },
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://www.youtube.com/watch?v=q-Vfoemsmas",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Soda",
-					"link": "https://www.youtube.com/watch?v=UlJ9KGc3JF8&t=15s",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
-					"user": "rVlaash",
-					"link": "https://www.youtube.com/watch?v=nWwv_IZztGo",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Fhyron06",
-					"link": "https://youtu.be/d14djfj-5Lo",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Bluuper",
-					"link": "https://youtu.be/kbY8P_mROcs",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Vink",
-					"link": "https://youtu.be/2WninFz4FeA",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/xcXCRmfB6tQ",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Arcturus",
-					"link": "https://youtu.be/3wSAdd7Ioo8",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "Th13teen",
-					"link": "https://www.youtube.com/watch?v=TvuT3rbtmMg&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Megum",
-					"link": "https://www.youtube.com/watch?v=CEO9I6Xr7EE",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Renar333",
-					"link": "https://www.youtube.com/watch?v=QUIrHaCg6u0&feature=youtu.be",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://www.youtube.com/watch?v=xWxax4mV7Ao&feature=youtu.be",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/wpolz7Ogf-E",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Eternal Moment",
-			"author": "Miini03",
-			"more": "none",
-			"id": 59680007,
-			"pass": "Free to copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=CEO9I6Xr7EE",
 			"key": 23
 		},
 		/*=================================================================================*/
