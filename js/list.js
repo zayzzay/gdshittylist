@@ -4289,6 +4289,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "lvcxs",
+					"link": "https://youtu.be/Cfu1JNyFfgE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
