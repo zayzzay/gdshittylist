@@ -584,115 +584,6 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "GDTeaBag",
-					"link": "https://youtu.be/1Y1T2UdSCEY?t=1187",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/k4qQxni5ub0",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=iUI5AANRfFI&t=2s",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Xanii",
-					"link": "https://youtu.be/aMi6lsDYThQ",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/vXjPp_g_Vjo",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/m8QFrYZSdwI",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Charlielance",
-					"link": "https://youtu.be/qTXK4xkwWvg",
-					"percent": 64,
-					"hz": "120hz"
-				},
-				{
-					"user": "Renar333",
-					"link": "https://youtu.be/BSmLPXshmM0",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "jToniX",
-					"link": "https://youtu.be/7khUZ4PWqtk",
-					"percent": 71,
-					"hz": "144hz"
-				},
-				{
-					"user": "Magma",
-					"link": "https://youtu.be/029iKjYBwIY",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "TFIBB",
-					"link": "https://www.youtube.com/watch?v=pqkReFB6n2w&t=85s",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Wadur",
-					"link": "https://www.youtube.com/watch?v=pqkReFB6n2w&t=85s",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Tai0",
-					"link": "https://youtu.be/Zue-Isg--Ms",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Hixobit",
-					"link": "https://www.youtube.com/watch?v=gKR8F6i7Azc",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "Ryth",
-					"link": "https://youtu.be/NvSbanfvN6w?t=4",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Ky",
-					"link": "https://www.youtube.com/watch?v=QxlFD90b9QM&t",
-					"percent": 75,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty AfterCataBath",
-			"author": "AcropolisBoy [LJosh]",
-			"more": "none",
-			"id": 57050573,
-			"pass": "666666",
-			"percentToQualify": 46,
-			"verificationVid": "https://www.youtube.com/watch?v=gvkoieLhRLo",
-			"key": 4
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
 					"user": "Fhyron06",
 					"link": "https://www.youtube.com/watch?v=MXbEZ3iIeis",
 					"percent": 100,
@@ -748,7 +639,7 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=x89Bj43uEDU",
-			"key": 5
+			"key": 4
 		},
 		/*=================================================================================*/
 		{
@@ -917,7 +808,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/6mBUCC8dlCY",
-			"key": 6
+			"key": 5
 		},
 		/*=================================================================================*/
 		{
@@ -1105,7 +996,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=fcqAzQsbVdY",
-			"key": 7
+			"key": 6
 		},
 		/*=================================================================================*/
 		{
@@ -1208,7 +1099,7 @@ const d = {
 			"pass": "0005",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=oFUBGkctzR0",
-			"key": 8
+			"key": 7
 		},
 		/*=================================================================================*/
 		{
@@ -1305,7 +1196,7 @@ const d = {
 			"pass": "0009",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=axeVcW9WATs",
-			"key": 9
+			"key": 8
 		},
 		/*=================================================================================*/
 		{
@@ -1510,6 +1401,115 @@ const d = {
 			"pass": "0002",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=rWcLT30sVj0",
+			"key": 9
+		},
+		/*=================================================================================*/
+				{
+			"vids": [
+				{
+					"user": "GDTeaBag",
+					"link": "https://youtu.be/1Y1T2UdSCEY?t=1187",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/k4qQxni5ub0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=iUI5AANRfFI&t=2s",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Xanii",
+					"link": "https://youtu.be/aMi6lsDYThQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/vXjPp_g_Vjo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/m8QFrYZSdwI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Charlielance",
+					"link": "https://youtu.be/qTXK4xkwWvg",
+					"percent": 64,
+					"hz": "120hz"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/BSmLPXshmM0",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "jToniX",
+					"link": "https://youtu.be/7khUZ4PWqtk",
+					"percent": 71,
+					"hz": "144hz"
+				},
+				{
+					"user": "Magma",
+					"link": "https://youtu.be/029iKjYBwIY",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=pqkReFB6n2w&t=85s",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Wadur",
+					"link": "https://www.youtube.com/watch?v=pqkReFB6n2w&t=85s",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/Zue-Isg--Ms",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Hixobit",
+					"link": "https://www.youtube.com/watch?v=gKR8F6i7Azc",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=4",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Ky",
+					"link": "https://www.youtube.com/watch?v=QxlFD90b9QM&t",
+					"percent": 75,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty AfterCataBath",
+			"author": "AcropolisBoy [LJosh]",
+			"more": "none",
+			"id": 57050573,
+			"pass": "666666",
+			"percentToQualify": 46,
+			"verificationVid": "https://www.youtube.com/watch?v=gvkoieLhRLo",
 			"key": 10
 		},
 		/*=================================================================================*/
