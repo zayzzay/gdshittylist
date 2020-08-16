@@ -3944,6 +3944,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Forz1ple",
+					"link": "https://youtu.be/TFTJB1ioy84",
+					"percent": 100,
+					"hz": "72hz"
+				},
                         ],
 			"name": "Shitty Hyper Paracosm",
 			"author": "DigestedCitrus [Deimoz]",
@@ -4361,6 +4367,12 @@ const d = {
 					"link": "https://youtu.be/ZBLjE7VSivE",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/COAp1YK1m_c",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Delebit Oblivio",
@@ -6441,6 +6453,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "lvcxs",
+					"link": "https://youtu.be/Wqnm6Tk9iDs",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -8134,6 +8152,12 @@ const d = {
 					"link": "https://youtu.be/YxL7lIDPDGI",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/XzyDnxxPuvs",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Factory Realm X",
