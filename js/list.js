@@ -70,7 +70,7 @@ const d = {
 				       "hz": "240hz"
 			       },
 			       {
-				       "user": "SAMTHEMANK",
+				       "user": "SamTheMank",
 				       "link": "https://www.youtube.com/watch?v=I1586mqWgpw&feature=youtu.be",
 				       "percent": 100,
 				       "hz": "144hz"
@@ -106,11 +106,6 @@ const d = {
 				       "hz": "288hz"
 			       },
 			       {
-				       "user": "SamTheMank",
-				       "link": "https://www.youtube.com/watch?v=I1586mqWgpw",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
                        ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -12328,6 +12323,12 @@ const d = {
 					"link": "https://youtu.be/oLbI3EqD9eo?t=546",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/6gfXwawP4Wo",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Heartbeat",
