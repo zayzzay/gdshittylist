@@ -2893,6 +2893,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/XDD4-g_pgVg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
