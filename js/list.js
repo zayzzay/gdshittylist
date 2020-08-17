@@ -9650,6 +9650,12 @@ const d = {
 					"percent": 72,
 					"hz": "165hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/m_2XhHtnA6c",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -10150,6 +10156,12 @@ const d = {
 					"link": "https://youtu.be/pGXx9yV41Qg",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/m_2XhHtnA6c",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Silver Shade",
@@ -12326,6 +12338,12 @@ const d = {
 				{
 					"user": "Cyns",
 					"link": "https://youtu.be/6gfXwawP4Wo",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/m_2XhHtnA6c",
 					"percent": 100,
 					"hz": "288hz"
 				},
