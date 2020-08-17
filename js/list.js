@@ -82,12 +82,6 @@ const d = {
 				       "hz": "Mobile"
 			       },
 			       {
-				       "user": "DreamingLlama",
-				       "link": "https://youtu.be/XLOmZj0PEko",
-				       "percent": 100,
-				       "hz": "120hz"
-			       },
-			       {
 				       "user": "xRiver007",
 				       "link": "https://www.youtube.com/watch?v=0iAnXK-s0_g&feature=youtu.be",
 				       "percent": 100,
@@ -214,12 +208,6 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-				{
-					"user": "DreamingLlama",
-					"link": "https://youtu.be/Egr1-y-S8kw",
-					"percent": 100,
-					"hz": "120hz"
-				},
 			],
 			"name": "Shitty Infected Caverns",
 			"author": "LJosh",
@@ -334,12 +322,6 @@ const d = {
 					"link": "https://youtu.be/9rhIv45iNEU",
 					"percent": 100,
 					"hz": "288hz"
-				},
-				{
-					"user": "DreamingLlama",
-					"link": "https://youtu.be/KP776bhVtnM",
-					"percent": 100,
-					"hz": "120hz"
 				},
 				{
 					"user": "Conical",
@@ -3219,12 +3201,6 @@ const d = {
 					"link": "https://youtu.be/NvSbanfvN6w?t=353",
 					"percent": 100,
 					"hz": "288hz"
-				},
-				{
-					"user": "DreamingLlama",
-					"link": "https://www.youtube.com/watch?v=bNI4dJl1lJA",
-					"percent": 100,
-					"hz": "120hz"
 				},
 				{
 					"user": "Lupe1204",
