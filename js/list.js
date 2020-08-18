@@ -2786,6 +2786,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/DEhUDODxUko",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Retitled",
 			"author": "Soda",
