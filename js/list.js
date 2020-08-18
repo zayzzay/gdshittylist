@@ -7954,6 +7954,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/P1mPK4IvZR8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Distraught",
 			"author": "AlexTheGS33 and more [AlexTheGS33]",
