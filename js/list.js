@@ -5867,6 +5867,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/Enj3gUmmuow",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Matilda The Machine",
 			"author": "XanPlayzGamez and Serpyy [XanPlayzGamez]",
