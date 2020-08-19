@@ -7059,6 +7059,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/yDpJ6D3ypkc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty PV II",
 			"author": "Serpyy and more [Serpyy]",
