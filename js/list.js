@@ -7408,6 +7408,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "michael1604",
+					"link": "https://youtu.be/uL5I8kQEkn0",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -7831,6 +7837,12 @@ const d = {
 					"link": "https://youtu.be/YOb13jV4W6U",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/L5H282MmRFA",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Penombre",
@@ -9499,6 +9511,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Gloomy boy",
+					"link": "https://youtu.be/AHMWZAhWBGk",
+					"percent": 92,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Concaved Memories",
 			"author": "oSpace",
@@ -9896,6 +9914,12 @@ const d = {
 					"link": "https://youtu.be/m_2XhHtnA6c",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "HdLink13",
+					"link": "https://youtu.be/wcmXAEsfBWo",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Just Dance",
@@ -11557,8 +11581,8 @@ const d = {
 				},
 				{
 					"user": "vlubz",
-					"link": "https://youtu.be/4c5kqImNZ6g",
-					"percent": 58,
+					"link": "https://youtu.be/8_Ab6g_ZR70",
+					"percent": 100,
 					"hz": "60hz"
 				},
 			],
