@@ -9976,12 +9976,6 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "GDPentol",
-					"link": "https://youtu.be/e_cAGlWKIyM",
-					"percent": 72,
-					"hz": "165hz"
-				},
-				{
 					"user": "XanPlayzGamez",
 					"link": "https://youtu.be/m_2XhHtnA6c",
 					"percent": 100,
@@ -9992,6 +9986,12 @@ const d = {
 					"link": "https://youtu.be/wcmXAEsfBWo",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "GDPentol",
+					"link": "https://www.youtube.com/watch?v=xdVUpSdITho&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Just Dance",
