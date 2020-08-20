@@ -4975,6 +4975,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Forz1ple",
+					"link": "https://youtu.be/oSDOvarl0XE",
+					"percent": 100,
+					"hz": "216hz"
+				},
 			],
 			"name": "Shitty Orochi",
 			"author": "Keleru",
@@ -7613,6 +7619,12 @@ const d = {
 					"link": "https://youtu.be/Dx7Nkae5zoU",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/MYWfyiLDw9g",
+					"percent": 100,
+					"hz": "180hz"
 				},
 		],
 			"name": "Shitty The Hell Field",
@@ -12316,6 +12328,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "ZedGMD",
+					"link": "https://www.youtube.com/watch?v=xxLN3ObeapI",
+					"percent": 100,
+					"hz": "60hz"
+				},
                         ],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
@@ -13037,6 +13055,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=eKWqvfslr8w",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "ArKsHere",
+					"link": "https://youtu.be/8q-Ny0HpV-o",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/qsTnwE4ubrE",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty VendetTa",
