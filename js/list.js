@@ -2247,6 +2247,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/q-Fs5Fu_uwA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty WcropoliX",
 			"author": "LJosh",
@@ -2555,6 +2561,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/IzN6EbyLfsE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Eternal Moment",
 			"author": "Miini03",
@@ -2669,6 +2681,12 @@ const d = {
 					"link": "https://youtu.be/XDD4-g_pgVg",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Tril",
+					"link": "https://youtu.be/nTVTG2bd3VI",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Wasureta",
@@ -3708,6 +3726,12 @@ const d = {
 					"link": "https://youtu.be/TFTJB1ioy84",
 					"percent": 100,
 					"hz": "72hz"
+				},
+				{
+					"user": "Tril",
+					"link": "https://youtu.be/B_QCoFZHjvU",
+					"percent": 100,
+					"hz": "60hz"
 				},
                         ],
 			"name": "Shitty Hyper Paracosm",
@@ -7869,6 +7893,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/s3Wc2Eku3o8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Battle of the Shades",
 			"author": "xSmajlik and Superxman777 [xSmajlik]",
@@ -8974,6 +9004,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Acetolysis",
+					"link": "https://youtu.be/okK2aa6Ua2w",
+					"percent": 100,
+					"hz": "60hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -9329,6 +9365,18 @@ const d = {
 					"link": "https://youtu.be/PFYNfs9zlS8",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/q-Fs5Fu_uwA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Acidius",
+					"link": "https://www.youtube.com/watch?v=w8avY_gfQzg",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Plasma Pulse",
@@ -10789,6 +10837,12 @@ const d = {
 					"link": "https://youtu.be/StB1TkQzTuA",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "ArKsHere",
+					"link": "https://youtu.be/qRTyBRACQk4",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 	                ],
                         "name": "Shitty Ethereal Artifice",
@@ -12674,6 +12728,12 @@ const d = {
 				{
 					"user": "SulexGD",
 					"link": "https://youtu.be/ff_veRo3JUI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ArKsHere",
+					"link": "https://youtu.be/BBjO34BfivM",
 					"percent": 100,
 					"hz": "Mobile"
 				},
