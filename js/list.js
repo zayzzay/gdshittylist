@@ -6002,6 +6002,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/RaEItxA94Ok",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Omnitoxin",
 			"author": "Segone and more [Segone]",
