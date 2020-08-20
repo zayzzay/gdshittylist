@@ -4829,6 +4829,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ShDwGhost",
+					"link": "https://www.twitch.tv/videos/711326242",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -4962,6 +4968,12 @@ const d = {
 					"link": "https://youtu.be/ElGtQojlCAo",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/7K56ZGWi4FY",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Orochi",
@@ -9143,6 +9155,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Xela343",
+					"link": "https://www.youtube.com/watch?v=y-HycRXGgbA",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/6lDePv7ZTfY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -13008,6 +13032,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Edij",
+					"link": "https://www.youtube.com/watch?v=eKWqvfslr8w",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -15677,6 +15707,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=C0yWjqH6lmo&",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "And3rwula",
+					"link": "https://youtu.be/x0ewSZf6gzU",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "azizRCL",
+					"link": "https://www.youtube.com/watch?v=Xq3VDFAVi5w&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
