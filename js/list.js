@@ -2688,6 +2688,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "BloodWorks",
+					"link": "https://www.youtube.com/watch?v=DwVg0Wo5fMY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
@@ -3733,6 +3739,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "wshedd",
+					"link": "https://www.youtube.com/watch?v=6YEHXJvmC5I&t=0s",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Hyper Paracosm",
 			"author": "DigestedCitrus [Deimoz]",
@@ -4689,6 +4701,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=0ppWO7aoxRo",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://www.youtube.com/watch?v=6YEHXJvmC5I&t=173s",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Tapwreck",
@@ -7577,6 +7595,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "wshedd",
+					"link": "https://www.youtube.com/watch?v=6YEHXJvmC5I&t=79s",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -8497,6 +8521,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Gloomy boy",
+					"link": "https://www.youtube.com/watch?v=60F9qY0xXKY&feature=youtu.be",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
@@ -9227,6 +9257,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Gloomy boy",
+					"link": "https://www.youtube.com/watch?v=ky-wZ61pLDk&feature=youtu.be",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -9513,8 +9549,8 @@ const d = {
 				},
 				{
 					"user": "Gloomy boy",
-					"link": "https://youtu.be/AHMWZAhWBGk",
-					"percent": 92,
+					"link": "https://www.youtube.com/watch?v=7UycMMIXJPE&feature=youtu.be",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 			],
@@ -9775,6 +9811,12 @@ const d = {
 					"link": "https://youtu.be/ab45ictHDNE?t=6",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://www.youtube.com/watch?v=6YEHXJvmC5I&t=244s",
+					"percent": 77,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Paroxysm",
@@ -10871,6 +10913,12 @@ const d = {
 				{
 					"user": "ArKsHere",
 					"link": "https://youtu.be/qRTyBRACQk4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Gloomy boy",
+					"link": "https://www.youtube.com/watch?v=taVFSUsPhd8&feature=youtu.be",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -12772,6 +12820,12 @@ const d = {
 					"link": "https://youtu.be/BBjO34BfivM",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/7ZOCGsvsoKI",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
