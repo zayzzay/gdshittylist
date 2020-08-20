@@ -9378,6 +9378,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ArKsHere",
+					"link": "https://youtu.be/4PFXKxbR_RY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -12055,6 +12061,12 @@ const d = {
 					"link": "https://youtu.be/fuJz9oA9RRc",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/h3bb98HQIoQ",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty SPL",
