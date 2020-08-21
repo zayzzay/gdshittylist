@@ -2700,6 +2700,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Sllima",
+					"link": "https://youtu.be/GGkiSRg6CHM",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
@@ -3575,6 +3581,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=oIFXGO1oLF4&feature=youtu.be",
 					"percent": 79,
 					"hz": "60hz"
+				},
+				{
+					"user": "Charlielance",
+					"link": "https://www.youtube.com/watch?v=gLusRDgYzhQ",
+					"percent": 74,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Sonic Wave",
@@ -5424,12 +5436,6 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "XoaOfficial",
-					"link": "https://www.twitch.tv/videos/642942421",
-					"percent": 95,
-					"hz": "60hz"
-				},
-				{
 					"user": "iRaily",
 					"link": "https://youtu.be/tAiyDE-EZbk",
 					"percent": 100,
@@ -5539,8 +5545,8 @@ const d = {
 				},
 				{
 					"user": "ItsHyper37",
-					"link": "https://youtu.be/yyYjmWpZGc4",
-					"percent": 83,
+					"link": "https://youtu.be/eFWVPzwsFoE",
+					"percent": 95,
 					"hz": "Mobile"
 				},
 				{
@@ -5548,6 +5554,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=OHd7mntHLqc",
 					"percent": 100,
 					"hz": "80hz"
+				},
+				{
+					"user": "XoaOfficial",
+					"link": "https://www.twitch.tv/videos/711966754",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Belloq",
@@ -7449,6 +7461,12 @@ const d = {
 					"link": "https://youtu.be/uL5I8kQEkn0",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://www.youtube.com/watch?v=_JNn3QuIB3Q&t=830s",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -11634,12 +11652,6 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "ZedGMD",
-					"link": "https://www.youtube.com/watch?v=Ixzbg68Dfoo",
-					"percent": 61,
-					"hz": "60hz"
-				},
-				{
 					"user": "CarlosArt16",
 					"link": "https://youtu.be/x-6KGc3mm_M",
 					"percent": 100,
@@ -11662,6 +11674,12 @@ const d = {
 					"link": "https://youtu.be/8_Ab6g_ZR70",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "ArKsHere",
+					"link": "https://youtu.be/oDt3pOekNg8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty xo",
@@ -15935,6 +15953,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Xq3VDFAVi5w&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "BrunoBMFT",
+					"link": "https://www.youtube.com/watch?v=L_rh0WY0DKM&feature=youtu.be",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
