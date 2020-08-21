@@ -5337,6 +5337,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Xela343",
+					"link": "https://www.youtube.com/watch?v=6pxDf7I5--k",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -6682,6 +6688,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1C52bM_kmKI&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://www.youtube.com/watch?v=_JNn3QuIB3Q&t=4035s",
+					"percent": 86,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Thinking Space",
@@ -13699,6 +13711,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "wshedd",
+					"link": "https://www.youtube.com/watch?v=_JNn3QuIB3Q&t=3396s",
+					"percent": 100,
+					"hz": "144hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -14342,6 +14360,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=vgncWTuV-Qo&lc=UgzEzv8R11pgWacHu294AaABAg",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://www.youtube.com/watch?v=_JNn3QuIB3Q&t=4941s",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
