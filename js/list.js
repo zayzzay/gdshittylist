@@ -15083,6 +15083,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "BrunoBMFT",
+					"link": "https://www.youtube.com/watch?v=PfgZ-EL_GYE",
+					"percent": 100,
+					"hz": "75hz"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
