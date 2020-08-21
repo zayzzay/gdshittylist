@@ -10885,6 +10885,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "wshedd",
+					"link": "https://www.youtube.com/watch?v=_JNn3QuIB3Q&t=3050s",
+					"percent": 100,
+					"hz": "144hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -11487,6 +11493,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=Roea27pNXRo",
 				       "percent": 100,
 				       "hz": "300hz"
+			       },
+			       {
+				       "user": "wshedd",
+				       "link": "https://www.youtube.com/watch?v=_JNn3QuIB3Q&t=1348s",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
@@ -13927,6 +13939,12 @@ const d = {
 					"link": "https://youtu.be/Ma062Iq_U6g",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://www.youtube.com/watch?v=_JNn3QuIB3Q&t=2081s",
+					"percent": 59,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Mujigae",
