@@ -4150,6 +4150,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/_ukVCqK38W0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -5046,6 +5052,12 @@ const d = {
 					"link": "https://youtu.be/oSDOvarl0XE",
 					"percent": 100,
 					"hz": "216hz"
+				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/HSkvq4zUAl4",
+					"percent": 99,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Orochi",
@@ -6501,6 +6513,12 @@ const d = {
 					"link": "https://youtu.be/u2rKbrVpZLc",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "dareedox",
+					"link": "https://www.youtube.com/watch?v=yt2XEwbEdE8&",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -12211,6 +12229,12 @@ const d = {
 					"link": "https://youtu.be/h3bb98HQIoQ",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "ArKsHere",
+					"link": "https://youtu.be/i9gLH6KFKe8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty SPL",
