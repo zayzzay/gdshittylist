@@ -613,6 +613,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/hGckzN6fzqY",
+					"percent": 66,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Madmansion",
 			"author": "Aassbll",
