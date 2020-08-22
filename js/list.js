@@ -14952,6 +14952,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/cwNCZknL5DI",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
@@ -16429,6 +16435,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=2TQsubIVI9k",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/cwNCZknL5DI",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
