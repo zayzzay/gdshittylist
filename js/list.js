@@ -5579,6 +5579,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "InferiorPatty",
+					"link": "https://www.youtube.com/watch?v=cdzolfAdyAc&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
@@ -8014,6 +8020,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Ensanity",
+					"link": "https://youtu.be/UTPhXNabgcM",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Battle of the Shades",
 			"author": "xSmajlik and Superxman777 [xSmajlik]",
@@ -8078,6 +8090,12 @@ const d = {
 				{
 					"user": "GDMeric",
 					"link": "https://youtu.be/P1mPK4IvZR8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "nksweetdream",
+					"link": "https://youtu.be/mRRX8K555u0",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -9514,6 +9532,12 @@ const d = {
 				{
 					"user": "ArKsHere",
 					"link": "https://youtu.be/4PFXKxbR_RY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/XDe6yK13lXE",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -13333,6 +13357,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "rslashknight",
+					"link": "https://youtu.be/7IGPEzx8vlY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -14403,6 +14433,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=_JNn3QuIB3Q&t=4941s",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "RespectYou",
+					"link": "https://youtu.be/FL7_ytbDGdM",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
@@ -16044,6 +16080,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=L_rh0WY0DKM&feature=youtu.be",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Crynn",
+					"link": "https://youtu.be/rcI8Yo5J-Ok",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
