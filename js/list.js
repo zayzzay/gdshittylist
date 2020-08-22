@@ -7752,6 +7752,18 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/XpSkLHdjZiI",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "nksweetdream",
+					"link": "https://youtu.be/77xQDWyJzqM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 		],
 			"name": "Shitty The Hell Field",
 			"author": "AcropolisBoy [GDTeaBag]",
