@@ -564,6 +564,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "HideriGh",
+					"link": "https://youtu.be/Lddb7eyUuQg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Kowareta",
 			"author": "LJosh",
@@ -4011,6 +4017,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "FallenAresse",
+					"link": "https://www.youtube.com/watch?v=zTuJOyBCLTk&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/rLiTc_-7z1w",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Deimos",
 			"author": "oSpace",
@@ -5895,6 +5913,12 @@ const d = {
 					"link": "https://youtu.be/KinSi1Hqyd4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=jnmd1ADhSXQ",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],	
 			"name": "Shitty BioMachinist",
@@ -10221,6 +10245,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=xdVUpSdITho&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "HdLink13",
+					"link": "https://www.youtube.com/watch?v=wcmXAEsfBWo&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Just Dance",
@@ -15384,6 +15414,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=PfgZ-EL_GYE",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Gwose",
+					"link": "https://www.youtube.com/watch?v=DtmuIZTcNHU",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
