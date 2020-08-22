@@ -4738,6 +4738,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "StatiicBluey",
+					"link": "https://www.youtube.com/watch?v=5PTyC-VQTOY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/AaY1t4LKqc0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
