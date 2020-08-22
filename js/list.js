@@ -5379,6 +5379,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Nevise",
+					"link": "https://youtu.be/uI10jC-2s4o",
+					"percent": 78,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
