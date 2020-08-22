@@ -8013,6 +8013,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Bluuper",
+					"link": "https://www.youtube.com/watch?v=jfxKJjpDNro",
+					"percent": 100,
+					"hz": "144hz"
+				},
 		        ],
 			"name": "Shitty Cadrega Mode",
 			"author": "Megum and more [Megum]",
@@ -11297,6 +11303,12 @@ const d = {
 		/*=================================================================================*/
 		{
                        "vids": [
+			       {
+					"user": "Bluuper",
+					"link": "https://www.youtube.com/watch?v=eafMVee7JNE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
