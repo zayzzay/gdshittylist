@@ -7849,6 +7849,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/ztWg1lkjJiE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Explosion",
 			"author": "Serpyy",
