@@ -994,6 +994,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "StatiicBluey",
+					"link": "https://youtu.be/5vDkH3Fe7oc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -1096,6 +1102,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=mwdjoKtPVFE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Lupe1204",
+					"link": "https://www.youtube.com/watch?v=mGpqXqL6na4&feature=youtu.be",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Triple Six",
@@ -3799,6 +3811,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://www.youtube.com/watch?v=Yb_msmYB9Bs&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Hyper Paracosm",
 			"author": "DigestedCitrus [Deimoz]",
@@ -3931,6 +3949,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=13M9W6GBX3k&feature=youtu.be",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/Wxobe9gziTI",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Tartarus",
@@ -4967,6 +4991,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/i1dhxlvULm8",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -5421,6 +5451,12 @@ const d = {
 					"percent": 78,
 					"hz": "120hz"
 				},
+				{
+					"user": "Ketrick",
+					"link": "https://youtu.be/OzV556rULFQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -5650,6 +5686,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=cdzolfAdyAc&feature=youtu.be",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Fireugo",
+					"link": "https://www.youtube.com/watch?v=NjHQ7bV6nv4&feature=youtu.be",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Belloq",
@@ -6796,6 +6838,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=_JNn3QuIB3Q&t=4035s",
 					"percent": 86,
 					"hz": "144hz"
+				},
+				{
+					"user": "Ketrick",
+					"link": "https://youtu.be/qWIaSv0fQ5U",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Thinking Space",
@@ -13553,6 +13601,12 @@ const d = {
 				{
 					"user": "rslashknight",
 					"link": "https://youtu.be/7IGPEzx8vlY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Crynn",
+					"link": "https://www.youtube.com/watch?v=jEK87zcRlgE&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
 				},
