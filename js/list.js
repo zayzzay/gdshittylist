@@ -7977,6 +7977,42 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=yMrkJHFy3qI&t=43s",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "nksweetdream",
+					"link": "https://youtu.be/Yl9sUxu9FCI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/618yGGI8kWY",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=h44x_0hBh-0",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Forz1ple",
+					"link": "https://youtu.be/KbarOmGufS4",
+					"percent": 100,
+					"hz": "72hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/otrlfF8IJ-A",
+					"percent": 100,
+					"hz": "144hz"
+				},
 		        ],
 			"name": "Shitty Cadrega Mode",
 			"author": "Megum and more [Megum]",
