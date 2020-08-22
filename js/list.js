@@ -1987,6 +1987,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/SbQnFMmgcDA",
+					"percent": 85,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
