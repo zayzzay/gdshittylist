@@ -2730,6 +2730,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "HopZy",
+					"link": "https://www.youtube.com/watch?v=u9b9mrIuP9o",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
