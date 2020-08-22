@@ -5676,6 +5676,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/ex-hrYmMVU8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Heartbeat",
 			"author": "Serpyy",
