@@ -7101,6 +7101,12 @@ const d = {
                                          "percent": 100,
                                          "hz": "144hz"
                                 },
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/95tW2IyFr5U",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty Omega",
 			"author": "GDStarStorm and more [Megum]",
