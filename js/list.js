@@ -7945,7 +7945,8 @@ const d = {
 			"key": 63
 		},
 		/*=================================================================================*/
-		],
+		{
+		        ],
 			"name": "Shitty Cadrega Mode",
 			"author": "Megum and more [Megum]",
 			"more": "AcropolisBoy, timckic, SkullBytes, Serpyy, ItzShuvon, MiiNi03, AlexTheGS33, ThePhoenixGHG",
