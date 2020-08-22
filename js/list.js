@@ -13814,6 +13814,66 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Crynn",
+					"link": "https://youtu.be/nUlo-s40y3g",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Just_Lemon",
+					"link": "https://www.youtube.com/watch?v=Twh4qMj-g-0&t=1s",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "SteveLaughPants",
+					"link": "https://youtu.be/aIQkZ3Fi7B8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Nebula",
+					"link": "https://youtu.be/f_eT2ZHgw08",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/aqxyvjXL27A",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=mXBzYwvY0fo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/hFcyuo3rx1M",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Heater123",
+					"link": "https://youtu.be/mAkN1SGjmVI",
+					"percent": 65,
+					"hz": "60hz"
+				},
+				{
+					"user": "FrenchFry",
+					"link": "https://www.youtube.com/watch?v=axuhML3LCDg&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "monstergamer546",
+					"link": "https://youtu.be/K1fTkgWo3IM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
