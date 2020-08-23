@@ -6396,6 +6396,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Crynn",
+					"link": "https://youtu.be/LbHkGF-Ctrw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Velorum",
+					"link": "https://youtu.be/r9H1mNKvJh4",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
