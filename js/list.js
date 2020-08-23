@@ -9933,6 +9933,42 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SteveLaughPants",
+					"link": "https://youtu.be/Nf6fjVdk05k",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Ljosh",
+					"link": "https://youtu.be/gD-_gAxGnVc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Shrixy",
+					"link": "https://youtu.be/3_E1xA5jNhw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/hFcyuo3rx1M",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/LeykUbA7N5Y",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Shawarmachine",
+					"link": "https://streamable.com/jp2k5p",
+					"percent": 100,
+					"hz": "144hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
