@@ -2324,7 +2324,19 @@ const d = {
 					"link": "https://youtu.be/vR6Oz_jIC-g",
 					"percent": 67,
 					"hz": "288hz"
-				},				
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/gRerKUuHvBE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Trollomggamer",
+					"link": "https://youtu.be/OXbUkGdw-o8",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
