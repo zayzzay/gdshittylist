@@ -9330,6 +9330,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ComeOut",
+					"link": "https://youtu.be/SFmwFALoSNc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
