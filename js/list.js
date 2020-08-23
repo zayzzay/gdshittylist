@@ -341,6 +341,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Emonadeo",
+					"link": "https://youtu.be/zY5SisErn68",
+					"percent": 67,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -466,7 +472,7 @@ const d = {
 				{
 					"user": "Emonadeo",
 					"link": "https://youtu.be/xC0B1t_m_7M",
-					"percent": 58,
+					"percent": 58,a
 					"hz": "240hz"
 				},
 				{
@@ -1207,6 +1213,12 @@ const d = {
 					"percent": 74,
 					"hz": "60hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/qIg1UNMVq78",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -1309,6 +1321,12 @@ const d = {
 					"link": "https://youtu.be/IzN6EbyLfsE",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/ZzPlw1AnGGU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Eternal Moment",
@@ -1551,6 +1569,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=OQ28X1aMeII&feature=youtu.be",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/XRWvu6XdCSo",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Step To Hell",
@@ -1810,6 +1834,12 @@ const d = {
 					"user": "JTgaming7",
 					"link": "https://youtu.be/mICuoOJIiwE",
 					"percent": 67,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/A0z2WNifkAQ",
+					"percent": 100,
 					"hz": "144hz"
 				},
 			],
