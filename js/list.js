@@ -699,6 +699,12 @@ const d = {
 					"percent": 75,
 					"hz": "144hz"
 				},
+				{
+					"user": "jah",
+					"link": "https://www.youtube.com/watch?v=QxlFD90b9QM&t",
+					"percent": 63,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty AfterCataBath",
 			"author": "AcropolisBoy [LJosh]",
