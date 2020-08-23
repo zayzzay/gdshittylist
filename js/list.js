@@ -3879,6 +3879,12 @@ const d = {
 					"percent": 99,
 					"hz": "300hz"
 				},
+				{
+					"user": "Forz1ple",
+					"link": "https://youtu.be/oSDOvarl0XE",
+					"percent": 100,
+					"hz": "216hz"
+				},
 			],
 			"name": "Shitty Orochi",
 			"author": "Keleru",
