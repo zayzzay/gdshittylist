@@ -12718,6 +12718,78 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Epsilonic70",
+					"link": "https://www.youtube.com/watch?v=yTkvADaXPds",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/nWUgv9zi3Z4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "justiceguy",
+					"link": "https://youtu.be/flDdUjSatNA",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "FrenchFry",
+					"link": "https://www.youtube.com/watch?v=mRhU7mI2kyw&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Shrixy",
+					"link": "https://youtu.be/g5N9WuiP8r4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "synlix",
+					"link": "https://youtu.be/rp5ECxumh7w",
+					"percent": 70,
+					"hz": "60hz"
+				},
+				{
+					"user": "Izofdoors",
+					"link": "https://www.youtube.com/watch?v=8NldZM-aAM8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=evy6WCtGg1s",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/hFcyuo3rx1M",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "blessed",
+					"link": "https://youtu.be/EJ-GLKWkZek",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/Exq67Ex6FY4",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "nksweetdream",
+					"link": "https://youtu.be/RbE3OHMlpbo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
