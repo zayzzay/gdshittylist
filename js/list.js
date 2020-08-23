@@ -7739,6 +7739,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/3n3QpRR3qFo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Firepower",
 			"author": "AcropolisBoy [GDTeaBag]",
