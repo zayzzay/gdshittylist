@@ -7376,6 +7376,30 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/lu6_8dq0bXI",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "michael1604",
+					"link": "https://youtu.be/9VJUDfIKhPY",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/GUvPZcXOzhI",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "HudoHMF",
+					"link": "https://youtu.be/GQS7s_sGINY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
