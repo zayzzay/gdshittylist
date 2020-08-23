@@ -12841,9 +12841,9 @@ const d = {
 				},
 				{
 					"user": "Dashermachine",
-					"link": "https://youtu.be/dceQD7-yp3c?t=116",
-					"percent": 59,
-					"hz": "60hz"
+					"link": "https://youtu.be/aqxyvjXL27A?t=78",
+					"percent": 100,
+					"hz": "120hz"
 				},
 				{
 					"user": "zriv",
