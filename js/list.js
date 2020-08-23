@@ -6718,6 +6718,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/4dxFKRn6dtM",
+					"percent": 100,
+					"hz": "120hz"
+				},
 		        ],
 			"name": "Shitty Cadrega Mode",
 			"author": "Megum and more [Megum]",
