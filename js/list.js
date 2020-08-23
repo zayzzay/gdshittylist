@@ -4177,8 +4177,8 @@ const d = {
 				},
 				{
 					"user": "Nevise",
-					"link": "https://youtu.be/uI10jC-2s4o",
-					"percent": 78,
+					"link": "https://youtu.be/sceZfdPZG08",
+					"percent": 100,
 					"hz": "120hz"
 				},
 				{
@@ -4186,6 +4186,24 @@ const d = {
 					"link": "https://youtu.be/OzV556rULFQ",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "SlayTrixx",
+					"link": "https://youtu.be/vEyOeeFiqhI",
+					"percent": 59,
+					"hz": "60hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/Ew7rkWikX-Q",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "YeezoWo",
+					"link": "https://youtu.be/DcFwo2nWsn4",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Cognition",
