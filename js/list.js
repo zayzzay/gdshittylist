@@ -472,7 +472,7 @@ const d = {
 				{
 					"user": "Emonadeo",
 					"link": "https://youtu.be/xC0B1t_m_7M",
-					"percent": 58,a
+					"percent": 58,
 					"hz": "240hz"
 				},
 				{
