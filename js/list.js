@@ -9500,6 +9500,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+		         	{
+					"user": "Vink",
+					"link": "https://youtu.be/nabaR72n5ws?t=398",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
