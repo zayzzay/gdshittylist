@@ -1031,7 +1031,13 @@ const d = {
                                        "user": "Lupe1204",
                                        "link": "https://youtu.be/fRGpXM47kLA",
                                        "percent": 100,
-                                       "hz": "mobile"
+                                       "hz": "Mobile"
+                                },
+				{
+                                       "user": "Bluuper",
+                                       "link": "https://www.youtube.com/watch?v=30EZtg5JhxA",
+                                       "percent": 100,
+                                       "hz": "144hz"
                                 },
 			],
 			"name": "Shitty Artificial Dream",
