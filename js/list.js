@@ -4545,6 +4545,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Heartbeat",
 			"author": "Serpyy",
@@ -4622,6 +4628,12 @@ const d = {
 				{
 					"user": "MP3141",
 					"link": "https://youtu.be/__zuVsDXyFA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -5357,6 +5369,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=yt2XEwbEdE8&",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -7727,6 +7745,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Anoxysm",
 			"author": "Serpyy",
@@ -8933,6 +8957,12 @@ const d = {
 					"percent": 77,
 					"hz": "144hz"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -9398,11 +9428,17 @@ const d = {
 		/*=================================================================================*/
 		{
 		"vids": [
-			{
+				{
 					"user": "Bluuper",
 					"link": "https://www.youtube.com/watch?v=pkfWGfvzHy0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/IED_jgfCh7I",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Sparkling Hope",
@@ -10894,6 +10930,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -11418,6 +11460,12 @@ const d = {
 					"link": "https://youtu.be/i9gLH6KFKe8",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty SPL",
@@ -12605,6 +12653,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -13778,6 +13832,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -13976,6 +14036,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=QJ2vKnuhn8g",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Esencia",
@@ -14517,6 +14583,12 @@ const d = {
 					"link": "https://youtu.be/UmO88bbo7yw",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
 			"name": "Shitty Killerzone",
@@ -15472,6 +15544,12 @@ const d = {
 					"link": "https://youtu.be/cwNCZknL5DI",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
