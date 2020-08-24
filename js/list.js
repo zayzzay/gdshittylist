@@ -996,6 +996,48 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/qFBCMTKZlCs",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Spacethug",
+					"link": "https://youtu.be/9DuQ8Kz7p_k",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "HugoHMF",
+					"link": "https://youtu.be/HwacvDHV-4E",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=_od6TztnCnc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Matter",
+					"link": "https://www.youtube.com/watch?v=zuKG6S4KnX8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Skipper",
+					"link": "https://youtu.be/3Q5ZGlBL4dE",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/Z6-V4thym0Q",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty WOW",
 			"author": "oSpace [LJosh]",
@@ -1044,12 +1086,6 @@ const d = {
 					"link": "https://youtu.be/nabaR72n5ws?t=142",
 					"percent": 100,
 					"hz": "120hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/YrIq6Pf8OGc",
-					"percent": 100,
-					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Artificial Dream",
