@@ -8348,6 +8348,36 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/7eMBhw39wVY",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Spacethug",
+					"link": "https://youtu.be/hYXIEv592h0",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Virusbro",
+					"link": "https://www.youtube.com/watch?v=_ovulwjanM8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Ketrick",
+					"link": "https://www.youtube.com/watch?v=yCa39Jv7QT0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Velorum",
+					"link": "https://youtu.be/0wuxvI9SKsQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
