@@ -7044,6 +7044,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/nabaR72n5ws?t=228",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Battle of the Shades",
 			"author": "xSmajlik and Superxman777 [xSmajlik]",
