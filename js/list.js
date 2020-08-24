@@ -1011,7 +1011,7 @@ const d = {
 			"vids": [		
 			],
 			"name": "Shitty Artificial Dream",
-			"author": "rCyns",
+			"author": "Cyns",
 			"more": "none",
 			"id": 63121740,
 			"pass": "173869",
