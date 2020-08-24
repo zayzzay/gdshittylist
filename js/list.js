@@ -9392,7 +9392,7 @@ const d = {
 			"id": 62965574,
 			"pass": "Free to copy",
 			"percentToQualify": 64,
-			"verificationVid": "https://www.youtube.com/watch?v=Rnk_S2Ef-EM&feature=youtu.be",
+			"verificationVid": "https://www.youtube.com/watch?v=Rnk_S2Ef-EM",
 			"key": 68
 		},
 		/*=================================================================================*/
