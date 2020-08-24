@@ -1099,6 +1099,36 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/dwkrTHYaJTk",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/PD8kv9BX92g",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=mSL8-sexaCA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/YxajM-Slctw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "JTgaming7",
+					"link": "https://www.youtube.com/watch?v=PMGkRu4V32k",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
