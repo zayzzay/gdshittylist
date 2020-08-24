@@ -1008,7 +1008,25 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [		
+			"vids": [
+				{
+                                       "user": "TH54",
+                                       "link": "https://youtu.be/Dlw1oJLuDrg",
+                                       "percent": 100,
+                                       "hz": "240hz"
+                                },
+				{
+                                       "user": "Fhyron06",
+                                       "link": "https://www.youtube.com/watch?v=m1e_oCdTJJI",
+                                       "percent": 100,
+                                       "hz": "240hz"
+                                },
+				{
+                                       "user": "TH54",
+                                       "link": "https://youtu.be/F75gyzoOdq4",
+                                       "percent": 100,
+                                       "hz": "180hz"
+                                },
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
