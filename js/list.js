@@ -1027,6 +1027,12 @@ const d = {
                                        "percent": 100,
                                        "hz": "180hz"
                                 },
+				{
+                                       "user": "Lupe1204",
+                                       "link": "https://youtu.be/fRGpXM47kLA",
+                                       "percent": 100,
+                                       "hz": "mobile"
+                                },
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
@@ -2614,6 +2620,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Yb_msmYB9Bs&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "LevDeize",
+					"link": "https://youtu.be/t7-_tOUjHDE",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Hyper Paracosm",
@@ -5159,6 +5171,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "FrenchFry",
+					"link": "https://www.youtube.com/watch?v=ZeWrK0CqPGk&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -6383,6 +6401,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=_JNn3QuIB3Q&t=830s",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "FrenchFry",
+					"link": "https://www.youtube.com/watch?v=jPQzfh4IUyY&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -10924,6 +10948,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			          {
+				       "user": "SteveLaughPants",
+				       "link": "https://youtu.be/x7XJBOWay68",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -11657,6 +11687,12 @@ const d = {
 				{
 					"user": "LuigiDB",
 					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=u3grImc-WYo&t=5s",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -14061,6 +14097,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=bG7J-eBG_0I",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
@@ -14605,6 +14647,12 @@ const d = {
 				{
 					"user": "LuigiDB",
 					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=sOx3wRm9_kI",
 					"percent": 100,
 					"hz": "144hz"
 				},
