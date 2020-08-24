@@ -9385,6 +9385,12 @@ const d = {
 		/*=================================================================================*/
 		{
 		"vids": [
+			{
+					"user": "Bluuper",
+					"link": "https://www.youtube.com/watch?v=pkfWGfvzHy0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
