@@ -2624,7 +2624,7 @@ const d = {
 				{
 					"user": "LevDeize",
 					"link": "https://youtu.be/t7-_tOUjHDE",
-					"percent": 100,
+					"percent": 71,
 					"hz": "240hz"
 				},
                         ],
