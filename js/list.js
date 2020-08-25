@@ -3382,6 +3382,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Dist3nd",
+					"link": "https://youtu.be/11gi80-SJOU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Macabre",
 			"author": "oSpace and more [Serpyy]",
@@ -4863,6 +4869,12 @@ const d = {
 					"link": "https://youtu.be/VKjXJD1fLk0",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/123InJIagdc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Pinball Panic",
@@ -10198,6 +10210,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Dist3nd",
+					"link": "https://youtu.be/uyZ82vneo3g",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Silver Shade",
 			"author": "Aassbll",
@@ -11873,6 +11891,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=QA24hpgWSzU",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Yeezo",
+					"link": "https://youtu.be/Nrsv55gK2e0",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Kidsmoke",
