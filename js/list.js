@@ -614,6 +614,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/DCbfQmGybX4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Catharsis",
 			"author": "TheKate and more [MrDash]",
@@ -3235,6 +3241,12 @@ const d = {
 					"link": "https://youtu.be/NWcTU2Yw5-8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/SfeXGVAwPZ4",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ragnarok",
