@@ -881,6 +881,12 @@ const d = {
 					"percent": 85,
 					"hz": "240hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/dB0S0w0OeEo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
@@ -6982,6 +6988,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "blessed",
+					"link": "https://youtu.be/bUzFqevl-8o",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Penombre",
 			"author": "Miini03",
@@ -8113,6 +8125,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "blessed",
+					"link": "https://youtu.be/CeNzTrpTYrg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Firepower",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -8890,6 +8908,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SteveLaughPants",
+					"link": "https://youtu.be/O_Oj5zkPIjs",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "blessed",
+					"link": "https://youtu.be/6bqyxn1dOww",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -9612,6 +9642,12 @@ const d = {
 					"link": "https://youtu.be/SFmwFALoSNc",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=h7Q6ojvozio",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Dolos",
@@ -10591,6 +10627,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "FallenAresse",
+					"link": "https://youtu.be/VnXy5MMuP5U",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -11499,6 +11541,12 @@ const d = {
 				{
 					"user": "GDMeric",
 					"link": "https://www.youtube.com/watch?v=Nqra8dydTSE&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "SteveLaughPants",
+					"link": "https://www.youtube.com/watch?v=QA24hpgWSzU",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -12934,6 +12982,12 @@ const d = {
 					"link": "https://youtu.be/kbb09IJPpcc",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "FrenchFry",
+					"link": "https://youtu.be/7nFwzK3nThs",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
