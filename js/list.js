@@ -3986,6 +3986,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=IiITACcT2xg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -4922,6 +4928,12 @@ const d = {
 				{
 					"user": "LuigiDB",
 					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/W93m9jYkgIY",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -11175,6 +11187,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "180hz"
 			       },
+			       {
+				       "user": "XoaOfficial",
+				       "link": "https://youtu.be/l6gAaiwwU0k",
+				       "percent": 100,
+				       "hz": "60hz"
+			       },
 			],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
@@ -12078,6 +12096,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Iu1d295Suxw&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "HugoHMF",
+					"link": "https://youtu.be/4_l0WmmR3j4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -13360,6 +13384,12 @@ const d = {
 					"link": "https://youtu.be/7miDjLkvIyo",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "HugoHMF",
+					"link": "https://youtu.be/-vBNk46CLIA",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
