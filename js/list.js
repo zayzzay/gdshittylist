@@ -917,6 +917,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/u3dYBc9OEgw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
@@ -1665,6 +1671,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=u9b9mrIuP9o",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "Dist3nd",
+					"link": "https://youtu.be/Cw3UsIjIHXU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Wasureta",
@@ -9853,6 +9865,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "synlix",
+					"link": "https://youtu.be/9hVS8n5XLqI",
+					"percent": 81,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -13312,6 +13330,12 @@ const d = {
 					"link": "https://youtu.be/6vrWrNc_3o8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Come out",
+					"link": "https://youtu.be/7miDjLkvIyo",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
