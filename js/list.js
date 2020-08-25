@@ -1171,6 +1171,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/M6l2KAmCX70",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "monstergamer546",
+					"link": "https://youtu.be/H0Sp-65rp5U",
+					"percent": 93,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
@@ -8744,6 +8756,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "HugoHMF",
+					"link": "https://youtu.be/tYvWRx4a8Xw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -10649,6 +10667,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/Fu-2rDZkxgw",
+					"percent": 100,
+					"hz": "240hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -11210,6 +11234,12 @@ const d = {
 				       "link": "https://youtu.be/l6gAaiwwU0k",
 				       "percent": 100,
 				       "hz": "60hz"
+			       },
+			       {
+				       "user": "jOnel",
+				       "link": "https://youtu.be/et4FxT8UCPE",
+				       "percent": 100,
+				       "hz": "240hz"
 			       },
 			],
 			"name": "Shitty Carnage Mode",
@@ -13895,6 +13925,12 @@ const d = {
 					"link": "https://youtu.be/RbE3OHMlpbo",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Acute",
+					"link": "https://www.youtube.com/watch?v=j5R7OoGpvXg&t",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty VendetTa",
