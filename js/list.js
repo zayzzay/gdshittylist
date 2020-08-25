@@ -2759,6 +2759,12 @@ const d = {
 					"percent": 71,
 					"hz": "240hz"
 				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=3OtB_vyHBPw",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Hyper Paracosm",
 			"author": "DigestedCitrus [Deimoz]",
@@ -14604,6 +14610,12 @@ const d = {
 				{
 					"user": "NKSWEETDREAM",
 					"link": "https://youtu.be/Mt_Lxaj1V6s",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=oXq6I52TBQ4",
 					"percent": 100,
 					"hz": "144hz"
 				},
