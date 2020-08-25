@@ -4824,6 +4824,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=78b2tQGjnHU",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],	
 			"name": "Shitty BioMachinist",
 			"author": "TheKate and SoyNadie [Vlaash]",
@@ -6516,6 +6522,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/IdWNn1pszYg",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -8057,6 +8069,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=eAZ3M8CbSxk",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/m2fVdNfxez8",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Anoxysm",
@@ -9648,6 +9666,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=h7Q6ojvozio",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/CqrT-fmgG20",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Dolos",
@@ -11414,6 +11438,12 @@ const d = {
 				{
 					"user": "LuigiDB",
 					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Shrixy",
+					"link": "https://youtu.be/thyDfuB2wTI",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -13728,6 +13758,12 @@ const d = {
 					"link": "https://youtu.be/M3WUAPFK990",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=2zYPTGJvOFc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Mujigae",
