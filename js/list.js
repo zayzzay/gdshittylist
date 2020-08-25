@@ -1842,6 +1842,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/peEtXctirXU",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Retitled",
 			"author": "Soda",
