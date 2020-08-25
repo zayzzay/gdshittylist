@@ -11005,6 +11005,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/dRdjm6wvRoQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -11282,6 +11288,12 @@ const d = {
 				       "link": "https://youtu.be/et4FxT8UCPE",
 				       "percent": 100,
 				       "hz": "240hz"
+			       },
+			       {
+				       "user": "LuigiDB",
+				       "link": "https://youtu.be/dRdjm6wvRoQ",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
 			],
 			"name": "Shitty Carnage Mode",
@@ -11643,6 +11655,12 @@ const d = {
 				       "link": "https://youtu.be/hFcyuo3rx1M",
 				       "percent": 100,
 				       "hz": "Mobile"
+			       },
+			       {
+				       "user": "LuigiDB",
+				       "link": "https://youtu.be/dRdjm6wvRoQ",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
@@ -12006,6 +12024,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/dRdjm6wvRoQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
@@ -12192,6 +12216,12 @@ const d = {
 					"link": "https://youtu.be/4_l0WmmR3j4",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/dRdjm6wvRoQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -14266,6 +14296,12 @@ const d = {
 				{
 					"user": "GD Cade21",
 					"link": "https://www.youtube.com/watch?v=jWiran0_Ot0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/dRdjm6wvRoQ",
 					"percent": 100,
 					"hz": "144hz"
 				},
