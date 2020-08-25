@@ -1382,6 +1382,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/WPlVxh-IvYA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -4495,6 +4501,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/HlmJCrj40Lk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cosmorush 21",
 			"author": "AcropolisBoy and Whiliams8080 [Bartoldo]",
@@ -4681,6 +4693,12 @@ const d = {
 					"link": "https://youtu.be/vgGJh_tGppA",
 					"percent": 87,
 					"hz": "60hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/B8qBicuyih8",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Belloq",
@@ -15220,6 +15238,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Diogan",
+					"link": "https://youtu.be/ktcQxS-Gxjw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "hren228",
+					"link": "https://youtu.be/_3K0TyHZrWM",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -16210,6 +16240,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=KhhfedO0S6Q",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/_2rTQfOzhPw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "hren228",
+					"link": "https://www.youtube.com/watch?v=-GYtv14IFx8&t=1s",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
