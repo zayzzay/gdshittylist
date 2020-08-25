@@ -10058,6 +10058,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+			        {
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=7XPqH87DQII",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
@@ -11224,12 +11230,6 @@ const d = {
 		{
                        "vids": [
 			       {
-					"user": "Bluuper",
-					"link": "https://www.youtube.com/watch?v=eafMVee7JNE",
-					"percent": 100,
-					"hz": "144hz"
-			       },
-			       {
 				       "user": "AcropolisBoy",
 				       "link": "https://www.youtube.com/watch?v=hDaSpt0U6v4&t=92s",
 				       "percent": 100,
@@ -11246,6 +11246,12 @@ const d = {
 				       "link": "https://youtu.be/-e2lpQO7sbw",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+			       {
+					"user": "Bluuper",
+					"link": "https://www.youtube.com/watch?v=eafMVee7JNE",
+					"percent": 100,
+					"hz": "144hz"
 			       },
 			       {
 				       "user": "Fhyron06",
