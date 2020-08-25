@@ -353,6 +353,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "zGod",
+					"link": "https://www.youtube.com/watch?v=wg98v0Z_leM&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -2340,6 +2346,12 @@ const d = {
 				{
 					"user": "MP3141",
 					"link": "https://youtu.be/eNW-HEOhBTM",
+					"percent": 100,
+				        "hz": "144hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/7vZdDr63Uws",
 					"percent": 100,
 				        "hz": "144hz"
 				},
@@ -10807,6 +10819,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Ketrick",
+					"link": "https://www.youtube.com/watch?v=BJGvUvTr1z4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -11042,6 +11060,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=QfNq3AfZR8o&t=1s",
 				       "percent": 100,
 				       "hz": "75hz"
+			       },
+			       {
+				       "user": "MP3141",
+				       "link": "https://youtu.be/iDFgtLjL0h8",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
 			],
 			"name": "Shitty Carnage Mode",
@@ -12163,6 +12187,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=u3grImc-WYo&t=5s",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Ketrick",
+					"link": "https://www.youtube.com/watch?v=9Oj4fnxy2Zc",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty SPL",
@@ -16156,6 +16186,24 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=6yiutH3MsLs",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Ketrick",
+					"link": "https://www.youtube.com/watch?v=tQ-beP6tXMQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Yeezo",
+					"link": "https://youtu.be/BevihLarBDw",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Dundermuffin",
+					"link": "https://www.youtube.com/watch?v=KhhfedO0S6Q",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
