@@ -4878,6 +4878,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=jnmd1ADhSXQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],	
 			"name": "Shitty BioMachinist",
 			"author": "TheKate and SoyNadie [Vlaash]",
@@ -16088,6 +16094,12 @@ const d = {
 				{
 					"user": "LuigiDB",
 					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Diogan",
+					"link": "https://youtu.be/fFd6XYHpWak",
 					"percent": 100,
 					"hz": "144hz"
 				},
