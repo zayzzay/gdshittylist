@@ -802,6 +802,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/4obKgbA6mtw",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Innards",
 			"author": "Keleru",
@@ -3775,6 +3781,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=bTJSD4-BaZ8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -4119,6 +4131,12 @@ const d = {
 					"link": "https://youtu.be/EROEms3I4WE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Ketrick",
+					"link": "https://www.youtube.com/watch?v=uJtklciz5AM",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Orochi",
@@ -5398,6 +5416,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ZeWrK0CqPGk&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Biz",
+					"link": "https://youtu.be/Sj3uRLzKbKs",
+					"percent": 100,
+					"hz": "185hz"
 				},
                         ],
 			"name": "Shitty Rate Demon",
@@ -8281,12 +8305,6 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-				{
-					"user": "blessed",
-					"link": "https://youtu.be/CeNzTrpTYrg",
-					"percent": 100,
-					"hz": "60hz"
-				},
 			],
 			"name": "Shitty Firepower",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -11090,6 +11108,18 @@ const d = {
 				       "link": "https://youtu.be/iDFgtLjL0h8",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Creatormichaelr",
+				       "link": "https://youtu.be/CzxD_OOQl74",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
+			       {
+				       "user": "michael1604",
+				       "link": "https://youtu.be/PT1476S1KHU",
+				       "percent": 100,
+				       "hz": "60hz"
 			       },
 			],
 			"name": "Shitty Carnage Mode",
