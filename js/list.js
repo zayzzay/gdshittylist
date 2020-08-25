@@ -9672,6 +9672,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/9STLJuvwKVo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
