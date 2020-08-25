@@ -3962,6 +3962,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "rslashknight",
+					"link": "https://youtu.be/lQxR-TSZLUw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -11121,6 +11127,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			       },
+			       {
+				       "user": "RageRod",
+				       "link": "https://www.youtube.com/watch?v=3x_47WwSxoE",
+				       "percent": 100,
+				       "hz": "180hz"
+			       },
 			],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
@@ -16282,6 +16294,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=-GYtv14IFx8&t=1s",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "therealeddie",
+					"link": "https://youtu.be/Xxbx5Ryr_-A",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
