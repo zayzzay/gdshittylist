@@ -1624,6 +1624,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "HopZy",
+					"link": "https://www.youtube.com/watch?v=u9b9mrIuP9o",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
@@ -7937,6 +7943,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/hFcyuo3rx1M",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
@@ -10470,6 +10482,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/hFcyuo3rx1M",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 	                ],
                         "name": "Shitty Ethereal Artifice",
                         "author": "Megum and more [Megum]",
@@ -10656,6 +10674,12 @@ const d = {
 					"link": "https://youtu.be/VnXy5MMuP5U",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/hFcyuo3rx1M",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Blade of Justice",
@@ -11230,11 +11254,17 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
-			          {
+			       {
 				       "user": "SteveLaughPants",
 				       "link": "https://youtu.be/x7XJBOWay68",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Rly",
+				       "link": "https://youtu.be/hFcyuo3rx1M",
+				       "percent": 100,
+				       "hz": "Mobile"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
