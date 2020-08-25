@@ -3492,6 +3492,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/MWF_ww640Bk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Calculator Core",
 			"author": "oSpace and more [oSpace]",
@@ -3948,6 +3954,12 @@ const d = {
 				{
 					"user": "MP3141",
 					"link": "https://youtu.be/GqDEVj1PCl4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/JuYd0ccSlpQ",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -8829,6 +8841,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=tBKC963N3gw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -10084,6 +10102,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/6kQqJTRWc3Q",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Silver Shade",
 			"author": "Aassbll",
@@ -11006,6 +11030,12 @@ const d = {
 				       "link": "https://youtu.be/yOZHunCTu-w",
 				       "percent": 100,
 				       "hz": "288hz"
+			       },
+			       {
+				       "user": "Soda",
+				       "link": "https://www.youtube.com/watch?v=QfNq3AfZR8o&t=1s",
+				       "percent": 100,
+				       "hz": "75hz"
 			       },
 			],
 			"name": "Shitty Carnage Mode",
@@ -15136,6 +15166,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "jah",
+					"link": "https://www.youtube.com/watch?v=GUeAsdQu5L4",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -16100,6 +16136,12 @@ const d = {
 				{
 					"user": "Diogan",
 					"link": "https://youtu.be/fFd6XYHpWak",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=6yiutH3MsLs",
 					"percent": 100,
 					"hz": "144hz"
 				},
