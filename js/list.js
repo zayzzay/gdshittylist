@@ -4998,6 +4998,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/ppK1PY6Y8-U",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],	
 			"name": "Shitty BioMachinist",
 			"author": "TheKate and SoyNadie [Vlaash]",
@@ -5053,6 +5059,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/mvhyUtGhu64",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Matilda The Machine",
 			"author": "XanPlayzGamez and Serpyy [XanPlayzGamez]",
@@ -5093,6 +5105,12 @@ const d = {
 				{
 					"user": "MP3141",
 					"link": "https://youtu.be/ybjABnxrc0Q",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/u2mzYX_-GRk",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -12825,6 +12843,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://www.youtube.com/watch?v=LjH96ojRmEU",
+					"percent": 100,
+					"hz": "240hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -14581,6 +14605,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=eAZ3M8CbSxk",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=eFBHcseVRhE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
