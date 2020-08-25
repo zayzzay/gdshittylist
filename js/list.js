@@ -10886,6 +10886,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/693WgyNvc8s",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
@@ -11504,6 +11510,12 @@ const d = {
 				{
 					"user": "Shrixy",
 					"link": "https://youtu.be/thyDfuB2wTI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/pgEr5NEr-V8",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -13084,6 +13096,12 @@ const d = {
 					"link": "https://youtu.be/7miDjLkvIyo",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/6vrWrNc_3o8",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
