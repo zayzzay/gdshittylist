@@ -4536,6 +4536,12 @@ const d = {
 					"percent": 91,
 					"hz": "60hz"
 				},
+				{
+					"user": "blessed",
+					"link": "https://youtu.be/yruta-qWUg8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -11198,6 +11204,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Just_Lemon",
+					"link": "https://www.youtube.com/watch?v=TrUA9EygE14&t=2s",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
@@ -16564,6 +16576,12 @@ const d = {
 					"link": "https://youtu.be/Xxbx5Ryr_-A",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "blessed",
+					"link": "https://youtu.be/a6e-sZXSaeY",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
