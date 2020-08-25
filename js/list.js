@@ -343,8 +343,8 @@ const d = {
 				},
 				{
 					"user": "Emonadeo",
-					"link": "https://youtu.be/zY5SisErn68",
-					"percent": 67,
+					"link": "https://www.youtube.com/watch?v=lQ8hk-YjuOc",
+					"percent": 100,
 					"hz": "240hz"
 				},
 			],
@@ -777,6 +777,12 @@ const d = {
 					"link": "https://youtu.be/5KNS4Ju8qT0",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/YyR3DokwZlE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Innards",
@@ -2976,6 +2982,12 @@ const d = {
 					"link": "https://youtu.be/rLiTc_-7z1w",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/utBhkli4yeg",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Deimos",
@@ -13061,6 +13073,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Come out",
+					"link": "https://youtu.be/7miDjLkvIyo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -15013,6 +15031,12 @@ const d = {
 				{
 					"user": "LegionofBaum31",
 					"link": "https://www.youtube.com/watch?v=sOx3wRm9_kI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=cB7_-1w1en8",
 					"percent": 100,
 					"hz": "144hz"
 				},
