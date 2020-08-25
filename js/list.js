@@ -4519,7 +4519,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "YeezoWo",
+					"user": "Yeezo",
 					"link": "https://youtu.be/DcFwo2nWsn4",
 					"percent": 100,
 					"hz": "60hz"
