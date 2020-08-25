@@ -172,6 +172,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/gMyVVbgDbbY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Madmansion",
 			"author": "Aassbll",
@@ -781,6 +787,12 @@ const d = {
 				{
 					"user": "MP3141",
 					"link": "https://youtu.be/YyR3DokwZlE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/tOgPYFKax60",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -3164,6 +3176,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/NWcTU2Yw5-8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -3465,6 +3483,12 @@ const d = {
 				{
 					"user": "MP3141",
 					"link": "https://youtu.be/jrcPCk6Mpb4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/aBfBCUNy8us",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -4047,6 +4071,12 @@ const d = {
 					"link": "https://youtu.be/HSkvq4zUAl4",
 					"percent": 99,
 					"hz": "300hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/0GW5TkINfqQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Orochi",
@@ -5549,6 +5579,12 @@ const d = {
 					"link": "https://youtu.be/RniWGnEl0Vs",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/QewrHIMDXeI",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -7593,6 +7629,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/hUIUt1sWuhU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -7795,6 +7837,12 @@ const d = {
 				{
 					"user": "HugoHMF",
 					"link": "https://youtu.be/GQS7s_sGINY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/2AZ5lk0GBqU",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -9236,6 +9284,12 @@ const d = {
 				{
 					"user": "LuigiDB",
 					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/zoF73p66zug",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -10710,6 +10764,12 @@ const d = {
 					"link": "https://youtu.be/hFcyuo3rx1M",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/eGZNouxNdlg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
