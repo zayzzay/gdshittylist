@@ -1189,6 +1189,12 @@ const d = {
 					"percent": 93,
 					"hz": "Mobile"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/J6-YuQNDIr4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
@@ -4518,6 +4524,18 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "zGod",
+					"link": "https://www.youtube.com/watch?v=v91jukh5AB8&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Acetolysis",
+					"link": "https://youtu.be/J-iA9gw7ES8",
+					"percent": 91,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -5952,6 +5970,12 @@ const d = {
 					"link": "https://youtu.be/qWIaSv0fQ5U",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Velorum",
+					"link": "https://www.youtube.com/watch?v=wC3BBMCbKrg&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Thinking Space",
@@ -11162,6 +11186,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/dRdjm6wvRoQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
@@ -12891,6 +12921,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/dRdjm6wvRoQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -13057,6 +13093,12 @@ const d = {
 				{
 					"user": "Covieta",
 					"link": "https://youtu.be/roRWXB0ywP4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/dRdjm6wvRoQ",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -13944,6 +13986,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "InferiorPatty",
+					"link": "https://www.youtube.com/watch?v=FsnWMgQtVe0&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/dRdjm6wvRoQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -14206,6 +14260,12 @@ const d = {
 				{
 					"user": "LegionofBaum31",
 					"link": "https://www.youtube.com/watch?v=2zYPTGJvOFc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=jWiran0_Ot0",
 					"percent": 100,
 					"hz": "144hz"
 				},
