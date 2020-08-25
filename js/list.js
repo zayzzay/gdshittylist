@@ -6172,6 +6172,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/CN7eicMkwDI",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty PV II",
 			"author": "Serpyy and more [Serpyy]",
@@ -11710,6 +11716,12 @@ const d = {
 					"link": "https://youtu.be/pgEr5NEr-V8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Velorum",
+					"link": "https://youtu.be/84C-58vKYY0",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty xo",
