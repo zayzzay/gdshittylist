@@ -1143,9 +1143,9 @@ const d = {
 				},
 				{
 					"user": "GDMeric",
-					"link": "https://youtu.be/jsxiETxBIqY",
+					"link": "https://youtu.be/KlfNR0Zf0GU",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "Mobile"
 				},
 				{
 					"user": "Creatormichaelr",
