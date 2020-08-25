@@ -8040,6 +8040,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Cyns",
+					"link": "https://www.youtube.com/watch?v=eAZ3M8CbSxk",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Anoxysm",
 			"author": "Serpyy",
@@ -12387,6 +12393,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Cyns",
+					"link": "https://www.youtube.com/watch?v=OtlMwxIXZ-Y",
+					"percent": 100,
+					"hz": "288hz"
+				},
                 	],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -14101,6 +14113,12 @@ const d = {
 					"link": "https://youtu.be/kbb09IJPpcc",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://www.youtube.com/watch?v=eAZ3M8CbSxk",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
