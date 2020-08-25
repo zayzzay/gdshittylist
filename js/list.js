@@ -9680,8 +9680,8 @@ const d = {
 					"hz": "180hz"
 				},
 				{
-					"user": "Blast",
-					"link": "https://youtu.be/CqrT-fmgG20",
+					"user": "Rly",
+					"link": "https://youtu.be/hFcyuo3rx1M",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -9867,6 +9867,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/hFcyuo3rx1M",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -9993,6 +9999,12 @@ const d = {
 					"link": "https://youtu.be/m_2XhHtnA6c",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/hFcyuo3rx1M",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Silver Shade",
