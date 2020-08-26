@@ -1212,13 +1212,19 @@ const d = {
 				       "link": "https://youtu.be/Z2Zqd7T152U",
 				       "percent": 100,
 				       "hz": "288hz"
-			       },
+			        },
 				{
 				       "user": "Dashermachine",
 				       "link": "https://youtu.be/r6aiMNSW1Js",
 				       "percent": 100,
 				       "hz": "Mobile"
-			       },
+			        },
+				{
+				       "user": "blessed",
+				       "link": "https://youtu.be/Wkzxraw0V5s",
+				       "percent": 100,
+				       "hz": "60hz"
+			        },
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
@@ -4838,6 +4844,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "RageRod",
+					"link": "https://www.youtube.com/watch?v=Yv5fAq6Yee4",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
@@ -5566,6 +5578,12 @@ const d = {
 					"link": "https://youtu.be/Sj3uRLzKbKs",
 					"percent": 100,
 					"hz": "185hz"
+				},
+				{
+					"user": "blessed",
+					"link": "https://youtu.be/sVY-6HU2uTU",
+					"percent": 100,
+					"hz": "60hz"
 				},
                         ],
 			"name": "Shitty Rate Demon",
@@ -12500,12 +12518,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-				 {
+				{
 				       "user": "XanPlayzGamez",
 				       "link": "https://youtu.be/n13UChLJzZE",
 				       "percent": 100,
 				       "hz": "288hz"
-			       },
+			        },
+				{
+				       "user": "Acute",
+				       "link": "https://www.youtube.com/watch?v=4jptXqiWvGY",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
@@ -12746,6 +12770,12 @@ const d = {
 					"link": "https://youtu.be/FyiDRGuB2AM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/JFFOqJCRMVA",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty SPL",
@@ -14141,6 +14171,12 @@ const d = {
 					"link": "https://youtu.be/dRdjm6wvRoQ",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Acute",
+					"link": "https://www.youtube.com/watch?v=j5R7OoGpvXg&t=6s",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty VendetTa",
