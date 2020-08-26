@@ -10196,6 +10196,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+			        {
+					"user": "Arctic",
+					"link": "https://youtu.be/giSEuOZuE4E",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
@@ -14545,6 +14551,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "IIEliteRainII",
+					"link": "https://youtu.be/s14WL78jPE8",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -15810,7 +15822,7 @@ const d = {
 				},
 				{
 					"user": "Dist3nd",
-					"link": "https://youtu.be/cyRrTO1WwG8",
+					"link": "https://youtu.be/vu7-FznpZGc",
 					"percent": 100,
 					"hz": "144hz"
 				},
