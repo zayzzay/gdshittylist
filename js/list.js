@@ -1098,6 +1098,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Aassbll",
+					"link": "https://youtu.be/PDDjzcqiaU0",
+					"percent": 100,
+					"hz": "60hz"
+				},
                         ],
 			"name": "Shitty WOW",
 			"author": "oSpace [LJosh]",
