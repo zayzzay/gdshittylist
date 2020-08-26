@@ -4868,6 +4868,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/nyVfyp_DEZI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
@@ -5182,6 +5188,12 @@ const d = {
 				{
 					"user": "GDMeric",
 					"link": "https://youtu.be/mvhyUtGhu64",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/Oe5HCpJJo-A",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -6882,6 +6894,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Yeezo",
+					"link": "https://youtu.be/TTch8K-0g1M",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -7244,6 +7262,12 @@ const d = {
 					"link": "https://youtu.be/ztWg1lkjJiE",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/GI-2onyjrQc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Explosion",
@@ -7946,6 +7970,12 @@ const d = {
 					"link": "https://youtu.be/hUIUt1sWuhU",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Acute",
+					"link": "https://www.youtube.com/watch?v=r1fCJcjDOoY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Factory Realm X",
@@ -12568,8 +12598,8 @@ const d = {
 				},
 				{
 					"user": "ItsHyper37",
-					"link": "https://youtu.be/SyUQQz68SX4",
-					"percent": 81,
+					"link": "https://youtu.be/aD5yO_-olIYF",
+					"percent": 90,
 					"hz": "Mobile"
 				},
 				{
@@ -12866,6 +12896,12 @@ const d = {
 					"link": "https://youtu.be/JFFOqJCRMVA",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/UA1G_BI-7YE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty SPL",
