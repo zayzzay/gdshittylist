@@ -16811,6 +16811,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "BrightBird",
+					"link": "https://www.youtube.com/watch?v=EH7FffbCyWQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
