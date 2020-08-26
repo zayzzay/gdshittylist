@@ -1225,6 +1225,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			        },
+				{
+				       "user": "InferiorPatty",
+				       "link": "https://www.youtube.com/watch?v=ymekGLuvjxY&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "300hz"
+			        },
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
@@ -7033,6 +7039,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "InferiorPatty",
+					"link": "https://www.youtube.com/watch?v=maOIX-TUrRM&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -10401,6 +10413,12 @@ const d = {
 					"link": "https://youtu.be/uyZ82vneo3g",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Yeezo",
+					"link": "https://youtu.be/GRAbXLoe9pM",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Silver Shade",
