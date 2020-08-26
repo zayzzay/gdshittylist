@@ -13204,6 +13204,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/wrgm6-v7r3w",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
