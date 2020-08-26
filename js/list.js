@@ -1092,6 +1092,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "zGod",
+					"link": "https://youtu.be/_FfbbS8IRJU",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
 			"name": "Shitty WOW",
 			"author": "oSpace [LJosh]",
@@ -1230,6 +1236,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=ymekGLuvjxY&feature=youtu.be",
 				       "percent": 100,
 				       "hz": "300hz"
+			        },
+				{
+				       "user": "zGod",
+				       "link": "https://youtu.be/dEkw4WoX2-4",
+				       "percent": 100,
+				       "hz": "240hz"
 			        },
 			],
 			"name": "Shitty Artificial Dream",
@@ -5837,6 +5849,18 @@ const d = {
 					"link": "https://youtu.be/QewrHIMDXeI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/CEG5gZmPW2I",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Acetolysis",
+					"link": "https://youtu.be/Jc0DFRFzfnU",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -11318,6 +11342,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/wXGkLl5wE8I",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -11511,6 +11541,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Koora",
+					"link": "https://youtu.be/H87XuSHglms",
+					"percent": 100,
+					"hz": "60hz"
+				},
                         ],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
@@ -11607,6 +11643,12 @@ const d = {
 				       "link": "https://youtu.be/dRdjm6wvRoQ",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+			       {
+				       "user": "TH54",
+				       "link": "https://youtu.be/J96HThDFovs",
+				       "percent": 100,
+				       "hz": "240hz"
 			       },
 			],
 			"name": "Shitty Carnage Mode",
@@ -11972,6 +12014,12 @@ const d = {
 			       {
 				       "user": "LuigiDB",
 				       "link": "https://youtu.be/dRdjm6wvRoQ",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Just_Lemon",
+				       "link": "https://www.youtube.com/watch?v=LxZP5QJ4NY4",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
@@ -14196,6 +14244,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=8mkW5yMBp50",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -14472,6 +14526,12 @@ const d = {
 					"link": "https://youtu.be/dRdjm6wvRoQ",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Yeezo",
+					"link": "https://youtu.be/T3N9M5esT08",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Mujigae",
