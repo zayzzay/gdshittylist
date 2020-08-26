@@ -986,8 +986,8 @@ const d = {
 				},
 				{
 					"user": "Aassbll",
-					"link": "https://www.youtube.com/watch?v=p-Ek6R-MTtk",
-					"percent": 81,
+					"link": "https://youtu.be/PDDjzcqiaU0",
+					"percent": 100,
 					"hz": "60hz"
 				},
 				{
@@ -1097,12 +1097,6 @@ const d = {
 					"link": "https://youtu.be/_FfbbS8IRJU",
 					"percent": 100,
 					"hz": "240hz"
-				},
-				{
-					"user": "Aassbll",
-					"link": "https://youtu.be/PDDjzcqiaU0",
-					"percent": 100,
-					"hz": "60hz"
 				},
                         ],
 			"name": "Shitty WOW",
