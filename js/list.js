@@ -10938,6 +10938,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				 {
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/cWBpzBdnVbA",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -11029,6 +11035,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				 {
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/cWBpzBdnVbA",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 	                ],
                         "name": "Shitty Ethereal Artifice",
                         "author": "Megum and more [Megum]",
@@ -11735,6 +11747,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
+			        {
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/cWBpzBdnVbA",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
@@ -12331,6 +12349,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				 {
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/cWBpzBdnVbA",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -12476,6 +12500,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				 {
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/cWBpzBdnVbA",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
