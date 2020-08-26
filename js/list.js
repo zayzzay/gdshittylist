@@ -14540,12 +14540,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Acute",
-					"link": "https://www.youtube.com/watch?v=j5R7OoGpvXg&t=6s",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "GD Cade21",
 					"link": "https://www.youtube.com/watch?v=8mkW5yMBp50",
 					"percent": 100,
