@@ -4942,7 +4942,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "TH54",
+                      			"user": "TH54",
 					"link": "https://youtu.be/ex-hrYmMVU8",
 					"percent": 100,
 					"hz": "240hz"
@@ -4956,6 +4956,12 @@ const d = {
 				{
 					"user": "LuigiDB",
 					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/6gj2wvhs0qA",
 					"percent": 100,
 					"hz": "144hz"
 				},
