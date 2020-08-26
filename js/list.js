@@ -7092,6 +7092,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "CarlosArt16",
+					"link": "https://www.youtube.com/watch?v=oereIl3XgxA",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
