@@ -12470,6 +12470,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				 {
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/n13UChLJzZE",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
