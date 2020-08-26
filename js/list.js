@@ -7403,7 +7403,6 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "DeadshotHD and ShadowNinja441 [DeadshotHD]",
