@@ -4887,6 +4887,61 @@ const d = {
 		{
 			"vids": [
 				{
+				 	"user": "Fhyron06",
+                                        "link": "https://www.youtube.com/watch?v=Yj_b4n8fvXY",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
+				{
+				 	"user": "piesy",
+                                        "link": "https://youtu.be/lGqt9HLaV0c",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://www.youtube.com/watch?v=tEWbtRTkpL4&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/__zuVsDXyFA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/W93m9jYkgIY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Low Death",
+			"author": "AcropolisBoy [GDTeaBag]",
+			"more": "none",
+			"id": 54841903,
+			"pass": "Free to copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=1Y1T2UdSCEY&t=2425s",
+			"key": 34
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "md1159",
 					"link": "https://youtu.be/c0Yd4c9pRPo",
 					"percent": 100,
@@ -4978,7 +5033,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=CwmVzTRcfGI",
-			"key": 34
+			"key": 35
 		},
 		/*=================================================================================*/
 		{
@@ -5021,61 +5076,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=nwef7j6lSc0",
-			"key": 35
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-				 	"user": "Fhyron06",
-                                        "link": "https://www.youtube.com/watch?v=Yj_b4n8fvXY",
-                                        "percent": 100,
-                                        "hz": "240hz"
-				},
-				{
-				 	"user": "piesy",
-                                        "link": "https://youtu.be/lGqt9HLaV0c",
-                                        "percent": 100,
-                                        "hz": "240hz"
-				},
-				{
-					"user": "RG",
-					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "zMarc",
-					"link": "https://www.youtube.com/watch?v=tEWbtRTkpL4&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/__zuVsDXyFA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "LuigiDB",
-					"link": "https://youtu.be/kbb09IJPpcc",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/W93m9jYkgIY",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Low Death",
-			"author": "AcropolisBoy [GDTeaBag]",
-			"more": "none",
-			"id": 54841903,
-			"pass": "Free to copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=1Y1T2UdSCEY&t=2425s",
 			"key": 36
 		},
 		/*=================================================================================*/
