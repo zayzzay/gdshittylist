@@ -7403,6 +7403,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/Eh1P67fuP3w",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/CRTMePHK8Ko",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "DeadshotHD and ShadowNinja441 [DeadshotHD]",
