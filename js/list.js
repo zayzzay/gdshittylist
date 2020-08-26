@@ -1086,6 +1086,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/K1KDDjVgd3I",
+					"percent": 100,
+					"hz": "120hz"
+				},
                         ],
 			"name": "Shitty WOW",
 			"author": "oSpace [LJosh]",
@@ -1197,8 +1203,8 @@ const d = {
 				},
 				{
 					"user": "monstergamer546",
-					"link": "https://youtu.be/H0Sp-65rp5U",
-					"percent": 93,
+					"link": "https://youtu.be/eGMcIahxoig",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 				{
@@ -1206,6 +1212,12 @@ const d = {
 				       "link": "https://youtu.be/Z2Zqd7T152U",
 				       "percent": 100,
 				       "hz": "288hz"
+			       },
+				{
+				       "user": "Dashermachine",
+				       "link": "https://youtu.be/r6aiMNSW1Js",
+				       "percent": 100,
+				       "hz": "Mobile"
 			       },
 			],
 			"name": "Shitty Artificial Dream",
@@ -2418,6 +2430,12 @@ const d = {
 				{
 					"user": "wshedd",
 					"link": "https://youtu.be/7vZdDr63Uws",
+					"percent": 100,
+				        "hz": "144hz"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=xYXLdeCJUT8",
 					"percent": 100,
 				        "hz": "144hz"
 				},
@@ -8074,6 +8092,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Ketrick",
+					"link": "https://www.youtube.com/watch?v=9XSTUaRzPmU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -8839,6 +8863,12 @@ const d = {
 					"link": "https://youtu.be/tYvWRx4a8Xw",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "blessed",
+					"link": "https://youtu.be/BzgiOltoB2Q",
+					"percent": 100,
+					"hz": "60hz"
 				},
                         ],
 			"name": "Shitty Kenos",
