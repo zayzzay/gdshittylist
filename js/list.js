@@ -7445,6 +7445,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "ItsHyper37",
+					"link": "https://youtu.be/hlLLK1AaQpg",
+					"percent": 96,
+					"hz": "Mobile"
+				},
 		        ],
 			"name": "Shitty Cadrega Mode",
 			"author": "Megum and more [Megum]",
