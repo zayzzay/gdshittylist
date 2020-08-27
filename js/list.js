@@ -7432,6 +7432,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Bluuper",
+					"link": "https://www.youtube.com/watch?v=kdDaYOFwE_A",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "DeadshotHD and ShadowNinja441 [DeadshotHD]",
