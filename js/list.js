@@ -5650,6 +5650,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "StarLight772",
+					"link": "https://youtu.be/msWNa05B1rM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -5908,6 +5914,12 @@ const d = {
 					"link": "https://youtu.be/Jc0DFRFzfnU",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "StarLight772",
+					"link": "https://youtu.be/FhBu7Ky3qkc",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -10249,6 +10261,12 @@ const d = {
 					"percent": 81,
 					"hz": "60hz"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/y5OigN3upD8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -14238,6 +14256,18 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "StarLight772",
+					"link": "https://youtu.be/I32edqME8M8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Acetolysis",
+					"link": "https://youtu.be/TFVoL9dJe60",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -15211,6 +15241,18 @@ const d = {
 					"link": "https://youtu.be/ckrUT6XtB6A",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Acetolysis",
+					"link": "https://youtu.be/SStV701bEkk"
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "StarLight772",
+					"link": "https://youtu.be/Z1ZcTvp5ITs",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ithacropolis",
