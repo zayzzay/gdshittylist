@@ -16752,7 +16752,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-				{
 					"user": "arielus05",
 					"link": "https://youtu.be/LIrtMScegBc",
 					"percent": 100,
