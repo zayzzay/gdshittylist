@@ -2462,6 +2462,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "HamburgerMan",
+					"link": "https://www.youtube.com/watch?v=AqgXP5sO9yw",
+					"percent": 100,
+				        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -3692,7 +3698,7 @@ const d = {
 				},
 				{
 					"user": "crumche",
-					"link": "https://cdn.discordapp.com/attachments/457568615026393098/735507273497051216/shitty_tapwreck.mp4",
+					"link": "https://cdn.discordapp.com/attachments/457568615026393098/735507273497051216/shitty_d.mp4",
 					"percent": 100,
 					"hz": "120hz"
 				},
@@ -3893,6 +3899,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=bTJSD4-BaZ8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "HamburgerMan",
+					"link": "https://www.youtube.com/watch?v=m_RnhmbtVek",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Tapwreck",
@@ -4604,6 +4616,12 @@ const d = {
 				{
 					"user": "Spacethug",
 					"link": "https://youtu.be/DNftvduPo3E",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "HamburgerMan",
+					"link": "https://www.youtube.com/watch?v=TJd6TL2uY60",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -11673,6 +11691,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "HamburgerMan",
+					"link": "https://www.youtube.com/watch?v=Nfcqg9FnVSQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
@@ -12154,6 +12178,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=LxZP5QJ4NY4",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+			       {
+				       "user": "HamburgerMan",
+				       "link": "https://youtu.be/GmEkIXd5tNE",
+				       "percent": 100,
+				       "hz": "240hz"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
