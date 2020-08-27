@@ -9243,6 +9243,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/9pCTzdcda6E",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
