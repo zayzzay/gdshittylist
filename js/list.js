@@ -15244,7 +15244,7 @@ const d = {
 				},
 				{
 					"user": "Acetolysis",
-					"link": "https://youtu.be/SStV701bEkk"
+					"link": "https://youtu.be/SStV701bEkk",
 					"percent": 100,
 					"hz": "60hz"
 				},
