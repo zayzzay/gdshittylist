@@ -10195,103 +10195,6 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-		        "vids": [
-				{
-					"user": "Bluuper",
-					"link": "https://www.youtube.com/watch?v=pkfWGfvzHy0",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Cyns",
-					"link": "https://youtu.be/IED_jgfCh7I",
-					"percent": 100,
-					"hz": "288hz"
-				},
-		         	{
-					"user": "Vink",
-					"link": "https://youtu.be/nabaR72n5ws?t=398",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "lvcxs",
-					"link": "https://youtu.be/T3mPgKNp5LM",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/LNMeO2JH6Ms",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/0GbXY1tGK3s",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/Oyt3aIkfYiM",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Dashermachine",
-					"link": "https://www.youtube.com/watch?v=O8MTTd3XU9w&feature=youtu.be",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/vaehwAILRUQ",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=-H4HoLDm_WA",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Creatormichaelr",
-					"link": "https://youtu.be/klqvZKTYplo",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/rrhPQ90kdGM",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			        {
-					"user": "AcropolisBoy",
-					"link": "https://www.youtube.com/watch?v=7XPqH87DQII",
-					"percent": 100,
-					"hz": "240hz"
-				},
-			        {
-					"user": "Arctic",
-					"link": "https://youtu.be/giSEuOZuE4E",
-					"percent": 100,
-					"hz": "60hz"
-				},
-			],
-			"name": "Shitty Sparkling Hope",
-			"author": "MythicalTG",
-			"more": "none",
-			"id": 62965574,
-			"pass": "Free to copy",
-			"percentToQualify": 64,
-			"verificationVid": "https://www.youtube.com/watch?v=Rnk_S2Ef-EM",
-			"key": 70
-		},
-		/*=================================================================================*/
-		{
 			"vids": [
 				{
 					"user": "XanPlayzGamez",
@@ -10391,7 +10294,7 @@ const d = {
 			"pass": "Not copyable",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=qP0v6diamBM",
-			"key": 71
+			"key": 70
 		},
 		/*=================================================================================*/
 		{
@@ -10542,7 +10445,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 59,
 			"verificationVid": "https://www.youtube.com/watch?v=xfNYS-XFZ1Y",
-			"key": 72
+			"key": 71
 		},
 		/*=================================================================================*/
 		{
@@ -10963,7 +10866,7 @@ const d = {
                         "pass": "444446",
                         "percentToQualify": 61,
                         "verificationVid": "https://www.youtube.com/watch?v=LeykUbA7N5Y&t=44s",
-                        "key": 73
+                        "key": 72
                 }, 
 		/*=================================================================================*/
 		{
@@ -11060,7 +10963,7 @@ const d = {
                         "pass": "Free to copy",
                         "percentToQualify": 51,
                         "verificationVid": "https://www.youtube.com/watch?v=0wzYbY7pyxA",
-                        "key": 74
+                        "key": 73
                 }, 
 		/*=================================================================================*/
 		{
@@ -11277,7 +11180,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=q-P4ybSLZP4",
-			"key": 75
+			"key": 74
 		},
 		/*=================================================================================*/
 		{
@@ -11464,7 +11367,7 @@ const d = {
 			"pass": "167349",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=bUz7ePRVGAk",
-			"key": 76
+			"key": 75
 		},
 		/*=================================================================================*/
 		{
@@ -11663,6 +11566,103 @@ const d = {
 			"pass": "042019",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6JYh8vNm-EA",
+			"key": 76
+		},
+		/*=================================================================================*/
+				{
+		        "vids": [
+				{
+					"user": "Bluuper",
+					"link": "https://www.youtube.com/watch?v=pkfWGfvzHy0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/IED_jgfCh7I",
+					"percent": 100,
+					"hz": "288hz"
+				},
+		         	{
+					"user": "Vink",
+					"link": "https://youtu.be/nabaR72n5ws?t=398",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "lvcxs",
+					"link": "https://youtu.be/T3mPgKNp5LM",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/LNMeO2JH6Ms",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/0GbXY1tGK3s",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/Oyt3aIkfYiM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Dashermachine",
+					"link": "https://www.youtube.com/watch?v=O8MTTd3XU9w&feature=youtu.be",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/vaehwAILRUQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=-H4HoLDm_WA",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/klqvZKTYplo",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/rrhPQ90kdGM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			        {
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=7XPqH87DQII",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			        {
+					"user": "Arctic",
+					"link": "https://youtu.be/giSEuOZuE4E",
+					"percent": 100,
+					"hz": "60hz"
+				},
+			],
+			"name": "Shitty Sparkling Hope",
+			"author": "MythicalTG",
+			"more": "none",
+			"id": 62965574,
+			"pass": "Free to copy",
+			"percentToQualify": 64,
+			"verificationVid": "https://www.youtube.com/watch?v=Rnk_S2Ef-EM",
 			"key": 77
 		},
 		/*=================================================================================*/
