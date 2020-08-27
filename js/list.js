@@ -5,7 +5,7 @@ const d = {
                        "vids": [
 			       {
 				       "user": "XanPlayzGamez",
-				       "https://youtu.be/Vi6NIYsp0Sk",
+				       "link": "https://youtu.be/Vi6NIYsp0Sk",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
