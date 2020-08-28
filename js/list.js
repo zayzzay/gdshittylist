@@ -112,6 +112,18 @@ const d = {
 		/*=================================================================================*/
 		{   
 		"vids": [
+				{
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=ee1ifkVOKnQ"
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
+				{
+				       "user": "GDMeric",
+				       "link": "https://www.youtube.com/watch?v=zZEruSFzvII"
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 			 ],
                        "name": "Shitty Hateful Reflection",
                        "author": "lvcxs",
