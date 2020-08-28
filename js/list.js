@@ -6522,6 +6522,85 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=mPhVpA2g2EM&t=11s",
+					"percent": 100,
+					"hz": "200hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/tW25q_3XIuU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/89BuUOym07M",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/XrITgYt06sM",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=JEdVIplYmmg&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/favZqo0bnhs",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/OQDgTMDqWOg",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Xela343",
+					"link": "https://www.youtube.com/watch?v=3HOdjd7ZrdA",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/s3Wc2Eku3o8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Ensanity",
+					"link": "https://youtu.be/UTPhXNabgcM",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/nabaR72n5ws?t=228",
+					"percent": 100,
+					"hz": "120hz"
+				},
+			],
+			"name": "Shitty Battle of the Shades",
+			"author": "xSmajlik and Superxman777 [xSmajlik]",
+			"more": "none",
+			"id": 59275488,
+			"pass": "130919",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=mPhVpA2g2EM",
+			"key": 49
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "XanPlayzGamez",
 					"link": "https://youtu.be/hsOM27LXBuY",
 					"percent": 100,
@@ -7604,85 +7683,6 @@ const d = {
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=0G4wM1J6l-g",
 			"key": 56
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=mPhVpA2g2EM&t=11s",
-					"percent": 100,
-					"hz": "200hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/tW25q_3XIuU",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Bluuper",
-					"link": "https://youtu.be/89BuUOym07M",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/XrITgYt06sM",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Th13teen",
-					"link": "https://www.youtube.com/watch?v=JEdVIplYmmg&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/favZqo0bnhs",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "UNarwall",
-					"link": "https://youtu.be/OQDgTMDqWOg",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Xela343",
-					"link": "https://www.youtube.com/watch?v=3HOdjd7ZrdA",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/s3Wc2Eku3o8",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Ensanity",
-					"link": "https://youtu.be/UTPhXNabgcM",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Vink",
-					"link": "https://youtu.be/nabaR72n5ws?t=228",
-					"percent": 100,
-					"hz": "120hz"
-				},
-			],
-			"name": "Shitty Battle of the Shades",
-			"author": "xSmajlik and Superxman777 [xSmajlik]",
-			"more": "none",
-			"id": 59275488,
-			"pass": "130919",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=mPhVpA2g2EM",
-			"key": 49
 		},
 		/*=================================================================================*/
 		{
