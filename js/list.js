@@ -6316,6 +6316,91 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/nw2OoLZu1gg",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/7HbyUNUkCl8",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "PriUsGD",
+					"link": "https://youtu.be/IW81v479Usc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=osBGzEebpxE",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=uISx8m7rZPs&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/HiHxrFkxSCA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "UNarwall",
+					"link": "https://youtu.be/Slky5On0bAE",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://www.youtube.com/watch?v=bcF--eldRO8&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/ZOBDrKZDBkA",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/LQnW49q6Tys",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/ztWg1lkjJiE",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/GI-2onyjrQc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Explosion",
+			"author": "Serpyy",
+			"more": "none",
+			"id": 57580516,
+			"pass": "Free to copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=I7BGa0HFusI",
+			"key": 47
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "Soda",
 					"link": "https://youtu.be/BIBi_g01Y78",
 					"percent": 100,
@@ -6401,7 +6486,7 @@ const d = {
 			"pass": "159357",
 			"percentToQualify": 56,
 			"verificationVid": "https://www.youtube.com/watch?v=xMUEW3s8Bgs",
-			"key": 47
+			"key": 48
 		},
 		/*=================================================================================*/
 		{
@@ -6462,91 +6547,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=0JPGc9NLaU0",
-			"key": 48
-		},
-		/*=================================================================================*/
-				{
-			"vids": [
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/nw2OoLZu1gg",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Vink",
-					"link": "https://youtu.be/7HbyUNUkCl8",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "PriUsGD",
-					"link": "https://youtu.be/IW81v479Usc",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=osBGzEebpxE",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Th13teen",
-					"link": "https://www.youtube.com/watch?v=uISx8m7rZPs&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/HiHxrFkxSCA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "UNarwall",
-					"link": "https://youtu.be/Slky5On0bAE",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://www.youtube.com/watch?v=bcF--eldRO8&feature=youtu.be",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/ZOBDrKZDBkA",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/LQnW49q6Tys",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/ztWg1lkjJiE",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/GI-2onyjrQc",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Explosion",
-			"author": "Serpyy",
-			"more": "none",
-			"id": 57580516,
-			"pass": "Free to copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=I7BGa0HFusI",
 			"key": 49
 		},
 		/*=================================================================================*/
