@@ -7589,6 +7589,12 @@ const d = {
 					"percent": 96,
 					"hz": "Mobile"
 				},
+				     {
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/2GKB_2UNS1Y",
+				       "percent": 100,
+				       "hz": "60hz"
+			       },
 		        ],
 			"name": "Shitty Cadrega Mode",
 			"author": "Megum and more [Megum]",
