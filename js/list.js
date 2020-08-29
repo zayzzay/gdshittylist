@@ -1478,6 +1478,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+								{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=SNFmaZ2D6CU&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Eternal Moment",
 			"author": "Miini03",
@@ -1640,12 +1646,6 @@ const d = {
 					"link": "https://youtu.be/Cw3UsIjIHXU",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://www.youtube.com/watch?v=SNFmaZ2D6CU&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Wasureta",
