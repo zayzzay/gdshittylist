@@ -7705,13 +7705,19 @@ const d = {
 					"percent": 96,
 					"hz": "Mobile"
 				},
-				     {
+				{
 				       "user": "XanPlayzGamez",
 				       "link": "https://youtu.be/2GKB_2UNS1Y",
 				       "percent": 100,
 				       "hz": "60hz"
 			       },
-		        ],
+		               {
+				       "user": "Acute",
+				       "link": "https://www.youtube.com/watch?v=5KVBpWr0Cu0&app=desktop",
+				       "percent": 100,
+				       "hz": "Mobile"
+			       },	
+			],
 			"name": "Shitty Cadrega Mode",
 			"author": "Megum and more [Megum]",
 			"more": "AcropolisBoy, timckic, SkullBytes, Serpyy, ItzShuvon, MiiNi03, AlexTheGS33, ThePhoenixGHG",
