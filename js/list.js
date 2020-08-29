@@ -13377,7 +13377,7 @@ const d = {
 				       "user": "LegionofBaum31",
 				       "link": "https://www.youtube.com/watch?v=yJic6IPMEEE&feature=youtu.be",
 				       "percent": 100,
-				       "hz": "120"
+				       "hz": "120hz"
 			        },
 			],
 			"name": "Shitty Artifice",
