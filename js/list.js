@@ -16139,7 +16139,13 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-                        ],
+                        	{
+					"user": "RagingTurtle",
+					"link": "https://youtu.be/uUFlfvMb_Jw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
 			"more": "none",
