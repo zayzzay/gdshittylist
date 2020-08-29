@@ -14323,6 +14323,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Koora",
+					"link": "https://www.youtube.com/watch?v=zad2GvXabb0",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -14833,12 +14839,6 @@ const d = {
 					"link": "https://youtu.be/s14WL78jPE8",
 					"percent": 100,
 					"hz": "75hz"
-				},
-				{
-					"user": "Koora",
-					"link": "https://youtu.be/zad2GvXabb0",
-					"percent": 100,
-					"hz": "60hz"
 				},
 			],
 			"name": "Shitty VendetTa",
