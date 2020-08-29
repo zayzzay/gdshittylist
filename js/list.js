@@ -8520,7 +8520,7 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-                        ],
+			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
                         "more": "none",
@@ -13366,6 +13366,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=4jptXqiWvGY",
 				       "percent": 100,
 				       "hz": "Mobile"
+			        },
+				{
+				       "user": "LegionofBaum31",
+				       "link": "https://www.youtube.com/watch?v=yJic6IPMEEE&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "120"
 			        },
 			],
 			"name": "Shitty Artifice",
