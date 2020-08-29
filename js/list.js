@@ -11781,6 +11781,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=Q7Z2ZZ7dGyA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
