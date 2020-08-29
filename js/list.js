@@ -7677,7 +7677,7 @@ const d = {
 				},
 				{
 					"user": "TH54",
-					"link": "https://youtu.be/53ys8DBP4iw",
+					"link": "https://youtu.be/Qf7vGufD1KY",
 					"percent": 100,
 					"hz": "240hz"
 				},
