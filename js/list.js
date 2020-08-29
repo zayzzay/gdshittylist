@@ -7760,6 +7760,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/Da9M1GkY65M",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/L85KP4HKRs0",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Hyperio Technica",
 			"author": "Miini03 and more [RedLimeGD]",
