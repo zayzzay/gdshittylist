@@ -8526,6 +8526,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Epsilonic70",
+					"link": "https://www.youtube.com/watch?v=jbC8XkTCl9o&t=5718s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
