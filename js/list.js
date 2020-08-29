@@ -1643,7 +1643,7 @@ const d = {
 				},
 				{
 					"user": "TH54",
-					"link": "https://youtu.be/SNFmaZ2D6CU",
+					"link": "https://www.youtube.com/watch?v=SNFmaZ2D6CU&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
 				},
