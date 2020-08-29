@@ -17154,6 +17154,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "RagingTurtle",
+					"link": "https://youtu.be/L2pTQi5km5Y",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
