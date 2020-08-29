@@ -12131,6 +12131,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/S6Tkw89sWdQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
