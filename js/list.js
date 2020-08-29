@@ -13920,7 +13920,13 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-                	],
+                		{
+					"user": "Drdgaming",
+					"link": "https://www.youtube.com/watch?v=QQTtEDCK4JY&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
 			"more": "none",
