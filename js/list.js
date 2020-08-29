@@ -320,85 +320,6 @@ const d = {
 			"vids": [
 				{
 					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=MXbEZ3iIeis",
-					"percent": 100,
-					"hz": "280hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/x6j3jM6oi-U",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Xanii",
-					"link": "https://www.mediafire.com/file/3128yhf81tgxng8/mm.mp4/file",
-					"percent": 100,
-					"hz": "360hz"
-				},
-				{
-					"user": "Vink",
-					"link": "https://youtu.be/xwoEd3nJ5lo",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Magma",
-					"link": "https://www.youtube.com/watch?v=etMLIreOdL8",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/G1Kw9mHZQgk",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/tq3wL8VC9eI",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Praerius",
-					"link": "https://www.youtube.com/watch?v=sM9D4V74iMM&feature=youtu.be",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/hGckzN6fzqY",
-					"percent": 66,
-					"hz": "240hz"
-				},
-				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/JOB8ayV-U9I",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/gMyVVbgDbbY",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Madmansion",
-			"author": "Aassbll",
-			"more": "none",
-			"id": 57251824,
-			"pass": "Free copy",
-			"percentToQualify": 50,
-			"verificationVid": "https://www.youtube.com/watch?v=x89Bj43uEDU",
-			"key": 3
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Fhyron06",
 					"link": "https://www.youtube.com/watch?v=nDgBwccdbwk",
 					"percent": 100,
 					"hz": "240hz"
@@ -585,7 +506,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=fcqAzQsbVdY",
-			"key": 4
+			"key": 3
 		},
 		/*=================================================================================*/
 		{
@@ -652,6 +573,85 @@ const d = {
 			"pass": "032520",
 			"percentToQualify": 52,
 			"verificationVid": "https://www.youtube.com/watch?v=N9vQCwp01pM",
+			"key": 4
+		},
+		/*=================================================================================*/
+				{
+			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=MXbEZ3iIeis",
+					"percent": 100,
+					"hz": "280hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/x6j3jM6oi-U",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Xanii",
+					"link": "https://www.mediafire.com/file/3128yhf81tgxng8/mm.mp4/file",
+					"percent": 100,
+					"hz": "360hz"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/xwoEd3nJ5lo",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=etMLIreOdL8",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/G1Kw9mHZQgk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/tq3wL8VC9eI",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Praerius",
+					"link": "https://www.youtube.com/watch?v=sM9D4V74iMM&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/hGckzN6fzqY",
+					"percent": 66,
+					"hz": "240hz"
+				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/JOB8ayV-U9I",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/gMyVVbgDbbY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Madmansion",
+			"author": "Aassbll",
+			"more": "none",
+			"id": 57251824,
+			"pass": "Free copy",
+			"percentToQualify": 50,
+			"verificationVid": "https://www.youtube.com/watch?v=x89Bj43uEDU",
 			"key": 5
 		},
 		/*=================================================================================*/
