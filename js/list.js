@@ -14834,6 +14834,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "Koora",
+					"link": "https://youtu.be/zad2GvXabb0",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
