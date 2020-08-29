@@ -7602,6 +7602,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=Qf7vGufD1KY&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "DeadshotHD and ShadowNinja441 [DeadshotHD]",
@@ -7677,7 +7683,7 @@ const d = {
 				},
 				{
 					"user": "TH54",
-					"link": "https://youtu.be/Qf7vGufD1KY",
+					"link": "https://youtu.be/53ys8DBP4iw",
 					"percent": 100,
 					"hz": "240hz"
 				},
