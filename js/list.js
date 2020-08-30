@@ -130,6 +130,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/McO_0wW43Q8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			 ],
                        "name": "Shitty Hateful Reflection",
                        "author": "lvcxs",
