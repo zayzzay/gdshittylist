@@ -7638,6 +7638,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Mattbott321",
+					"link": "https://youtu.be/S2b3_QiNIN0",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "DeadshotHD and ShadowNinja441 [DeadshotHD]",
@@ -13980,6 +13986,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=QQTtEDCK4JY&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Mattbott321",
+					"link": "https://www.youtube.com/watch?v=j1BBrx9HjIQ",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Sakupen Hell",
