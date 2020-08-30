@@ -7865,7 +7865,7 @@ const d = {
 					"hz": "240hz"
 				},
 			],
-			"name": "Shitty Hyperio Technica",
+			"name": "Shitty Hyperio Technia",
 			"author": "Miini03 and more [RedLimeGD]",
 			"more": "Kanae03,Shoryn",
 			"id": 58276212,
