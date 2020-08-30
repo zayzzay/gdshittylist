@@ -12255,7 +12255,7 @@ const d = {
 				},
 				{
 					"user": "piesy",
-					"link": "https://youtu.be/tSGfAi2N3OE"
+					"link": "https://youtu.be/tSGfAi2N3OE",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -12491,7 +12491,7 @@ const d = {
 			       },
 			       {
 				       "user": "WonderFoxGD",
-				       "link": "https://youtu.be/8V1ARrXxJQM"
+				       "link": "https://youtu.be/8V1ARrXxJQM",
 				       "percent": 86,
 				       "hz": "60hz"
 			       },
