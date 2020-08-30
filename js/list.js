@@ -7839,6 +7839,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://www.youtube.com/watch?v=MQXK6pf_Cuo&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Hyperio Technica",
 			"author": "Miini03 and more [RedLimeGD]",
