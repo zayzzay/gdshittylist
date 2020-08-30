@@ -8612,6 +8612,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/H3bxyQzPVDg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
@@ -8830,12 +8836,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
-				 {
+				{
 				       "user": "XanPlayzGamez",
 				       "link": "https://youtu.be/DPVFEN-H4s0",
 				       "percent": 100,
 				       "hz": "144hz"
-			       },
+			        },
+				{
+				       "user": "LuigiDB",
+				       "link": "https://youtu.be/H3bxyQzPVDg",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 			],
 			"name": "Shitty Firepower",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -9227,6 +9239,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/H3bxyQzPVDg",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -9462,6 +9480,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/H3bxyQzPVDg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -9654,6 +9678,12 @@ const d = {
 					"link": "https://youtu.be/6bqyxn1dOww",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/H3bxyQzPVDg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Plasma Pulse",
@@ -10095,6 +10125,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/H3bxyQzPVDg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -10414,6 +10450,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "LuigiDb",
+					"link": "https://youtu.be/H3bxyQzPVDg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -10516,6 +10558,12 @@ const d = {
 					"link": "https://youtu.be/hFcyuo3rx1M",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/H3bxyQzPVDg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Novalis",
@@ -10667,6 +10715,12 @@ const d = {
 					"link": "https://youtu.be/GRAbXLoe9pM",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/H3bxyQzPVDg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Silver Shade",
@@ -11095,6 +11149,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			        },
+				{
+				       "user": "LuigiDB",
+				       "link": "https://youtu.be/H3bxyQzPVDg",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -11186,12 +11246,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-				 {
+				{
 				       "user": "XanPlayzGamez",
 				       "link": "https://youtu.be/cWBpzBdnVbA",
 				       "percent": 100,
 				       "hz": "288hz"
-			       },
+			        },
+				{
+				       "user": "LuigiDB",
+				       "link": "https://youtu.be/H3bxyQzPVDg",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 	                ],
                         "name": "Shitty Ethereal Artifice",
                         "author": "Megum and more [Megum]",
@@ -12192,6 +12258,12 @@ const d = {
 					"link": "https://youtu.be/S6Tkw89sWdQ",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/H3bxyQzPVDg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sparkling Hope",
