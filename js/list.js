@@ -105,6 +105,18 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "Crazen",
+				       "link": "https://www.youtube.com/watch?v=8kKPa9be7lw&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
+			       {
+				       "user": "Orizu",
+				       "link": "https://youtu.be/fWYsOXW9gJc",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
