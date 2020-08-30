@@ -4235,6 +4235,61 @@ const d = {
 		{
 			"vids": [
 				{
+				 	"user": "Fhyron06",
+                                        "link": "https://www.youtube.com/watch?v=Yj_b4n8fvXY",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
+				{
+				 	"user": "piesy",
+                                        "link": "https://youtu.be/lGqt9HLaV0c",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://www.youtube.com/watch?v=tEWbtRTkpL4&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/__zuVsDXyFA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "LuigiDB",
+					"link": "https://youtu.be/kbb09IJPpcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/W93m9jYkgIY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Low Death",
+			"author": "AcropolisBoy [GDTeaBag]",
+			"more": "none",
+			"id": 54841903,
+			"pass": "Free to copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=1Y1T2UdSCEY&t=2425s",
+			"key": 31
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "AcropolisBoy",
 					"link": "https://youtu.be/iQPeK6Zgqy8",
 					"percent": 100,
@@ -4368,7 +4423,7 @@ const d = {
 			"pass": "159874",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=n-1BTK0cIvA",
-			"key": 31
+			"key": 32
 		},
 		/*=================================================================================*/
 		{
@@ -4724,7 +4779,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=tOElkolP8Cg",
-			"key": 32
+			"key": 33
 		},
 		/*=================================================================================*/
 		{
@@ -4785,7 +4840,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=qmVqQqkM9wQ",
-			"key": 33
+			"key": 34
 		},
 		/*=================================================================================*/
 		{
@@ -4990,61 +5045,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=EvcFxAEED6g",
-			"key": 34
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-				 	"user": "Fhyron06",
-                                        "link": "https://www.youtube.com/watch?v=Yj_b4n8fvXY",
-                                        "percent": 100,
-                                        "hz": "240hz"
-				},
-				{
-				 	"user": "piesy",
-                                        "link": "https://youtu.be/lGqt9HLaV0c",
-                                        "percent": 100,
-                                        "hz": "240hz"
-				},
-				{
-					"user": "RG",
-					"link": "https://www.youtube.com/watch?v=9lR8LAlMWSk",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "zMarc",
-					"link": "https://www.youtube.com/watch?v=tEWbtRTkpL4&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/__zuVsDXyFA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "LuigiDB",
-					"link": "https://youtu.be/kbb09IJPpcc",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/W93m9jYkgIY",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Low Death",
-			"author": "AcropolisBoy [GDTeaBag]",
-			"more": "none",
-			"id": 54841903,
-			"pass": "Free to copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=1Y1T2UdSCEY&t=2425s",
 			"key": 35
 		},
 		/*=================================================================================*/
