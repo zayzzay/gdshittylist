@@ -7732,7 +7732,7 @@ const d = {
 				},
 				{
 					"user": "FallenArese",
-					"link": "https://youtu.be/D2f1JxlwPY4"
+					"link": "https://youtu.be/D2f1JxlwPY4",
 					"percent": 100,
 					"hz": "240hz"
 				},
