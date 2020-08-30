@@ -12471,6 +12471,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+			       {
+				       "user": "WonderFoxGD",
+				       "link": "https://youtu.be/8V1ARrXxJQM"
+				       "percent": 86,
+				       "hz": "60hz"
+			       },
 			],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
