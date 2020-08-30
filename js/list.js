@@ -5159,6 +5159,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/IwsdwSejfPc",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Glide",
 			"author": "Aassbll",
