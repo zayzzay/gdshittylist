@@ -3404,6 +3404,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Velorum",
+					"link": "https://youtu.be/MicQLnV5elg",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -7723,6 +7729,12 @@ const d = {
 					"link": "https://youtu.be/CHEh0dHpi3E",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "FallenArese",
+					"link": "https://youtu.be/D2f1JxlwPY4"
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Stalemate Redux",
