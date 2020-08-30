@@ -8666,6 +8666,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/pDRqljQsN2U",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
