@@ -893,6 +893,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "zGod",
+					"link": "https://youtu.be/gfwePaJHLZk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Innards",
 			"author": "Keleru",
@@ -6530,6 +6536,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "michael1604",
+					"link": "https://youtu.be/ziE4iQ5UsTQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -7364,6 +7376,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Heater123",
+					"link": "https://youtu.be/oGd3EwWW0ko",
+					"percent": 61,
+					"hz": "60hz"
+				},
+				{
+					"user": "Blazen",
+					"link": "https://www.youtube.com/watch?v=N4INeQZaJDU",
+					"percent": 60,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -7865,6 +7889,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Mdv8LawtDt8",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Acidius",
+					"link": "https://www.youtube.com/watch?v=nR4OXhlsGO4",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Stalemate Redux",
@@ -8856,6 +8886,12 @@ const d = {
 					"link": "https://youtu.be/pDRqljQsN2U",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/mvQb0vuammY",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
                         "name": "Shitty Ouroboros",
@@ -12366,6 +12402,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/G7ph41uN7DI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -14313,6 +14355,18 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "RagingTurtle",
+					"link": "https://youtu.be/Io3jZutm_gc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/3Ru0xPl5efk",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -14823,6 +14877,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=j1BBrx9HjIQ",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "RagingTurtle",
+					"link": "https://youtu.be/i1V18404MZQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sakupen Hell",
