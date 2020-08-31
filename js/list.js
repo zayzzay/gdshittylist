@@ -12473,6 +12473,18 @@ const d = {
 		/*=================================================================================*/
 		{
 		        "vids": [		
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=y2oqbr_jko4",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/3iBPY9Qv1Vk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Thirteen",
 			"author": "AlexTheGS33 and more [AlexTheGS33]",
