@@ -4515,7 +4515,7 @@ const d = {
 			"id": 63697818,
 			"pass": "Not Copyable",
 			"percentToQualify": 53,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/sllNnIjyu84",
 			"key": 35
 		},
 		/*=================================================================================*/
