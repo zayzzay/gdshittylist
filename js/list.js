@@ -1715,6 +1715,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=Q4vqg35Ryzw",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "MythicalTG",
