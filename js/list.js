@@ -15096,7 +15096,7 @@ const d = {
 				},
 				{
 					"user": "iRaily",
-					"link": "https://youtu.be/YVBe699GlwU"
+					"link": "https://youtu.be/YVBe699GlwU",
 					"percent": 100,
 					"hz" "144hz"
 				},
