@@ -15568,6 +15568,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MythicalTG",
+					"link": "https://youtu.be/x8h-irMzr7k",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "rOmni",
+					"link": "https://youtu.be/x8h-irMzr7k",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
