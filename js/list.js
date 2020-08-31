@@ -12323,6 +12323,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GD Cade21",
+					"link": "https://youtu.be/ZM6dVSHiqd0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
