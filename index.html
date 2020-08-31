@@ -119,7 +119,7 @@
     </script>
     <script name="userpoint" type="text/javascript">
     function getPoint(rank) {
-        if (rank > 100) {
+        if (rank > 150) {
             return roundNumber(15, 3);
         } else {
             return roundNumber((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
@@ -140,17 +140,17 @@
     function getUserPoint(rank, percent, cutline, hz) {
         var hzpoint = 0.0;
         if (hz == null) {
-            hzpoint = 1;
+            hzpoint = 0;
         } else if (hz == "Mobile") {
-            hzpoint = 0.5;
+            hzpoint = 0;
         } else {
             var hzInt = parseInt(hz.replace("Bypass", "").replace("hz", "").replace("bypass", "").replace("Hz", "").replace("HZ", ""));
             if (hzInt >= 110) {
                 hzpoint = 0;
             } else if (hzInt >= 70) {
-                hzpoint = 0.2;
+                hzpoint = 0;
             } else {
-                hzpoint = 0.3;
+                hzpoint = 0;
             }
         }
         var point_rank = 0;
@@ -160,7 +160,7 @@
             point_rank = rank;
         }
         hzpoint = 1 + (hzpoint * ((50-point_rank)/50));
-        if (rank > 100) {
+        if (rank > 150) {
             return 0;
         } else {
             var score = roundNumber((((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50) * hzpoint) * ((percent - (cutline - 1)) / (100 - (cutline - 1))), 3);
@@ -243,12 +243,12 @@
         var arank = 0;
         var brank = 0;
         if (a.key == null) {
-            arank = 100 + (legacy_count - a.legacyKey);
+            arank = 150 + (legacy_count - a.legacyKey);
         } else {
             arank = (a.key) + 1;
         }
         if (b.key == null) {
-            brank = 100 + (legacy_count - b.legacyKey);
+            brank = 150 + (legacy_count - b.legacyKey);
         } else {
             brank = (b.key) + 1;
         }
@@ -283,7 +283,7 @@
             }
             var rank = 0;
             if (entry.key == null) {
-                rank = 50 + (legacy_count - entry.legacyKey);
+                rank = 150 + (legacy_count - entry.legacyKey);
             } else {
                 rank = (entry.key) + 1;
             }
@@ -295,7 +295,7 @@
                     hacked = " <span class='p-hacked'>POSSIBLY HACKED</span>";
                 }
             }
-            $("#levelname").html((rank > 50 ? `` : `#` + rank + ` `) + entry.name + hacked);
+            $("#levelname").html((rank > 150 ? `` : `#` + rank + ` `) + entry.name + hacked);
             var author = entry.author;
             var final_author;
             if (author.includes(' more ')) {
