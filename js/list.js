@@ -15118,6 +15118,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "nintent",
+					"link": "https://www.youtube.com/watch?v=8KES6-H4xVE",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
