@@ -17781,6 +17781,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "GD Magical",
+					"link": "https://www.youtube.com/watch?v=wWQh3fI8Qk4&t",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
