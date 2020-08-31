@@ -15613,10 +15613,17 @@ const d = {
 				},
 				{
 					"user": "Diogan",
-					"link": "https://youtu.be/d4tU-SbrT0c"
+					"link": "https://youtu.be/d4tU-SbrT0c",
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Astrixx",
+					"link": "https://youtu.be/nq1wQEI76jo",
+					"percent": 76,
+					"hz": "188hz"
+				},
+
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
