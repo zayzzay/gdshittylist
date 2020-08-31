@@ -17769,6 +17769,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "GamerbossPlayz",
+					"link": "https://youtu.be/drGntok_GBg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
