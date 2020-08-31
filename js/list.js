@@ -6518,6 +6518,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Spacethug",
+					"link": "https://youtu.be/42pcWoSvcg8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
