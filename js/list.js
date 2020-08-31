@@ -4496,12 +4496,6 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/6LUrD7h7yVc",
-					"percent": 100,
-					"hz": "144"
-				},
 			],
 			"name": "Shitty PP II",
 			"author": "Jah and more [Jah]",
