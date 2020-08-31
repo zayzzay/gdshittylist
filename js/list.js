@@ -5898,7 +5898,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "StarLight772",
+					"user": "StarLight722",
 					"link": "https://youtu.be/msWNa05B1rM",
 					"percent": 100,
 					"hz": "Mobile"
