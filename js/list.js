@@ -16428,12 +16428,6 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Rigno",
-					"link": "https://youtu.be/WnvJ3dzkrD8",
-					"percent": 74,
-					"hz": "236hz"
-				},
-				{
 					"user": "UNarwall",
 					"link": "https://youtu.be/r3nGTltia6Y",
 					"percent": 100,
