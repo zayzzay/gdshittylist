@@ -335,6 +335,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://youtu.be/upJQ4OYQbfg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
