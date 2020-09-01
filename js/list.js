@@ -135,7 +135,25 @@ const d = {
                 },
 		/*=================================================================================*/
 		{
-                       "vids": [       
+                "vids": [
+				{
+				       "user": "Lupe1204",
+				       "link": "https://youtu.be/ar0X4aDmS6Y",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
+				{
+				       "user": "piesy",
+				       "link": "https://youtu.be/iRpq1TPQbz4",
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
+				{
+				       "user": "GDMeric",
+				       "link": "https://youtu.be/3EqxfBZVZBY",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 			],
                        "name": "Shitty Biohazard",
                        "author": "GDTrilogy and more [GDTrilogy]",
