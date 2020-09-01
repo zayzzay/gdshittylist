@@ -138,7 +138,7 @@ const d = {
                        "vids": [       
 			],
                        "name": "Shitty Biohazard",
-                       "author": "GDTrilogy and more [GDtrilogy]",
+                       "author": "GDTrilogy and more [GDTrilogy]",
                        "more": "Coney, Unlawful, Wunjo, X1Might",
                        "id": 63730118,
                        "pass": "Free to copy",
