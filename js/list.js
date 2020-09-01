@@ -156,7 +156,7 @@ const d = {
 			        },
 			],
                        "name": "Shitty Biohazard",
-                       "author": "GDTrilogy and more [GDTrilogy]",
+                       "author": "Tril and more [Tril]",
                        "more": "Coney, Unlawful, Wunjo, X1Might",
                        "id": 63730118,
                        "pass": "Free to copy",
