@@ -2677,6 +2677,42 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "ElChiless",
+					"link": "https://youtu.be/bm9k9_yUnzw",
+					"percent": 68,
+					"hz": "240hz"
+				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/yiqHHCyDqB0",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "GoodGuyDrake",
+					"link": "https://www.youtube.com/watch?v=a2PU1VfmzYQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "aet",
+					"link": "https://youtu.be/JDmU7UslDxA",
+					"percent": 66,
+					"hz": "240hz"
+				},
+				{
+					"user": "Fr3kmanGD",
+					"link": "https://www.youtube.com/watch?v=1HQybG67FKg&t=19s",
+					"percent": 60,
+					"hz": "144hz"
+				},
+				{
+					"user": "Koora",
+					"link": "https://youtu.be/a1uKJUmp_q4",
+					"percent": 77,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
