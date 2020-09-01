@@ -166,7 +166,13 @@ const d = {
                 },
 		/*=================================================================================*/
 		{
-                       "vids": [       
+                "vids": [
+				{
+				       "user": "piesy",
+				       "link": "https://youtu.be/0dugNl3VqX8",
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
 			],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper [MP3141]",
