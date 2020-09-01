@@ -1450,12 +1450,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Tril",
-					"link": "https://youtu.be/nTVTG2bd3VI",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
 					"user": "BloodWorks",
 					"link": "https://www.youtube.com/watch?v=DwVg0Wo5fMY",
 					"percent": 100,
