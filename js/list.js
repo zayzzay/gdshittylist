@@ -15375,6 +15375,66 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "hstorm",
+					"link": "https://www.youtube.com/watch?v=94iVvZjF6fU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ElRankey",
+					"link": "https://youtu.be/Hjkr4Rg91XM",
+					"percent": 71,
+					"hz": "240hz"
+				},
+				{
+					"user": "ElChiless",
+					"link": "https://youtu.be/2ZOLBQ7Mg0I",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=HViKXS5YoHU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Acetolysis",
+					"link": "https://youtu.be/1W8JOkMzozg",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/X9OozgAudSk",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Goodyman",
+					"link": "https://www.youtube.com/watch?v=1NgzEWnQlh4",
+					"percent": 100,
+					"hz": "165hz"
+				},
+				{
+					"user": "Prince-B",
+					"link": "https://www.youtube.com/watch?v=2_lWqSM6lXI",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Temzzz",
+					"link": "https://youtu.be/BUN1fFCBnXg",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "GD Magical",
+					"link": "https://youtu.be/3q4u_BECWBw",
+					"percent": 86,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
