@@ -13785,6 +13785,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "TheRealIH22",
+					"link": "https://youtu.be/0Z5wh6ymZJY",
+					"percent": 100,
+					"hz": "280hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -13999,6 +14005,12 @@ const d = {
 				{
 					"user": "iRaily",
 					"link": "https://youtu.be/j1cHAPLKvxU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "RagingTurtle",
+					"link": "https://youtu.be/DJVVrNAIDPI",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -14428,6 +14440,12 @@ const d = {
 					"link": "https://youtu.be/3Ru0xPl5efk",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/VTZvcEmqyXQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
@@ -17950,6 +17968,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=wWQh3fI8Qk4&t",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Bayley",
+					"link": "https://www.youtube.com/watch?v=G0XAWeS99DU",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
