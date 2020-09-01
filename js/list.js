@@ -11126,7 +11126,7 @@ const d = {
 					"user": "piesy",
 					"link": "https://youtu.be/dBr4nMuvk6I",
 					"percent": 100,
-					"hz": "288hz"
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Novalis",
