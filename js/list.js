@@ -165,25 +165,6 @@ const d = {
                        "key": 1
                 },
 		/*=================================================================================*/
-		{
-                "vids": [
-				{
-				       "user": "piesy",
-				       "link": "https://youtu.be/0dugNl3VqX8",
-				       "percent": 100,
-				       "hz": "288hz"
-			        },
-			],
-                       "name": "Shitty Crimson Planet",
-                       "author": "MP3141 and Kuiper [MP3141]",
-                       "more": "none",
-                       "id": 63348652,
-                       "pass": "Free to copy",
-                       "percentToQualify": 64,
-                       "verificationVid": "https://www.youtube.com/watch?v=zQbSDp6iWCg",
-                       "key": 2
-                },
-		/*=================================================================================*/
 		{   
 		"vids": [
 				{
@@ -212,6 +193,25 @@ const d = {
                        "pass": "Not Copyable",
                        "percentToQualify": 49,
                        "verificationVid": "https://www.youtube.com/watch?v=7bxgDss4jXM&start=20s%29",
+                       "key": 2
+                },
+		/*=================================================================================*/
+		{
+                "vids": [
+				{
+				       "user": "piesy",
+				       "link": "https://youtu.be/0dugNl3VqX8",
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
+			],
+                       "name": "Shitty Crimson Planet",
+                       "author": "MP3141 and Kuiper [MP3141]",
+                       "more": "none",
+                       "id": 63348652,
+                       "pass": "Free to copy",
+                       "percentToQualify": 64,
+                       "verificationVid": "https://www.youtube.com/watch?v=zQbSDp6iWCg",
                        "key": 3
                 },
 		/*=================================================================================*/
