@@ -142,8 +142,8 @@ const d = {
                        "more": "Coney, Unlawful, Wunjo, X1Might",
                        "id": 63730118,
                        "pass": "Free to copy",
-                       "percentToQualify": 58,
-                       "verificationVid": "",
+                       "percentToQualify": 53,
+                       "verificationVid": "https://youtu.be/WeJRC60GwSs",
                        "key": 1
                 },
 		/*=================================================================================*/
