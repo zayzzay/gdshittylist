@@ -368,6 +368,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/r8iYLcQDhLE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -698,6 +704,12 @@ const d = {
 				{
 					"user": "Covieta",
 					"link": "https://youtu.be/gMyVVbgDbbY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/7TFblK4gKQA",
 					"percent": 100,
 					"hz": "144hz"
 				},
