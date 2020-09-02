@@ -1499,7 +1499,7 @@ const d = {
 					"link": "https://youtu.be/GGkiSRg6CHM",
 					"percent": 100,
 					"hz": "60hz"
-				}
+				},
 				{
 					"user": "Dist3nd",
 					"link": "https://youtu.be/Cw3UsIjIHXU",
