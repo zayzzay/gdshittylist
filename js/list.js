@@ -75,12 +75,7 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
-			       {
-				       "user": "Lupe1204",
-				       "link": "https://youtu.be/noLcpIpuWEU",
-				       "percent": 100,
-				       "hz": "Mobile"
-			       },
+			    
 			       {
 				       "user": "xRiver007",
 				       "link": "https://www.youtube.com/watch?v=0iAnXK-s0_g&feature=youtu.be",
@@ -137,12 +132,6 @@ const d = {
 		{
                 "vids": [
 				{
-				       "user": "Lupe1204",
-				       "link": "https://youtu.be/ar0X4aDmS6Y",
-				       "percent": 100,
-				       "hz": "Mobile"
-			        },
-				{
 				       "user": "piesy",
 				       "link": "https://youtu.be/iRpq1TPQbz4",
 				       "percent": 100,
@@ -179,12 +168,6 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
-				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/McO_0wW43Q8",
-					"percent": 100,
-					"hz": "Mobile"
-				},
 			 ],
                        "name": "Shitty Hateful Reflection",
                        "author": "lvcxs",
@@ -336,12 +319,6 @@ const d = {
 					"link": "https://youtu.be/o62wMSoTKgQ",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/VdARbCKYjTg",
-					"percent": 100,
-					"hz": "Mobile"
 				},
 				{
 					"user": "Ryth",
@@ -549,12 +526,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/1FlPicOX72U",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "Ryth",
 					"link": "https://youtu.be/NvSbanfvN6w?t=1054",
 					"percent": 100,
@@ -723,12 +694,6 @@ const d = {
 					"link": "https://youtu.be/hGckzN6fzqY",
 					"percent": 66,
 					"hz": "240hz"
-				},
-				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/JOB8ayV-U9I",
-					"percent": 100,
-					"hz": "Mobile"
 				},
 				{
 					"user": "Covieta",
@@ -1470,12 +1435,6 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/BpWUvremZ5Q",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "Ryth",
 					"link": "https://www.youtube.com/watch?v=0ppWO7aoxRo",
 					"percent": 100,
@@ -1589,12 +1548,6 @@ const d = {
                                        "link": "https://youtu.be/F75gyzoOdq4",
                                        "percent": 100,
                                        "hz": "180hz"
-                                },
-				{
-                                       "user": "Lupe1204",
-                                       "link": "https://youtu.be/fRGpXM47kLA",
-                                       "percent": 100,
-                                       "hz": "Mobile"
                                 },
 				{
                                        "user": "Bluuper",
@@ -2063,12 +2016,6 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Lupe1204",
-					"link": "https://www.youtube.com/watch?v=MLEE78gUFVM&feature=youtu.be",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "xRiver007",
 					"link": "https://youtu.be/5ak9vPYqGA8",
 					"percent": 100,
@@ -2393,12 +2340,6 @@ const d = {
 					"link": "https://youtu.be/0eDvOMhWg0w",
 					"percent": 100,
 				        "hz": "144hz"
-				},
-				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/MLEE78gUFVM",
-					"percent": 100,
-				        "hz": "Mobile"
 				},
 				{
 					"user": "Hixobit",
@@ -2863,12 +2804,6 @@ const d = {
 					"link": "https://youtu.be/NvSbanfvN6w?t=889",
 					"percent": 100,
 					"hz": "288hz"
-				},
-				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/8UMKv7SWbnQ",
-					"percent": 100,
-					"hz": "Mobile"
 				},
 				{
 					"user": "xRiver007",
@@ -3382,12 +3317,6 @@ const d = {
 					"link": "https://youtu.be/qIg1UNMVq78",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/WPlVxh-IvYA",
-					"percent": 100,
-					"hz": "Mobile"
 				},
 				{
 					"user": "Yeezo",
@@ -4116,12 +4045,6 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/6bZMv2q0m8A",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "HilonekTXT",
 					"link": "https://www.youtube.com/watch?v=LHGMzAatNxI&feature=youtu.be",
 					"percent": 100,
@@ -4343,12 +4266,6 @@ const d = {
 					"link": "https://youtu.be/MeoFdsWBJS8",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/2pi3khqX4MA",
-					"percent": 100,
-					"hz": "Mobile"
 				},
 				{
 					"user": "ShDwGhost",
@@ -4881,12 +4798,6 @@ const d = {
 				{
 					"user": "TheRealYeeter",
 					"link": "https://youtu.be/H0XTLEckIxU",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/_6tpOkVgPJw",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -11324,12 +11235,6 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/MJPquL-kHsk",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "Soda",
 					"link": "https://www.youtube.com/watch?v=NRGWlOvIIhU&t=1s",
 					"percent": 100,
@@ -12902,12 +12807,6 @@ const d = {
 					"link": "https://youtu.be/0GbXY1tGK3s",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "Lupe1204",
-					"link": "https://youtu.be/Oyt3aIkfYiM",
-					"percent": 100,
-					"hz": "Mobile"
 				},
 				{
 					"user": "Dashermachine",
