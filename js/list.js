@@ -131,6 +131,12 @@ const d = {
 		/*=================================================================================*/
 		{
                 "vids": [
+			        {
+				       "user": "Orizu",
+				       "link": "https://www.youtube.com/watch?v=nbS2RXrN4fM",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
 				{
 				       "user": "piesy",
 				       "link": "https://youtu.be/iRpq1TPQbz4",
@@ -156,12 +162,6 @@ const d = {
 		/*=================================================================================*/
 		{   
 		"vids": [
-			        {
-				       "user": "Orizu",
-				       "link": "https://www.youtube.com/watch?v=nbS2RXrN4fM",
-				       "percent": 100,
-				       "hz": "240hz"
-			        },
 				{
 				       "user": "piesy",
 				       "link": "https://www.youtube.com/watch?v=ee1ifkVOKnQ",
