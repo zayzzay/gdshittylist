@@ -18102,7 +18102,7 @@ const d = {
 				},
 				{
 					"user": "Crumche",
-					"link": "https://www.youtube.com/watch?v=none"
+					"link": "https://www.youtube.com/watch?v=none",
 					"percent": 100,
 					"hz": "120hz"
 				},
