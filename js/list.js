@@ -1553,6 +1553,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Tril",
+					"link": "https://www.youtube.com/watch?v=nTVTG2bd3VI",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
