@@ -14837,6 +14837,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/20zWbfjrfGE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -16219,12 +16225,6 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=H96n9NmVWOY",
 					"percent": 100,
 					"hz": "60hz"
-				},
-				{
-					"user": "FrostBurn",
-					"link": "https://youtu.be/20zWbfjrfGE",
-					"percent": 100,
-					"hz": "144hz"
 				},
 				{
 					"user": "zMarc",
