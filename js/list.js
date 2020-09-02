@@ -714,6 +714,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Crumche",
+					"link": "",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Delta Interface",
 			"author": "MP3141",
@@ -1348,6 +1354,12 @@ const d = {
 					"link": "https://youtu.be/nCKrj5fJqZU",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Crumche",
+					"link": "",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Eternal Moment",
@@ -18087,6 +18099,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=G0XAWeS99DU",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Crumche",
+					"link": ""
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
