@@ -1820,6 +1820,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/3cAzc-KVbMQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "MythicalTG",
@@ -4617,6 +4623,12 @@ const d = {
 					"link": "https://youtu.be/6LUrD7h7yVc",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/ggKtgeuiEBQ",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty PP II",
@@ -9688,6 +9700,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/pOvOqVbO6AI",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Lantern Lights",
 			"author": "GD4sh",
@@ -9706,6 +9724,12 @@ const d = {
 					"link": "https://youtu.be/Y0TZ_EcCNZ4",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/5SonEX6enr4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Wavebreaker",
