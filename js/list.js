@@ -716,7 +716,7 @@ const d = {
 			"vids": [
 				{
 					"user": "Crumche",
-					"link": "",
+					"link": "https://www.youtube.com/watch?v=none",
 					"percent": 100,
 					"hz": "120hz"
 				},
@@ -1357,7 +1357,7 @@ const d = {
 				},
 				{
 					"user": "Crumche",
-					"link": "",
+					"link": "https://www.youtube.com/watch?v=none",
 					"percent": 100,
 					"hz": "120hz"
 				},
@@ -18102,7 +18102,7 @@ const d = {
 				},
 				{
 					"user": "Crumche",
-					"link": ""
+					"link": "https://www.youtube.com/watch?v=none"
 					"percent": 100,
 					"hz": "120hz"
 				},
