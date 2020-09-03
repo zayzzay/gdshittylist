@@ -17489,7 +17489,7 @@ const d = {
 					"hz": "236hz"
 				},
 				{
-					"user": "Nyxt",
+					"user": "NearlyNyx",
 					"link": "https://youtu.be/hMlSSeLdb04",
 					"percent": 100,
 					"hz": "240hz"
@@ -18564,7 +18564,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "NyxT",
+					"user": "NearlyNyx",
 					"link": "https://youtu.be/cRu1AuRI3XI",
 					"percent": 100,
 					"hz": "240hz"
