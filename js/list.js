@@ -609,6 +609,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Praerius",
+					"link": "https://www.youtube.com/watch?v=hC6-DB-OySo&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -2177,6 +2183,12 @@ const d = {
 					"link": "https://youtu.be/gVfKyksCarc",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Lucid",
+					"link": "https://youtu.be/C19XrcdRxBE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Arctic Lights",
@@ -6583,6 +6595,12 @@ const d = {
 					"percent": 51,
 					"hz": "60hz"
 				},
+				{
+					"user": "Lucid",
+					"link": "https://youtu.be/syaSoaEDMOc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -8130,6 +8148,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "ElRankey",
+					"link": "https://youtu.be/m844OlDLs-U",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "DeadshotHD and ShadowNinja441 [DeadshotHD]",
@@ -9382,6 +9406,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			        },
+				{
+				       "user": "Cyns",
+				       "link": "https://youtu.be/9HumtgUT0X4",
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
 			],
 			"name": "Shitty Firepower",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -10555,6 +10585,12 @@ const d = {
 				{
 					"user": "NKSWEETDREAM",
 					"link": "https://youtu.be/zoF73p66zug",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Lucid",
+					"link": "https://youtu.be/Wf1Cj_ZxujU",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -13832,6 +13868,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			         {
+				       "user": "Acetolysis",
+				       "link": "https://youtu.be/vZqMJv-GyD4",
+				       "percent": 100,
+				       "hz": "60hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -14747,6 +14789,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Kr_Flame",
+					"link": "https://youtu.be/NsLeR88DziU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -15658,7 +15706,7 @@ const d = {
 				{
 					"user": "GD Magical",
 					"link": "https://youtu.be/3q4u_BECWBw",
-					"percent": 86,
+					"percent": 100,
 					"hz": "144hz"
 				},
 			],
@@ -16694,6 +16742,18 @@ const d = {
 					"link": "https://youtu.be/CQOH503gwv8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Starlight722",
+					"link": "https://youtu.be/Z1ZcTvp5ITs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ElChiless",
+					"link": "https://youtu.be/iqNpRcOZAp4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
