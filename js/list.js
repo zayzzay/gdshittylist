@@ -6628,7 +6628,7 @@ const d = {
 				{
 					"user": "Blazen",
 					"link": "https://www.youtube.com/watch?v=op6ReAXGI10",
-					"percent": 51
+					"percent": 51,
 					"hz": "60hz"
 				},
 			],
