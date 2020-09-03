@@ -2082,6 +2082,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/gVfKyksCarc",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
