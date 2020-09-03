@@ -1425,7 +1425,7 @@ const d = {
 					"user": "WowoGD",
 					"link": "https://youtu.be/nCKrj5fJqZU",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "300hz"
 				},
 				{
 					"user": "Crumche",
@@ -1438,12 +1438,6 @@ const d = {
 					"link": "https://youtu.be/BPTdGllbWZU",
 					"percent": 100,
 					"hz": "288hz"
-				},
-					{
-					"user": "WowoGD",
-					"link": "https://www.youtube.com/watch?v=nCKrj5fJqZU",
-					"percent": 100,
-					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Eternal Moment",
