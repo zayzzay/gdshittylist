@@ -734,7 +734,7 @@ const d = {
 			"vids": [
 				{
 					"user": "Crumche",
-					"link": "https://www.youtube.com/watch?v=none",
+					"link": "https://youtu.be/tU4thoC82bs",
 					"percent": 100,
 					"hz": "120hz"
 				},
@@ -1375,7 +1375,7 @@ const d = {
 				},
 				{
 					"user": "Crumche",
-					"link": "https://www.youtube.com/watch?v=none",
+					"link": "https://youtu.be/r1RertHB5MA",
 					"percent": 100,
 					"hz": "120hz"
 				},
@@ -18120,7 +18120,7 @@ const d = {
 				},
 				{
 					"user": "Crumche",
-					"link": "https://www.youtube.com/watch?v=none",
+					"link": "https://youtu.be/e4i0Mi9cOiw",
 					"percent": 100,
 					"hz": "120hz"
 				},
