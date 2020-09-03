@@ -8124,6 +8124,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/KNHxdX1V2gM",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "DeadshotHD and ShadowNinja441 [DeadshotHD]",
@@ -8487,6 +8493,12 @@ const d = {
 					"link": "https://youtu.be/Wk49NhfxjL0",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/x0EtyZaZiM8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Distraught",
@@ -11481,6 +11493,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/WAtMUqjBtbM",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Silver Shade",
 			"author": "Aassbll",
@@ -13073,6 +13091,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/BgkQdm6mocg",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
@@ -13795,6 +13819,12 @@ const d = {
 				       "link": "https://youtu.be/GmEkIXd5tNE",
 				       "percent": 100,
 				       "hz": "240hz"
+			       },
+			         {
+				       "user": "RagingTurtle",
+				       "link": "https://youtu.be/IFZ1YzMDatE",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
                        ],
                        "name": "Shitty Poltergeist",
@@ -15042,6 +15072,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/X33jBPsNaL0",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -16165,6 +16201,12 @@ const d = {
 					"link": "https://youtu.be/kdH7TILl1FM",
 					"percent": 76,
 					"hz": "280hz"
+				},
+				{
+					"user": "Astrixx",
+					"link": "https://youtu.be/MzCROnj_Kl8",
+					"percent": 100,
+					"hz": "200hz"
 				},
 			],
 			"name": "Shitty VendetTa",
