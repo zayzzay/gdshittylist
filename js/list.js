@@ -204,6 +204,12 @@ const d = {
 				       "link": "https://youtu.be/QvHv1lkapOE",
 				       "percent": 100,
 				       "hz": "240hz"
+			        },
+			        {
+				       "user": "GDMeric",
+				       "link": "https://www.youtube.com/watch?v=KfB-Jmaqi-c&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "144hz"
 			        },	
 		         ],
                        "name": "Shitty Crimson Planet",
