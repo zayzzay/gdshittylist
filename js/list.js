@@ -14915,12 +14915,6 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/VTZvcEmqyXQ",
-					"percent": 100,
-					"hz": "144hz"
-				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
