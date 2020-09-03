@@ -5516,8 +5516,14 @@ const d = {
 			"key": 46
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
 				{
-			"vids": [	
+					"user": "Cyns",
+					"link": "https://youtu.be/ZcfRjV3Y6eI",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Pyromaniac",
 			"author": "lvcxs",
