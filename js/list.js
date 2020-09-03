@@ -14850,12 +14850,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Come out",
-					"link": "https://youtu.be/7miDjLkvIyo",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "HugoHMF",
 					"link": "https://youtu.be/-vBNk46CLIA",
 					"percent": 100,
