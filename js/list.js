@@ -779,6 +779,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/QAMvqDR9pg4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Madmansion",
 			"author": "Aassbll",
@@ -8989,6 +8995,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Tentacled",
+					"link": "https://youtu.be/KFAlUBlGN5U",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -10323,6 +10335,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Gwose",
+					"link": "https://www.youtube.com/watch?v=HP2UA6bPSzQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -10944,6 +10962,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "iRaily",
+				       "link": "https://youtu.be/QnT_sen0z-E",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
@@ -11274,6 +11298,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=G9FYfjbwuyo&feature=youtu.be",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "NearlyNyx",
+					"link": "https://youtu.be/eYWr37FBqzQ",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Dolos",
@@ -11986,6 +12016,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "300hz"
 			        },
+				{
+				       "user": "Acetolysis",
+				       "link": "https://youtu.be/6--JQ2zatlI",
+				       "percent": 100,
+				       "hz": "60hz"
+			        },
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -12583,6 +12619,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=YZwFWMdLQKE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
@@ -12999,6 +13041,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/6ncjgEBP7h8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
@@ -13254,11 +13302,23 @@ const d = {
 				       "percent": 86,
 				       "hz": "60hz"
 			       },
-			          {
+			       {
 				       "user": "Qwerisity",
 				       "link": "https://youtu.be/1t5WTQNQpMs",
 				       "percent": 100,
 				       "hz": "Mobile"
+			       },
+			        {
+				       "user": "Acetolysis",
+				       "link": "https://youtu.be/tUqVc3EDj3A",
+				       "percent": 100,
+				       "hz": "60hz"
+			       },
+			        {
+				       "user": "LegionofBaum31",
+				       "link": "https://www.youtube.com/watch?v=qm8Ej7vHYk0",
+				       "percent": 100,
+				       "hz": "120hz"
 			       },
 			],
 			"name": "Shitty Carnage Mode",
@@ -14356,6 +14416,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/j1cHAPLKvxU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
@@ -14806,6 +14872,12 @@ const d = {
 					"link": "https://youtu.be/NsLeR88DziU",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/VTZvcEmqyXQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
@@ -16273,6 +16345,12 @@ const d = {
 					"link": "https://youtu.be/MzCROnj_Kl8",
 					"percent": 100,
 					"hz": "200hz"
+				},
+				{
+					"user": "Bayley",
+					"link": "https://www.youtube.com/watch?v=1GzM1mN53dI",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty VendetTa",
