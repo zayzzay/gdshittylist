@@ -5359,6 +5359,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/opr1W5vbwbY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Pumped Up Kicks",
 			"author": "RedLimeGD and more [RedLimeGD]",
