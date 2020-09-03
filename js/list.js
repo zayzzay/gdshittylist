@@ -1391,6 +1391,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/BPTdGllbWZU",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Eternal Moment",
 			"author": "Miini03",
@@ -1692,6 +1698,24 @@ const d = {
 				       "link": "https://youtu.be/0cR3iIJBaY4",
 				       "percent": 100,
 				       "hz": "Mobile"
+			        },
+				{
+				       "user": "Yeezo",
+				       "link": "https://youtu.be/KXyZw6m8G5o",
+				       "percent": 100,
+				       "hz": "60hz"
+			        },
+				{
+				       "user": "Soda",
+				       "link": "https://youtu.be/pylgnDjbgCw",
+				       "percent": 100,
+				       "hz": "75hz"
+			        },
+				{
+				       "user": "killboom",
+				       "link": "https://youtu.be/HBFTOPRabvw",
+				       "percent": 100,
+				       "hz": "144hz"
 			        },
 			],
 			"name": "Shitty Artificial Dream",
