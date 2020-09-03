@@ -16816,12 +16816,6 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "StarLight722",
-					"link": "https://youtu.be/Z1ZcTvp5ITs",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "RagingTurtle",
 					"link": "https://youtu.be/t1hqUWdm1M0",
 					"percent": 100,
