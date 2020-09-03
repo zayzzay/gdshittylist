@@ -193,7 +193,13 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			        },
-			],
+				{
+				       "user": "Orizu",
+				       "link": "https://youtu.be/QvHv1lkapOE",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },	
+		         ],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper [MP3141]",
                        "more": "none",
