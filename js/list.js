@@ -13820,9 +13820,15 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
-			         {
+			       {
 				       "user": "RagingTurtle",
 				       "link": "https://youtu.be/IFZ1YzMDatE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			        {
+				       "user": "hstorm",
+				       "link": "https://www.youtube.com/watch?v=quph0RJpI2c",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
