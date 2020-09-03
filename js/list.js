@@ -2112,12 +2112,6 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "TH54",
-					"link": "https://youtu.be/PpVWSe6NhJY",
-					"percent": 59,
-					"hz": "240hz"
-				},
-				{
 					"user": "xBlur",
 					"link": "https://www.youtube.com/watch?v=R2Khy_1Qc24&feature=youtu.be",
 					"percent": 100,
@@ -5840,6 +5834,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},	
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/BRqb8aslPek",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Caution",
 			"author": "ZekronGD and ShadowNinja441 [ShadowNinja441]",
