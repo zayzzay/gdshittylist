@@ -186,6 +186,12 @@ const d = {
 				       "percent": 76,
 				       "hz": "240hz"
 			        },
+				{
+				       "user": "Orizu",
+				       "link": "https://youtu.be/gP9H3l9wo3o",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
 			 ],
                        "name": "Shitty Hateful Reflection",
                        "author": "v1nnyy",
@@ -1838,8 +1844,14 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			        },
+				{
+				       "user": "aet",
+				       "link": "https://youtu.be/YeUvcTGCWZI",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
 			],
-			"name": "Shitty Artificial Dream",
+				"name": "Shitty Artificial Dream",
 			"author": "Cyns",
 			"more": "none",
 			"id": 63421740,
@@ -1965,6 +1977,12 @@ const d = {
 					"link": "https://youtu.be/JI3AjIHe4EQ",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Goodyman",
+					"link": "https://www.youtube.com/watch?v=ntzRbLc4Hj4&feature=youtu.be",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Poltergeist Reborn",
@@ -2244,6 +2262,12 @@ const d = {
 					"link": "https://youtu.be/C19XrcdRxBE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Goodyman",
+					"link": "https://www.youtube.com/watch?v=kW1CsSrVzqE&feature=youtu.be",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Arctic Lights",
@@ -2606,6 +2630,12 @@ const d = {
 					"link": "https://youtu.be/Dog7Wb1W6eA",
 					"percent": 100,
 				        "hz": "120hz"
+				},
+				{
+					"user": "Prince-b",
+					"link": "https://www.youtube.com/watch?v=lEbdlsAnnTs&feature=youtu.be",
+					"percent": 100,
+				        "hz": "240hz"
 				},
 			],
 			"name": "Shitty Aquatic Auroras",
@@ -5127,6 +5157,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "GregTash",
+					"link": "https://www.youtube.com/watch?v=i7tiobPjO8s&t",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -5393,6 +5429,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/x5PjF3lU0Co",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
@@ -5538,6 +5580,12 @@ const d = {
 					"link": "https://youtu.be/HTEGUoRBHMM",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/Elw_vgAsoYk",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Glide",
@@ -7743,6 +7791,12 @@ const d = {
 					"percent": 100,
 					"hz": "200hz"
 				},
+				{
+					"user": "Kr_Flame",
+					"link": "https://youtu.be/xrgV8jyFgXs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -8034,10 +8088,16 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "nksweetdream",
+					"user": "NKSWEETDREAM",
 					"link": "https://youtu.be/77xQDWyJzqM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Cushee",
+					"link": "https://youtu.be/CjNAMew5QZc",
+					"percent": 93,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty The Hell Field",
@@ -13283,6 +13343,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/eDd1j3N1QrE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/C4-OzhH4mIg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Thirteen",
 			"author": "AlexTheGS33 and GDStarStorm [AlexTheGS33]",
@@ -13415,6 +13487,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=lpfap0RUEx4",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "jToniX",
+					"link": "https://youtu.be/YyZAxjtJsPY",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sparkling Hope",
