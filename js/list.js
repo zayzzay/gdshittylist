@@ -238,7 +238,7 @@ const d = {
 			"vids": [      
 			],
                        "name": "Shitty Removed Submission",
-                       "author": "v1nnyy and xSmajlik",
+                       "author": "v1nnyy and xSmajlik [v1nnyy]",
                        "more": "none",
                        "id": 63781808,
                        "pass": "Free to copy",
