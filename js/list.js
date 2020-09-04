@@ -13399,7 +13399,7 @@ const d = {
 				},
 				{
 					"user": "LegionofBaum31",
-					"link": "https://www.youtube.com/watch?v=lpfap0RUEx4"
+					"link": "https://www.youtube.com/watch?v=lpfap0RUEx4",
 					"percent": 100,
 					"hz": "120hz"
 				},
