@@ -889,6 +889,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Blathers",
+					"link": "https://youtu.be/_RuXbnCdkNg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Delta Interface",
 			"author": "MP3141",
@@ -1956,6 +1962,12 @@ const d = {
 				{
 				       "user": "Acidius",
 				       "link": "https://www.youtube.com/watch?v=eS_ViXQVSHw",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
+				{
+				       "user": "Blast",
+				       "link": "https://youtu.be/D0Wg93SuUUI",
 				       "percent": 100,
 				       "hz": "Mobile"
 			        },
@@ -7296,6 +7308,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Goodyman",
+					"link": "https://www.youtube.com/watch?v=EVmVt4jw-Zg&t=1s",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Ad Aeternum",
 			"author": "Vlaash and more [rVlaash]",
@@ -10406,6 +10424,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=EVmVt4jw-Zg&feature=youtu.be",
 					"percent": 100,
 					"hz": "165hz"
+				},
+				{
+					"user": "rOmni",
+					"link": "https://www.youtube.com/watch?v=PdJ72_Os588&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Wavebreaker",
@@ -15167,6 +15191,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
+			         {
+				       "user": "FizzySalad",
+				       "link": "https://youtu.be/h2K0a66KtF4",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -16593,6 +16623,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "FizzySalad",
+					"link": "https://youtu.be/LElAt-CX5uQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -17704,6 +17740,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=0pvf-4XhToE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Koora",
+					"link": "https://youtu.be/34f_1K5ypJQ",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
