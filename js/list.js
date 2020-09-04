@@ -4838,6 +4838,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/7i0GAwH_nQ0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty PP II",
 			"author": "Jah and Coney [Jah]",
@@ -10209,6 +10215,24 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/zM3bJOQGP5I",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "FizzySalad",
+					"link": "https://youtu.be/hTLNRyfgMNQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Makov",
+					"link": "https://youtu.be/fHJTIIO_EX4",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
@@ -12510,6 +12534,18 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=4VxsFrigFG4",
 				       "percent": 100,
 				       "hz": "120hz"
+			        },
+				{
+				       "user": "aet",
+				       "link": "https://youtu.be/DtPniqnQyKU",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
+				{
+				       "user": "zMultix",
+				       "link": "https://www.youtube.com/watch?v=EaB2mJlPD7s&t=11s",
+				       "percent": 100,
+				       "hz": "Mobile"
 			        },
 	                ],
                         "name": "Shitty Ethereal Artifice",
@@ -14899,6 +14935,12 @@ const d = {
 			        {
 				       "user": "Bayley",
 				       "link": "https://www.youtube.com/watch?v=ghQsWhQAVOs",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+			       {
+				       "user": "aet",
+				       "link": "https://youtu.be/--fuwAcbnek",
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
@@ -17410,6 +17452,12 @@ const d = {
 					"percent": 75,
 					"hz": "75hz"
 				},
+				{
+					"user": "LNeolait",
+					"link": "https://www.youtube.com/watch?v=EY2IvawYaOk",
+					"percent": 87,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -18040,6 +18088,12 @@ const d = {
 					"link": "https://youtu.be/WHfewgqf-X4",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=uJ14SU4FfH4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Killerzone",
