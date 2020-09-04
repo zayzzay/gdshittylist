@@ -859,6 +859,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Alphanetic",
+					"link": "https://www.twitch.tv/videos/730597465",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Delta Interface",
 			"author": "MP3141",
@@ -2054,6 +2060,12 @@ const d = {
 				{
 					"user": "GDMeric",
 					"link": "https://youtu.be/xW1HvKP9qo4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Alphanetic",
+					"link": "https://www.twitch.tv/videos/730608377",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -4430,6 +4442,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=m_RnhmbtVek",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Alphanetic",
+					"link": "https://www.twitch.tv/videos/730602928",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Tapwreck",
@@ -13782,6 +13800,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=gFBpq2UBfyY&feature=youtu.be",
 					"percent": 100,
 					"hz": "165hz"
+				},
+				{
+					"user": "Astrixx",
+					"link": "https://www.youtube.com/watch?v=GY1fvIl_jEM&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sparkling Hope",
