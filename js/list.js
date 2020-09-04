@@ -149,6 +149,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
+				{
+				       "user": "zMarc",
+				       "link": "https://youtu.be/HifhDe0cbss",
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
 			],
                        "name": "Shitty Biohazard",
                        "author": "Tril and more [Tril]",
@@ -3264,6 +3270,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/oqpk-EwJZEQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
                         ],
 			"name": "Shitty Hyper Paracosm",
 			"author": "DigestedCitrus [Deimoz]",
@@ -5356,6 +5368,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/QxCTEyDqmwU",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -5730,6 +5748,12 @@ const d = {
 					"link": "https://youtu.be/6gj2wvhs0qA",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/eRewSxEuBh0",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Heartbeat",
@@ -10466,6 +10490,12 @@ const d = {
 					"link": "https://youtu.be/e9tqXUbGWxc",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Shyveria",
+					"link": "https://youtu.be/zEVCIMklRy0",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Wavebreaker",
@@ -15510,6 +15540,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/vV23qPwtgnE",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -17272,6 +17308,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "memester420",
+					"link": "https://www.youtube.com/watch?v=LNoSLEWOZg8&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -17798,6 +17840,18 @@ const d = {
 				{
 					"user": "Koora",
 					"link": "https://youtu.be/34f_1K5ypJQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Sypt",
+					"link": "https://www.youtube.com/watch?v=K91omkwveMI",
+					"percent": 75,
+					"hz": "144hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/KGxtNZrLMPI",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -19542,6 +19596,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=EaKqIO19QG0",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/VMhdxIwQmRY",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
