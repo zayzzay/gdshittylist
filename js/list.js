@@ -1923,6 +1923,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			        },
+				{
+				       "user": "Acidius",
+				       "link": "https://www.youtube.com/watch?v=eS_ViXQVSHw",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
