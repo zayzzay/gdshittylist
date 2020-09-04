@@ -188,7 +188,7 @@ const d = {
 			        },
 			 ],
                        "name": "Shitty Hateful Reflection",
-                       "author": "lvcxs",
+                       "author": "v1nnyy",
                        "more": "Bluuper,Ppraerius",
                        "id": 63161977,
                        "pass": "Not Copyable",
@@ -238,7 +238,7 @@ const d = {
 			"vids": [      
 			],
                        "name": "Shitty Removed Submission",
-                       "author": "lvcxs and xSmajlik",
+                       "author": "v1nnyy and xSmajlik",
                        "more": "none",
                        "id": 63781808,
                        "pass": "Free to copy",
@@ -346,7 +346,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://www.youtube.com/watch?v=JCgFICK47cA",
 					"percent": 100,
 					"hz": "60hz"
@@ -1012,7 +1012,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/5KNS4Ju8qT0",
 					"percent": 100,
 					"hz": "240hz"
@@ -2452,7 +2452,7 @@ const d = {
                                         "hz": "240hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
                                         "link": "https://www.youtube.com/watch?v=TK6OfZHYWGI&feature=youtu.be",
                                         "percent": 100,
                                         "hz": "144hz"
@@ -2958,7 +2958,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/djw8L1n5iD8",
 					"percent": 100,
 					"hz": "144hz"
@@ -3459,7 +3459,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/WANAFyq8vNc",
 					"percent": 100,
 					"hz": "60hz"
@@ -3694,7 +3694,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/Cfu1JNyFfgE",
 					"percent": 100,
 					"hz": "240hz"
@@ -3858,7 +3858,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://www.youtube.com/watch?v=WI_sSmcA4fU&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
@@ -4185,7 +4185,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/T6XR6opwr8o",
 					"percent": 100,
 					"hz": "144hz"
@@ -4408,7 +4408,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/_Qq1ldRT5D8",
 					"percent": 100,
 					"hz": "144hz"
@@ -4523,7 +4523,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/u2mkBgqcHRA",
 					"percent": 100,
 					"hz": "240hz"
@@ -4699,7 +4699,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/ElGtQojlCAo",
 					"percent": 100,
 					"hz": "240hz"
@@ -5322,7 +5322,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nny",
 					"link": "https://youtu.be/rdM1_lMtj8Y",
 					"percent": 100,
 					"hz": "240hz"
@@ -5615,7 +5615,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://www.youtube.com/watch?v=0qgxl11zyKY",
 					"percent": 100,
 					"hz": "240hz"
@@ -5750,7 +5750,7 @@ const d = {
 				},
 			],
 			"name": "Shitty Pyromaniac",
-			"author": "lvcxs",
+			"author": "v1nnyy",
 			"more": "none",
 			"id": 63190129,
 			"pass": "Free to Copy",
@@ -5933,7 +5933,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/wy3YX-b4WYQ",
 					"percent": 100,
 					"hz": "60hz"
@@ -6132,7 +6132,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/QUZeuOGSA9Q",
 					"percent": 100,
 					"hz": "144hz"
@@ -6236,7 +6236,7 @@ const d = {
 			"vids": [       
 			],
 			"name": "Shitty Phantasmagoria",
-			"author": "lvcxs",
+			"author": "v1nnyy",
 			"more": "none",
 			"id": 63685007,
 			"pass": "Not Copyable",
@@ -6446,7 +6446,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/Wqnm6Tk9iDs",
 					"percent": 100,
 					"hz": "60hz"
@@ -7474,7 +7474,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/n5qR1WPRlHA",
 					"percent": 100,
 					"hz": "144hz"
@@ -9534,7 +9534,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/UgBkhL_SfD8",
 					"percent": 100,
 					"hz": "240hz"
@@ -10222,7 +10222,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/MIGUXJb1F7M",
 					"percent": 100,
 					"hz": "240hz"
@@ -10735,12 +10735,12 @@ const d = {
 				},
 				{
 					"user": "Covieta",
-					"link": "https://www.youtube.com/watch?v=nf4Xh_yw0ck&feature=youtu.be",
+					"link":"https://www.youtube.com/watch?v=nf4Xh_yw0ck&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/ZJgQVyjcAe0",
 					"percent": 100,
 					"hz": "240hz"
@@ -13315,7 +13315,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/T3mPgKNp5LM",
 					"percent": 100,
 					"hz": "240hz"
@@ -16865,7 +16865,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "lvcxs",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/mmdUlPgsxMU",
 					"percent": 100,
 					"hz": "144hz"
