@@ -1554,7 +1554,19 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [	
+			"vids": [
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/CMTPJ9QWUQk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://www.youtube.com/watch?v=LQ9ZfPApmtI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Avalanche",
 			"author": "Cyns",
@@ -2903,12 +2915,6 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
-				{
-					"user": "JoeBruhGD",
-					"link": "https://www.youtube.com/watch?v=3VHbY5wsYmA&feature=youtu.be",
-					"percent": 100,
-					"hz": "60hz"
-				},	
 				{
 					"user": "Xela343",
 					"link": "https://www.youtube.com/watch?v=lv-9bPJenFQ",
