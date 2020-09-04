@@ -17555,13 +17555,13 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "NoobHereLol,
+					"user": "NoobHereLol",
 					"link": "https://youtu.be/0gaM0Iz_nwI",
 					"percent": 100,
 					"hz": "Mobile"
 				},
 				{
-					"user": "uR1,
+					"user": "uR1",
 					"link": "https://www.youtube.com/watch?v=0pvf-4XhToE",
 					"percent": 100,
 					"hz": "144hz"
