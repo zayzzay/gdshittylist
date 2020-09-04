@@ -5404,6 +5404,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/BQfM4FkUdIs",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -15876,6 +15882,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=rv0Fu472hq8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Shatter",
+					"link": "https://youtu.be/7rHjNeP8XPo",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Artifice",
