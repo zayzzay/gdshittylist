@@ -1712,6 +1712,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "zMultix",
+					"link": "https://www.youtube.com/watch?v=D4uA51SomTk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
@@ -5472,6 +5478,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/e5mW27b_V8E",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
@@ -5623,6 +5635,12 @@ const d = {
 					"link": "https://youtu.be/Elw_vgAsoYk",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "jToniX",
+					"link": "https://youtu.be/qINPI6JPWBk",
+					"percent": 100,
+					"hz": "280hz"
 				},
 			],
 			"name": "Shitty Glide",
@@ -10148,6 +10166,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Goodyman",
+					"link": "https://www.youtube.com/watch?v=1tnR2Bh0rAk&feature=youtu.be",
+					"percent": 100,
+					"hz": "165hz"
+				},
+				{
+					"user": "Poptart",
+					"link": "https://youtu.be/S5S4sD2HDzI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Lantern Lights",
 			"author": "GD4sh",
@@ -11082,6 +11112,12 @@ const d = {
 					"link": "https://youtu.be/H3bxyQzPVDg",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Forz1ple",
+					"link": "https://youtu.be/wDuM5-q5Kig",
+					"percent": 100,
+					"hz": "72hz"
 				},
 			],
 			"name": "Shitty Just Dance",
@@ -14059,6 +14095,11 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=SUhIojTuVy0&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
+				},{
+					"user": "Ketrick",
+					"link": "https://youtu.be/10zR7D5DefQ",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
@@ -14192,6 +14233,12 @@ const d = {
 				       "link": "https://youtu.be/W_TB-EHE0AA",
 				       "percent": 100,
 				       "hz": "60hz"
+			       },
+			         {
+				       "user": "iRaily",
+				       "link": "https://youtu.be/0s0-7_B7sdc?t=120",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
 			],
 			"name": "Shitty Carnage Mode",
@@ -15685,6 +15732,12 @@ const d = {
 					"link": "https://youtu.be/X33jBPsNaL0",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Ketrick",
+					"link": "https://youtu.be/10zR7D5DefQ",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Mujigae",
