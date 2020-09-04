@@ -1947,6 +1947,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/JI3AjIHe4EQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "MythicalTG",
@@ -5102,6 +5108,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Koora",
+					"link": "https://youtu.be/zcz1_55UT6Q",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -5863,6 +5875,18 @@ const d = {
 					"link": "https://youtu.be/8LSnxEpHMJM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=n-kj2hxlOds",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "aet",
+					"link": "https://youtu.be/YeUvcTGCWZI",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Caution",
@@ -7700,6 +7724,12 @@ const d = {
 					"percent": 60,
 					"hz": "60hz"
 				},
+				{
+					"user": "wolle445",
+					"link": "https://www.youtube.com/watch?v=sOrQJZR0Jss&feature=youtu.be",
+					"percent": 100,
+					"hz": "200hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -8413,6 +8443,12 @@ const d = {
 					"link": "https://youtu.be/q36eyIhnbHc",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=Oo37FDXGgWQ",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Hyperio Technia",
@@ -12142,6 +12178,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "165hz"
 			        },
+				{
+				       "user": "caroliibe",
+				       "link": "https://www.youtube.com/watch?v=ECyKae82Bcg",
+				       "percent": 63,
+				       "hz": "144hz"
+			        },
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -12244,6 +12286,12 @@ const d = {
 				       "link": "https://youtu.be/H3bxyQzPVDg",
 				       "percent": 100,
 				       "hz": "144hz"
+			        },
+				{
+				       "user": "LegionofBaum31",
+				       "link": "https://www.youtube.com/watch?v=4VxsFrigFG4",
+				       "percent": 100,
+				       "hz": "120hz"
 			        },
 	                ],
                         "name": "Shitty Ethereal Artifice",
@@ -12471,6 +12519,12 @@ const d = {
 				{
 					"user": "Mattbott321",
 					"link": "https://youtu.be/Xb60Iumt52s",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=CZfubcz-AWk",
 					"percent": 100,
 					"hz": "120hz"
 				},
@@ -12750,6 +12804,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=YZwFWMdLQKE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+					{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/FahGRkq1doY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty SPL",
@@ -13204,6 +13264,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/4vf58jXv1X8"
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Thirteen",
 			"author": "AlexTheGS33 and GDStarStorm [AlexTheGS33]",
@@ -13329,7 +13395,13 @@ const d = {
 					"user": "iRaily",
 					"link": "https://youtu.be/DYZWlaYB8ow?t=333",
 					"percent": 100,
-					"hz": "288hz"
+					"hz": "144hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=lpfap0RUEx4"
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Sparkling Hope",
@@ -13775,6 +13847,12 @@ const d = {
 					"link": "https://youtu.be/NsLeR88DziU",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Elek",
+					"link": "https://www.youtube.com/watch?v=SUhIojTuVy0&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
