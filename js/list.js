@@ -14561,7 +14561,7 @@ const d = {
 			       },
 			        {
 				       "user": "Bayley",
-				       "link": "https://www.youtube.com/watch?v=ghQsWhQAVOs"
+				       "link": "https://www.youtube.com/watch?v=ghQsWhQAVOs",
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
