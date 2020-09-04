@@ -682,6 +682,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/7yCf48rMACg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -15646,12 +15652,6 @@ const d = {
 				{
 					"user": "iRaily",
 					"link": "https://youtu.be/j1cHAPLKvxU",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "RagingTurtle",
-					"link": "https://youtu.be/DJVVrNAIDPI",
 					"percent": 100,
 					"hz": "144hz"
 				},
