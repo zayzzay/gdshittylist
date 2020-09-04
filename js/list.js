@@ -5858,6 +5858,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/8LSnxEpHMJM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Caution",
 			"author": "ZekronGD and ShadowNinja441 [ShadowNinja441]",
@@ -8244,12 +8250,6 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-				{
-					"user": "Acidius",
-					"link": "https://youtu.be/nR4OXhlsGO4",
-					"percent": 100,
-					"hz": "Mobile"
-				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "DeadshotHD and ShadowNinja441 [DeadshotHD]",
@@ -9938,6 +9938,12 @@ const d = {
 				{
 					"user": "NrightBird",
 					"link": "https://youtu.be/cgy3--ag5wc",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "DoubleSsymbol",
+					"link": "https://youtu.be/BH0u3SWsFQ0?t=72",
 					"percent": 100,
 					"hz": "60hz"
 				},
