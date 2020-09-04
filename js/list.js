@@ -8264,7 +8264,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Fhyron06",
+					"user": "v1nnyy",
 					"link": "https://youtu.be/nLLKtHit4nQ",
 					"percent": 100,
 					"hz": "240hz"
