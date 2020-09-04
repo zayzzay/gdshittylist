@@ -228,7 +228,13 @@ const d = {
 				       "link": "https://youtu.be/ogKvMQ-2Ojw", 
 				       "percent": 100,
 				       "hz": "120hz"
-			        },	
+			        },
+			 	 {
+				       "user": "xBlur",
+				       "link": "https://youtu.be/erX9TtuDYHo", 
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
 		         ],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper [MP3141]",
@@ -3215,6 +3221,12 @@ const d = {
 					"link": "https://youtu.be/h4WlX94k1JI",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/Huc4BV3N4As",
+					"percent": 100,
+					"hz": "240hz"
 				},
                         ],
 			"name": "Shitty Hyper Paracosm",
@@ -9393,6 +9405,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "JoshIDEK",
+					"link": "https://www.youtube.com/watch?v=FjprxFb-QOE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -10376,6 +10394,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=WAWJhzr7uJo",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Goodyman",
+					"link": "https://www.youtube.com/watch?v=EVmVt4jw-Zg&feature=youtu.be",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Wavebreaker",
@@ -12582,6 +12606,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "120hz"
 			        },
+				{
+				       "user": "Aber",
+				       "link": "https://www.youtube.com/watch?v=k6WhA-ublIM",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -12706,6 +12736,12 @@ const d = {
 				{
 				       "user": "iRaily",
 				       "link": "https://youtu.be/v_KAzht6i0A",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
+				{
+				       "user": "rOmni",
+				       "link": "https://youtu.be/SnKuIRKcxIA",
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
