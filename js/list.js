@@ -5648,6 +5648,12 @@ const d = {
 					"percent": 100,
 					"hz": "280hz"
 				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=Sc0LBS2N79k",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Glide",
 			"author": "Aassbll",
@@ -10474,6 +10480,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=1uVwPbHndkM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -11673,6 +11685,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Kr_Flame",
+					"link": "https://youtu.be/Rju0dcPDYQk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -12546,6 +12564,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=EaB2mJlPD7s&t=11s",
 				       "percent": 100,
 				       "hz": "Mobile"
+			        },
+				{
+				       "user": "iRaily",
+				       "link": "https://youtu.be/v_KAzht6i0A",
+				       "percent": 100,
+				       "hz": "144hz"
 			        },
 	                ],
                         "name": "Shitty Ethereal Artifice",
@@ -13535,6 +13559,12 @@ const d = {
 					"link": "https://youtu.be/C4-OzhH4mIg",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=slblR_svZyo",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Thirteen",
@@ -15196,6 +15226,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=vA2CLZ5l4P4",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=majfegUEJoE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/ZusSnXbjEXg",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty xo",
@@ -17457,6 +17499,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=EY2IvawYaOk",
 					"percent": 87,
 					"hz": "120hz"
+				},
+				{
+					"user": "NoobHereLol,
+					"link": "https://youtu.be/0gaM0Iz_nwI",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ithacropolis",
