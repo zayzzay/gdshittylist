@@ -7906,6 +7906,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "Shatter",
+					"link": "https://youtu.be/Z3TwVjdEP4E",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -10232,6 +10238,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "ArcticFoxGD",
+					"link": "https://youtu.be/naqCzgi3Oa0",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Lantern Lights",
 			"author": "GD4sh",
@@ -10292,6 +10304,12 @@ const d = {
 					"link": "https://youtu.be/zEVCIMklRy0",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/uDlX3oCYuZM",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Wavebreaker",
@@ -14215,11 +14233,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=SUhIojTuVy0&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
-				},{
+				},
+				{
 					"user": "Ketrick",
 					"link": "https://youtu.be/10zR7D5DefQ",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Shatter",
+					"link": "https://youtu.be/4G8M072JNOc",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
