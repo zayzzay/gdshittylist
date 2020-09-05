@@ -5060,6 +5060,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GrimPencil16",
+					"link": "https://youtu.be/uuTAoqxSQTU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty PP II",
 			"author": "Jah and Coney [Jah]",
@@ -10917,6 +10923,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1uVwPbHndkM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Bayley",
+					"link": "https://www.youtube.com/watch?v=UvNbqlejjL4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Awakening Horus",
