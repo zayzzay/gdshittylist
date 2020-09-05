@@ -931,6 +931,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/ORlYJFKnMcg",
+					"percent": 86,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Delta Interface",
 			"author": "MP3141",
@@ -6630,6 +6636,12 @@ const d = {
 					"link": "https://youtu.be/45R5VC5OgV0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/bqoPDxv66F8",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Phantasmagoria",
