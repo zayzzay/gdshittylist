@@ -18113,7 +18113,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Rustic
+					"user": "Rustic",
 					"link": "https://youtu.be/pzXPd3ZJFqA",
 					"percent": 100,
 					"hz": "144hz"
