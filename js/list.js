@@ -2649,6 +2649,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/-wat1OCXxh8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zettabyte",
 			"author": "Serpyy",
@@ -10681,6 +10687,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "errør",
+					"link": "https://youtu.be/7-9oMHgOSGU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -13827,6 +13839,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Nevise",
+					"link": "https://youtu.be/mymNN7QbJdk",
+					"percent": 61,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
@@ -15123,6 +15141,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "Fen1x11",
+				       "link": "https://youtu.be/rI3J2WvShlQ",
+				       "percent": 100,
+				       "hz": "60hz"
+			       },
 			],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
@@ -16116,6 +16140,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/L5qZ6b1sS3M",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -16362,11 +16392,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=JHwQMoEwRW0",
 					"percent": 100,
 					"hz": "144hz"
-				},{
+				},
+				{
 					"user": "nancho",
 					"link": "https://youtu.be/APhSmzAieZg",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "errør",
+					"link": "https://youtu.be/89vNsbpBIm8",
+					"percent": 100,
+					"hz": "obile"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -17918,6 +17955,12 @@ const d = {
 					"link": "https://youtu.be/25F1BhL9ETc",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/rI3J2WvShlQ",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty VendetTa",
