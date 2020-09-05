@@ -8981,7 +8981,7 @@ const d = {
 				{
 					"user": "Caroliibe",
 					"link": "https://www.youtube.com/watch?v=iXUVQWKxzuQ&t=2s",
-					"percent": 74
+					"percent": 74,
 					"hz": "165hz"
 				},
 			],
