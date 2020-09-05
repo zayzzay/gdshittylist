@@ -1687,6 +1687,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "v1nnyy",
+					"link": "https://youtu.be/qMhBgEiP4Rs",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Avalanche",
 			"author": "Cyns",
@@ -2943,6 +2949,12 @@ const d = {
 					"link": "https://youtu.be/MIS11KrHtRE?t=257",
 					"percent": 100,
 				        "hz": "144hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/ua21NPUoidI",
+					"percent": 100,
+				        "hz": "288hz"
 				},
 			],
 			"name": "Shitty Aquatic Auroras",
@@ -5143,6 +5155,12 @@ const d = {
 					"percent": 59,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/_0fIKvm66ng",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Orochi",
 			"author": "Keleru",
@@ -5571,6 +5589,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=PgZvFqZvfAI&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "TASGOD",
+					"link": "https://youtu.be/2lhMFfcgQa0",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -8337,6 +8361,12 @@ const d = {
 					"link": "https://youtu.be/Z3TwVjdEP4E",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "WhoIsCyn",
+					"link": "https://youtu.be/moPCdxMoRWw",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -12375,6 +12405,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "FizzySalad",
+					"link": "https://youtu.be/4Gm4aXzimuw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -12670,6 +12706,12 @@ const d = {
 					"link": "https://youtu.be/MIS11KrHtRE?t=92",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Dashermachine",
+					"link": "https://www.youtube.com/watch?v=d6BpzayMc60&ab_channel=DasherMachine",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Silver Shade",
@@ -14018,7 +14060,7 @@ const d = {
 					"user": "LegionofBaum31",
 					"link": "https://www.youtube.com/watch?v=Q7Z2ZZ7dGyA",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "120hz"
 				},
 				{
 					"user": "GD Cade21",
@@ -14031,6 +14073,12 @@ const d = {
 					"link": "https://youtu.be/G7ph41uN7DI",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "ZshadowEye",
+					"link": "https://youtu.be/s3ltUuayUZ8",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Sigma",
@@ -15814,6 +15862,12 @@ const d = {
 				       "link": "https://youtu.be/srF5Be9kRP0",
 				       "percent": 100,
 				       "hz": "60hz"
+			       },
+			         {
+				       "user": "JoinMolten",
+				       "link": "https://youtu.be/_1QosHhbZfc",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
 		       ],
                        "name": "Shitty Poltergeist",
@@ -20219,6 +20273,12 @@ const d = {
 					"link": "https://youtu.be/k2nmpvLZSuQ",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/RbzXosXEjbs",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
