@@ -8418,12 +8418,6 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GD Magical",
-					"link": "https://youtu.be/u5uA0cBHnMM",
-					"percent": 88,
-					"hz": "144hz"
-				},
-				{
 					"user": "Spacethug",
 					"link": "https://youtu.be/K4MUaj0RbVw",
 					"percent": 100,
@@ -16412,6 +16406,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "uR1",
+					"link": "https://www.youtube.com/watch?v=RLyWsI_BQPs",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -16982,12 +16982,6 @@ const d = {
 					"link": "https://youtu.be/BUN1fFCBnXg",
 					"percent": 100,
 					"hz": "240hz"
-				},
-				{
-					"user": "GD Magical",
-					"link": "https://youtu.be/3q4u_BECWBw",
-					"percent": 100,
-					"hz": "144hz"
 				},
 				{
 					"user": "FizzySalad",
@@ -19854,12 +19848,6 @@ const d = {
 					"link": "https://youtu.be/drGntok_GBg",
 					"percent": 100,
 					"hz": "Mobile"
-				},
-				{
-					"user": "GD Magical",
-					"link": "https://www.youtube.com/watch?v=wWQh3fI8Qk4&t",
-					"percent": 100,
-					"hz": "60hz"
 				},
 				{
 					"user": "Bayley",
