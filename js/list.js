@@ -4141,55 +4141,6 @@ const d = {
 			"vids": [
 				{
 					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=Z4WuP46fJtc",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Renar333",
-					"link": "https://youtu.be/nNgAcfLkUzM",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/IWYtysTCEPk",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/ZBLjE7VSivE",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/COAp1YK1m_c",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/X5OCHSj7U0c",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Delebit Oblivio",
-			"author": "HdLink13 [rVlaash]",
-			"more": "none",
-			"id": 62077742,
-			"pass": "Free to copy",
-			"percentToQualify": 63,
-			"verificationVid": "https://www.youtube.com/watch?v=09oeh0nUJEQ",
-			"key": 30
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Fhyron06",
 					"link": "https://www.youtube.com/watch?v=7txLvxG1y5E&lc=UgxX_OXAgeBbkE2VqbJ4AaABAg",
 					"percent": 100,
 					"hz": "240hz"
@@ -4304,7 +4255,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=72THO_lErmg",
-			"key": 31
+			"key": 30
 		},
 		/*=================================================================================*/
 		{
@@ -4353,7 +4304,7 @@ const d = {
 			"pass": "259358",
 			"percentToQualify": 56,
 			"verificationVid": "https://www.youtube.com/watch?v=_2KzC-qCRnY",
-			"key": 32
+			"key": 31
 		},
 		/*=================================================================================*/
 		{
@@ -4468,7 +4419,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 52,
 			"verificationVid": "https://www.youtube.com/watch?v=Zs3wbxEiWy0",
-			"key": 33
+			"key": 32
 		},
 		/*=================================================================================*/
 				{
@@ -4739,7 +4690,7 @@ const d = {
 			"pass": "666666",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=Qthrvca6JAs",
-			"key": 34
+			"key": 33
 		},
 		/*=================================================================================*/
 				{
@@ -4926,7 +4877,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=adUt1CqEUw0",
-			"key": 35
+			"key": 34
 		},
 		/*=================================================================================*/
 		{
@@ -4963,7 +4914,7 @@ const d = {
 			"pass": "000086",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=yEaDYpBRuag",
-			"key": 36
+			"key": 35
 		},
 		/*=================================================================================*/
 		{
@@ -5018,7 +4969,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=1Y1T2UdSCEY&t=2425s",
-			"key": 37
+			"key": 36
 		},
 		/*=================================================================================*/
 		{
@@ -5169,7 +5120,7 @@ const d = {
 			"pass": "159874",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=n-1BTK0cIvA",
-			"key": 38
+			"key": 37
 		},
 		/*=================================================================================*/
 		{
@@ -5206,7 +5157,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 53,
 			"verificationVid": "https://youtu.be/sllNnIjyu84",
-			"key": 39
+			"key": 38
 		},
 		/*=================================================================================*/
 		{
@@ -5604,7 +5555,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=tOElkolP8Cg",
-			"key": 40
+			"key": 39
 		},
 		/*=================================================================================*/
 		{
@@ -5665,7 +5616,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=qmVqQqkM9wQ",
-			"key": 41
+			"key": 40
 		},
 		/*=================================================================================*/
 		{
@@ -5882,7 +5833,20 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=EvcFxAEED6g",
-			"key": 42
+			"key": 41
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+		],
+			"name": "Shitty 2 1 1 ",
+			"author": "Acidius",
+			"more": "none",
+			"id": 63801040,
+			"pass": "211211",
+			"percentToQualify": 64,
+			"verificationVid": "https://www.youtube.com/watch?v=lmiNbUDBy2Y",
+			"key": 41
 		},
 		/*=================================================================================*/
 		{
