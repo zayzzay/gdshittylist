@@ -7378,6 +7378,7 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
 					"user": "Starlight722",
 					"link": "https://youtu.be/UPj61J3r688",
 					"percent": 100,
