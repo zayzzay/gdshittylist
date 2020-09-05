@@ -10714,7 +10714,7 @@ const d = {
 				},
 				{
 					"user": "Poptart",
-					"link": "https://youtu.be/S5S4sD2HDzI",
+					"link": "https://www.youtube.com/watch?v=qXrMpBUx0l8",
 					"percent": 100,
 					"hz": "Mobile"
 				},
