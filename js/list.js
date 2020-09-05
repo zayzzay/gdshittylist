@@ -252,8 +252,14 @@ const d = {
                        "key": 3
                 },
 		/*=================================================================================*/
-		 {
-			"vids": [      
+		{
+		"vids": [
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/a0cvVfhmJnw",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
                        "name": "Shitty Removed Submission",
                        "author": "v1nnyy and xSmajlik [v1nnyy]",
