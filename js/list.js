@@ -10000,6 +10000,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "errør",
+					"link": "https://youtu.be/VcJpaDTYWWM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
@@ -17879,15 +17885,9 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Astrixx",
-					"link": "https://youtu.be/nq1wQEI76jo",
-					"percent": 76,
-					"hz": "188hz"
-				},
-				{
 					"user": "TheRealH22",
 					"link": "https://youtu.be/kdH7TILl1FM",
-					"percent": 76,
+					"percent": 100,
 					"hz": "280hz"
 				},
 				{
