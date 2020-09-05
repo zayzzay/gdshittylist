@@ -18265,7 +18265,7 @@ const d = {
 					"user": "GamerbossPlayz",
 					"link": "https://youtu.be/YnurDAQWywM",
 					"percent": 100,
-					"hz": "120hz Mobile"
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ithacropolis",
