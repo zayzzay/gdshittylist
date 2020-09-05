@@ -4157,7 +4157,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "zLunatiX
+					"user": "zLunatiX",
 					"link": "https://www.youtube.com/watch?v=ZjXHQK-vFeg",
 					"percent": 100,
 					"hz": "60hz
