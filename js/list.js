@@ -4175,6 +4175,19 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+			],
+			"name": "Shitty Aftermath",
+			"author": "Magma",
+			"more": "none",
+			"id": 63415046,
+			"pass": "Free to Copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=stGqAj0XSoQ",
+			"key": 30
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
 				{
 					"user": "Fhyron06",
 					"link": "https://www.youtube.com/watch?v=7txLvxG1y5E&lc=UgxX_OXAgeBbkE2VqbJ4AaABAg",
@@ -4291,7 +4304,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=72THO_lErmg",
-			"key": 30
+			"key": 31
 		},
 		/*=================================================================================*/
 		{
@@ -4340,7 +4353,7 @@ const d = {
 			"pass": "259358",
 			"percentToQualify": 56,
 			"verificationVid": "https://www.youtube.com/watch?v=_2KzC-qCRnY",
-			"key": 31
+			"key": 32
 		},
 		/*=================================================================================*/
 		{
@@ -4455,7 +4468,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 52,
 			"verificationVid": "https://www.youtube.com/watch?v=Zs3wbxEiWy0",
-			"key": 32
+			"key": 33
 		},
 		/*=================================================================================*/
 		{
@@ -4642,7 +4655,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=adUt1CqEUw0",
-			"key": 33
+			"key": 34
 		},
 		/*=================================================================================*/
 		{
@@ -4913,7 +4926,7 @@ const d = {
 			"pass": "666666",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=Qthrvca6JAs",
-			"key": 34
+			"key": 35
 		},
 		/*=================================================================================*/
 		{
@@ -4950,7 +4963,7 @@ const d = {
 			"pass": "000086",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=yEaDYpBRuag",
-			"key": 35
+			"key": 36
 		},
 		/*=================================================================================*/
 		{
@@ -5005,7 +5018,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=1Y1T2UdSCEY&t=2425s",
-			"key": 36
+			"key": 37
 		},
 		/*=================================================================================*/
 		{
@@ -5162,7 +5175,7 @@ const d = {
 			"pass": "159874",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=n-1BTK0cIvA",
-			"key": 37
+			"key": 38
 		},
 		/*=================================================================================*/
 		{
@@ -5199,7 +5212,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 53,
 			"verificationVid": "https://youtu.be/sllNnIjyu84",
-			"key": 38
+			"key": 39
 		},
 		/*=================================================================================*/
 		{
@@ -5597,7 +5610,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=tOElkolP8Cg",
-			"key": 39
+			"key": 40
 		},
 		/*=================================================================================*/
 		{
@@ -5658,7 +5671,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=qmVqQqkM9wQ",
-			"key": 40
+			"key": 41
 		},
 		/*=================================================================================*/
 		{
@@ -5881,7 +5894,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=EvcFxAEED6g",
-			"key": 41
+			"key": 42
 		},
 		/*=================================================================================*/
 		{
@@ -5894,7 +5907,7 @@ const d = {
 			"pass": "211211",
 			"percentToQualify": 64,
 			"verificationVid": "https://www.youtube.com/watch?v=lmiNbUDBy2Y",
-			"key": 41
+			"key": 43
 		},
 		/*=================================================================================*/
 		{
@@ -5997,7 +6010,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=CwmVzTRcfGI",
-			"key": 43
+			"key": 44
 		},
 		/*=================================================================================*/
 		{
@@ -6088,25 +6101,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=rcYiecJ3tjI",
-			"key": 44
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "NKSWEETDREAM",
-					"link": "https://youtu.be/opr1W5vbwbY",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Pumped Up Kicks",
-			"author": "RedLimeGD and more [RedLimeGD]",
-			"more": "Hotdog71, NKSWEETDREAM, RC, Lime0037",
-			"id": 57632984,
-			"pass": "759322",
-			"percentToQualify": 59,
-			"verificationVid": "https://www.youtube.com/watch?v=lENJ1rBJyDc",
 			"key": 45
 		},
 		/*=================================================================================*/
