@@ -2031,6 +2031,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "165hz"
 			        },
+				{
+				       "user": "WowoGD",
+				       "link": "https://youtu.be/hNy0rVHXFUU",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
