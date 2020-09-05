@@ -5440,6 +5440,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "xKxwqii",
+					"link": "https://www.youtube.com/watch?v=80z23LQkGkk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -7367,6 +7373,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Starlight722",
+					"link": "https://youtu.be/6YG_I-UFS7I",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Explosion",
 			"author": "Serpyy",
@@ -8743,6 +8755,12 @@ const d = {
 					"link": "https://youtu.be/11sez5RolLE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Goodyman",
+					"link": "https://www.youtube.com/watch?v=0rYJHHzMG2U",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Stalemate Redux",
@@ -10646,6 +10664,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=dPniDBH28go",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Starlight722",
+					"link": "https://youtu.be/O7fkmbi5vx0",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Wavebreaker",
@@ -14781,11 +14805,17 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			       },
-			         {
+			       {
 				       "user": "iRaily",
 				       "link": "https://youtu.be/0s0-7_B7sdc?t=120",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Conical",
+				       "link": "https://www.youtube.com/watch?v=qSm6TCK1CeU",
+				       "percent": 100,
+				       "hz": "180hz"
 			       },
 			],
 			"name": "Shitty Carnage Mode",
