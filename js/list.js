@@ -1797,12 +1797,6 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "Tril",
-					"link": "https://www.youtube.com/watch?v=nTVTG2bd3VI",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
 					"user": "blessed",
 					"link": "https://youtu.be/bN791OFl-4M",
 					"percent": 100,
@@ -1843,6 +1837,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=nTVTG2bd3VI",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/M82smk9zxDg",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Wasureta",
