@@ -4160,7 +4160,7 @@ const d = {
 					"user": "zLunatiX",
 					"link": "https://www.youtube.com/watch?v=ZjXHQK-vFeg",
 					"percent": 100,
-					"hz": "60hz
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Ragnarok",
