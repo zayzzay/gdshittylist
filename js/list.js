@@ -253,6 +253,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			        },
+				{
+				       "user": "Kobra456",
+				       "link": "https://www.youtube.com/watch?v=Oxdqu3cIsYM", 
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 		         ],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper [MP3141]",
@@ -1880,6 +1886,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/tIol4IcxnRM",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
@@ -2283,6 +2295,12 @@ const d = {
 				{
 					"user": "piesy",
 					"link": "https://youtu.be/peEtXctirXU",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/ktdjT37dvFQ",
 					"percent": 100,
 					"hz": "288hz"
 				},
@@ -4864,6 +4882,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/-oK1UKjR9t8",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -5977,6 +6001,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Sc0LBS2N79k",
 					"percent": 100,
 					"hz": "144hz"
+				},				
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/-5-U0GOjSKo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Aquii",
+					"link": "https://www.youtube.com/watch?v=B0cOUMS5ZQE",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Glide",
@@ -9729,6 +9765,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "HalfCoin",
+					"link": "https://www.youtube.com/watch?v=pV3Orn2I1D4",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -12255,6 +12297,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Aquii",
+					"link": "https://youtu.be/7G796rHNRfk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -13170,6 +13218,12 @@ const d = {
 				       "link": "https://youtu.be/SnKuIRKcxIA",
 				       "percent": 100,
 				       "hz": "144hz"
+			        },
+				{
+				       "user": "blessed",
+				       "link": "https://youtu.be/10HqniIYK0s",
+				       "percent": 100,
+				       "hz": "60hz"
 			        },
 	                ],
                         "name": "Shitty Ethereal Artifice",
@@ -15672,7 +15726,7 @@ const d = {
                        "id": 49472213,
                        "pass": "Free to copy",
                        "percentToQualify": 51,
-                       "verificationVid": "",
+                       "verificationVid": "https://youtu.be/e7rFSg5vvr8",
                        "key": 100
                 },
 		/*================================================================================= */
@@ -17729,8 +17783,8 @@ const d = {
 				},
 				{
 					"user": "ItsCeleste",
-					"link": "https://youtu.be/OuJ-XEZlWGs",
-					"percent": 62,
+					"link": "https://youtu.be/-iuHohDZakM",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 				{
