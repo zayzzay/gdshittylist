@@ -119,7 +119,7 @@ const d = {
 				       "hz": "240hz"
 			       },
 			          {
-				       "user": "altRemo
+				       "user": "altRemo",
 				       "link": "https://youtu.be/5v-GD30zyDA",
 				       "percent": 100,
 				       "hz": "240hz"
