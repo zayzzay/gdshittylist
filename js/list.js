@@ -6649,6 +6649,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Praerius",
+					"link": "https://youtu.be/rgQVjRitzJY",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Phantasmagoria",
 			"author": "v1nnyy",
