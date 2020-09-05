@@ -9861,6 +9861,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "zLunatiX",
+					"link": "https://www.youtube.com/watch?v=gsZoSQm3--A&t=34s",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -10071,6 +10077,12 @@ const d = {
 					"link": "https://youtu.be/VcJpaDTYWWM",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "zLunatiX",
+					"link": "https://www.youtube.com/watch?v=wy4rcpV-Wes",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
                         "name": "Shitty Ouroboros",
@@ -10764,6 +10776,12 @@ const d = {
 					"link": "https://youtu.be/7-9oMHgOSGU",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "zLunatiX",
+					"link": "https://www.youtube.com/watch?v=IHeo61wXRqk&t=90s",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Kenos",
@@ -12458,6 +12476,12 @@ const d = {
 					"link": "https://youtu.be/4Gm4aXzimuw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "zLunatiX",
+					"link": "https://www.youtube.com/watch?v=HOSUDaABb-g",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Dolos",
