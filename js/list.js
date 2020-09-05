@@ -3674,6 +3674,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Ketrick",
+					"link": "https://www.youtube.com/watch?v=IdlGkLJ8hFg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Deimos",
 			"author": "oSpace",
@@ -10851,6 +10857,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "GDWish",
+					"link": "https://youtu.be/0g1x6159NUE",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
@@ -13140,6 +13152,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
+				{
+				       "user": "GDBruhsta",
+				       "link": "https://www.youtube.com/watch?v=2C5o9oTaGHM",
+				       "percent": 100,
+				       "hz": "60hz"
+			        },
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -15087,6 +15105,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+			         {
+				       "user": "GD Cade21",
+				       "link": "https://www.youtube.com/watch?v=RdR6G0kydAc",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
@@ -16021,7 +16045,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "TheRealIH22",
+					"user": "TheRealH22",
 					"link": "https://youtu.be/0Z5wh6ymZJY",
 					"percent": 100,
 					"hz": "280hz"
@@ -16067,6 +16091,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=9xj-BcePjJY",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "WhoIsCyn",
+					"link": "https://www.youtube.com/watch?v=PjRiQrrwk4U",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty xo",
@@ -17800,7 +17830,7 @@ const d = {
 					"hz": "188hz"
 				},
 				{
-					"user": "TheRealIH22",
+					"user": "TheRealH22",
 					"link": "https://youtu.be/kdH7TILl1FM",
 					"percent": 76,
 					"hz": "280hz"
