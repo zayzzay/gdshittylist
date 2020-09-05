@@ -3475,6 +3475,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/-ArcVQzV1hQ",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Tartarus",
 			"author": "AcropolisBoy [Darkys]",
