@@ -11915,7 +11915,7 @@ const d = {
 					"user": "vlubz",
 					"link": "https://www.youtube.com/watch?v=GsPrGxo21FM",
 					"percent": 100,
-					"hz": "236hz
+					"hz": "236hz"
 				},
 			],
 			"name": "Shitty Just Dance",
