@@ -1179,6 +1179,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Orizu",
+					"link": "https://youtu.be/zyX9h8gfMoc",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Innards",
 			"author": "Keleru",
@@ -2630,6 +2636,12 @@ const d = {
 					"link": "https://youtu.be/qKR9c9IAe9Q",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/y2t75YMpP_8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Zettabyte",
@@ -9505,6 +9517,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/y2t75YMpP_8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -10115,6 +10133,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/y2t75YMpP_8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Anoxysm",
 			"author": "Serpyy",
@@ -10218,6 +10242,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			        },
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/y2t75YMpP_8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Firepower",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -10644,6 +10674,12 @@ const d = {
 					"link": "https://youtu.be/xjWx32MUqNE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/y2t75YMpP_8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Kenos",
@@ -11080,6 +11116,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/y2t75YMpP_8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -11290,6 +11332,12 @@ const d = {
 					"link": "https://youtu.be/eLAmYIcksQw?t=181",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/y2t75YMpP_8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Plasma Pulse",
@@ -11760,6 +11808,12 @@ const d = {
 					"link": "https://youtu.be/wDuM5-q5Kig",
 					"percent": 100,
 					"hz": "72hz"
+				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/y2t75YMpP_8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Just Dance",
@@ -14389,6 +14443,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Rly",
+					"link": "https://youtu.be/y2t75YMpP_8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
@@ -14399,8 +14459,8 @@ const d = {
 			"verificationVid": "https://www.youtube.com/watch?v=Rnk_S2Ef-EM",
 			"key": 96
 		},
-		/*=================================================================================*/
-						{
+		/*=====================================================c============================*/
+		{
 			"vids": [
 				{
 					"user": "Fhyron06",
@@ -15021,6 +15081,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+					"user": "Rly",
+					"link": "https://youtu.be/y2t75YMpP_8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
