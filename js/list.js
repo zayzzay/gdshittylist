@@ -10763,7 +10763,7 @@ const d = {
 				},
 				{
 					"user": "MP3141",
-					"link": "https://youtu.be/LMmd3IgOeAM",
+					"link": "https://youtu.be/uDlX3oCYuZM",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -10796,12 +10796,6 @@ const d = {
 					"link": "https://youtu.be/zEVCIMklRy0",
 					"percent": 100,
 					"hz": "Mobile"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/uDlX3oCYuZM",
-					"percent": 100,
-					"hz": "144hz"
 				},
 				{
 					"user": "Kobra456",
