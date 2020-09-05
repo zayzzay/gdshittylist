@@ -6011,6 +6011,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "StarLight722",
+					"link": "https://youtu.be/VLuX3yuz9GA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],	
 			"name": "Shitty BioMachinist",
 			"author": "TheKate and SoyNadie [Vlaash]",
@@ -6077,6 +6083,12 @@ const d = {
 					"link": "https://youtu.be/Oe5HCpJJo-A",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "StarLight722",
+					"link": "https://youtu.be/Oe5HCpJJo-A",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Matilda The Machine",
@@ -8466,6 +8478,12 @@ const d = {
 					"percent": 93,
 					"hz": "Mobile"
 				},
+				{
+					"user": "StarLight722",
+					"link": "https://youtu.be/0N8OdeEu5V4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty The Hell Field",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -9795,6 +9813,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=fa9IsFbHwZQ&t=242s",
 					"percent": 100,
 					"hz": "110hz"
+				},
+				{
+					"user": "StarLight722",
+					"link": "https://youtu.be/P3QJMcxLq1U",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
                         "name": "Shitty Ouroboros",
@@ -13497,9 +13521,15 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-					{
+				{
 					"user": "Dashermachine",
 					"link": "https://youtu.be/FahGRkq1doY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "StarLight722",
+					"link": "https://youtu.be/-TdxYWhafxQ",
 					"percent": 100,
 					"hz": "Mobile"
 				},
