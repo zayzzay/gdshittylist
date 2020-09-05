@@ -241,6 +241,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			        },
+				{
+				       "user": "zMarc",
+				       "link": "https://youtu.be/2xx30esxRLo", 
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
 		         ],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper [MP3141]",
@@ -2013,6 +2019,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			        },
+				{
+				       "user": "Goodyman",
+				       "link": "https://www.youtube.com/watch?v=wC1zadPTRiQ&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "165hz"
+			        },
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
@@ -2164,6 +2176,12 @@ const d = {
 					"link": "https://www.twitch.tv/videos/730608377",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/LJcWygVFwrI",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Poltergeist Reborn",
@@ -3311,6 +3329,12 @@ const d = {
 					"link": "https://youtu.be/oyaEgDvYg1I",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "jToniX",
+					"link": "https://youtu.be/psHvNlVcnTo",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Hyper Paracosm",
@@ -6552,6 +6576,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fwin",
+					"link": "https://www.youtube.com/watch?v=ezejglgwXlw&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
                         ],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -9090,6 +9120,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ArcticFoxGD",
+					"link": "https://www.youtube.com/watch?v=aGz9x4s26Xc",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Distraught",
 			"author": "AlexTheGS33 and more [AlexTheGS33]",
@@ -9554,6 +9590,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=FjprxFb-QOE",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/dCn-Vr0So2M",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Zodiac",
@@ -10574,6 +10616,12 @@ const d = {
 					"link": "https://youtu.be/zEVCIMklRy0",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "And3rwula",
+					"link": "https://www.youtube.com/watch?v=dPniDBH28go",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Wavebreaker",
@@ -14083,6 +14131,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "FizzySalad",
+					"link": "https://youtu.be/YgFmEPRauO4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
@@ -14557,6 +14611,12 @@ const d = {
 					"link": "https://youtu.be/hzoPiVRGB1U",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/ap2GdXiE9bw",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
@@ -16238,6 +16298,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/ap2GdXiE9bw",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -16820,6 +16886,12 @@ const d = {
 					"link": "https://youtu.be/LElAt-CX5uQ",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/ap2GdXiE9bw",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Sakupen Hell",
@@ -17980,6 +18052,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=EY2IvawYaOk&t=1s",
 					"percent": 72,
 					"hz": "120hz"
+				},
+				{
+					"user": "rTripleAAA",
+					"link": "https://youtu.be/lIxba4Lrm7g",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
