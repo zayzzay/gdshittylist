@@ -1330,6 +1330,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=MqLEvnYxGYQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
@@ -4265,6 +4271,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Cam",
+					"link": "https://youtu.be/NNinrWo-rAE",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/hsbEwwql3_k",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Aftermath",
 			"author": "Magma",
@@ -6365,6 +6383,12 @@ const d = {
 					"link": "https://youtu.be/1s58syAkXbA",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/KZ9wfnrhtHo",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Pyromaniac",
@@ -10406,6 +10430,12 @@ const d = {
 				{
 					"user": "v1nnyy",
 					"link": "https://youtu.be/1UsoqkaY0zQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/4B7_xDvvNaw",
 					"percent": 100,
 					"hz": "240hz"
 				},
