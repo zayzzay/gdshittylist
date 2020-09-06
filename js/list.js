@@ -14490,6 +14490,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "zMultix",
+					"link": "https://www.youtube.com/watch?v=RRR9FcHkdig",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Thirteen",
 			"author": "AlexTheGS33 and GDStarStorm [AlexTheGS33]",
