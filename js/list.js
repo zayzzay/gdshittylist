@@ -289,6 +289,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=B4prJlUzskc&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Aqioo",
+					"link": "https://youtu.be/Psuiyo2mKm0",
+					"percent": 100,
+					"hz": "240hz"
 				},	
 		         ],
                        "name": "Shitty Removed Submission",
@@ -8857,6 +8863,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Starlight722",
+					"link": "https://youtu.be/suglDxfiSMI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Penombre",
 			"author": "Miini03",
@@ -9007,6 +9019,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=iXUVQWKxzuQ&t=2s",
 					"percent": 74,
 					"hz": "165hz"
+				},
+				{
+					"user": "HopZy",
+					"link": "https://www.youtube.com/watch?v=u0mp4dFwK5s&ab_channel=HopZy",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Stalemate Redux",
@@ -9624,6 +9642,12 @@ const d = {
 					"link": "https://youtu.be/y2t75YMpP_8",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Praerius",
+					"link": "https://www.youtube.com/watch?v=IA_Mb0NDzpg&feature=youtu.be&ab_channel=Praerius%E2%80%A2",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Factory Realm X",
@@ -12422,6 +12446,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/XjD0jNXp_nU",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -14404,6 +14434,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=zxb_RFUvlnw",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "RagingTurtle",
+					"link": "https://youtu.be/9lecRc-FpUw",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Thirteen",
