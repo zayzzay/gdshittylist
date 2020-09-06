@@ -10102,6 +10102,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "zMultix",
+					"link": "https://www.youtube.com/watch?v=CH3PAwxqEkE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
