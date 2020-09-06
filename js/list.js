@@ -4180,6 +4180,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/0dJIPTaZUzE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -6134,6 +6140,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=yg-_raVMGNU&ab_channel=HopZy",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/BUsSlCDihRI",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Glide",
@@ -14465,6 +14477,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=aH0X1b8mPjU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Thirteen",
 			"author": "AlexTheGS33 and GDStarStorm [AlexTheGS33]",
@@ -15133,6 +15151,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/mE3wmybr91w",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -15251,6 +15275,12 @@ const d = {
 				{
 					"user": "Ketrick",
 					"link": "https://www.youtube.com/watch?v=7Nnk13a6U6A",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/a7uuHr0V_J0",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -16710,6 +16740,12 @@ const d = {
 					"link": "https://youtu.be/MVQdibIFZj8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/cb5HfHzMpoY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -20674,6 +20710,12 @@ const d = {
 				{
 					"user": "Glutton",
 					"link": "https://youtu.be/OKdLOGmcCpY",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Memester420",
+					"link": "https://www.youtube.com/watch?v=PZ_GmYZo_Xo",
 					"percent": 100,
 					"hz": "240hz"
 				},
