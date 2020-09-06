@@ -4289,6 +4289,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/kxW9waFGrW0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Aftermath",
 			"author": "Magma",
@@ -10515,6 +10521,12 @@ const d = {
 				{
 					"user": "GDMeric",
 					"link": "https://youtu.be/HF-iS4riq_I",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/LMmd3IgOeAM",
 					"percent": 100,
 					"hz": "144hz"
 				},
