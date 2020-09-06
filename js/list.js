@@ -7605,6 +7605,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/3uzFmFmA2YQ",
+					"percent": 100,
+					"hz": "240"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
