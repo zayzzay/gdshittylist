@@ -1318,6 +1318,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Orizu",
+					"link": "https://youtu.be/jZSCYYgtJp0",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
@@ -3473,6 +3479,12 @@ const d = {
 					"link": "https://youtu.be/psHvNlVcnTo",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=-A20KP-osUg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Hyper Paracosm",
@@ -5947,6 +5959,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Conical",
+					"link": "https://www.youtube.com/watch?v=B-BtanHZwmM",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/-xfaXGNAFIg",
+					"percent": 100,
+					"hz": "288hz"
+				},
 		],
 			"name": "Shitty 2 1 1 ",
 			"author": "Acidius",
@@ -6144,6 +6168,12 @@ const d = {
 				{
 					"user": "Blast",
 					"link": "https://youtu.be/BUsSlCDihRI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Starlight722",
+					"link": "https://youtu.be/ZqcTYb_7ZS4",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -9050,6 +9080,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Starlight722",
+					"link": "https://youtu.be/Q1fZOTvblhk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "DeadshotHD and ShadowNinja441 [DeadshotHD]",
@@ -9447,6 +9483,12 @@ const d = {
 				{
 					"user": "ArcticFoxGD",
 					"link": "https://www.youtube.com/watch?v=aGz9x4s26Xc",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "ZshadowEye",
+					"link": "https://www.youtube.com/watch?v=-xPjjZNBElQ&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -10946,6 +10988,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Wrandom Stuff",
+					"link": "https://youtu.be/iX6NyFXYQO8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -11922,6 +11970,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://www.youtube.com/watch?v=FL0Nl-C2Da0&feature=youtu.be",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -12604,7 +12658,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "LegionofBaum",
+					"user": "LegionofBaum31",
 					"link": "https://www.youtube.com/watch?v=UGPJ-xCd_D0",
 					"percent": 100,
 					"hz": "120hz"
@@ -13282,6 +13336,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=2C5o9oTaGHM",
 				       "percent": 100,
 				       "hz": "60hz"
+			        },
+				{
+				       "user": "Gwose",
+				       "link": "https://www.youtube.com/watch?v=SVxSrW0JXbY",
+				       "percent": 100,
+				       "hz": "144hz"
 			        },
 	                ],
                         "name": "Shitty Cataclysm",
@@ -16470,6 +16530,12 @@ const d = {
 					"percent": 54,
 					"hz": "60hz"
 				},
+				{
+					"user": "Piruleib",
+					"link": "https://youtu.be/cue6hgGSFuQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -17708,6 +17774,12 @@ const d = {
 					"link": "https://youtu.be/Yv3pWKLzzaI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Piruleib",
+					"link": "https://www.youtube.com/watch?v=3_YkwZvUjzs",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Sakupen Hell",
