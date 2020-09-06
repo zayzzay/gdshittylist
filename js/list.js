@@ -5819,6 +5819,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=IjK6X6HuyrU&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cosmorush 21",
 			"author": "AcropolisBoy and Whiliams8080 [Bartoldo]",
@@ -15373,6 +15379,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Astrixx",
+					"link": "https://youtu.be/SKcP2PXxeGo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -17378,6 +17390,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/_fOtE2g8NbY",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -17990,6 +18008,12 @@ const d = {
 					"link": "https://youtu.be/nxhHp_olCd4",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/CMKniieT-y8",
+					"percent": 100,
+					"hz": "60hz"
 				},
 
 			],
@@ -18622,6 +18646,12 @@ const d = {
 					"link": "https://youtu.be/pzXPd3ZJFqA",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "zLunatiX",
+					"link": "https://youtu.be/rVFS4YXys1c",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty VendetTa",
@@ -19871,7 +19901,13 @@ const d = {
 					"user": "Fen1x11",
 					"link": "https://youtu.be/cCTy0E2EROo",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "60hz"
+				},
+				{
+					"user": "zLunatiX",
+					"link": "https://youtu.be/PwE9tViUa0A",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Killerzone",
@@ -21025,6 +21061,24 @@ const d = {
 					"link": "https://youtu.be/F8Gl9wvQ8bA",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "ItsCeleste",
+					"link": "https://youtu.be/nxhHp_olCd4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "zLunatiX",
+					"link": "https://www.youtube.com/watch?v=gENqpC2xuc0",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "Fr3kmanGD",
+					"link": "https://www.youtube.com/watch?v=9crbmRIdwgk",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
