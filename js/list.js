@@ -10252,6 +10252,61 @@ const d = {
 			"key": 76
 		},
 		/*=================================================================================*/
+				{
+			"vids": [
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/Y0TZ_EcCNZ4",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/pOvOqVbO6AI",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Goodyman",
+					"link": "https://www.youtube.com/watch?v=1tnR2Bh0rAk&feature=youtu.be",
+					"percent": 100,
+					"hz": "165hz"
+				},
+				{
+					"user": "Poptart",
+					"link": "https://www.youtube.com/watch?v=qXrMpBUx0l8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "jOnel",
+					"link": " https://youtu.be/Z26XwhJzATk",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "ArcticFoxGD",
+					"link": "https://youtu.be/naqCzgi3Oa0",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/eLAmYIcksQw?t=360",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Lantern Lights",
+			"author": "GD4sh",
+			"more": "none",
+			"id": 63007959,
+			"pass": "739642",
+			"percentToQualify": 78,
+			"verificationVid": "https://www.youtube.com/watch?v=mU8uFj4i3W4",
+			"key": 77
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
@@ -10358,7 +10413,7 @@ const d = {
 			"pass": "661616",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=a8Qe1S3HLDU",
-			"key": 77
+			"key": 78
 		},
 		/*=================================================================================*/
 		{
@@ -10809,61 +10864,6 @@ const d = {
 			"pass": "195563",
 			"percentToQualify": 56,
 			"verificationVid": "https://www.youtube.com/watch?v=prOytV0MGAQ",
-			"key": 78
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Cyns",
-					"link": "https://youtu.be/Y0TZ_EcCNZ4",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/pOvOqVbO6AI",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Goodyman",
-					"link": "https://www.youtube.com/watch?v=1tnR2Bh0rAk&feature=youtu.be",
-					"percent": 100,
-					"hz": "165hz"
-				},
-				{
-					"user": "Poptart",
-					"link": "https://www.youtube.com/watch?v=qXrMpBUx0l8",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "jOnel",
-					"link": " https://youtu.be/Z26XwhJzATk",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "ArcticFoxGD",
-					"link": "https://youtu.be/naqCzgi3Oa0",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/eLAmYIcksQw?t=360",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Lantern Lights",
-			"author": "GD4sh",
-			"more": "none",
-			"id": 63007959,
-			"pass": "739642",
-			"percentToQualify": 78,
-			"verificationVid": "https://www.youtube.com/watch?v=mU8uFj4i3W4",
 			"key": 79
 		},
 		/*=================================================================================*/
@@ -11946,6 +11946,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=GsPrGxo21FM",
 					"percent": 100,
 					"hz": "236hz"
+				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/DX5SlJyYsaw",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Just Dance",
