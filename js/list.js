@@ -291,7 +291,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Aqioo",
+					"user": "Aquii",
 					"link": "https://youtu.be/Psuiyo2mKm0",
 					"percent": 100,
 					"hz": "240hz"
@@ -6113,12 +6113,6 @@ const d = {
 				{
 					"user": "jOnel",
 					"link": "https://youtu.be/-5-U0GOjSKo",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Aquii",
-					"link": "https://www.youtube.com/watch?v=B0cOUMS5ZQE",
 					"percent": 100,
 					"hz": "240hz"
 				},
