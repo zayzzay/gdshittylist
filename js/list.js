@@ -20551,6 +20551,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/4TZiUHMYJS0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
