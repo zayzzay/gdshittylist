@@ -10379,6 +10379,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "v1nnyy",
+					"link": "https://youtu.be/1UsoqkaY0zQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Magnolia",
 			"author": "Williams8080 [ZekronGD]",
@@ -17858,6 +17864,12 @@ const d = {
 					"link": "https://youtu.be/ZZDTXw2O4_4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ItsCeleste",
+					"link": "https://youtu.be/nxhHp_olCd4",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 
 			],
