@@ -15579,13 +15579,19 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			       },
-			        {
+			       {
 				       "user": "RagingTurtle",
 				       "link": "https://youtu.be/Ck2MC7DIX7U",
 				       "percent": 100,
 				       "hz": "144hz"
-			       },
-			],
+			      },
+			      {
+				       "user": "Cam",
+				       "link": "https://youtu.be/rLI7rvSNLn8",
+				       "percent": 100,
+				       "hz": "300hz"
+			      },
+		       ],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
 			"more": "none",
