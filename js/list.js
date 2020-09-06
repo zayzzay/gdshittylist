@@ -5929,6 +5929,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "v1nnyy",
+					"link": "https://youtu.be/VApjQr5TeC8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/lGjdF7dbCpk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 		],
 			"name": "Shitty 2 1 1 ",
 			"author": "Acidius",
@@ -10144,6 +10156,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "zWachin",
+					"link": "https://www.youtube.com/watch?v=SRoZQGdgVPg&t=4s",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
@@ -12451,6 +12469,12 @@ const d = {
 					"link": "https://youtu.be/XjD0jNXp_nU",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "GDDogeYT",
+					"link": "https://youtu.be/nmwYldV5HeQ",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Dolos",
@@ -16410,6 +16434,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "DieguitoGMD",
+					"link": "https://youtu.be/fPUqths0ix8",
+					"percent": 54,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -16675,6 +16705,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/MVQdibIFZj8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
@@ -16686,7 +16722,7 @@ const d = {
 			"key": 102
 		},
 		/*=================================================================================*/
-				{
+		{
 			"vids": [
 				{
 					"user": "rVlaash",
@@ -19506,6 +19542,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/cCTy0E2EROo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -20622,6 +20664,18 @@ const d = {
 					"link": "https://youtu.be/4TZiUHMYJS0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "DrakeGD",
+					"link": "https://www.youtube.com/watch?v=k2nmpvLZSuQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Glutton",
+					"link": "https://youtu.be/OKdLOGmcCpY",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
