@@ -2139,6 +2139,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			        },
+				{
+				       "user": "FrEnchKebAb",
+				       "link": "https://youtu.be/0cR3iIJBaY4",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
@@ -3483,6 +3489,12 @@ const d = {
 				{
 					"user": "Kobra456",
 					"link": "https://www.youtube.com/watch?v=-A20KP-osUg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "FizzySalad",
+					"link": "https://youtu.be/jP5zz1xPCcg",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -5252,6 +5264,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "wshedd",
+					"link":"https://youtu.be/QJdrQeqoBqY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty PP II",
 			"author": "Jah and Coney [Jah]",
@@ -6863,6 +6881,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ezejglgwXlw&feature=youtu.be",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/fhwQtTODmUg",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
 			"name": "Shitty Rate Demon",
@@ -10216,6 +10240,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/jXVtwhBYULY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
@@ -11265,6 +11295,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=5D2E0k3tRes",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -11481,6 +11517,12 @@ const d = {
 					"link": "https://youtu.be/y2t75YMpP_8",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=0vsZfkcME_A",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Plasma Pulse",
@@ -11777,6 +11819,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=7yBMplocb9E",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -11975,6 +12023,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=FL0Nl-C2Da0&feature=youtu.be",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=ywrKUjvQwrA",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Just Dance",
