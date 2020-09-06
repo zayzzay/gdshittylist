@@ -3673,6 +3673,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ExoLiter",
+					"link": "https://youtu.be/TbkQjwCUqXcv",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Tartarus",
 			"author": "AcropolisBoy [Darkys]",
@@ -6143,6 +6149,12 @@ const d = {
 				{
 					"user": "Starlight722",
 					"link": "https://youtu.be/ZqcTYb_7ZS4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ExoLiter",
+					"link": "https://youtu.be/1aFeEaHgbOw",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -9980,6 +9992,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+								{
+					"user": "ExoLiter",
+					"link": "https://youtu.be/a8WfSReDPaU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -10214,6 +10232,12 @@ const d = {
 					"link": "https://youtu.be/jXVtwhBYULY",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ExoLiter",
+					"link": "https://youtu.be/OT94HFu-fZQ",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
                         "name": "Shitty Ouroboros",
@@ -16620,6 +16644,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ExoLiter",
+					"link": "https://www.youtube.com/watch?v=AZG21BQnfQk&t=7s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -16894,6 +16924,12 @@ const d = {
 				{
 					"user": "Qwerisity",
 					"link": "https://youtu.be/cb5HfHzMpoY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ExoLiter",
+					"link": "https://www.youtube.com/watch?v=xA7C2rZDwZE&feature=youtu.be",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -20905,6 +20941,12 @@ const d = {
 					"link": "https://www.twitch.tv/videos/733262642",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "ExoLiter",
+					"link": "https://youtu.be/F8Gl9wvQ8bA",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Xo Circles",
