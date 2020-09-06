@@ -580,6 +580,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "NTB",
+					"link": "https://www.youtube.com/watch?v=aqEiujHtwYM&ab_channel=NTB",
+					"percent": 73,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -3679,6 +3685,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "NTB",
+					"link": "https://www.youtube.com/watch?v=2bcxfdy6BlM&ab_channel=NTB",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Tartarus",
 			"author": "AcropolisBoy [Darkys]",
@@ -6438,6 +6450,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=tBlNCHdyFio",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/mj5-W9j8e-I",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Ancestral Calamity",
@@ -11873,6 +11891,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "NearlyNyx",
+					"link": "https://youtu.be/NnHozlsK1Is",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -14577,6 +14601,12 @@ const d = {
 					"link": "https://youtu.be/nPhP1sqTtkw",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://youtu.be/nPhP1sqTtkw",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Visible Ray",
