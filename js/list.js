@@ -284,7 +284,13 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
-			],
+				{
+					"user": "Orizu",
+					"link": "https://www.youtube.com/watch?v=B4prJlUzskc&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},	
+		         ],
                        "name": "Shitty Removed Submission",
                        "author": "v1nnyy and xSmajlik [v1nnyy]",
                        "more": "none",
