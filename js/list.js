@@ -307,6 +307,67 @@ const d = {
                        "key": 4
                 },
 		/*=================================================================================*/
+						{
+			"vids": [
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/iDrdgYX_wbQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Crumche",
+					"link": "https://youtu.be/tU4thoC82bs",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/ozSEKjsGGgg",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Alphanetic",
+					"link": "https://www.twitch.tv/videos/730597465",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Blathers",
+					"link": "https://youtu.be/_RuXbnCdkNg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/ORlYJFKnMcg",
+					"percent": 86,
+					"hz": "240hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/b_iOYmwkU8o",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Orizu",
+					"link": "https://youtu.be/9UidltEsbEk",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Shitty Delta Interface",
+			"author": "MP3141",
+			"more": "none",
+			"id": 63075127,
+			"pass": "Free copy",
+			"percentToQualify": 58,
+			"verificationVid": "https://www.youtube.com/watch?v=jiiWz3WV6cM",
+			"key": 5
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
@@ -521,67 +582,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/6mBUCC8dlCY",
-			"key": 5
-		},
-		/*=================================================================================*/
-				{
-			"vids": [
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/iDrdgYX_wbQ",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Crumche",
-					"link": "https://youtu.be/tU4thoC82bs",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Tai0",
-					"link": "https://youtu.be/ozSEKjsGGgg",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Alphanetic",
-					"link": "https://www.twitch.tv/videos/730597465",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Blathers",
-					"link": "https://youtu.be/_RuXbnCdkNg",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/ORlYJFKnMcg",
-					"percent": 86,
-					"hz": "240hz"
-				},
-				{
-					"user": "zMarc",
-					"link": "https://youtu.be/b_iOYmwkU8o",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Orizu",
-					"link": "https://youtu.be/9UidltEsbEk",
-					"percent": 100,
-					"hz": "240hz"
-				},
-			],
-			"name": "Shitty Delta Interface",
-			"author": "MP3141",
-			"more": "none",
-			"id": 63075127,
-			"pass": "Free copy",
-			"percentToQualify": 58,
-			"verificationVid": "https://www.youtube.com/watch?v=jiiWz3WV6cM",
 			"key": 6
 		},
 		/*=================================================================================*/
