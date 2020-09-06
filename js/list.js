@@ -4924,6 +4924,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "DibiiziCookie",
+					"link": "https://youtu.be/oTFWtC2iN10",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -10789,6 +10795,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Shatter",
+					"link": "https://youtu.be/yLyFSaQQ-cg",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -14635,6 +14647,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "RagingTurtle",
+					"link": "https://youtu.be/OIn9oHXUPC4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
@@ -15290,6 +15308,12 @@ const d = {
 				       "link": "https://youtu.be/rI3J2WvShlQ",
 				       "percent": 100,
 				       "hz": "60hz"
+			       },
+			        {
+				       "user": "RagingTurtle",
+				       "link": "https://youtu.be/Ck2MC7DIX7U",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
 			],
 			"name": "Shitty Carnage Mode",
@@ -18712,6 +18736,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=oDHD9DL7bIw",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "zMultiX",
+					"link": "https://www.youtube.com/watch?v=70fhnZ4oj4Q&t=110s",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
