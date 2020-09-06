@@ -16589,7 +16589,13 @@ const d = {
 					"user": "errør",
 					"link": "https://youtu.be/89vNsbpBIm8",
 					"percent": 100,
-					"hz": "obile"
+					"hz": "Mobile"
+				},
+				{
+					"user": "zMultix",
+					"link": "https://www.youtube.com/watch?v=qiLZThIcv0U",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Artifice",
