@@ -6091,6 +6091,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Starlight722",
+					"link": "https://youtu.be/Eh8zks11alg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 		],
 			"name": "Shitty 2 1 1 ",
 			"author": "Acidius",
@@ -10536,6 +10542,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=-UQYT6Q08oc",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Lantern Lights",
 			"author": "GD4sh",
@@ -10650,6 +10662,12 @@ const d = {
 				       "link": "https://youtu.be/0pSa8SLP4Os",
 				       "percent": 100,
 				       "hz": "144hz"
+			        },
+				{
+				       "user": "LegionofBaum31",
+				       "link": "https://www.youtube.com/watch?v=a2adHx721o0",
+				       "percent": 100,
+				       "hz": "120hz"
 			        },
 			],
 			"name": "Shitty Firepower",
@@ -11107,6 +11125,12 @@ const d = {
 					"link": "https://youtu.be/iX6NyFXYQO8",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=AcEHaW3OdYE",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Kenos",
@@ -14886,6 +14910,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "JoinMolten",
+					"link": "https://youtu.be/X195BJpdFOY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
@@ -15535,6 +15565,12 @@ const d = {
 					"link": "https://youtu.be/PwaM4kjnKSQ",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=COyRYxpJ_UI",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Wavebreaker",
@@ -16745,6 +16781,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=AZG21BQnfQk&t=7s",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "ZshadowEye",
+					"link": "https://youtu.be/vA1j3j3lE7w",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty xo",
