@@ -308,7 +308,13 @@ const d = {
 					"link": "https://youtu.be/wglcKsFnxac",
 					"percent": 100,
 					"hz": "144hz"
-				},	
+				},
+			        {
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=l3GkFEyNcv8&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
+				},
 		         ],
                        "name": "Shitty Removed Submission",
                        "author": "v1nnyy and xSmajlik [v1nnyy]",
