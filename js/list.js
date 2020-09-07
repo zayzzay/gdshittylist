@@ -586,6 +586,12 @@ const d = {
 					"percent": 73,
 					"hz": "240hz"
 				},
+				{
+					"user": "samthemank",
+					"link": "https://www.youtube.com/watch?v=y1dWCI7wYLM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -7237,6 +7243,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Zshadoweye",
+					"link": "https://youtu.be/h-HZpb83wvM",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -9135,8 +9147,8 @@ const d = {
 				},
 				{
 					"user": "Caroliibe",
-					"link": "https://www.youtube.com/watch?v=iXUVQWKxzuQ&t=2s",
-					"percent": 74,
+					"link": "https://www.youtube.com/watch?v=CLKI-6RDWXw",
+					"percent": 100,
 					"hz": "165hz"
 				},
 				{
@@ -9779,6 +9791,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=IA_Mb0NDzpg&feature=youtu.be&ab_channel=Praerius%E2%80%A2",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/jcqtrLzzmC8",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Factory Realm X",
@@ -10474,6 +10492,12 @@ const d = {
 					"link": "https://youtu.be/4B7_xDvvNaw",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/jcqtrLzzmC8?t=93",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Magnolia",
