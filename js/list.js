@@ -15682,6 +15682,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/nqjpGq3dg1k",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=0EDRXzERI24",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
