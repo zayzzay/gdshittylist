@@ -16579,6 +16579,18 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			       },
+			       {
+				       "user": "xBlur",
+				       "link": "https://youtu.be/BAH-58JZfPA",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+			       {
+				       "user": "BrightBird",
+				       "link": "https://youtu.be/HA-iGyUmmbc",
+				       "percent": 100,
+				       "hz": "60hz"
+			       },
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
