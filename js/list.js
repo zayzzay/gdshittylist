@@ -165,7 +165,7 @@ const d = {
 					"user": "XanPlayzGamez",
 					"link": "https://youtu.be/EGL4JrUytw0",
 					"percent": 100,
-					"hz": "288hz
+					"hz": "288hz"
 				},
 					
 			],
