@@ -15531,6 +15531,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GamerbossPlayz",
+					"link": "https://youtu.be/-HJb081Xxw8",
+					"percent": 100,
+					"hz": "120hz Mobile"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -18883,6 +18889,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=iMY5j7QbCos",
 					"percent": 100,
 					"hz": "30hz Mobile"
+				},
+				{
+					"user": "GamerbossPlayz",
+					"link": "https://youtu.be/uK0czgGCEac",
+					"percent": 100,
+					"hz": "120hz Mobile"
 				},
 			],
 			"name": "Shitty VendetTa",
