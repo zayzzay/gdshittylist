@@ -5808,6 +5808,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "uR1",
+					"link": "https://youtu.be/_LqGqQ5_uM8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -6146,6 +6152,12 @@ const d = {
 					"link": "https://youtu.be/Eh8zks11alg",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/ExpmKQIdzFo",
+					"percent": 100,
+					"hz": "144hz"
 				},
 		],
 			"name": "Shitty 2 1 1 ",
@@ -7527,6 +7539,12 @@ const d = {
 					"link": "https://youtu.be/RugBKQSCruM",
 					"percent": 72,
 					"hz": "60hz"
+				},
+				{
+					"user": "nintent",
+					"link": "https://www.youtube.com/watch?v=WHcFdIS4Bgo&t=142s",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Thinking Space",
@@ -10549,6 +10567,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/9etiT1KOPGA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Magnolia",
 			"author": "Williams8080 [ZekronGD]",
@@ -10633,6 +10657,12 @@ const d = {
 					"link": "https://youtu.be/JOr9y_7w1LA",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/ExpmKQIdzFo",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Lantern Lights",
@@ -14025,6 +14055,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "uR1",
+					"link": "https://youtu.be/DUwgFP2hxJA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -14320,6 +14356,12 @@ const d = {
 					"percent": 61,
 					"hz": "Mobile"
 				},
+				{
+					"user": "uR1",
+					"link": "https://youtu.be/qwEO6uc-mwg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
@@ -14530,6 +14572,12 @@ const d = {
 					"link": "https://youtu.be/s3ltUuayUZ8",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "uR1",
+					"link": "https://youtu.be/sMoFvSnEvpQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sigma",
@@ -14842,6 +14890,12 @@ const d = {
 				{
 					"user": "GDMeric",
 					"link": "https://youtu.be/xDU4SvKP9ig",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/ExpmKQIdzFo",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -21322,6 +21376,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=9crbmRIdwgk",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "BlueStone",
+					"link": "https://youtu.be/YO9XwuTIZQU",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
