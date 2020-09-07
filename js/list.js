@@ -1560,6 +1560,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Prince-b",
+					"link": "https://www.youtube.com/watch?v=vby2VhL92dw&feature=youtu.be&ab_channel=Prince-B",
+					"percent": 64,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty WOW",
 			"author": "oSpace [LJosh]",
