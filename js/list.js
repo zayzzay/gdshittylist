@@ -841,6 +841,12 @@ const d = {
 		/*=================================================================================*/
 			{
 		        "vids": [
+				{
+					"user": "Alphanetic",
+					"link": "https://youtu.be/6bWwnp1Rx8w",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "MythicalTG",
@@ -10534,6 +10540,12 @@ const d = {
 				{
 					"user": "iRaily",
 					"link": "https://youtu.be/jcqtrLzzmC8?t=93",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/mjprvuO_SMc",
 					"percent": 100,
 					"hz": "144hz"
 				},
