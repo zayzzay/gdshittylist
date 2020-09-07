@@ -15530,6 +15530,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Acidius",
+					"link": "https://youtu.be/PwaM4kjnKSQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
