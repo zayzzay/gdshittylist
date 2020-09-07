@@ -18659,6 +18659,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "NobitaGD",
+					"link": "https://www.youtube.com/watch?v=iMY5j7QbCos",
+					"percent": 100,
+					"hz": "30hz Mobile"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
