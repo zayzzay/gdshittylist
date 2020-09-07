@@ -10658,12 +10658,6 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/ExpmKQIdzFo",
-					"percent": 100,
-					"hz": "144hz"
-				},
 			],
 			"name": "Shitty Lantern Lights",
 			"author": "GD4sh",
