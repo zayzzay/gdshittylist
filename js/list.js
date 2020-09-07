@@ -161,6 +161,13 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			        },
+			 	{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/EGL4JrUytw0",
+					"percent": 100,
+					"hz": "288hz
+				},
+					
 			],
                        "name": "Shitty Biohazard",
                        "author": "Tril and more [Tril]",
@@ -17095,6 +17102,13 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/NQI7KcU2M2Y",
+					"percent": 100, 
+					"hz": "60hz"
+				},
+
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
