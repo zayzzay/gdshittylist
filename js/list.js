@@ -13174,7 +13174,7 @@ const d = {
 			{
                         "vids": [
 			],
-			"name": "Shitty The Falwless",
+			"name": "Shitty The Flawless",
 			"author": "AcropolisBoy and more [AcropolisBoy]",
 			"more": "PotatomanPlays, ZekronGD, Aassbll, GSStarStorm, zLunatiX",
 			"id": 63673369,
