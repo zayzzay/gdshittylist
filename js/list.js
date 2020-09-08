@@ -13173,6 +13173,12 @@ const d = {
 		/*=================================================================================*/
 			{
                         "vids": [
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/O7VnoMgO710",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty The Flawless",
 			"author": "AcropolisBoy and more [AcropolisBoy]",
@@ -13180,7 +13186,7 @@ const d = {
 			"id": 63673369,
 			"pass": "Free to copy",
 			"percentToQualify": 57,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/O7VnoMgO710",
 			"key": 90
 		},
 		/*=================================================================================*/
