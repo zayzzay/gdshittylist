@@ -11532,6 +11532,13 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/jUF4oh7YqsI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				
 			],
 			"name": "Shitty Cyber Chaos",
 			"author": "NourTheKing",
