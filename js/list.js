@@ -211,7 +211,13 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			        },
-			 ],
+                                {
+				       "user": "Alphanetic",
+				       "link": "https://youtu.be/iz2oLZ4JsrQ",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },			 
+                         ],
                        "name": "Shitty Hateful Reflection",
                        "author": "v1nnyy",
                        "more": "Bluuper,Ppraerius",
