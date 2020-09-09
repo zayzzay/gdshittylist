@@ -3133,6 +3133,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/AGzcTTHzZ2o",
+					"percent": 100,
+				        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Occult Outcry",
 			"author": "Cyns and XanPlayzGamez [Cyns]",
@@ -6498,6 +6504,12 @@ const d = {
 					"link": "https://youtu.be/VLuX3yuz9GA",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/AGzcTTHzZ2o",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],	
 			"name": "Shitty BioMachinist",
@@ -13424,6 +13436,12 @@ const d = {
 					"link": "https://youtu.be/bsCLyZJPggo",
 					"percent": 100,
 				        "hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/AGzcTTHzZ2o",
+					"percent": 100,
+				        "hz": "240hz"
 				},
 			],
 			"name": "Shitty The Flawless",
