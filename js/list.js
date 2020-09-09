@@ -3127,6 +3127,12 @@ const d = {
 					"percent": 100,
 				        "hz": "240hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/bsCLyZJPggo",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Occult Outcry",
 			"author": "Cyns and XanPlayzGamez [Cyns]",
@@ -5917,6 +5923,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=_TrruE_mEYM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -6371,6 +6383,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=JRpQq3rJZQ4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Glide",
 			"author": "Aassbll",
@@ -6704,6 +6722,12 @@ const d = {
 				{
 					"user": "GDMeric",
 					"link": "https://youtu.be/G7Ml-GI3pog",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=NpJr-gSMbPo",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -7091,6 +7115,12 @@ const d = {
 				{
 					"user": "wshedd",
 					"link": "https://youtu.be/fhwQtTODmUg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=p4XeHtRexhU",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -13371,6 +13401,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/bsCLyZJPggo",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty The Flawless",
 			"author": "AcropolisBoy and more [AcropolisBoy]",
@@ -15170,6 +15206,12 @@ const d = {
 				{
 					"user": "Covieta",
 					"link": "https://youtu.be/ExpmKQIdzFo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=ik_voTc2CpU",
 					"percent": 100,
 					"hz": "144hz"
 				},
