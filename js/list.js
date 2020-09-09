@@ -3410,6 +3410,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "HiedriGH",
+					"link": "https://youtu.be/A3qKuA8JFQA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
@@ -4562,6 +4568,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=US36v6dEf_s",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=4ja02tLloJs&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Macabre",
@@ -11459,6 +11471,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "todojodo",
+					"link": "https://www.youtube.com/watch?v=ukv2yKVEhtA&lc=UgwYXor_m1zHwjL21cl4AaABAg",
+					"percent": 100,
+					"hz": "110hz"
+				},
 			],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -14099,6 +14117,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/ETq1H3j1u18",
+					"percent": 100,
+					"hz": "180hz"
+				},
 	                ],
                         "name": "Shitty Ethereal Artifice",
                         "author": "Megum and more [Megum]",
@@ -16151,6 +16175,18 @@ const d = {
 				{
 					"user": "Covieta",
 					"link": "https://youtu.be/jUF4oh7YqsI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/IbM-Bf2NwN4",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "Baechukimchi",
+					"link": "https://youtu.be/ypYsO5Xj3fw",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -19367,6 +19403,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=NBVS_sZSd80",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -19955,6 +19997,12 @@ const d = {
 					"link": "https://youtu.be/c5TF3GBsjW8",
 					"percent": 100,
 					"hz": "280hz"
+				},
+				{
+					"user": "NobitaGD",
+					"link": "https://www.youtube.com/watch?v=lsqkmEt09uk",
+					"percent": 60,
+					"hz": "30hz Mobile"
 				},
 			],
 			"name": "Shitty Ithacropolis",
