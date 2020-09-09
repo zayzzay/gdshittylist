@@ -6407,6 +6407,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/iD2tSwp3ua4",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Glide",
 			"author": "Aassbll",
@@ -10881,6 +10887,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/iD2tSwp3ua4",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Lantern Lights",
 			"author": "GD4sh",
@@ -12731,6 +12743,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/iD2tSwp3ua4",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
@@ -15293,6 +15311,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/iD2tSwp3ua4",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Thirteen",
 			"author": "AlexTheGS33 and GDStarStorm [AlexTheGS33]",
@@ -16189,6 +16213,12 @@ const d = {
 					"link": "https://youtu.be/ypYsO5Xj3fw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/iD2tSwp3ua4",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Wavebreaker",
