@@ -11755,6 +11755,24 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=T5I5NIzyFqY",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=S0ZLwGCEcDs",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/AGzcTTHzZ2o",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cyber Chaos",
 			"author": "NourTheKing",
