@@ -14666,6 +14666,24 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+			        {
+					"user": "Acidius",
+					"link": "https://youtu.be/LG6YsJvsYqA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=hdcvczkzN0Q",
+					"percent": 100,
+					"hz": "120"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/-c4COx56gkQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Ballin",
 			"author": "Aassbll",
