@@ -8867,7 +8867,7 @@ const d = {
 					"user": "Kr_Flame",
 					"link": "https://youtu.be/xrgV8jyFgXs",
 					"percent": 100,
-					"hz": "Mobile"
+					"hz": "120hz"
 				},
 				{
 					"user": "Goodyman",
