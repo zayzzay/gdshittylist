@@ -321,6 +321,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/_5q9Gk-mAbE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 		         ],
                        "name": "Shitty Removed Submission",
                        "author": "v1nnyy and xSmajlik [v1nnyy]",
@@ -379,6 +385,12 @@ const d = {
 				{
 					"user": "Orizu",
 					"link": "https://youtu.be/9UidltEsbEk",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Depi YDN",
+					"link": "https://www.youtube.com/watch?v=AEd19WW0oXc",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -1263,6 +1275,12 @@ const d = {
 					"user": "BlueStone",
 					"link": "https://youtu.be/2So_LOQnVMA",
 					"percent": 58,
+					"hz": "240hz"
+				},
+				{
+					"user": "Depi YDN",
+					"link": "https://youtu.be/tnZOXTIH4bk",
+					"percent": 100,
 					"hz": "240hz"
 				},
 			],
@@ -2334,6 +2352,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=2HhZ6p11T8A&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Step To Hell",
 			"author": "oSpace",
@@ -3126,7 +3150,13 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [	
+			"vids": [
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/_5q9Gk-mAbE",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Prismatic Haze",
 			"author": "Bluuper",
@@ -4454,6 +4484,12 @@ const d = {
 					"link": "https://youtu.be/jUF4oh7YqsI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/yYRXq_kVCVo",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Aftermath",
@@ -9467,6 +9503,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "GrimPencil16",
+					"link": "https://youtu.be/gofFPH72BT4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "DeadshotHD and ShadowNinja441 [DeadshotHD]",
@@ -12081,6 +12123,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Goodyman",
+					"link": "https://www.youtube.com/watch?v=4y0gKdoZNGY",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -12598,6 +12646,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ywrKUjvQwrA",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/R9HDuO3zIoc",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Just Dance",
@@ -15034,6 +15088,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/SwRrN1sGflM",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -15371,6 +15431,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=L3P4mRzyWEM",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "uR1",
+					"link": "https://www.youtube.com/watch?v=Zh-grinxV1s",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Thirteen",
@@ -17335,6 +17401,12 @@ const d = {
 					"percent": 100, 
 					"hz": "144hz"
 				},
+				{
+					"user": "Bibus [ET]",
+					"link": "https://www.youtube.com/watch?v=SRSCA-tt3oo",
+					"percent": 100, 
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
@@ -18207,6 +18279,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			       },
+			       {
+				       "user": "Aber",
+				       "link": "https://www.youtube.com/watch?v=ZfW2I4wW7Po&ab_channel=Aber",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -18831,6 +18909,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Tbgx7LkfhfM&lc=UgxzH_1L16IFPzLioC14AaABAg",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=mwraZf6e1hU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sakupen Hell",
@@ -20094,6 +20178,12 @@ const d = {
 					"percent": 84,
 					"hz": "30hz Mobile"
 				},
+				{
+					"user": "Bibus [ET]",
+					"link": "https://www.youtube.com/watch?v=qB9R0KApc60&t=65s",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -20766,6 +20856,12 @@ const d = {
 					"link": "https://youtu.be/PwE9tViUa0A",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=gWrorEHPZOY&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Killerzone",
