@@ -16186,6 +16186,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Covieta",
+					"link": "https://youtu.be/JzuC1_wgRl4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "Cyns",
 					"link": "https://youtu.be/MVuOPo3uu9k",
 					"percent": 100,
