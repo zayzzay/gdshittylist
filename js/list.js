@@ -2511,6 +2511,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "jToniX",
+					"link": "https://youtu.be/aqole9bN8rI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -2988,7 +2994,1383 @@ const d = {
 			"key": 25
 		},
 		/*=================================================================================*/
-                {
+		{
+			"vids": [
+				{
+                                       "user": "TH54",
+                                       "link": "https://youtu.be/Dlw1oJLuDrg",
+                                       "percent": 100,
+                                       "hz": "240hz"
+                                },
+				{
+                                       "user": "Fhyron06",
+                                       "link": "https://www.youtube.com/watch?v=m1e_oCdTJJI",
+                                       "percent": 100,
+                                       "hz": "240hz"
+                                },
+				{
+                                       "user": "Conical",
+                                       "link": "https://youtu.be/F75gyzoOdq4",
+                                       "percent": 100,
+                                       "hz": "180hz"
+                                },
+				{
+                                       "user": "Bluuper",
+                                       "link": "https://www.youtube.com/watch?v=30EZtg5JhxA",
+                                       "percent": 100,
+                                       "hz": "144hz"
+                                },
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/nabaR72n5ws?t=142",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/YrIq6Pf8OGc",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/KlfNR0Zf0GU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/dwkrTHYaJTk",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "TheRealYeeter",
+					"link": "https://youtu.be/PD8kv9BX92g",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=mSL8-sexaCA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/YxajM-Slctw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "JTgaming7",
+					"link": "https://www.youtube.com/watch?v=PMGkRu4V32k",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/M6l2KAmCX70",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/J6-YuQNDIr4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "monstergamer546",
+					"link": "https://youtu.be/eGMcIahxoig",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/Z2Zqd7T152U",
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
+				{
+				       "user": "Dashermachine",
+				       "link": "https://youtu.be/r6aiMNSW1Js",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
+				{
+				       "user": "blessed",
+				       "link": "https://youtu.be/Wkzxraw0V5s",
+				       "percent": 100,
+				       "hz": "60hz"
+			        },
+				{
+				       "user": "InferiorPatty",
+				       "link": "https://www.youtube.com/watch?v=ymekGLuvjxY&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "300hz"
+			        },
+				{
+				       "user": "zGod",
+				       "link": "https://youtu.be/dEkw4WoX2-4",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
+				{
+				       "user": "FrEnchKbAb",
+				       "link": "https://youtu.be/0cR3iIJBaY4",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
+				{
+				       "user": "Yeezo",
+				       "link": "https://youtu.be/KXyZw6m8G5o",
+				       "percent": 100,
+				       "hz": "60hz"
+			        },
+				{
+				       "user": "Soda",
+				       "link": "https://youtu.be/pylgnDjbgCw",
+				       "percent": 100,
+				       "hz": "75hz"
+			        },
+				{
+				       "user": "killboom",
+				       "link": "https://youtu.be/HBFTOPRabvw",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
+				{
+				       "user": "Leaf",
+				       "link": "https://www.youtube.com/watch?v=aUFBK1WA820",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
+				{
+				       "user": "aet",
+				       "link": "https://youtu.be/YeUvcTGCWZI",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
+				{
+				       "user": "Acidius",
+				       "link": "https://www.youtube.com/watch?v=eS_ViXQVSHw",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
+				{
+				       "user": "Blast",
+				       "link": "https://youtu.be/D0Wg93SuUUI",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
+				{
+				       "user": "Goodyman",
+				       "link": "https://www.youtube.com/watch?v=wC1zadPTRiQ&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "165hz"
+			        },
+				{
+				       "user": "WowoGD",
+				       "link": "https://www.youtube.com/watch?v=hNy0rVHXFUU&list=PLvyLpVK5xyZHrfOpdAvBfiJLbgLIIPcMR&index=23",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
+				{
+				       "user": "Praerius",
+				       "link": "https://www.youtube.com/watch?v=n16plfUu2J4&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
+				{
+				       "user": "FrEnchKebAb",
+				       "link": "https://youtu.be/0cR3iIJBaY4",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
+				{
+				       "user": "xBlur",
+				       "link": "https://youtu.be/rio7cjXkTDY",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
+			],
+			"name": "Shitty Artificial Dream",
+			"author": "Cyns",
+			"more": "none",
+			"id": 63421740,
+			"pass": "173869",
+			"percentToQualify": 62,
+			"verificationVid": "https://www.youtube.com/watch?v=qd9enLukIEc",
+			"key": 26
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/XzxjsZlUU84",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=L736VUCKtVU",
+					"percent": 100,
+					"hz": "144hz"
+			        },
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/4rlEqG-Gb3M",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+                                        "user": "nayf",
+                                        "link": "https://youtu.be/fOKTa2D6ruU",
+                                        "percent": 100,
+                                        "hz": "240hz"
+                                },
+				{
+                                        "user": "Asdner",
+                                        "link": "https://youtu.be/0ci9fHpSCRw",
+                                        "percent": 63,
+                                        "hz": "69hz"
+                                },
+				{
+                                        "user": "GDMeric",
+                                        "link": "https://youtu.be/8OTlECSBRgU",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/BHmPa5mS3vw",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/D3wrCInCRpQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Dist3nd",
+					"link": "https://youtu.be/YKgGhQnGFg0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/4uzus2QK3i4",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/n4ln9S4ZI-4",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "v1nnyy",
+					"link": "https://youtu.be/djw8L1n5iD8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Daxy",
+					"link": "https://youtu.be/yQ9W_1zBCes",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Plasmic",
+					"link": "https://www.youtube.com/watch?v=YUa7F_yYRhA&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "CavEmaN_mElviN",
+					"link": "https://youtu.be/45QUkLMS68I",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/4ciD5oBhGYQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Blathers",
+					"link": "https://youtu.be/FiKIpuPcZ-g",
+					"percent": 69,
+					"hz": "144hz"
+				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=6_tVPDOI5HA&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "ShDwGhost",
+					"link": "https://youtu.be/SxjXiqXR4kk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=889",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "xRiver007",
+					"link": "https://youtu.be/ZpV4bAiSOVc",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "HopZy",
+					"link": "https://www.youtube.com/watch?v=jKUxv57it-0",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "Forz1ple",
+					"link": "https://youtu.be/TFTJB1ioy84",
+					"percent": 100,
+					"hz": "72hz"
+				},
+				{
+					"user": "Tril",
+					"link": "https://youtu.be/B_QCoFZHjvU",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://www.youtube.com/watch?v=6YEHXJvmC5I&t=0s",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://www.youtube.com/watch?v=Yb_msmYB9Bs&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "LevDeize",
+					"link": "https://youtu.be/t7-_tOUjHDE",
+					"percent": 71,
+					"hz": "240hz"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=3OtB_vyHBPw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/h4WlX94k1JI",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/Huc4BV3N4As",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/oqpk-EwJZEQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
+                        	{
+					"user": "TH54",
+					"link": "https://youtu.be/oyaEgDvYg1I",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "jToniX",
+					"link": "https://youtu.be/psHvNlVcnTo",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=-A20KP-osUg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "FizzySalad",
+					"link": "https://youtu.be/jP5zz1xPCcg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Hyper Paracosm",
+			"author": "DigestedCitrus [Deimoz]",
+			"more": "none",
+			"id": 62106120,
+			"pass": "Free to copy",
+			"percentToQualify": 52,
+			"verificationVid": "https://youtu.be/XzxjsZlUU84",
+			"key": 27
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+                                        "user": "Amedxx2y",
+                                        "link": "https://youtu.be/4btfmkrYRFQ",
+                                        "percent": 100,
+                                        "hz": "Mobile"
+                                },
+				{
+					"user": "Aassbll",
+					"link": "https://youtu.be/mO59qZitpGA",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Soda",
+					"link": "https://youtu.be/20e3I-zjmLE",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=oXiRhT35zFU",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "GDTeaBag",
+					"link": "https://youtu.be/1Y1T2UdSCEY?t=713",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/nuA0hfze0xU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Surpl3x",
+					"link": "https://youtu.be/mgl-tn3xPoE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/2Al4j_4sxJY",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/UnDTeJSKe24",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=iEnZ6Pt_JRA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/bTixnqONZw8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/jPHn2lejeqg",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=lwinR_RBLNE&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/5dccidFJ7JI",
+					"percent": 100,
+				        "hz": "144hz"
+				},
+				{
+					"user": "Ryth",
+					"link": "https://youtu.be/NvSbanfvN6w?t=662",
+					"percent": 100,
+				        "hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/UDESbri5pbk",
+					"percent": 100,
+				        "hz": "144hz"
+				},
+				{
+					"user": "Xela343",
+					"link": "https://www.youtube.com/watch?v=9Dx9CqPNMF8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Tai0",
+					"link": "https://www.twitch.tv/videos/708869822",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/ZgXlQP-rbjo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Hixobit",
+					"link": "https://www.youtube.com/watch?v=13M9W6GBX3k&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/Wxobe9gziTI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/-ArcVQzV1hQ",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Starlight722",
+					"link": "https://youtu.be/BusBD7hbhsg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ExoLiter",
+					"link": "https://youtu.be/TbkQjwCUqXcv",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "NTB",
+					"link": "https://www.youtube.com/watch?v=2bcxfdy6BlM&ab_channel=NTB",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/83I7tvl_nwI",
+					"percent": 100,
+					"hz": "60hz"
+				},
+			],
+			"name": "Shitty Tartarus",
+			"author": "AcropolisBoy [Darkys]",
+			"more": "none",
+			"id": 59699245,
+			"pass": "606606",
+			"percentToQualify": 53,
+			"verificationVid": "https://www.youtube.com/watch?v=YXi4n8byylM",
+			"key": 28
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=l0JOnlifnsg",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+                                        "user": "Amedxx2y",
+                                        "link": "https://youtu.be/t8yDWgktw20",
+                                        "percent": 100,
+                                        "hz": "Mobile"
+                                },
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/UOK0tKqsxKU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=CqAMnnz5Nbw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Chojang",
+					"link": "https://youtu.be/2XuPYTN03dk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Trollomggamer",
+					"link": "https://youtu.be/q4s5-eDpitQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/8VWDHVUaSs0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/8MZCWRAeCFg",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Praerius",
+					"link": "https://www.youtube.com/watch?v=gqFRFgnaXlc&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://www.youtube.com/watch?v=I8s_Z5xhRU4&feature=youtu.be",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/Ooc4800QEsI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/glAV2U2TZ5s",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "FallenAresse",
+					"link": "https://www.youtube.com/watch?v=zTuJOyBCLTk&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/rLiTc_-7z1w",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/utBhkli4yeg",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "Ketrick",
+					"link": "https://www.youtube.com/watch?v=IdlGkLJ8hFg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty Deimos",
+			"author": "oSpace",
+			"more": "none",
+			"id": 57271231,
+			"pass": "Free to copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=F7BO5D2b6Mo",
+			"key": 29
+		},
+		/*=================================================================================*/
+				{
+			"vids": [
+				{
+                                       "user": "Amedxx2y",
+                                       "link": "https://youtu.be/AlTh7-Cpsnc",
+                                       "percent": 100,
+                                       "hz": "mobile"
+                                },
+				{
+				        "user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=HMU_TVA7U14",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=gSWLlMJCBNg",
+					"percent": 90,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=LKAnXjh9Lpg",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "Aassbll",
+					"link": "https://www.youtube.com/watch?v=b2Samlnkxm4",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://youtu.be/oa8bGWtZ7yI",
+					"percent": 78,
+					"hz": "240hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/lAkU4BWWto8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=OiQlGRgGNnM",
+					"percent": 100,
+					"hz": "280hz"
+				},
+				{
+					"user": "Kr_Flame",
+					"link": "https://youtu.be/cRbLlrEjdg4",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "justiceguy",
+					"link": "https://youtu.be/wJSFF9zVyjg",
+					"percent": 74,
+					"hz": "60hz"
+				},
+				{
+					"user": "1qawsz",
+					"link": "https://youtu.be/evopDhTXEfs",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/ii0b9tVP5vw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/tNGvpmKwgpM",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "saturn",
+					"link": "https://youtu.be/krZroYFKbdE",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/O3ZDoxS2a9Q",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Deados35",
+					"link": "https://youtu.be/kor47PYUTf0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Th13teen",
+					"link": "https://www.youtube.com/watch?v=5nOE3z8O7sk&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Creatormichaelr",
+					"link": "https://youtu.be/XxuCvKiUrbM",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=dbg0nV_sN9c",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/9oq4wCooLN8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=fFTjkop5FkA",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "TFIBB",
+					"link": "https://www.youtube.com/watch?v=PDwlExBdL2E",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=QujrmwBzIjk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "v1nnyy",
+					"link": "https://youtu.be/WANAFyq8vNc",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Blast",
+					"link": "https://youtu.be/7rMQK6kjOWY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Praerius",
+					"link": "https://www.youtube.com/watch?v=Zf0h9V5VYCA&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Tai0",
+					"link": "https://www.twitch.tv/videos/700989857",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/sR6bv2NUHgU",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "StarLight722",
+					"link": "https://youtu.be/OpG999E2f5U",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/uuVjY5ogArE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/M4Kdtf1m83Q",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://www.youtube.com/watch?v=1y-8LnpTTpg&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GrimPencil16",
+					"link": "https://youtu.be/BAZmK318HD0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "justiceguy",
+					"link": "https://youtu.be/wJSFF9zVyjg",
+					"percent": 74,
+					"hz": "60hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/qIg1UNMVq78",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Yeezo",
+					"link": "https://youtu.be/fIKm58Uy7ik",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/Hxxa7OKXgIM",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=o7axDA8040c",
+					"percent": 100,
+					"hz": "60hz"
+				},
+			],
+			"name": "Shitty Missing Benefits",
+			"author": "Keleru",
+			"more": "none",
+			"id": 52494510,
+			"pass": "Free to copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=Iu08clOYt8I",
+			"key": 30
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+                                        "user": "Amedxx2y",
+                                        "link": "https://youtu.be/IZRMNG4PRxE",
+                                        "percent": 100,
+                                        "hz": "Mobile"
+                                },
+				{
+					"user": "rVlaash",
+					"link": "https://youtu.be/OqxLgOTQ9cs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=0YAWYj6Y7Ig",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://youtu.be/BwZY9GqGgTo",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=xmgnwKF-pFk",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "Aassbll",
+					"link": "https://www.youtube.com/watch?v=RwHeNSH-qvk",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/rFuwwGL6CK8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "zMarc",
+					"link": "https://youtu.be/DQd4xvGYXYw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=8XYhcvWLFEg&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=40",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "rMinelo",
+					"link": "https://youtu.be/FY_9GC9jv8s?t=4013",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "justiceguy",
+					"link": "https://www.youtube.com/watch?v=aulcw3aFh3A",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/PmnllkqKcIc",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Bluuper",
+					"link": "https://youtu.be/HZlZyd0cF_M",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/wWjc2fh1qjM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/OnTAP5fqjFc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Zshadoweye",
+					"link": "https://www.youtube.com/watch?v=VMwNvh2XNIY&t=8s",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Hulunn",
+					"link": "https://www.youtube.com/watch?v=IEmv5ZMteNg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/wayGeWhEum0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Jah",
+					"link": "hhttps://www.youtube.com/watch?v=DseNofoMZ7A&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=dF83WTlXt5Q",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/eGsKy8bqmKE",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/prtHBSPAjCk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Wadur",
+					"link": "https://www.youtube.com/watch?v=GHDQ1g5TFRg&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "spacethug",
+					"link": "https://youtu.be/ItZCBy0yRG8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "v1nnyy",
+					"link": "https://youtu.be/Cfu1JNyFfgE",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/Qg8vTllVj3A",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/_ukVCqK38W0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/NWcTU2Yw5-8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/SfeXGVAwPZ4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Just_Lemon",
+					"link": "https://www.youtube.com/watch?v=z2ybLISzN-4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Velorum",
+					"link": "https://youtu.be/MicQLnV5elg",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=DLzECOY2afU&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "zLunatiX",
+					"link": "https://www.youtube.com/watch?v=ZjXHQK-vFeg",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/0dJIPTaZUzE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Ragnarok",
+			"author": "oSpace",
+			"more": "none",
+			"id": 55909152,
+			"pass": "343707",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=GvfSqt8ZBbY",
+			"key": 31
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/_LfqIKCQRm4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/pV9FoNAgRNQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Cam",
+					"link": "https://youtu.be/NNinrWo-rAE",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/hsbEwwql3_k",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/kxW9waFGrW0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=wZgMKltxesg&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/jUF4oh7YqsI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/yYRXq_kVCVo",
+					"percent": 100,
+					"hz": "288hz"
+				},
+			],
+			"name": "Shitty Aftermath",
+			"author": "Magma",
+			"more": "none",
+			"id": 63415046,
+			"pass": "Free to Copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=stGqAj0XSoQ",
+			"key": 32
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=7txLvxG1y5E&lc=UgxX_OXAgeBbkE2VqbJ4AaABAg",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Soda",
+					"link": "https://www.youtube.com/watch?v=4sJ_70nnPOc&feature=youtu.be",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=PSAjB5fou68&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "rVlaash",
+					"link": "https://www.youtube.com/watch?v=rrk0G7LX2-w",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "sandstormy",
+					"link": "https://www.youtube.com/watch?v=fMcQQDYRqhk&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "RG",
+					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://www.youtube.com/watch?v=PbY_eY-pDRE",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/c3M4Udf8ul4",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/-CAKv6rGcIE",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Renar333",
+					"link": "https://youtu.be/b5HMyCGA_Dg",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "v1nnyy",
+					"link": "https://www.youtube.com/watch?v=WI_sSmcA4fU&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "GrimPencil16",
+					"link": "https://youtu.be/7CevVoSQI-A",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "MacJubber",
+					"link": "https://youtu.be/U0spBo1Nd00",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/VeYKZva9uuY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/bPL4avdr4B8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Th13teen",
+					"link": "https://youtu.be/__uayJWI8GA",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Dist3nd",
+					"link": "https://youtu.be/11gi80-SJOU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/fMPQFu3qDOs",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Biz",
+					"link": "https://youtu.be/5V4621Scdfo",
+					"percent": 100,
+					"hz": "185hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=US36v6dEf_s",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=4ja02tLloJs&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Macabre",
+			"author": "oSpace and more [Serpyy]",
+			"more": "GDStarStorm, Serpyy",
+			"id": 57337559,
+			"pass": "Free to copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=72THO_lErmg",
+			"key": 33
+		},
+		/*=================================================================================*/
+		                {
 			"vids": [
 				{
 					"user": "GDTeaBag",
@@ -3262,1382 +4644,6 @@ const d = {
 			"pass": "001006",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=dnjnt9rI_qc",
-			"key": 26
-		},
-		/*=================================================================================*/
-						{
-			"vids": [
-				{
-                                       "user": "TH54",
-                                       "link": "https://youtu.be/Dlw1oJLuDrg",
-                                       "percent": 100,
-                                       "hz": "240hz"
-                                },
-				{
-                                       "user": "Fhyron06",
-                                       "link": "https://www.youtube.com/watch?v=m1e_oCdTJJI",
-                                       "percent": 100,
-                                       "hz": "240hz"
-                                },
-				{
-                                       "user": "Conical",
-                                       "link": "https://youtu.be/F75gyzoOdq4",
-                                       "percent": 100,
-                                       "hz": "180hz"
-                                },
-				{
-                                       "user": "Bluuper",
-                                       "link": "https://www.youtube.com/watch?v=30EZtg5JhxA",
-                                       "percent": 100,
-                                       "hz": "144hz"
-                                },
-				{
-					"user": "Vink",
-					"link": "https://youtu.be/nabaR72n5ws?t=142",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/YrIq6Pf8OGc",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/KlfNR0Zf0GU",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Creatormichaelr",
-					"link": "https://youtu.be/dwkrTHYaJTk",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "TheRealYeeter",
-					"link": "https://youtu.be/PD8kv9BX92g",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Aber",
-					"link": "https://www.youtube.com/watch?v=mSL8-sexaCA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/YxajM-Slctw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "JTgaming7",
-					"link": "https://www.youtube.com/watch?v=PMGkRu4V32k",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Qwerisity",
-					"link": "https://youtu.be/M6l2KAmCX70",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/J6-YuQNDIr4",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "monstergamer546",
-					"link": "https://youtu.be/eGMcIahxoig",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-				       "user": "XanPlayzGamez",
-				       "link": "https://youtu.be/Z2Zqd7T152U",
-				       "percent": 100,
-				       "hz": "288hz"
-			        },
-				{
-				       "user": "Dashermachine",
-				       "link": "https://youtu.be/r6aiMNSW1Js",
-				       "percent": 100,
-				       "hz": "Mobile"
-			        },
-				{
-				       "user": "blessed",
-				       "link": "https://youtu.be/Wkzxraw0V5s",
-				       "percent": 100,
-				       "hz": "60hz"
-			        },
-				{
-				       "user": "InferiorPatty",
-				       "link": "https://www.youtube.com/watch?v=ymekGLuvjxY&feature=youtu.be",
-				       "percent": 100,
-				       "hz": "300hz"
-			        },
-				{
-				       "user": "zGod",
-				       "link": "https://youtu.be/dEkw4WoX2-4",
-				       "percent": 100,
-				       "hz": "240hz"
-			        },
-				{
-				       "user": "FrEnchKbAb",
-				       "link": "https://youtu.be/0cR3iIJBaY4",
-				       "percent": 100,
-				       "hz": "Mobile"
-			        },
-				{
-				       "user": "Yeezo",
-				       "link": "https://youtu.be/KXyZw6m8G5o",
-				       "percent": 100,
-				       "hz": "60hz"
-			        },
-				{
-				       "user": "Soda",
-				       "link": "https://youtu.be/pylgnDjbgCw",
-				       "percent": 100,
-				       "hz": "75hz"
-			        },
-				{
-				       "user": "killboom",
-				       "link": "https://youtu.be/HBFTOPRabvw",
-				       "percent": 100,
-				       "hz": "144hz"
-			        },
-				{
-				       "user": "Leaf",
-				       "link": "https://www.youtube.com/watch?v=aUFBK1WA820",
-				       "percent": 100,
-				       "hz": "240hz"
-			        },
-				{
-				       "user": "aet",
-				       "link": "https://youtu.be/YeUvcTGCWZI",
-				       "percent": 100,
-				       "hz": "240hz"
-			        },
-				{
-				       "user": "Acidius",
-				       "link": "https://www.youtube.com/watch?v=eS_ViXQVSHw",
-				       "percent": 100,
-				       "hz": "Mobile"
-			        },
-				{
-				       "user": "Blast",
-				       "link": "https://youtu.be/D0Wg93SuUUI",
-				       "percent": 100,
-				       "hz": "Mobile"
-			        },
-				{
-				       "user": "Goodyman",
-				       "link": "https://www.youtube.com/watch?v=wC1zadPTRiQ&feature=youtu.be",
-				       "percent": 100,
-				       "hz": "165hz"
-			        },
-				{
-				       "user": "WowoGD",
-				       "link": "https://www.youtube.com/watch?v=hNy0rVHXFUU&list=PLvyLpVK5xyZHrfOpdAvBfiJLbgLIIPcMR&index=23",
-				       "percent": 100,
-				       "hz": "240hz"
-			        },
-				{
-				       "user": "Praerius",
-				       "link": "https://www.youtube.com/watch?v=n16plfUu2J4&feature=youtu.be",
-				       "percent": 100,
-				       "hz": "288hz"
-			        },
-				{
-				       "user": "FrEnchKebAb",
-				       "link": "https://youtu.be/0cR3iIJBaY4",
-				       "percent": 100,
-				       "hz": "Mobile"
-			        },
-				{
-				       "user": "xBlur",
-				       "link": "https://youtu.be/rio7cjXkTDY",
-				       "percent": 100,
-				       "hz": "240hz"
-			        },
-			],
-			"name": "Shitty Artificial Dream",
-			"author": "Cyns",
-			"more": "none",
-			"id": 63421740,
-			"pass": "173869",
-			"percentToQualify": 62,
-			"verificationVid": "https://www.youtube.com/watch?v=qd9enLukIEc",
-			"key": 27
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/XzxjsZlUU84",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=L736VUCKtVU",
-					"percent": 100,
-					"hz": "144hz"
-			        },
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/4rlEqG-Gb3M",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "RG",
-					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-                                        "user": "nayf",
-                                        "link": "https://youtu.be/fOKTa2D6ruU",
-                                        "percent": 100,
-                                        "hz": "240hz"
-                                },
-				{
-                                        "user": "Asdner",
-                                        "link": "https://youtu.be/0ci9fHpSCRw",
-                                        "percent": 63,
-                                        "hz": "69hz"
-                                },
-				{
-                                        "user": "GDMeric",
-                                        "link": "https://youtu.be/8OTlECSBRgU",
-                                        "percent": 100,
-                                        "hz": "144hz"
-                                },
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/BHmPa5mS3vw",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "WowoGD",
-					"link": "https://youtu.be/D3wrCInCRpQ",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Dist3nd",
-					"link": "https://youtu.be/YKgGhQnGFg0",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Conical",
-					"link": "https://youtu.be/4uzus2QK3i4",
-					"percent": 100,
-					"hz": "180hz"
-				},
-				{
-					"user": "Renar333",
-					"link": "https://youtu.be/n4ln9S4ZI-4",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "v1nnyy",
-					"link": "https://youtu.be/djw8L1n5iD8",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Daxy",
-					"link": "https://youtu.be/yQ9W_1zBCes",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Plasmic",
-					"link": "https://www.youtube.com/watch?v=YUa7F_yYRhA&feature=youtu.be",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "CavEmaN_mElviN",
-					"link": "https://youtu.be/45QUkLMS68I",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "xBlur",
-					"link": "https://youtu.be/4ciD5oBhGYQ",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Blathers",
-					"link": "https://youtu.be/FiKIpuPcZ-g",
-					"percent": 69,
-					"hz": "144hz"
-				},
-				{
-					"user": "Th13teen",
-					"link": "https://www.youtube.com/watch?v=6_tVPDOI5HA&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "ShDwGhost",
-					"link": "https://youtu.be/SxjXiqXR4kk",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Ryth",
-					"link": "https://youtu.be/NvSbanfvN6w?t=889",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "xRiver007",
-					"link": "https://youtu.be/ZpV4bAiSOVc",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "HopZy",
-					"link": "https://www.youtube.com/watch?v=jKUxv57it-0",
-					"percent": 100,
-					"hz": "180hz"
-				},
-				{
-					"user": "Forz1ple",
-					"link": "https://youtu.be/TFTJB1ioy84",
-					"percent": 100,
-					"hz": "72hz"
-				},
-				{
-					"user": "Tril",
-					"link": "https://youtu.be/B_QCoFZHjvU",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "wshedd",
-					"link": "https://www.youtube.com/watch?v=6YEHXJvmC5I&t=0s",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://www.youtube.com/watch?v=Yb_msmYB9Bs&feature=youtu.be",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "LevDeize",
-					"link": "https://youtu.be/t7-_tOUjHDE",
-					"percent": 71,
-					"hz": "240hz"
-				},
-				{
-					"user": "Aber",
-					"link": "https://www.youtube.com/watch?v=3OtB_vyHBPw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Tai0",
-					"link": "https://youtu.be/h4WlX94k1JI",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "jOnel",
-					"link": "https://youtu.be/Huc4BV3N4As",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "BrightBird",
-					"link": "https://youtu.be/oqpk-EwJZEQ",
-					"percent": 100,
-					"hz": "60hz"
-				},
-                        	{
-					"user": "TH54",
-					"link": "https://youtu.be/oyaEgDvYg1I",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "jToniX",
-					"link": "https://youtu.be/psHvNlVcnTo",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Kobra456",
-					"link": "https://www.youtube.com/watch?v=-A20KP-osUg",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "FizzySalad",
-					"link": "https://youtu.be/jP5zz1xPCcg",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Hyper Paracosm",
-			"author": "DigestedCitrus [Deimoz]",
-			"more": "none",
-			"id": 62106120,
-			"pass": "Free to copy",
-			"percentToQualify": 52,
-			"verificationVid": "https://youtu.be/XzxjsZlUU84",
-			"key": 28
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-                                        "user": "Amedxx2y",
-                                        "link": "https://youtu.be/4btfmkrYRFQ",
-                                        "percent": 100,
-                                        "hz": "Mobile"
-                                },
-				{
-					"user": "Aassbll",
-					"link": "https://youtu.be/mO59qZitpGA",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Soda",
-					"link": "https://youtu.be/20e3I-zjmLE",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=oXiRhT35zFU",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "GDTeaBag",
-					"link": "https://youtu.be/1Y1T2UdSCEY?t=713",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/nuA0hfze0xU",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Surpl3x",
-					"link": "https://youtu.be/mgl-tn3xPoE",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Vink",
-					"link": "https://youtu.be/2Al4j_4sxJY",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Conical",
-					"link": "https://youtu.be/UnDTeJSKe24",
-					"percent": 100,
-					"hz": "180hz"
-				},
-				{
-					"user": "TFIBB",
-					"link": "https://www.youtube.com/watch?v=iEnZ6Pt_JRA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/bTixnqONZw8",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "xBlur",
-					"link": "https://youtu.be/jPHn2lejeqg",
-					"percent": 100,
-					"hz": "180hz"
-				},
-				{
-					"user": "Th13teen",
-					"link": "https://www.youtube.com/watch?v=lwinR_RBLNE&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/5dccidFJ7JI",
-					"percent": 100,
-				        "hz": "144hz"
-				},
-				{
-					"user": "Ryth",
-					"link": "https://youtu.be/NvSbanfvN6w?t=662",
-					"percent": 100,
-				        "hz": "288hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/UDESbri5pbk",
-					"percent": 100,
-				        "hz": "144hz"
-				},
-				{
-					"user": "Xela343",
-					"link": "https://www.youtube.com/watch?v=9Dx9CqPNMF8",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Tai0",
-					"link": "https://www.twitch.tv/videos/708869822",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Creatormichaelr",
-					"link": "https://youtu.be/ZgXlQP-rbjo",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Hixobit",
-					"link": "https://www.youtube.com/watch?v=13M9W6GBX3k&feature=youtu.be",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/Wxobe9gziTI",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "zMarc",
-					"link": "https://youtu.be/-ArcVQzV1hQ",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Starlight722",
-					"link": "https://youtu.be/BusBD7hbhsg",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "ExoLiter",
-					"link": "https://youtu.be/TbkQjwCUqXcv",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "NTB",
-					"link": "https://www.youtube.com/watch?v=2bcxfdy6BlM&ab_channel=NTB",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "BrightBird",
-					"link": "https://youtu.be/83I7tvl_nwI",
-					"percent": 100,
-					"hz": "60hz"
-				},
-			],
-			"name": "Shitty Tartarus",
-			"author": "AcropolisBoy [Darkys]",
-			"more": "none",
-			"id": 59699245,
-			"pass": "606606",
-			"percentToQualify": 53,
-			"verificationVid": "https://www.youtube.com/watch?v=YXi4n8byylM",
-			"key": 29
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=l0JOnlifnsg",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-                                        "user": "Amedxx2y",
-                                        "link": "https://youtu.be/t8yDWgktw20",
-                                        "percent": 100,
-                                        "hz": "Mobile"
-                                },
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/UOK0tKqsxKU",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "rVlaash",
-					"link": "https://www.youtube.com/watch?v=CqAMnnz5Nbw",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Chojang",
-					"link": "https://youtu.be/2XuPYTN03dk",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Trollomggamer",
-					"link": "https://youtu.be/q4s5-eDpitQ",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/8VWDHVUaSs0",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/8MZCWRAeCFg",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Praerius",
-					"link": "https://www.youtube.com/watch?v=gqFRFgnaXlc&feature=youtu.be",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Renar333",
-					"link": "https://www.youtube.com/watch?v=I8s_Z5xhRU4&feature=youtu.be",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/Ooc4800QEsI",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Creatormichaelr",
-					"link": "https://youtu.be/glAV2U2TZ5s",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "FallenAresse",
-					"link": "https://www.youtube.com/watch?v=zTuJOyBCLTk&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/rLiTc_-7z1w",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Conical",
-					"link": "https://youtu.be/utBhkli4yeg",
-					"percent": 100,
-					"hz": "180hz"
-				},
-				{
-					"user": "Ketrick",
-					"link": "https://www.youtube.com/watch?v=IdlGkLJ8hFg",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-			],
-			"name": "Shitty Deimos",
-			"author": "oSpace",
-			"more": "none",
-			"id": 57271231,
-			"pass": "Free to copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=F7BO5D2b6Mo",
-			"key": 30
-		},
-		/*=================================================================================*/
-				{
-			"vids": [
-				{
-                                       "user": "Amedxx2y",
-                                       "link": "https://youtu.be/AlTh7-Cpsnc",
-                                       "percent": 100,
-                                       "hz": "mobile"
-                                },
-				{
-				        "user": "Whiliams8080",
-					"link": "https://www.youtube.com/watch?v=HMU_TVA7U14",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "rVlaash",
-					"link": "https://www.youtube.com/watch?v=gSWLlMJCBNg",
-					"percent": 90,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Soda",
-					"link": "https://www.youtube.com/watch?v=LKAnXjh9Lpg",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
-					"user": "Aassbll",
-					"link": "https://www.youtube.com/watch?v=b2Samlnkxm4",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "AcropolisBoy",
-					"link": "https://youtu.be/oa8bGWtZ7yI",
-					"percent": 78,
-					"hz": "240hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/lAkU4BWWto8",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=OiQlGRgGNnM",
-					"percent": 100,
-					"hz": "280hz"
-				},
-				{
-					"user": "Kr_Flame",
-					"link": "https://youtu.be/cRbLlrEjdg4",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "justiceguy",
-					"link": "https://youtu.be/wJSFF9zVyjg",
-					"percent": 74,
-					"hz": "60hz"
-				},
-				{
-					"user": "1qawsz",
-					"link": "https://youtu.be/evopDhTXEfs",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Bluuper",
-					"link": "https://youtu.be/ii0b9tVP5vw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Cyns",
-					"link": "https://youtu.be/tNGvpmKwgpM",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "saturn",
-					"link": "https://youtu.be/krZroYFKbdE",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "WowoGD",
-					"link": "https://youtu.be/O3ZDoxS2a9Q",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Deados35",
-					"link": "https://youtu.be/kor47PYUTf0",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Th13teen",
-					"link": "https://www.youtube.com/watch?v=5nOE3z8O7sk&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Creatormichaelr",
-					"link": "https://youtu.be/XxuCvKiUrbM",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "Magma",
-					"link": "https://www.youtube.com/watch?v=dbg0nV_sN9c",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/9oq4wCooLN8",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://www.youtube.com/watch?v=fFTjkop5FkA",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "TFIBB",
-					"link": "https://www.youtube.com/watch?v=PDwlExBdL2E",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Megum",
-					"link": "https://www.youtube.com/watch?v=QujrmwBzIjk",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "v1nnyy",
-					"link": "https://youtu.be/WANAFyq8vNc",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Blast",
-					"link": "https://youtu.be/7rMQK6kjOWY",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Praerius",
-					"link": "https://www.youtube.com/watch?v=Zf0h9V5VYCA&feature=youtu.be",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Tai0",
-					"link": "https://www.twitch.tv/videos/700989857",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Vink",
-					"link": "https://youtu.be/sR6bv2NUHgU",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "StarLight722",
-					"link": "https://youtu.be/OpG999E2f5U",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/uuVjY5ogArE",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/M4Kdtf1m83Q",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://www.youtube.com/watch?v=1y-8LnpTTpg&feature=youtu.be",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "GrimPencil16",
-					"link": "https://youtu.be/BAZmK318HD0",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "justiceguy",
-					"link": "https://youtu.be/wJSFF9zVyjg",
-					"percent": 74,
-					"hz": "60hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/qIg1UNMVq78",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Yeezo",
-					"link": "https://youtu.be/fIKm58Uy7ik",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "zMarc",
-					"link": "https://youtu.be/Hxxa7OKXgIM",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=o7axDA8040c",
-					"percent": 100,
-					"hz": "60hz"
-				},
-			],
-			"name": "Shitty Missing Benefits",
-			"author": "Keleru",
-			"more": "none",
-			"id": 52494510,
-			"pass": "Free to copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=Iu08clOYt8I",
-			"key": 31
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-                                        "user": "Amedxx2y",
-                                        "link": "https://youtu.be/IZRMNG4PRxE",
-                                        "percent": 100,
-                                        "hz": "Mobile"
-                                },
-				{
-					"user": "rVlaash",
-					"link": "https://youtu.be/OqxLgOTQ9cs",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Whiliams8080",
-					"link": "https://www.youtube.com/watch?v=0YAWYj6Y7Ig",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "AcropolisBoy",
-					"link": "https://youtu.be/BwZY9GqGgTo",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Soda",
-					"link": "https://www.youtube.com/watch?v=xmgnwKF-pFk",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
-					"user": "Aassbll",
-					"link": "https://www.youtube.com/watch?v=RwHeNSH-qvk",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/rFuwwGL6CK8",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "zMarc",
-					"link": "https://youtu.be/DQd4xvGYXYw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=8XYhcvWLFEg&list=PL5lAe2NjqiU4rWNSVvBCt_dWPG5ScW3dg&index=40",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "rMinelo",
-					"link": "https://youtu.be/FY_9GC9jv8s?t=4013",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "justiceguy",
-					"link": "https://www.youtube.com/watch?v=aulcw3aFh3A",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Vink",
-					"link": "https://youtu.be/PmnllkqKcIc",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Bluuper",
-					"link": "https://youtu.be/HZlZyd0cF_M",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/wWjc2fh1qjM",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/OnTAP5fqjFc",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Zshadoweye",
-					"link": "https://www.youtube.com/watch?v=VMwNvh2XNIY&t=8s",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Hulunn",
-					"link": "https://www.youtube.com/watch?v=IEmv5ZMteNg",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "xBlur",
-					"link": "https://youtu.be/wayGeWhEum0",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Jah",
-					"link": "hhttps://www.youtube.com/watch?v=DseNofoMZ7A&feature=youtu.be",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Megum",
-					"link": "https://www.youtube.com/watch?v=dF83WTlXt5Q",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Renar333",
-					"link": "https://youtu.be/eGsKy8bqmKE",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "FrostBurn",
-					"link": "https://youtu.be/prtHBSPAjCk",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Wadur",
-					"link": "https://www.youtube.com/watch?v=GHDQ1g5TFRg&feature=youtu.be",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "spacethug",
-					"link": "https://youtu.be/ItZCBy0yRG8",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "v1nnyy",
-					"link": "https://youtu.be/Cfu1JNyFfgE",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/Qg8vTllVj3A",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/_ukVCqK38W0",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "NKSWEETDREAM",
-					"link": "https://youtu.be/NWcTU2Yw5-8",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Qwerisity",
-					"link": "https://youtu.be/SfeXGVAwPZ4",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Just_Lemon",
-					"link": "https://www.youtube.com/watch?v=z2ybLISzN-4",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Velorum",
-					"link": "https://youtu.be/MicQLnV5elg",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Aber",
-					"link": "https://www.youtube.com/watch?v=DLzECOY2afU&ab_channel=Aber",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "zLunatiX",
-					"link": "https://www.youtube.com/watch?v=ZjXHQK-vFeg",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "jOnel",
-					"link": "https://youtu.be/0dJIPTaZUzE",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Ragnarok",
-			"author": "oSpace",
-			"more": "none",
-			"id": 55909152,
-			"pass": "343707",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=GvfSqt8ZBbY",
-			"key": 32
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/_LfqIKCQRm4",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "jOnel",
-					"link": "https://youtu.be/pV9FoNAgRNQ",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Cam",
-					"link": "https://youtu.be/NNinrWo-rAE",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/hsbEwwql3_k",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/kxW9waFGrW0",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Aber",
-					"link": "https://www.youtube.com/watch?v=wZgMKltxesg&ab_channel=Aber",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/jUF4oh7YqsI",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/yYRXq_kVCVo",
-					"percent": 100,
-					"hz": "288hz"
-				},
-			],
-			"name": "Shitty Aftermath",
-			"author": "Magma",
-			"more": "none",
-			"id": 63415046,
-			"pass": "Free to Copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=stGqAj0XSoQ",
-			"key": 33
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=7txLvxG1y5E&lc=UgxX_OXAgeBbkE2VqbJ4AaABAg",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Soda",
-					"link": "https://www.youtube.com/watch?v=4sJ_70nnPOc&feature=youtu.be",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://www.youtube.com/watch?v=PSAjB5fou68&feature=youtu.be",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "rVlaash",
-					"link": "https://www.youtube.com/watch?v=rrk0G7LX2-w",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "sandstormy",
-					"link": "https://www.youtube.com/watch?v=fMcQQDYRqhk&feature=youtu.be",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "RG",
-					"link": "https://www.youtube.com/watch?v=BxaadTZkpS8",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://www.youtube.com/watch?v=PbY_eY-pDRE",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "xBlur",
-					"link": "https://youtu.be/c3M4Udf8ul4",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/-CAKv6rGcIE",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Renar333",
-					"link": "https://youtu.be/b5HMyCGA_Dg",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "v1nnyy",
-					"link": "https://www.youtube.com/watch?v=WI_sSmcA4fU&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "GrimPencil16",
-					"link": "https://youtu.be/7CevVoSQI-A",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "MacJubber",
-					"link": "https://youtu.be/U0spBo1Nd00",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/VeYKZva9uuY",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/bPL4avdr4B8",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Th13teen",
-					"link": "https://youtu.be/__uayJWI8GA",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Dist3nd",
-					"link": "https://youtu.be/11gi80-SJOU",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/fMPQFu3qDOs",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Biz",
-					"link": "https://youtu.be/5V4621Scdfo",
-					"percent": 100,
-					"hz": "185hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=US36v6dEf_s",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Aber",
-					"link": "https://www.youtube.com/watch?v=4ja02tLloJs&ab_channel=Aber",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Macabre",
-			"author": "oSpace and more [Serpyy]",
-			"more": "GDStarStorm, Serpyy",
-			"id": 57337559,
-			"pass": "Free to copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=72THO_lErmg",
 			"key": 34
 		},
 		/*=================================================================================*/
@@ -13231,6 +13237,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Epsilionic70",
+					"link": "https://youtu.be/_c_LQoXlCRo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -14520,6 +14532,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=OelCII6KPxY",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=L84ZmLm0TJU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
@@ -17404,6 +17422,18 @@ const d = {
 				{
 					"user": "Bibus [ET]",
 					"link": "https://www.youtube.com/watch?v=SRSCA-tt3oo",
+					"percent": 100, 
+					"hz": "240hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/E3aGgqRpUOA",
+					"percent": 100, 
+					"hz": "60hz"
+				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/QNoDzLjf_zA",
 					"percent": 100, 
 					"hz": "240hz"
 				},
