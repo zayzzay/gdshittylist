@@ -628,6 +628,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=jrNaiDEk81U",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -6436,7 +6442,13 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-		],
+			        {
+					"user": "MP3141",
+					"link": "https://youtu.be/BML6Maq8Ocw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
 			"name": "Shitty 2 1 1 ",
 			"author": "Acidius",
 			"more": "none",
