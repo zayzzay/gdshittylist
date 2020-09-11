@@ -14387,7 +14387,13 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
-	                ],
+	                					{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=ee4iT4IJN1A",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
                         "name": "Shitty Ethereal Artifice",
                         "author": "Megum and more [Megum]",
                         "more": "AcropolisBoy, nezbednikSK, Flexihtala, TheKate, GDStarStorm, NezbednikSK, Aassbll, md1159",
