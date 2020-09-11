@@ -2981,6 +2981,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/JdKVhYu1eGo",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Prismatic Haze",
 			"author": "Bluuper",
