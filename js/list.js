@@ -1979,12 +1979,6 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "blessed",
-					"link": "https://youtu.be/bN791OFl-4M",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
 					"user": "jOnel",
 					"link": "https://www.youtube.com/watch?v=sOhGgH8N7TY",
 					"percent": 100,
