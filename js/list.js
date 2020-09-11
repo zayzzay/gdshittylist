@@ -16316,6 +16316,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/-INOdnatslE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Rupture",
 			"author": "JoinMolten",
