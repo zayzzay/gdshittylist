@@ -3065,6 +3065,12 @@ const d = {
 					"percent": 100,
 				        "hz": "60hz"
 				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/g656hi8sFVg",
+					"percent": 100,
+				        "hz": "180hz"
+				},
 			],
 			"name": "Shitty Prismatic Haze",
 			"author": "Bluuper",
@@ -13845,6 +13851,12 @@ const d = {
 					"percent": 100,
 				        "hz": "120hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/cTSnEF7Mi6A",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty The Flawless",
 			"author": "AcropolisBoy and more [AcropolisBoy]",
@@ -22544,6 +22556,12 @@ const d = {
 					"link": "https://youtu.be/wPgzAlv8caA",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Guip15",
+					"link": "https://www.youtube.com/watch?v=flhkL-JEAUc",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Xo Circles",
