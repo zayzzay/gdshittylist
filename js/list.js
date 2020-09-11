@@ -21109,6 +21109,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Guip15",
+					"link": "https://www.youtube.com/watch?v=Q2L5ruSK5dY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
