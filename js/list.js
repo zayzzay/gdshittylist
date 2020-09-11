@@ -14368,7 +14368,13 @@ const d = {
                 }, 
 		/*=================================================================================*/
 		 {
-                        "vids": [         
+                        "vids": [
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/bsCLyZJPggo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
                         "name": "Shitty 1929",
                         "author": "TheIcyConey[Tril]",
