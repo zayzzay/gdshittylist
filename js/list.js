@@ -9276,6 +9276,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/5lYeidNPYAk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -9884,6 +9890,12 @@ const d = {
 				{
 					"user": "iRaily",
 					"link": "https://youtu.be/0s0-7_B7sdc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=3FUr2yJBGYA",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -22869,6 +22881,12 @@ const d = {
 					"link": "https://youtu.be/U6P0DM8mxLI",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Wazted GD",
+					"link": "https://youtu.be/e9GOUtOrMk4",
+					"percent": 84,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
