@@ -290,7 +290,7 @@ const d = {
 				       "hz": "144hz"
 			        },
 			        {
-					"user": "Covieta":,
+					"user": "Covieta",
 					"link": "https://youtu.be/hm-wS9mcs7M"
 					"percent": 100,
 					"hz": "144hz"
