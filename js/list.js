@@ -291,7 +291,7 @@ const d = {
 			        },
 			        {
 					"user": "Covieta",
-					"link": "https://youtu.be/hm-wS9mcs7M"
+					"link": "https://youtu.be/hm-wS9mcs7M",
 					"percent": 100,
 					"hz": "144hz"
 				},
