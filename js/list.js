@@ -20142,6 +20142,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/qo6qVSdqElc",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
