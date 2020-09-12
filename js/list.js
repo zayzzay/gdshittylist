@@ -652,6 +652,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Depi YDN",
+					"link": "https://www.youtube.com/watch?v=JRuAr3cW2mE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -663,7 +669,44 @@ const d = {
 			"key": 6
 		},
 		/*=================================================================================*/
-		{
+			{
+		        "vids": [
+				{
+					"user": "Alphanetic",
+					"link": "https://youtu.be/6bWwnp1Rx8w",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Orizu",
+					"link": "https://youtu.be/yNGCdE95NKw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/LsdLL53sFl8",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/dax4YzhChds",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Balengu Vortex",
+			"author": "MythicalTG",
+			"more": "none",
+			"id": 63863988,
+			"pass": "Free to copy",
+			"percentToQualify": 62,
+			"verificationVid": "https://www.youtube.com/watch?v=BO4BV_WbKe0",
+			"key": 7
+		},
+		/*=================================================================================*/
+				{
 			"vids": [
 				{
 					"user": "Fhyron06",
@@ -895,43 +938,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=fcqAzQsbVdY",
-			"key": 7
-		},
-		/*=================================================================================*/
-			{
-		        "vids": [
-				{
-					"user": "Alphanetic",
-					"link": "https://youtu.be/6bWwnp1Rx8w",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Orizu",
-					"link": "https://youtu.be/yNGCdE95NKw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/LsdLL53sFl8",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/dax4YzhChds",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Balengu Vortex",
-			"author": "MythicalTG",
-			"more": "none",
-			"id": 63863988,
-			"pass": "Free to copy",
-			"percentToQualify": 62,
-			"verificationVid": "https://www.youtube.com/watch?v=BO4BV_WbKe0",
 			"key": 8
 		},
 		/*=================================================================================*/
