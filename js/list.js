@@ -7086,6 +7086,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Aassbll",
+					"link": "https://youtu.be/Qt3bwzIlluE",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Caution",
 			"author": "ZekronGD and ShadowNinja441 [ShadowNinja441]",
