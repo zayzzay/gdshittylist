@@ -1021,6 +1021,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/STq_Mjm0X7o",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Madmansion",
 			"author": "Aassbll",
@@ -2115,6 +2121,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/VreEYexF6zA",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Avalanche",
 			"author": "Cyns",
@@ -2223,6 +2235,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=2HhZ6p11T8A&ab_channel=Aber",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/VreEYexF6zA",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Step To Hell",
@@ -14495,6 +14513,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/VreEYexF6zA",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
                         "name": "Shitty 1929",
                         "author": "TheIcyConey[Tril]",
@@ -15924,6 +15948,12 @@ const d = {
 					"link": "https://youtu.be/-INOdnatslE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/VreEYexF6zA",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Rupture",
