@@ -12279,7 +12279,7 @@ const d = {
 			"id": 62302073,
 			"pass": "Free to Copy",
 			"percentToQualify": 61,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/QOd7yQAztoE",
 			"key": 85
 		},
 		/*=================================================================================*/
