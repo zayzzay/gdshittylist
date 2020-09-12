@@ -289,6 +289,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
+			        {
+					"user": "Covieta":,
+					"link": "https://youtu.be/hm-wS9mcs7M"
+					"percent": 100,
+					"hz": "144hz"
+				},
 		         ],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper [MP3141]",
