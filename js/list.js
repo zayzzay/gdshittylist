@@ -2096,6 +2096,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Depi YDN",
+					"link": "https://www.youtube.com/watch?v=qJCz5A6RDqA",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Eternal Moment",
 			"author": "Miini03",
@@ -3081,6 +3087,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=A8cawEUHkII",
 					"percent": 65,
 				        "hz": "60hz"
+				},
+				{
+					"user": "Depi YDN",
+					"link": "https://www.youtube.com/watch?v=N-E-a66TJ1o",
+					"percent": 100,
+				        "hz": "240hz"
 				},
 			],
 			"name": "Shitty Aquatic Auroras",
@@ -13699,11 +13711,17 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-								{
+				{
 					"user": "Thy",
 					"link": "https://youtu.be/-4QuDJ12Wd4",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Souqa",
+					"link": "https://youtu.be/ooDsCIs2ops",
+					"percent": 57,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Dolos",
