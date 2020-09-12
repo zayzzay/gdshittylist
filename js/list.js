@@ -16762,6 +16762,19 @@ const d = {
 		},
 		/*=====================================================c============================*/
 		{
+			"vids": [		
+			],
+			"name": "Shitty Magma Bound",
+			"author": "ShadowNinja441 and more [GDStarStorm]",
+			"more": "GDStarStorm, ShuvonIslam777",
+			"id": 56944188,
+			"pass": "314253",
+			"percentToQualify": 78,
+			"verificationVid": "https://www.youtube.com/watch?v=4Mtef2_U8yU",
+			"key": 106
+		},
+		/*=====================================================c============================*/
+		{
 			"vids": [
 				{
 					"user": "Cyns",
@@ -16981,7 +16994,7 @@ const d = {
 			"pass": "200819",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=xmOPCe4tmwk",
-			"key": 106
+			"key": 107
 		},
 		/*=================================================================================*/
 		{
@@ -17168,7 +17181,7 @@ const d = {
 			"pass": "023689",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=g-NAgrh8XXI",
-			"key": 107
+			"key": 108
 		},
 		/*=================================================================================*/
 		{
@@ -17415,7 +17428,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=0FM56f4CdH8",
-			"key": 108
+			"key": 109
 		},
 		/*=================================================================================*/
 		{
@@ -17764,7 +17777,7 @@ const d = {
 			"pass": "694201",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=wqSDcRO4BCQ",
-			"key": 109
+			"key": 110
 		},
 		/*=================================================================================*/
 		{
@@ -18089,7 +18102,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 66,
 			"verificationVid": "https://www.youtube.com/watch?v=5UTJ5-_WQNs",
-			"key": 110
+			"key": 111
 		},
 		/*=================================================================================*/
 		{
@@ -18486,7 +18499,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/qLvxTjKJqaU",
-			"key": 111
+			"key": 112
 		},
 		/*=================================================================================*/
 				{
@@ -19003,7 +19016,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 51,
                        "verificationVid": "https://youtu.be/e7rFSg5vvr8",
-                       "key": 112
+                       "key": 113
                 },
 		/*================================================================================= */
 		{
@@ -19652,7 +19665,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=lDiqYSya0NA",
-			"key": 113
+			"key": 114
 		},
 		/*=================================================================================*/
 		{
@@ -20343,7 +20356,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=-u-ijZwZuz4",
-			"key": 114
+			"key": 115
 		},
 		/*=================================================================================*/
 		{
@@ -20974,7 +20987,7 @@ const d = {
 			"pass": "101825",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=QBky9dJEi-M",
-			"key": 115
+			"key": 116
 		},
 		/*=================================================================================*/
 		{
@@ -21665,7 +21678,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6GQliYTw6hQ",
-			"key": 116
+			"key": 117
 		},
 		/*=================================================================================*/
 		{
@@ -22896,7 +22909,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=qo9v8DgztNA",
-			"key": 117
+			"key": 118
 		}
 		/*=================================================================================*/	
 
