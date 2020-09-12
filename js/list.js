@@ -9857,6 +9857,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Zshadoweye",
+					"link": "https://www.youtube.com/watch?v=69a9ziMF02M",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Cadrega Mode",
 			"author": "Megum and more [Megum]",
@@ -13887,6 +13893,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "hstorm",
+					"link": "https://www.youtube.com/watch?v=TSdCcr8cwLk",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty The Flawless",
 			"author": "AcropolisBoy and more [AcropolisBoy]",
@@ -14395,6 +14407,12 @@ const d = {
 				{
 				       "user": "uR1",
 				       "link": "https://youtu.be/jZn-JnmvOXY",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
+				{
+				       "user": "ddddr",
+				       "link": "https://www.youtube.com/watch?v=d6DYuMYntaA",
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
@@ -15821,6 +15839,37 @@ const d = {
 			"key": 101
 		},
 		/*=================================================================================*/
+				{
+			"vids": [
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/JzuC1_wgRl4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/MVuOPo3uu9k",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/-INOdnatslE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Rupture",
+			"author": "JoinMolten",
+			"more": "none",
+			"id": 63892755,
+			"pass": "258036",
+			"percentToQualify": 67,
+			"verificationVid": "https://youtu.be/Fg0yIUdcNXk",
+			"key": 102
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
@@ -16347,7 +16396,7 @@ const d = {
 			"pass": "243759",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=YkGrbj0vucY",
-			"key": 102
+			"key": 103
 		},
 		/*=================================================================================*/
 				{
@@ -16532,6 +16581,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/UxOjGQUQMxA",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
@@ -16540,40 +16595,9 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 64,
 			"verificationVid": "https://www.youtube.com/watch?v=Rnk_S2Ef-EM",
-			"key": 103
-		},
-		/*=====================================================c============================*/
-		{
-			"vids": [
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/JzuC1_wgRl4",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Cyns",
-					"link": "https://youtu.be/MVuOPo3uu9k",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/-INOdnatslE",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Rupture",
-			"author": "JoinMolten",
-			"more": "none",
-			"id": 63892755,
-			"pass": "258036",
-			"percentToQualify": 67,
-			"verificationVid": "https://youtu.be/Fg0yIUdcNXk",
 			"key": 104
 		},
-		/*=================================================================================*/
+		/*=====================================================c============================*/
 		{
 			"vids": [
 				{
@@ -16779,6 +16803,12 @@ const d = {
 					"link": "https://youtu.be/0gM9Cj-XpIs",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=hZLzD6oEcd8",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Wavebreaker",
@@ -18778,6 +18808,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			       },
+			       {
+				       "user": "ddddr",
+				       "link": "https://www.youtube.com/watch?v=K1ODTN8v6us",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -19420,6 +19456,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=dduAXp5FqFg",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=0rWof_ydbCk",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sakupen Hell",
@@ -20719,6 +20761,18 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=V_BtFcIkzcU",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/BHHBDDQXl-o",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -21403,6 +21457,12 @@ const d = {
 					"link": "https://youtu.be/B6eYATkJ3zc",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=SlMvx-ERixM",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Killerzone",
@@ -22599,7 +22659,7 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
-					{
+				{
 					"user": "TheRealTeamXII",
 					"link": "https://www.youtube.com/watch?v=39gwpBpscOA",
 					"percent": 72,
@@ -22616,6 +22676,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=flhkL-JEAUc",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=OetLUB3GDPw",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
