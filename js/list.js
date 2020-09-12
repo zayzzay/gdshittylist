@@ -2084,6 +2084,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "uR1",
+					"link": "https://www.youtube.com/watch?v=cCrPwW9mrN4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Eternal Moment",
 			"author": "Miini03",
@@ -3063,6 +3069,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=f5P4ky-RL8s",
 					"percent": 100,
 				        "hz": "Mobile"
+				},
+				{
+					"user": "justiceguy",
+					"link": "https://www.youtube.com/watch?v=A8cawEUHkII",
+					"percent": 65,
+				        "hz": "60hz"
 				},
 			],
 			"name": "Shitty Aquatic Auroras",
@@ -6296,6 +6308,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=B3t5LImilEU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cosmorush 21",
 			"author": "AcropolisBoy and Whiliams8080 [Bartoldo]",
@@ -7024,6 +7042,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Zshadoweye",
+					"link": "https://youtu.be/UeQZF_ZeXh8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Ancestral Calamity",
 			"author": "oSpace and more [oSpace]",
@@ -7483,6 +7507,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=p4XeHtRexhU",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "justiceguy",
+					"link": "https://youtu.be/cUEskjHJNPU",
+					"percent": 100,
+					"hz": "60hz"
 				},
                         ],
 			"name": "Shitty Rate Demon",
@@ -9832,6 +9862,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+				       "user": "iRaily",
+				       "link": "https://youtu.be/wrOJjpFhQts",
+				       "percent": 100,
+				       "hz": "144hz"
+			      },
 			],
 			"name": "Shitty Cadrega Mode",
 			"author": "Megum and more [Megum]",
