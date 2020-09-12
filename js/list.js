@@ -19,7 +19,7 @@ const d = {
 				       "user": "Plasmic",
 				       "link": "https://www.youtube.com/watch?v=q_qw68G_c5Y&feature=youtu.be",
 				       "percent": 100,
-				       "hz": "300hz"
+				       "hz": "300hz" 
 			       },
 			       {
 				       "user": "GDMeric",
@@ -8359,12 +8359,6 @@ const d = {
 					"link": "https://youtu.be/jDEL6x1tEDM",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "Goodyman",
-					"link": "https://www.youtube.com/watch?v=EVmVt4jw-Zg&t=1s",
-					"percent": 100,
-					"hz": "165hz"
 				},
 				{
 					"user": "FizzySalad",
@@ -16749,6 +16743,12 @@ const d = {
 					"link": "https://youtu.be/iD2tSwp3ua4",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Goodyman",
+					"link": "https://www.youtube.com/watch?v=EVmVt4jw-Zg&t=1s",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Wavebreaker",
