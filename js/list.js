@@ -881,6 +881,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=IGcFujUq3Jo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -2701,7 +2707,7 @@ const d = {
 					"user": "ddddr",
 					"link": "https://www.youtube.com/watch?v=C0Fl2wwSZaw",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Zettabyte",
@@ -4369,6 +4375,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/WZ37sN37k8I",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Aftermath",
 			"author": "Magma",
@@ -4500,7 +4512,7 @@ const d = {
 					"user": "ddddr",
 					"link": "https://www.youtube.com/watch?v=US36v6dEf_s",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": "144hz"
 				},
 				{
 					"user": "Aber",
@@ -10667,6 +10679,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "nancho",
+					"link": "https://youtu.be/euLnaZBSCLY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -11348,7 +11366,7 @@ const d = {
 				       "user": "ddddr",
 				       "link": "https://www.youtube.com/watch?v=a8Qe1S3HLDU",
 				       "percent": 100,
-				       "hz": "60hz"
+				       "hz": "144hz"
 			        },
 			],
 			"name": "Shitty Firepower",
@@ -14837,7 +14855,7 @@ const d = {
 					"user": "ddddr",
 					"link": "https://www.youtube.com/watch?v=OelCII6KPxY",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": "144hz"
 				},
 				{
 					"user": "GD Cade21",
@@ -16315,6 +16333,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/cf-5q0e51uQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -16749,6 +16773,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=EVmVt4jw-Zg&t=1s",
 					"percent": 100,
 					"hz": "165hz"
+				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/0gM9Cj-XpIs",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Wavebreaker",
@@ -20680,6 +20710,12 @@ const d = {
 				{
 					"user": "CoolCodin",
 					"link": "https://youtu.be/DfSRn3ZWpvc",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "GDBruhsta",
+					"link": "https://youtu.be/nkjqGHQKCqc",
 					"percent": 100,
 					"hz": "60hz"
 				},
