@@ -16762,7 +16762,13 @@ const d = {
 		},
 		/*=====================================================c============================*/
 		{
-			"vids": [		
+			"vids": [
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/DS7F_kUssSM",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
