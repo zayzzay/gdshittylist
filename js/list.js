@@ -17185,6 +17185,18 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/Y9u6EadIOno",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/GZZZSOHikEY?t=77",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
