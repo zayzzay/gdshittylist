@@ -3767,7 +3767,7 @@ const d = {
 		{
 			"vids": [	
 			],
-			"name": "Shitty Hyper Paracosm",
+			"name": "Shitty Gang Plank Hell",
 			"author": "AcropolisBoy and more [AcropolisBoy]",
 			"more": "ZekronGD, Aassbll, DeadshotHD, HDLink13, TheKate, Jackieriz, Williams8080",
 			"id": 63487281,
