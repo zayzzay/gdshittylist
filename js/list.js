@@ -14839,6 +14839,36 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=nwxpH-LG5Wg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Praerius",
+					"link": "https://www.youtube.com/watch?v=a0nguAE4lN0&feature=youtu.be&ab_channel=Praerius%E2%80%A2",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/W8rpJDprYmY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=njieBKRvmmY&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/g24CcquO6iM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
                         "name": "Shitty 1929",
                         "author": "TheIcyConey[Tril]",
