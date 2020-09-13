@@ -13844,6 +13844,12 @@ const d = {
 					"percent": 57,
 					"hz": "60hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=n-aJYaVQrYY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -14222,6 +14228,12 @@ const d = {
 				{
 					"user": "ddddr",
 					"link": "https://www.youtube.com/watch?v=UiBA0oNJGLI",
+					"percent": 100,
+				        "hz": "144hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=n-aJYaVQrYY",
 					"percent": 100,
 				        "hz": "144hz"
 				},
