@@ -1945,6 +1945,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/Fdqck_SGHcs",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
