@@ -639,7 +639,13 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-		        "vids": [	
+		        "vids": [
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/sypq9JoIzeA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Spacial Rend",
 			"author": "piesy and Jah [piesy]",
@@ -7419,6 +7425,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/sypq9JoIzeA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Caution",
 			"author": "ZekronGD and ShadowNinja441 [ShadowNinja441]",
@@ -11646,6 +11658,12 @@ const d = {
 					"link": "https://youtu.be/r0eKur5JZGk",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/sypq9JoIzeA",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty The Hell Bird",
@@ -19684,6 +19702,12 @@ const d = {
 					"link": "https://youtu.be/kyuefQIaLno",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/sypq9JoIzeA",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
                        "name": "Shitty Doop",
