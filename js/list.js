@@ -295,6 +295,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=YVnKwp8_Y-4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 		         ],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper [MP3141]",
@@ -2742,6 +2748,12 @@ const d = {
 				{
 					"user": "HideriGH",
 					"link": "https://youtu.be/i1B44cr-6zk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=Yp2UwHJXjj8",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -6887,6 +6899,12 @@ const d = {
 					"link": "https://youtu.be/GHjw6-KJ4Ng",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Madcards",
+					"link": "https://www.youtube.com/watch?v=9Ul0n4-714w",
+					"percent": 78,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Glide",
@@ -11060,6 +11078,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "errør",
+					"link": "https://youtu.be/50JDO-DtYgE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -12565,6 +12589,12 @@ const d = {
 				{
 					"user": "iRaily",
 					"link": "https://youtu.be/qrZ9w7AvxSw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=g2hsh4VCfB4",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -18936,6 +18966,12 @@ const d = {
 					"link": "https://youtu.be/8t7IOyHRDbY",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=LEogZTKzIfw",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Mujigae",
