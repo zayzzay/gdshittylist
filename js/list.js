@@ -9964,6 +9964,12 @@ const d = {
 				       "link": "https://youtu.be/wrOJjpFhQts",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Zshadoweye",
+				       "link": "https://www.youtube.com/watch?v=69a9ziMF02M&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "60hz"
 			      },
 			],
 			"name": "Shitty Cadrega Mode",
