@@ -6767,6 +6767,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/wNs2PavWNjM",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
@@ -12937,6 +12943,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Questionblockg",
+					"link": "https://youtu.be/ejwnZvVbQ3c",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -13255,6 +13267,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=lJw_qSt0Wzk",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "uR1",
+					"link": "https://youtu.be/f5hPuJLIdkQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Paroxysm",
@@ -14092,6 +14110,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=n-aJYaVQrYY",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ItsCeleste",
+					"link": "https://youtu.be/kqZ842sbMVc",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Dolos",
@@ -16527,6 +16551,12 @@ const d = {
 				{
 					"user": "GD Cade21",
 					"link": "https://www.youtube.com/watch?v=6QnjKr2SwnI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/INTjHKWeRuU",
 					"percent": 100,
 					"hz": "144hz"
 				},
