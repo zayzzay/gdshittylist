@@ -1963,6 +1963,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Biz",
+					"link": "https://www.youtube.com/watch?v=Q7yqoqemVEE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "TzAnder",
+					"link": "https://youtu.be/HK50HsIJGCg",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
