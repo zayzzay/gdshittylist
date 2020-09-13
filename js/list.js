@@ -1992,13 +1992,19 @@ const d = {
 					"user": "Biz",
 					"link": "https://www.youtube.com/watch?v=Q7yqoqemVEE",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "185hz"
 				},
 				{
 					"user": "TzAnder",
 					"link": "https://youtu.be/HK50HsIJGCg",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/5G73hb8SSfo",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Wasureta",
@@ -2180,6 +2186,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=qJCz5A6RDqA",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=PvakVZDTHOU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Eternal Moment",
@@ -15570,6 +15582,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Acidius",
+					"link": "https://youtu.be/xqsjcfq37hY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -15906,7 +15924,7 @@ const d = {
 					"user": "LegionofBaum31",
 					"link": "https://www.youtube.com/watch?v=hdcvczkzN0Q",
 					"percent": 100,
-					"hz": "120"
+					"hz": "120hz"
 				},
 				{
 					"user": "TH54",
@@ -15949,6 +15967,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=5rUPxWSzc-4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/OybJOPI2FQY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=FtHLWBWh_XU",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Ballin",
@@ -17619,6 +17649,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=hZLzD6oEcd8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=qPn5ZVqOqY0",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Wavebreaker",
@@ -21048,6 +21084,12 @@ const d = {
 					"link": "https://youtu.be/gVCLsC9SKWI",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Biz",
+					"link": "https://youtu.be/ozFJlmmiYIY",
+					"percent": 100,
+					"hz": "185hz"
 				},
 			],
 			"name": "Shitty VendetTa",
