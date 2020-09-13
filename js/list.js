@@ -10945,6 +10945,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Guip15",
+					"link": "https://youtu.be/-TZJ9SsmXtA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
