@@ -10196,6 +10196,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/8wf5lFCc_2w",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "UnbreakablePlayz",
+					"link": "https://youtu.be/gAjyoOyNVh0",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
