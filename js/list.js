@@ -10116,7 +10116,31 @@ const d = {
 					"link": "https://youtu.be/pJ-owZyOoZ4",
 					"percent": 100,
 					"hz": "240hz"
-				},	
+				},
+				{
+					"user": "v1nnyy",
+					"link": "https://youtu.be/nrPG0_adSJ8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/bija7PX1VSo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Biz",
+					"link": "https://www.youtube.com/watch?v=yoadpjHuhkc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/g24CcquO6iM?t=75",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
