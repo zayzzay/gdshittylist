@@ -638,25 +638,6 @@ const d = {
 			"key": 5
 		},
 		/*=================================================================================*/
-		{
-		        "vids": [
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/sypq9JoIzeA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Spacial Rend",
-			"author": "piesy and Jah [piesy]",
-			"more": "none",
-			"id": 63976167,
-			"pass": "Free copy",
-			"percentToQualify": 63,
-			"verificationVid": "https://www.youtube.com/watch?v=PmI1SlfjwyI&feature=youtu.be",
-			"key": 6
-		},
-		/*=================================================================================*/
 				{
 		"vids": [
 				{
@@ -703,7 +684,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 60,
                        "verificationVid": "https://www.youtube.com/watch?v=7edY17u4Upo",
-                       "key": 7
+                       "key": 6
                 },
 		/*=================================================================================*/
 			{
@@ -740,7 +721,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 62,
 			"verificationVid": "https://www.youtube.com/watch?v=BO4BV_WbKe0",
-			"key": 8
+			"key": 7
 		},
 		/*=================================================================================*/
 				{
@@ -981,7 +962,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=fcqAzQsbVdY",
-			"key": 9
+			"key": 8
 		},
 		/*=================================================================================*/
 		{
@@ -1078,7 +1059,7 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=x89Bj43uEDU",
-			"key": 10
+			"key": 9
 		},
 		/*=================================================================================*/
 				{
@@ -1157,7 +1138,7 @@ const d = {
 			"pass": "032520",
 			"percentToQualify": 52,
 			"verificationVid": "https://www.youtube.com/watch?v=N9vQCwp01pM",
-			"key": 11
+			"key": 10
 		},
 		/*=================================================================================*/
 		{
@@ -1290,7 +1271,7 @@ const d = {
 			"pass": "666666",
 			"percentToQualify": 46,
 			"verificationVid": "https://www.youtube.com/watch?v=gvkoieLhRLo",
-			"key": 12
+			"key": 11
 		},
 		/*=================================================================================*/
 		{
@@ -1399,7 +1380,7 @@ const d = {
 			"pass": "000005",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=yW9oNZ07yC8",
-			"key": 13
+			"key": 12
 		},
 		/*=================================================================================*/
 		{
@@ -1520,7 +1501,7 @@ const d = {
 			"pass": "100006",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=RPDmLNJBpMc",
-			"key": 14
+			"key": 13
 		},
 		/*=================================================================================*/
 		{
@@ -1743,6 +1724,25 @@ const d = {
 			"pass": "789123",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=xGBfvrRvIbU",
+			"key": 14
+		},
+		/*=================================================================================*/
+		{
+		        "vids": [
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/sypq9JoIzeA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Spacial Rend",
+			"author": "piesy and Jah [piesy]",
+			"more": "none",
+			"id": 63976167,
+			"pass": "Free copy",
+			"percentToQualify": 63,
+			"verificationVid": "https://www.youtube.com/watch?v=PmI1SlfjwyI&feature=youtu.be",
 			"key": 15
 		},
 		/*=================================================================================*/
