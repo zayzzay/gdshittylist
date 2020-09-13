@@ -2491,6 +2491,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Orizu",
+					"link": "https://youtu.be/E3TPx6PGEoY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Retitled",
 			"author": "Soda",
@@ -2756,6 +2762,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Yp2UwHJXjj8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Orizu",
+					"link": "https://youtu.be/wX--ti7-3-Y",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Arctic Lights",
@@ -5038,6 +5050,12 @@ const d = {
 					"link": "https://youtu.be/bTyF3ptImkk",
 					"percent": 100,
 					"hz": "185hz"
+				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/GZZZSOHikEY?t=269",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Sonic Wave",
@@ -11853,6 +11871,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			        },
+				{
+				       "user": "Acidius",
+				       "link": "https://youtu.be/8vFNF3fDh3w",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
 			],
 			"name": "Shitty Firepower",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -17319,6 +17343,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/GZZZSOHikEY?t=445",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -18336,6 +18366,12 @@ const d = {
 					"link": "https://youtu.be/e6sj27jlANg",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "GamerbossPlayz",
+					"link": "https://youtu.be/uaBYoF_6IYY",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty xo",
