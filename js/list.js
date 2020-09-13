@@ -9415,6 +9415,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/ffIC4SxZI4Y",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
