@@ -17360,11 +17360,17 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			      },
-			         {
+			      {
 				       "user": "UnbreakablePlays",
 				       "link": "https://youtu.be/DJ0Bu5gxkgM",
 				       "percent": 100,
 				       "hz": "180hz"
+			      },
+		       	      {
+				       "user": "Blast",
+				       "link": "https://youtu.be/7xBCjSkTCQ4",
+				       "percent": 100,
+				       "hz": "Mobile"
 			      },
 		       ],
 			"name": "Shitty Carnage Mode",
