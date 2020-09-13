@@ -12386,6 +12386,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Zshadoweye",
+					"link": "https://youtu.be/ODm0AgzKKqs",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
