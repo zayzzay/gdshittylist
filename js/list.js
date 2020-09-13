@@ -2308,6 +2308,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Orizu",
+					"link": "https://www.youtube.com/watch?v=pQkXniV8ZBw",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Step To Hell",
 			"author": "oSpace",
