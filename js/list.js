@@ -227,7 +227,13 @@ const d = {
 				       "link": "https://youtu.be/iz2oLZ4JsrQ",
 				       "percent": 100,
 				       "hz": "144hz"
-			        },			 
+			        },
+				{
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/5r7ex8uNASY",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
                          ],
                        "name": "Shitty Hateful Reflection",
                        "author": "v1nnyy",
@@ -301,6 +307,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/WTlARI2xilw",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 		         ],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper [MP3141]",
@@ -2242,6 +2254,13 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/BvSbYS6dSVw",
+					"percent": 100,
+					"hz": "360hz"
+				},
+				
 			],
 			"name": "Shitty Avalanche",
 			"author": "Cyns",
@@ -2453,6 +2472,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=MZ11FP1mz70",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/KU60tGkh_Pk",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Poltergeist Reborn",
@@ -10293,6 +10318,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/CDLhHyQlxMo",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
@@ -11676,6 +11707,12 @@ const d = {
 					"link": "https://youtu.be/sypq9JoIzeA",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/FNBBV9v5UsE",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty The Hell Bird",
@@ -15980,6 +16017,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/czfaeLFwc9A",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Ballin",
 			"author": "Aassbll",
@@ -19744,6 +19787,12 @@ const d = {
 					"link": "https://youtu.be/sypq9JoIzeA",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/LDXnSqKXwz8",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
                        "name": "Shitty Doop",
