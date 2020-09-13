@@ -19647,6 +19647,25 @@ const d = {
                        "key": 117
                 },
 		/*================================================================================= */
+		   {
+			"vids": [
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/kyuefQIaLno",
+					"percent": 100,
+					"hz": "288hz"
+				},
+			],
+                       "name": "Shitty Doop",
+                       "author": "Megum and more [Megum]",
+                       "more": "md1159, GDStarStorm, zMadeFire, ImColdBlast, AcropolisBoy, Depressionate7, Miini03, Fkader",
+                       "id": 56645519,
+                       "pass": "Free to copy",
+                       "percentToQualify": 73,
+                       "verificationVid": "https://www.youtube.com/watch?v=16w6BhgEBHs",
+                       "key": 118
+                },
+		/*================================================================================= */
 		{
 			"vids": [
 				{
@@ -20293,7 +20312,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=lDiqYSya0NA",
-			"key": 118
+			"key": 119
 		},
 		/*=================================================================================*/
 		{
@@ -20984,7 +21003,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=-u-ijZwZuz4",
-			"key": 119
+			"key": 120
 		},
 		/*=================================================================================*/
 		{
@@ -21615,7 +21634,7 @@ const d = {
 			"pass": "101825",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=QBky9dJEi-M",
-			"key": 120
+			"key": 121
 		},
 		/*=================================================================================*/
 		{
@@ -22312,7 +22331,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6GQliYTw6hQ",
-			"key": 121
+			"key": 122
 		},
 		/*=================================================================================*/
 		{
@@ -23555,7 +23574,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=qo9v8DgztNA",
-			"key": 122
+			"key": 123
 		}
 		/*=================================================================================*/	
 
