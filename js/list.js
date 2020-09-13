@@ -17052,6 +17052,48 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Acidius",
+					"link": "https://youtu.be/I1aOsvWbWlY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/32TeKu1_HD0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/pVUPGrsMo-k",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=dN_zYuoNHMo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ItsCeleste",
+					"link": "https://youtu.be/BXr0mFVd_YA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "MythicalTG",
+					"link": "https://youtu.be/6N4iohDUBmI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=2k6waGRcmb0",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
