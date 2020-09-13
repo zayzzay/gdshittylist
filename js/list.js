@@ -20512,12 +20512,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Blast",
-					"link": "https://youtu.be/gVCLsC9SKWI",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "ComeOut",
 					"link": "https://youtu.be/LdcgUDfHtHM",
 					"percent": 100,
