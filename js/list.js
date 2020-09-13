@@ -6852,6 +6852,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [			
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/pJ-owZyOoZ4",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Nine Paws",
 			"author": "DeadshotHD [xFactorGD]",
@@ -10075,6 +10081,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [	
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/C_thHgTqn5w",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/pJ-owZyOoZ4",
+					"percent": 100,
+					"hz": "240hz"
+				},	
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
@@ -17021,6 +17039,18 @@ const d = {
 					"link": "https://youtu.be/DS7F_kUssSM",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/C_thHgTqn5w",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/hJLYsdNmzTM",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Magma Bound",
