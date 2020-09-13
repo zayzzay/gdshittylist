@@ -313,55 +313,6 @@ const d = {
                 },
 		/*=================================================================================*/
 		{
-		"vids": [
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/a0cvVfhmJnw",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Orizu",
-					"link": "https://www.youtube.com/watch?v=B4prJlUzskc&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Aquii",
-					"link": "https://youtu.be/Psuiyo2mKm0",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/wglcKsFnxac",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			        {
-					"user": "Aber",
-					"link": "https://www.youtube.com/watch?v=l3GkFEyNcv8&ab_channel=Aber",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/_5q9Gk-mAbE",
-					"percent": 100,
-					"hz": "144hz"
-				},
-		         ],
-                       "name": "Shitty Removed Submission",
-                       "author": "v1nnyy and xSmajlik [v1nnyy]",
-                       "more": "none",
-                       "id": 63781808,
-                       "pass": "Free to copy",
-                       "percentToQualify": 60,
-                       "verificationVid": "https://www.youtube.com/watch?v=7edY17u4Upo",
-                       "key": 4
-                },
-		/*=================================================================================*/
-		{
 			"vids": [
 				{
 					"user": "Starprint",
@@ -605,10 +556,10 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/6mBUCC8dlCY",
-			"key": 5
+			"key": 4
 		},
 		/*=================================================================================*/
-						{
+		{
 			"vids": [
 				{
 					"user": "GDMeric",
@@ -684,7 +635,7 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=jiiWz3WV6cM",
-			"key": 6
+			"key": 5
 		},
 		/*=================================================================================*/
 		{
@@ -697,8 +648,57 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=PmI1SlfjwyI&feature=youtu.be",
-			"key": 7
+			"key": 6
 		},
+		/*=================================================================================*/
+				{
+		"vids": [
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/a0cvVfhmJnw",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Orizu",
+					"link": "https://www.youtube.com/watch?v=B4prJlUzskc&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Aquii",
+					"link": "https://youtu.be/Psuiyo2mKm0",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/wglcKsFnxac",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			        {
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=l3GkFEyNcv8&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/_5q9Gk-mAbE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+		         ],
+                       "name": "Shitty Removed Submission",
+                       "author": "v1nnyy and xSmajlik [v1nnyy]",
+                       "more": "none",
+                       "id": 63781808,
+                       "pass": "Free to copy",
+                       "percentToQualify": 60,
+                       "verificationVid": "https://www.youtube.com/watch?v=7edY17u4Upo",
+                       "key": 7
+                },
 		/*=================================================================================*/
 			{
 		        "vids": [
@@ -6949,6 +6949,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/z9-QpPNly0Y",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Nine Paws",
 			"author": "DeadshotHD [xFactorGD]",
@@ -9952,6 +9958,12 @@ const d = {
 					"link": "https://youtu.be/zH_H_z8WVC8",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Alphanetic",
+					"link": "https://youtu.be/S3JUttZ9Qu8",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Stalemate Redux",
