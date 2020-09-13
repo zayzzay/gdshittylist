@@ -21935,6 +21935,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Cailloux",
+					"link": "https://www.youtube.com/watch?v=cRUINVnBeLQ&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
