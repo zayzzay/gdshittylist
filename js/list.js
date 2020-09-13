@@ -1951,6 +1951,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=uWsKmf9myAk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
