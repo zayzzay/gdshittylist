@@ -19509,6 +19509,24 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+			        {
+					"user": "MythicalTG",
+					"link": "https://youtu.be/w23nqMgVpRg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			        {
+					"user": "Bibus [ET]",
+					"link": "https://www.youtube.com/watch?v=zX0k4Gfwrbw",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			        {
+					"user": "N1kix",
+					"link": "https://www.youtube.com/watch?v=GZZZSOHikEY&feature=youtu.be",
+					"percent": 100,
+					"hz": "180hz"
+				},
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
