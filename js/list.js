@@ -192,62 +192,7 @@ const d = {
 		/*=================================================================================*/
 		{   
 		"vids": [
-				{
-				       "user": "piesy",
-				       "link": "https://www.youtube.com/watch?v=ee1ifkVOKnQ",
-				       "percent": 100,
-				       "hz": "288hz"
-			        },
-				{
-				       "user": "GDMeric",
-				       "link": "https://www.youtube.com/watch?v=zZEruSFzvII",
-				       "percent": 100,
-				       "hz": "144hz"
-			        },
-				{
-				       "user": "Praerius",
-				       "link": "https://www.youtube.com/watch?v=dUVrdNaSGYo&feature=youtu.be",
-				       "percent": 100,
-				       "hz": "288hz"
-			        },
-				{
-				       "user": "Spacethug",
-				       "link": "https://youtu.be/6cPWIxRKkzQ",
-				       "percent": 76,
-				       "hz": "240hz"
-			        },
-				{
-				       "user": "Orizu",
-				       "link": "https://youtu.be/gP9H3l9wo3o",
-				       "percent": 100,
-				       "hz": "240hz"
-			        },
-                                {
-				       "user": "Alphanetic",
-				       "link": "https://youtu.be/iz2oLZ4JsrQ",
-				       "percent": 100,
-				       "hz": "144hz"
-			        },
-				{
-				       "user": "XanPlayzGamez",
-				       "link": "https://youtu.be/5r7ex8uNASY",
-				       "percent": 100,
-				       "hz": "288hz"
-			       },
-                         ],
-                       "name": "Shitty Hateful Reflection",
-                       "author": "v1nnyy",
-                       "more": "Bluuper,Ppraerius",
-                       "id": 63161977,
-                       "pass": "Not Copyable",
-                       "percentToQualify": 49,
-                       "verificationVid": "https://www.youtube.com/watch?v=7bxgDss4jXM&start=20s%29",
-                       "key": 2
-                },
-		/*=================================================================================*/
-		{
-                "vids": [
-				{
+			{
 				       "user": "piesy",
 				       "link": "https://youtu.be/0dugNl3VqX8",
 				       "percent": 100,
@@ -321,6 +266,61 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 64,
                        "verificationVid": "https://www.youtube.com/watch?v=zQbSDp6iWCg",
+                       "key": 2
+                },
+		/*=================================================================================*/
+		{
+                "vids": [
+			{
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=ee1ifkVOKnQ",
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
+				{
+				       "user": "GDMeric",
+				       "link": "https://www.youtube.com/watch?v=zZEruSFzvII",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
+				{
+				       "user": "Praerius",
+				       "link": "https://www.youtube.com/watch?v=dUVrdNaSGYo&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
+				{
+				       "user": "Spacethug",
+				       "link": "https://youtu.be/6cPWIxRKkzQ",
+				       "percent": 76,
+				       "hz": "240hz"
+			        },
+				{
+				       "user": "Orizu",
+				       "link": "https://youtu.be/gP9H3l9wo3o",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
+                                {
+				       "user": "Alphanetic",
+				       "link": "https://youtu.be/iz2oLZ4JsrQ",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
+				{
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/5r7ex8uNASY",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+                         ],
+                       "name": "Shitty Hateful Reflection",
+                       "author": "v1nnyy",
+                       "more": "Bluuper,Ppraerius",
+                       "id": 63161977,
+                       "pass": "Not Copyable",
+                       "percentToQualify": 49,
+                       "verificationVid": "https://www.youtube.com/watch?v=7bxgDss4jXM&start=20s%29",
                        "key": 3
                 },
 		/*=================================================================================*/
