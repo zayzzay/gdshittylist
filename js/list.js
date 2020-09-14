@@ -2031,6 +2031,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/t04e8-KmxzI",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Catalyze",
 			"author": "Bluuper",
@@ -2038,7 +2044,7 @@ const d = {
 			"id": 62969628,
 			"pass": "Free to copy",
 			"percentToQualify": 50,
-			"verificationVid": "https://www.youtube.com/watch?v=E7Gk0XbpFdw",
+			"verificationVid": "https://www.youtube.com/watch?v=djwY15f51dE",
 			"key": 17
 		},
 		/*=================================================================================*/
@@ -3609,6 +3615,12 @@ const d = {
 				       "link": "https://youtu.be/NMwWLzmu4cg",
 				       "percent": 100,
 				       "hz": "60hz"
+			        },
+				{
+				       "user": "ddddr",
+				       "link": "https://www.youtube.com/watch?v=mTtXHL1QNEU",
+				       "percent": 100,
+				       "hz": "144hz"
 			        },
 			],
 			"name": "Shitty Artificial Dream",
@@ -7037,8 +7049,8 @@ const d = {
 				},
 				{
 					"user": "Madcards",
-					"link": "https://www.youtube.com/watch?v=9Ul0n4-714w",
-					"percent": 78,
+					"link": "https://www.youtube.com/watch?v=Q8-xenCujf0",
+					"percent": 84,
 					"hz": "240hz"
 				},
 			],
@@ -18696,8 +18708,8 @@ const d = {
 				},
 				{
 					"user": "ItsHyper37",
-					"link": "https://youtu.be/aD5yO_-olIYF",
-					"percent": 90,
+					"link": "https://youtu.be/w0IWRkD9S3M",
+					"percent": 94,
 					"hz": "Mobile"
 				},
 				{
@@ -23750,8 +23762,8 @@ const d = {
 				},
 				{
 					"user": "SmallDaniPlay",
-					"link": "https://www.youtube.com/watch?v=94BpRMPLInE&feature=youtu.be",
-					"percent": 96,
+					"link": "https://youtu.be/6Jdr0C2RbG8",
+					"percent": 100,
 					"hz": "60hz"
 				},
 			],
