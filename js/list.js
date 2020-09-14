@@ -1159,6 +1159,25 @@ const d = {
 			"key": 10
 		},
 		/*=================================================================================*/
+				{
+		        "vids": [
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/sypq9JoIzeA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Spacial Rend",
+			"author": "piesy and Jah [piesy]",
+			"more": "none",
+			"id": 63976167,
+			"pass": "Free copy",
+			"percentToQualify": 63,
+			"verificationVid": "https://www.youtube.com/watch?v=PmI1SlfjwyI&feature=youtu.be",
+			"key": 11
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
@@ -1289,7 +1308,7 @@ const d = {
 			"pass": "666666",
 			"percentToQualify": 46,
 			"verificationVid": "https://www.youtube.com/watch?v=gvkoieLhRLo",
-			"key": 11
+			"key": 12
 		},
 		/*=================================================================================*/
 		{
@@ -1398,7 +1417,7 @@ const d = {
 			"pass": "000005",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=yW9oNZ07yC8",
-			"key": 12
+			"key": 13
 		},
 		/*=================================================================================*/
 		{
@@ -1519,7 +1538,7 @@ const d = {
 			"pass": "100006",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=RPDmLNJBpMc",
-			"key": 13
+			"key": 14
 		},
 		/*=================================================================================*/
 		{
@@ -1742,25 +1761,6 @@ const d = {
 			"pass": "789123",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=xGBfvrRvIbU",
-			"key": 14
-		},
-		/*=================================================================================*/
-		{
-		        "vids": [
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/sypq9JoIzeA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Spacial Rend",
-			"author": "piesy and Jah [piesy]",
-			"more": "none",
-			"id": 63976167,
-			"pass": "Free copy",
-			"percentToQualify": 63,
-			"verificationVid": "https://www.youtube.com/watch?v=PmI1SlfjwyI&feature=youtu.be",
 			"key": 15
 		},
 		/*=================================================================================*/
