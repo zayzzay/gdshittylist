@@ -966,6 +966,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TzAnder",
+					"link": "https://youtu.be/zGboTqD5waY",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -9659,6 +9665,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=VSp3g6lihxQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -11508,6 +11520,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Bibus [ET]",
+					"link": "https://www.youtube.com/watch?v=WEh9UsZVAiM",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
@@ -11851,6 +11869,12 @@ const d = {
 				{
 					"user": "Acidius",
 					"link": "https://youtu.be/PgM-oUhqGrc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/7MUrU8j05_o",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -17953,6 +17977,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			      },
+			        {
+				       "user": "NKSWEETDREAM",
+				       "link": "https://youtu.be/Yp6WcnjENro",
+				       "percent": 100,
+				       "hz": "144hz"
+			      },
 		       ],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
@@ -18879,6 +18909,12 @@ const d = {
 					"link": "https://youtu.be/VXyRJ9Ll_X0",
 					"percent": 100, 
 					"hz": "60hz"
+				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/4CldTbpRFkM",
+					"percent": 100, 
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -23765,6 +23801,12 @@ const d = {
 					"link": "https://youtu.be/6Jdr0C2RbG8",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Bibus [ET]",
+					"link": "https://www.youtube.com/watch?v=IOZajB0LCLE",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
