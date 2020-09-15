@@ -2321,7 +2321,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
-				
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/UMyBYTUANic",
+					"percent": 100,
+					"hz": "288hz"
+				},	
 			],
 			"name": "Shitty Avalanche",
 			"author": "Cyns",
