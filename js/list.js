@@ -17875,115 +17875,6 @@ const d = {
 			"vids": [
 				{
 					"user": "Cyns",
-					"link": "https://youtu.be/DS7F_kUssSM",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/C_thHgTqn5w",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/hJLYsdNmzTM",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Acidius",
-					"link": "https://youtu.be/I1aOsvWbWlY",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/32TeKu1_HD0",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/pVUPGrsMo-k",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "GD Cade21",
-					"link": "https://www.youtube.com/watch?v=dN_zYuoNHMo",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "ItsCeleste",
-					"link": "https://youtu.be/BXr0mFVd_YA",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "MythicalTG",
-					"link": "https://youtu.be/6N4iohDUBmI",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "AcropolisBoy",
-					"link": "https://www.youtube.com/watch?v=2k6waGRcmb0",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "N1kix",
-					"link": "https://youtu.be/GZZZSOHikEY?t=445",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "wave",
-					"link": "https://youtu.be/CoQ7M_VpjFU",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
-					"user": "zLunatiX",
-					"link": "https://www.youtube.com/watch?v=ErUiWTxmgIU",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "gumrwing",
-					"link": "https://www.youtube.com/watch?v=Gu7fck-55Bs",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "ItsHyper37",
-					"link": "https://youtu.be/Vpb5UKoTr3Q",
-					"percent": 79,
-					"hz": "Mobile"
-				},
-				{
-					"user": "SmallDaniPlay",
-					"link": "https://www.youtube.com/watch?v=x-bAoOBTkRk",
-					"percent": 100,
-					"hz": "60hz"
-				},
-			],
-			"name": "Shitty Magma Bound",
-			"author": "ShadowNinja441 and more [GDStarStorm]",
-			"more": "GDStarStorm, ShuvonIslam777",
-			"id": 56944188,
-			"pass": "314253",
-			"percentToQualify": 78,
-			"verificationVid": "https://www.youtube.com/watch?v=4Mtef2_U8yU",
-			"key": 112
-		},
-		/*=====================================================c============================*/
-		{
-			"vids": [
-				{
-					"user": "Cyns",
 					"link": "https://youtu.be/Y0TZ_EcCNZ4",
 					"percent": 100,
 					"hz": "288hz"
@@ -18224,7 +18115,7 @@ const d = {
 			"pass": "200819",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=xmOPCe4tmwk",
-			"key": 113
+			"key": 112
 		},
 		/*=================================================================================*/
 		{
@@ -18435,7 +18326,7 @@ const d = {
 			"pass": "023689",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=g-NAgrh8XXI",
-			"key": 114
+			"key": 113
 		},
 		/*=================================================================================*/
 		{
@@ -18682,7 +18573,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=0FM56f4CdH8",
-			"key": 115
+			"key": 114
 		},
 		/*=================================================================================*/
 		{
@@ -19020,9 +18911,118 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 66,
 			"verificationVid": "https://www.youtube.com/watch?v=5UTJ5-_WQNs",
-			"key": 116
+			"key": 115
 		},
 		/*=================================================================================*/
+				{
+			"vids": [
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/DS7F_kUssSM",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/C_thHgTqn5w",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/hJLYsdNmzTM",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Acidius",
+					"link": "https://youtu.be/I1aOsvWbWlY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/32TeKu1_HD0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/pVUPGrsMo-k",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=dN_zYuoNHMo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ItsCeleste",
+					"link": "https://youtu.be/BXr0mFVd_YA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "MythicalTG",
+					"link": "https://youtu.be/6N4iohDUBmI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=2k6waGRcmb0",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/GZZZSOHikEY?t=445",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "wave",
+					"link": "https://youtu.be/CoQ7M_VpjFU",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "zLunatiX",
+					"link": "https://www.youtube.com/watch?v=ErUiWTxmgIU",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "gumrwing",
+					"link": "https://www.youtube.com/watch?v=Gu7fck-55Bs",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ItsHyper37",
+					"link": "https://youtu.be/Vpb5UKoTr3Q",
+					"percent": 79,
+					"hz": "Mobile"
+				},
+				{
+					"user": "SmallDaniPlay",
+					"link": "https://www.youtube.com/watch?v=x-bAoOBTkRk",
+					"percent": 100,
+					"hz": "60hz"
+				},
+			],
+			"name": "Shitty Magma Bound",
+			"author": "ShadowNinja441 and more [GDStarStorm]",
+			"more": "GDStarStorm, ShuvonIslam777",
+			"id": 56944188,
+			"pass": "314253",
+			"percentToQualify": 78,
+			"verificationVid": "https://www.youtube.com/watch?v=4Mtef2_U8yU",
+			"key": 116
+		},
+		/*=====================================================c============================*/
 				{
 			"vids": [
 				{
