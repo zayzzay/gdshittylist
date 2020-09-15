@@ -1427,6 +1427,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "AVALANCHA121",
+					"link": "https://youtu.be/9i_Ag3dKRf0",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Innards",
 			"author": "Keleru",
@@ -1547,6 +1553,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=MqLEvnYxGYQ",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/ZdUwmVdC9d4",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Renevant",
@@ -2309,6 +2321,12 @@ const d = {
 					"percent": 100,
 					"hz": "360hz"
 				},
+				{
+					"user": "Orizu",
+					"link": "https://www.youtube.com/watch?v=iTQAS67y3eQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 				
 			],
 			"name": "Shitty Avalanche",
@@ -2437,6 +2455,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "AVALANCHA121",
+					"link": "https://youtu.be/ZffT8NaZTp8",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Step To Hell",
 			"author": "oSpace",
@@ -2527,6 +2551,12 @@ const d = {
 					"link": "https://youtu.be/KU60tGkh_Pk",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "AVALANCHA121",
+					"link": "https://youtu.be/HuKjzk2Upls",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Poltergeist Reborn",
@@ -2860,6 +2890,12 @@ const d = {
 					"link": "https://youtu.be/wX--ti7-3-Y",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "AVALANCHA121",
+					"link": "https://youtu.be/2kv4-C2csV4",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Arctic Lights",
@@ -5191,6 +5227,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "AVALANCHA121",
+					"link": "https://youtu.be/dZRXEVgoXHM",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
@@ -6979,6 +7021,12 @@ const d = {
 					"link": "https://youtu.be/BML6Maq8Ocw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "AVALANCHA121",
+					"link": "https://youtu.be/YARrSg3Q818",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty 2 1 1 ",
@@ -8802,6 +8850,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "AVALANCHA121",
+					"link": "https://youtu.be/Yn_VMRmz3kk",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Explosion",
 			"author": "Serpyy",
@@ -9544,6 +9598,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "AVALANCHA121",
+					"link": "https://youtu.be/HCZfG29Aa9c",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -10213,6 +10273,12 @@ const d = {
 					"link": "https://youtu.be/1kih4xic_7s?t=311",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "AVALANCHA121",
+					"link": "https://youtu.be/T7tgmAKFV74",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Stalemate Redux",
@@ -11645,6 +11711,12 @@ const d = {
 					"link": "https://youtu.be/5B3gNzR5x3Y",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "xR",
+					"link": "https://youtu.be/sJKLYkzXSmM",
+					"percent": 56,
+					"hz": "60hz"
 				},
 			],
                         "name": "Shitty Ouroboros",
@@ -14515,6 +14587,12 @@ const d = {
 					"link": "https://youtu.be/090pEg-ESlM",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=rcEUksbv4c8",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Silver Shade",
