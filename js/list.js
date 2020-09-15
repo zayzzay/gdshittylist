@@ -871,12 +871,6 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "Tai0",
-					"link": "https://youtu.be/zR4MabJXyfI",
-					"percent": 59,
-					"hz": "100hz"
-				},
-				{
 					"user": "YemenHD",
 					"link": "https://youtu.be/05peU8nj2PA",
 					"percent": 100,
