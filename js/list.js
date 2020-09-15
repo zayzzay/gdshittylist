@@ -313,6 +313,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+			       {
+				       "user": "Covieta",
+				       "link": "https://youtu.be/hmP37CaGpLw",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
                          ],
                        "name": "Shitty Hateful Reflection",
                        "author": "v1nnyy",
@@ -728,6 +734,12 @@ const d = {
 				{
 					"user": "MP3141",
 					"link": "https://youtu.be/dax4YzhChds",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/hmP37CaGpLw",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -2050,7 +2062,7 @@ const d = {
 				},
 				{
 					"user": "Covieta",
-					"link": "https://youtu.be/5G73hb8SSfo",
+					"link": "https://youtu.be/hmP37CaGpLw",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -2076,6 +2088,12 @@ const d = {
 				{
 					"user": "piesy",
 					"link": "https://youtu.be/t04e8-KmxzI",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/hmP37CaGpLw",
 					"percent": 100,
 					"hz": "288hz"
 				},
@@ -2568,6 +2586,12 @@ const d = {
 					"link": "https://youtu.be/6PjM4YrCZIk",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/hmP37CaGpLw"
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Poltergeist Reborn",
@@ -6725,6 +6749,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/hmP37CaGpLw",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Cosmorush 21",
 			"author": "AcropolisBoy and Whiliams8080 [Bartoldo]",
@@ -7202,6 +7232,12 @@ const d = {
 					"link": "https://youtu.be/08I2_TDVZ7w",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/hmP37CaGpLw",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Nine Paws",
@@ -8576,6 +8612,12 @@ const d = {
 					"link": "https://youtu.be/kPkiuzwSAdg",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/hmP37CaGpLw"
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Thinking Space",
@@ -10676,6 +10718,12 @@ const d = {
 				{
 					"user": "Cyns",
 					"link": "https://youtu.be/RMDa86yq77k",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/hmP37CaGpLw",
 					"percent": 100,
 					"hz": "288hz"
 				},
