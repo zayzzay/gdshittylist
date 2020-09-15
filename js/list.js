@@ -6086,6 +6086,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "zLunatiX",
+					"link": "https://www.youtube.com/watch?v=ErUiWTxmgIU",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Orochi",
 			"author": "Keleru",
@@ -7090,6 +7096,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "v1nnyy",
+					"link": "https://youtu.be/08I2_TDVZ7w",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Nine Paws",
 			"author": "DeadshotHD [xFactorGD]",
@@ -7867,6 +7879,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "zLunatiX",
+					"link": "https://www.youtube.com/watch?v=ErUiWTxmgIU",
+					"percent": 100,
+					"hz": "60hz"
+				},
                         ],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -8633,6 +8651,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "errør",
+					"link": "https://youtu.be/VOPdEX3-4ok",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -8954,6 +8978,12 @@ const d = {
 					"link": "https://youtu.be/gBvWdRH6NMo",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/jHol-ujo4ow",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Battle of the Shades",
@@ -11538,6 +11568,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Guip15",
+					"link": "https://youtu.be/5B3gNzR5x3Y",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
@@ -13848,6 +13884,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "zLunatiX",
+					"link": "https://www.youtube.com/watch?v=ErUiWTxmgIU",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -15191,6 +15233,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
+				{
+				       "user": "GD Cade21",
+				       "link": "https://www.youtube.com/watch?v=P8yQ5FPSApk",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -15727,6 +15775,12 @@ const d = {
 					"link": "https://youtu.be/xqsjcfq37hY",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "zLunatiX",
+					"link": "https://www.youtube.com/watch?v=ErUiWTxmgIU",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
@@ -17597,6 +17651,18 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "zLunatiX",
+					"link": "https://www.youtube.com/watch?v=ErUiWTxmgIU",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "gumrwing",
+					"link": "https://www.youtube.com/watch?v=Gu7fck-55Bs",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -17823,6 +17889,18 @@ const d = {
 				{
 					"user": "AcropolisBoy",
 					"link": "https://www.youtube.com/watch?v=qPn5ZVqOqY0",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "zLunatiX",
+					"link": "https://www.youtube.com/watch?v=ErUiWTxmgIU",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Memester420",
+					"link": "https://www.youtube.com/watch?v=_ZdvBRD52jQ",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -18964,6 +19042,13 @@ const d = {
 					"percent": 100, 
 					"hz": "180hz"
 				},
+				{
+					"user": "Guip15",
+					"link": "https://youtu.be/xavLXjRDWrM",
+					"percent": 100, 
+					"hz": "Mobile"
+				},
+				
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
@@ -19944,6 +20029,18 @@ const d = {
 					"link": "https://youtu.be/LDXnSqKXwz8",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/P_5z957Vs6E",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/g24CcquO6iM?t=196",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
                        "name": "Shitty Doop",
@@ -21939,6 +22036,12 @@ const d = {
 					"link": "https://youtu.be/h_31bu84Urw",
 					"percent": 75,
 					"hz": "60hz"
+				},
+				{
+					"user": "gumrwing",
+					"link": "https://www.youtube.com/watch?v=Bz5HxYrJTUo",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
