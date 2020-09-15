@@ -6666,6 +6666,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/dFsrPfTh7Dc",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cosmorush 21",
 			"author": "AcropolisBoy and Whiliams8080 [Bartoldo]",
@@ -8499,6 +8505,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=VKe3mAQfFgA&ab_channel=Aber",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/dFsrPfTh7Dc",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Thinking Space",
@@ -11894,6 +11906,12 @@ const d = {
 					"link": "https://youtu.be/1kih4xic_7s?t=206",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/pJ-owZyOoZ4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty The Hell Bird",
