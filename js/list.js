@@ -2030,6 +2030,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "RagingTurtle",
+					"link": "https://youtu.be/xTvj3HotC1k",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
@@ -3374,6 +3380,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/1kih4xic_7s",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Prismatic Haze",
 			"author": "Bluuper",
@@ -3875,7 +3887,13 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [	
+			"vids": [
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/8_9ueVRSbyY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Gang Plank Hell",
 			"author": "AcropolisBoy and more [AcropolisBoy]",
@@ -9484,6 +9502,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "RagingTurtle",
+					"link": "https://youtu.be/xTvj3HotC1k",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -11829,6 +11853,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/1kih4xic_7s?t=206",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Hell Bird",
 			"author": "YesntHimself",
@@ -11937,6 +11967,12 @@ const d = {
 					"link": "https://youtu.be/bzUJOLgxmVA",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/wzUMGQZk2nk",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Lantern Lights",
@@ -14076,6 +14112,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Memester420",
+					"link": "https://www.youtube.com/watch?v=8qNNAdIrZsY",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Nova_",
+					"link": "https://youtu.be/LCZjKuowkPg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -14472,6 +14520,12 @@ const d = {
 				{
 					"user": "Kobra456",
 					"link": "https://www.youtube.com/watch?v=n-aJYaVQrYY",
+					"percent": 100,
+				        "hz": "144hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/1kih4xic_7s?t=79",
 					"percent": 100,
 				        "hz": "144hz"
 				},
@@ -16186,6 +16240,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "RagingTurtle",
+					"link": "https://youtu.be/xTvj3HotC1k",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ballin",
 			"author": "Aassbll",
@@ -16655,6 +16715,12 @@ const d = {
 					"link": "https://youtu.be/1-fQxNmRvFA",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "RagingTurtle",
+					"link": "https://youtu.be/xTvj3HotC1k",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Visible Ray",
@@ -17904,6 +17970,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "RagingTurtle",
+					"link": "https://youtu.be/xTvj3HotC1k",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
@@ -18108,6 +18180,12 @@ const d = {
 				       "link": "https://youtu.be/Yp6WcnjENro",
 				       "percent": 100,
 				       "hz": "144hz"
+			      },
+			        {
+				       "user": "Cyns",
+				       "link": "https://youtu.be/7Z17gUBOxoo",
+				       "percent": 100,
+				       "hz": "288hz"
 			      },
 		       ],
 			"name": "Shitty Carnage Mode",
@@ -19999,6 +20077,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			       },
+			        {
+					"user": "Memester420",
+					"link": "https://www.youtube.com/watch?v=gUOeYD_7d9s",
+					"percent": 100,
+					"hz": "240hz"
+				},
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -20039,6 +20123,12 @@ const d = {
 				{
 					"user": "iRaily",
 					"link": "https://youtu.be/g24CcquO6iM?t=196",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/mLZxEtuO4jU",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -22040,6 +22130,12 @@ const d = {
 				{
 					"user": "gumrwing",
 					"link": "https://www.youtube.com/watch?v=Bz5HxYrJTUo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Diogan",
+					"link": "https://youtu.be/ryxF5dvLsNE",
 					"percent": 100,
 					"hz": "144hz"
 				},
