@@ -1179,6 +1179,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/JJDypoxakHg",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Spacial Rend",
 			"author": "piesy and Jah [piesy]",
