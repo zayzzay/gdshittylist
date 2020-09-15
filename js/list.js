@@ -560,6 +560,12 @@ const d = {
 					"percent": 100,
 				        "hz": "75hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/b3P7Lz3Y3C4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -1170,6 +1176,12 @@ const d = {
 				{
 					"user": "Covieta",
 					"link": "https://youtu.be/sypq9JoIzeA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/4dT07iggioo",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -3645,6 +3657,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=mTtXHL1QNEU",
 				       "percent": 100,
 				       "hz": "144hz"
+			        },
+				{
+				       "user": "Gloomy boy",
+				       "link": "https://youtu.be/jcYwl8dqmZE",
+				       "percent": 100,
+				       "hz": "Mobile"
 			        },
 			],
 			"name": "Shitty Artificial Dream",
@@ -8675,6 +8693,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Kenzo",
+					"link": "https://www.youtube.com/watch?v=pIK6mJQyKr8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -10172,6 +10196,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/1kih4xic_7s?t=311",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "DeadshotHD and ShadowNinja441 [DeadshotHD]",
@@ -10795,6 +10825,12 @@ const d = {
 					"link": "https://youtu.be/LvrKqM-FFXI",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "gumrwing",
+					"link": "https://www.youtube.com/watch?v=HdC_WxAlU28",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Distraught",
@@ -17729,6 +17765,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ItsHyper37",
+					"link": "https://youtu.be/Vpb5UKoTr3Q",
+					"percent": 79,
+					"hz": "Mobile"
+				},
+				{
+					"user": "SmallDaniPlay",
+					"link": "https://www.youtube.com/watch?v=x-bAoOBTkRk",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -19126,6 +19174,12 @@ const d = {
 					"link": "https://youtu.be/uaBYoF_6IYY",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Bibus [ET]",
+					"link": "https://www.youtube.com/watch?v=jQ0nv1GTIKw",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty xo",
@@ -22835,6 +22889,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=cRUINVnBeLQ&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Bibus [ET]",
+					"link": "https://www.youtube.com/watch?v=2couHleafC4&t=31s",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Killerzone",
