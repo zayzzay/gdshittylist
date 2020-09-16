@@ -8402,6 +8402,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "01234wasd56789",
+					"link": "https://youtu.be/ox5WFDQyS8s",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -9710,6 +9716,12 @@ const d = {
 					"link": "https://youtu.be/HCZfG29Aa9c",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Bibus [ET]",
+					"link": "https://www.youtube.com/watch?v=IaCCeyleJiY&t=5s",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -16412,6 +16424,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "errør",
+					"link": "https://youtu.be/kwj0sK2Z12g",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
@@ -17039,6 +17057,12 @@ const d = {
 					"link": "https://youtu.be/xTvj3HotC1k",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Bibus [ET]",
+					"link": "https://www.youtube.com/watch?v=fV2BdBLMr98&t=8s",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Visible Ray",
@@ -17733,6 +17757,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Nova_",
+					"link": "hhttps://youtu.be/qDEMEYeNvZs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -18411,6 +18441,12 @@ const d = {
 			       {
 				       "user": "Memester420",
 				       "link": "https://www.youtube.com/watch?v=4gxYBgwG-Rc",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+			             {
+				       "user": "Bibus [ET]",
+				       "link": "https://www.youtube.com/watch?v=gcLAmFBiQmA&t=26s",
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
@@ -21146,6 +21182,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=0rWof_ydbCk",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "rOmni",
+					"link": "https://youtu.be/ZUjZ4UUOT3E",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Sakupen Hell",
