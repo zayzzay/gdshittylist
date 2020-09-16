@@ -2146,6 +2146,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/8bFbWtYwQ4Y",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Catalyze",
 			"author": "Bluuper",
