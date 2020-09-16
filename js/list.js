@@ -20474,6 +20474,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Acidius",
+					"link": "https://youtu.be/i4cZZsf66vs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
                        "name": "Shitty Doop",
                        "author": "Megum and more [Megum]",
