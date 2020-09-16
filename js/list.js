@@ -13906,6 +13906,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Geometry Dash PJH",
+					"link": "https://youtu.be/o9ZsrWPJn4w",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
