@@ -5462,6 +5462,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Guip15",
+					"link": "https://youtu.be/NCIC32-2gPI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Calculator Core",
 			"author": "oSpace and more [oSpace]",
