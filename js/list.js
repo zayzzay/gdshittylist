@@ -7494,7 +7494,8 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [		
+			"vids": [
+				{
 			],
 			"name": "Shitty Incipient,
 			"author": "DeadshotHD and more [DeadshotHD]",
