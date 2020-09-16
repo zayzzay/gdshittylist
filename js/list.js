@@ -22399,8 +22399,8 @@ const d = {
 				},
 				{
 					"user": "GalaxyV",
-					"link": "https://youtu.be/h_31bu84Urw",
-					"percent": 75,
+					"link": "https://youtu.be/cYdob5f6JaA",
+					"percent": 100,
 					"hz": "60hz"
 				},
 				{
