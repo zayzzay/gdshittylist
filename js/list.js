@@ -7495,9 +7495,8 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
 			],
-			"name": "Shitty Incipient,
+			"name": "Shitty Incipient",
 			"author": "DeadshotHD and more [DeadshotHD]",
 			"more": "Hilzi, Israte, rVlaash, Lunatix, Foxreo, AnEatenOrange",
 			"id": 63577097,
