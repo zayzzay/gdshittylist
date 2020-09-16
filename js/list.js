@@ -651,6 +651,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				   {
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/QsnoHmfCSfk",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Delta Interface",
 			"author": "MP3141",
@@ -12007,6 +12013,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				  {
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/F0skiLhufgc",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Magnolia",
 			"author": "Williams8080 [ZekronGD]",
@@ -12171,6 +12183,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/Z60ktmDi5uk",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Lantern Lights",
 			"author": "GD4sh",
@@ -16365,6 +16383,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/SkzPOcRpKxY",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Civic",
 			"author": "wshedd",
