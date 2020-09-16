@@ -19090,11 +19090,17 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
-				   {
+				{
 				       "user": "XanPlayzGamez",
 				       "link": "https://youtu.be/PNGpEbF8ZXY",
 				       "percent": 100,
 				       "hz": "288hz"
+			       },
+			       {
+				       "user": "KabalGD",
+				       "link": "https://www.youtube.com/watch?v=Xc4xB9QJ8Nw",
+				       "percent": 100,
+				       "hz": "60hz"
 			       },
 			],
 			"name": "Shitty Magma Bound",
