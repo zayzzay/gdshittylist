@@ -18348,6 +18348,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			      },
+			       {
+				       "user": "Memester420",
+				       "link": "https://www.youtube.com/watch?v=4gxYBgwG-Rc",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
 		       ],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
