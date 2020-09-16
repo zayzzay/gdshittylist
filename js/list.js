@@ -2128,6 +2128,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/0xWlqN4S180",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Catalyze",
 			"author": "Bluuper",
@@ -16412,6 +16418,12 @@ const d = {
 				       "link": "https://youtu.be/SkzPOcRpKxY",
 				       "percent": 100,
 				       "hz": "288hz"
+			       },
+			       {
+				       "user": "TH54",
+				       "link": "https://youtu.be/ePRP7KOd_RY",
+				       "percent": 100,
+				       "hz": "244hz"
 			       },
 			],
 			"name": "Shitty Civic",
