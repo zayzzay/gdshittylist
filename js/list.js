@@ -11801,6 +11801,12 @@ const d = {
 					"percent": 56,
 					"hz": "60hz"
 				},
+				{
+					"user": "IkamiI",
+					"link": "https://www.youtube.com/watch?v=6J2oacE1aWU",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
