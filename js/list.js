@@ -19054,6 +19054,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				   {
+				       "user": "XanPlayzGamez",
+				       "link": "https://youtu.be/PNGpEbF8ZXY",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
