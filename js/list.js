@@ -13762,19 +13762,6 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [	
-			],
-			"name": "Shitty QFP",
-			"author": "Dashermachine and TheRealYeeter [Dashermachine]",
-			"more": "none",
-			"id": 63162388,
-			"pass": "Free to Copy",
-			"percentToQualify": 78,
-			"verificationVid": "",
-			"key": 94
-		},
-		/*=================================================================================*/
-		{
 			"vids": [
 				{
 					"user": "Soda",
@@ -14000,7 +13987,7 @@ const d = {
 			"pass": "150620",
 			"percentToQualify": 58,
 			"verificationVid": "https://youtu.be/TwBHuCPo6DA",
-			"key": 95
+			"key": 94
 		},
 		/*=================================================================================*/
 		{
@@ -14439,7 +14426,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=NbcF_4EgMXI",
-			"key": 96
+			"key": 95
 		},
 		/*=================================================================================*/
 		{
@@ -14566,7 +14553,7 @@ const d = {
 			"pass": "Not copyable",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=qP0v6diamBM",
-			"key": 97
+			"key": 96
 		},
 		/*=================================================================================*/
 		{
@@ -14783,7 +14770,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 59,
 			"verificationVid": "https://www.youtube.com/watch?v=xfNYS-XFZ1Y",
-			"key": 98
+			"key": 97
 		},
 		/*=================================================================================*/
 			{
@@ -14850,7 +14837,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/O7VnoMgO710",
-			"key": 99
+			"key": 98
 		},
 		/*=================================================================================*/
 				{
@@ -15091,7 +15078,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=w_UX8sAnXkE",
-			"key": 100
+			"key": 99
 		},
 		/*=================================================================================*/
 		{
@@ -15614,7 +15601,7 @@ const d = {
                         "pass": "444446",
                         "percentToQualify": 61,
                         "verificationVid": "https://www.youtube.com/watch?v=LeykUbA7N5Y&t=44s",
-                        "key": 101
+                        "key": 100
                 }, 
 		/*=================================================================================*/
 		 {
@@ -15687,7 +15674,7 @@ const d = {
                         "pass": "Free to Copy",
                         "percentToQualify": 63,
                         "verificationVid": "https://www.youtube.com/watch?v=R5xWaIyZR-c",
-                        "key": 102
+                        "key": 101
                 }, 
 		/*=================================================================================*/
 		{
@@ -15856,7 +15843,7 @@ const d = {
                         "pass": "Free to copy",
                         "percentToQualify": 51,
                         "verificationVid": "https://www.youtube.com/watch?v=0wzYbY7pyxA",
-                        "key": 103
+                        "key": 102
                 }, 
 		/*=================================================================================*/
 		{
@@ -16157,6 +16144,19 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=q-P4ybSLZP4",
+			"key": 103
+		},
+		/*=================================================================================*/
+		{
+			"vids": [	
+			],
+			"name": "Shitty QFP",
+			"author": "Dashermachine and TheRealYeeter [Dashermachine]",
+			"more": "none",
+			"id": 63162388,
+			"pass": "Free to Copy",
+			"percentToQualify": 78,
+			"verificationVid": "",
 			"key": 104
 		},
 		/*=================================================================================*/
