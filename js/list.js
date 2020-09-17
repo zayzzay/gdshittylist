@@ -12103,55 +12103,6 @@ const d = {
 			"key": 85
 		},
 		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Cyns",
-					"link": "https://youtu.be/r0eKur5JZGk",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/sypq9JoIzeA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/FNBBV9v5UsE",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/_rRzchBtHiI",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/1kih4xic_7s?t=206",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/pJ-owZyOoZ4",
-					"percent": 100,
-					"hz": "240hz"
-				},
-			],
-			"name": "Shitty The Hell Bird",
-			"author": "YesntHimself",
-			"more": "none",
-			"id": 58264478,
-			"pass": "Not Copyable",
-			"percentToQualify": 74,
-			"verificationVid": "https://youtu.be/r0eKur5JZGk",
-			"key": 86
-		},
-		/*=================================================================================*/
 				{
 			"vids": [
 				{
@@ -12270,7 +12221,7 @@ const d = {
 			"pass": "739642",
 			"percentToQualify": 78,
 			"verificationVid": "https://www.youtube.com/watch?v=mU8uFj4i3W4",
-			"key": 87
+			"key": 86
 		},
 		/*=================================================================================*/
 		{
@@ -12409,6 +12360,55 @@ const d = {
 			"pass": "661616",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=a8Qe1S3HLDU",
+			"key": 87
+		},
+		/*=================================================================================*/
+				{
+			"vids": [
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/r0eKur5JZGk",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/sypq9JoIzeA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/FNBBV9v5UsE",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/_rRzchBtHiI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/1kih4xic_7s?t=206",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/pJ-owZyOoZ4",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Shitty The Hell Bird",
+			"author": "YesntHimself",
+			"more": "none",
+			"id": 58264478,
+			"pass": "Not Copyable",
+			"percentToQualify": 74,
+			"verificationVid": "https://youtu.be/r0eKur5JZGk",
 			"key": 88
 		},
 		/*=================================================================================*/
