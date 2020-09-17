@@ -19183,12 +19183,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "ItsHyper37",
-					"link": "https://youtu.be/Vpb5UKoTr3Q",
-					"percent": 79,
-					"hz": "Mobile"
-				},
-				{
 					"user": "SmallDaniPlay",
 					"link": "https://www.youtube.com/watch?v=x-bAoOBTkRk",
 					"percent": 100,
