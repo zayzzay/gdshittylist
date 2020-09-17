@@ -14551,6 +14551,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=Bs1NzNi7q5A",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
