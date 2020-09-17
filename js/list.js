@@ -9230,6 +9230,79 @@ const d = {
 			"key": 69
 		},
 		/*=================================================================================*/
+				{
+			"vids": [	
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/C_thHgTqn5w",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/pJ-owZyOoZ4",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "v1nnyy",
+					"link": "https://youtu.be/nrPG0_adSJ8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/bija7PX1VSo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Biz",
+					"link": "https://www.youtube.com/watch?v=yoadpjHuhkc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/g24CcquO6iM?t=75",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/8wf5lFCc_2w",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "UnbreakablePlayz",
+					"link": "https://youtu.be/gAjyoOyNVh0",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/CDLhHyQlxMo",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/lbL41tinlQw",
+					"percent": 100,
+					"hz": "288hz"
+				},
+			],
+			"name": "Shitty Tenth Circle",
+			"author": "Kobra456",
+			"more": "none",
+			"id": 63957355,
+			"pass": "Free to Copy",
+			"percentToQualify": 66,
+			"verificationVid": "https://www.youtube.com/watch?v=ML0YX9NyHcM",
+			"key": 70
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
@@ -9744,7 +9817,7 @@ const d = {
 			"pass": "137349",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=Of-jAU42U8k",
-			"key": 70
+			"key": 71
 		},
 		/*=================================================================================*/
 		{
@@ -9973,7 +10046,7 @@ const d = {
 			"pass": "Not copyable",
 			"percentToQualify": 59,
 			"verificationVid": "https://youtu.be/1Y1T2UdSCEY?t=2425",
-			"key": 71
+			"key": 72
 		},
 		/*=================================================================================*/
 		{
@@ -10082,7 +10155,7 @@ const d = {
 			"pass": "000006",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=eoiKIi9gm-s",
-			"key": 72
+			"key": 73
 		},
 		/*=================================================================================*/
 		{
@@ -10221,7 +10294,7 @@ const d = {
 			"pass": "Not copyable",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=jhu_OkP0rNY",
-			"key": 73
+			"key": 74
 		},
 		/*=================================================================================*/
 		{
@@ -10420,7 +10493,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=kdDaYOFwE_A",
-			"key": 74
+			"key": 75
 		},
 		/*=================================================================================*/
 		{
@@ -10559,7 +10632,7 @@ const d = {
 			"pass": "753951",
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=0G4wM1J6l-g",
-			"key": 75
+			"key": 76
 		},
 		/*=================================================================================*/
 		{
@@ -10626,79 +10699,6 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=mt9d8t6Ivyg",
-			"key": 76
-		},
-		/*=================================================================================*/
-		{
-			"vids": [	
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/C_thHgTqn5w",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/pJ-owZyOoZ4",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "v1nnyy",
-					"link": "https://youtu.be/nrPG0_adSJ8",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/bija7PX1VSo",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Biz",
-					"link": "https://www.youtube.com/watch?v=yoadpjHuhkc",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/g24CcquO6iM?t=75",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "jOnel",
-					"link": "https://youtu.be/8wf5lFCc_2w",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "UnbreakablePlayz",
-					"link": "https://youtu.be/gAjyoOyNVh0",
-					"percent": 100,
-					"hz": "180hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/CDLhHyQlxMo",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "piesy",
-					"link": "https://youtu.be/lbL41tinlQw",
-					"percent": 100,
-					"hz": "288hz"
-				},
-			],
-			"name": "Shitty Tenth Circle",
-			"author": "Kobra456",
-			"more": "none",
-			"id": 63957355,
-			"pass": "Free to Copy",
-			"percentToQualify": 66,
-			"verificationVid": "https://www.youtube.com/watch?v=ML0YX9NyHcM",
 			"key": 77
 		},
 		/*=================================================================================*/
