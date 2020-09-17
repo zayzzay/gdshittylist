@@ -13979,6 +13979,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Memester420",
+					"link": "https://www.youtube.com/watch?v=nmFXHr8AqME",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
