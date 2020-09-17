@@ -17795,6 +17795,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "hello2578",
+					"link": "https://www.youtube.com/watch?v=Q0oPY0pV7S4",
+					"percent": 67,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
