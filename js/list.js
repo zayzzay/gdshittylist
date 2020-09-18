@@ -264,6 +264,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			       },
+				{
+				       "user": "Hixobit",
+				       "link": "https://www.youtube.com/watch?v=GRwVwyKiVDI&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
 		         ],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper [MP3141]",
@@ -1602,6 +1608,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "GoesAlot",
+					"link": "https://www.youtube.com/watch?v=NMGbMtAsftY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
@@ -1823,6 +1835,12 @@ const d = {
 					"user": "Orizu",
 					"link": "https://youtu.be/Hxd3r6XPSkQ",
 					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "ExtremeBeemon",
+					"link": "https://youtu.be/T-JBTA9ZGg4",
+					"percent": 91,
 					"hz": "240hz"
 				},
 			],
@@ -3596,6 +3614,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=_Mib4y2VDvo",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=DoNaydsH6-0",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Prismatic Haze",
@@ -8137,6 +8161,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=DoNaydsH6-0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Caution",
 			"author": "ZekronGD and ShadowNinja441 [ShadowNinja441]",
@@ -8486,6 +8516,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ErUiWTxmgIU",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=DoNaydsH6-0",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
 			"name": "Shitty Rate Demon",
@@ -9941,6 +9977,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=IaCCeyleJiY&t=5s",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=DoNaydsH6-0",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -13250,6 +13292,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "ExtremeBeemon",
+					"link": "https://youtu.be/hNQu_NB4OVM",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -14620,6 +14668,18 @@ const d = {
 				{
 					"user": "GD Cade21",
 					"link": "https://www.youtube.com/watch?v=2kLf7GS_N4M",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "errør",
+					"link": "https://youtu.be/7I0rBdHbO7c",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+					{
+					"user": "mrmcflukester",
+					"link": "https://www.twitch.tv/mrmcflukester/clip/ModernAstuteNeanderthalYee",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -25004,6 +25064,12 @@ const d = {
 					"link": "https://youtu.be/58h5JKqAbCY",
 					"percent": 96,
 					"hz": "120hz"
+				},
+				{
+					"user": "KoceeGD",
+					"link": "https://www.twitch.tv/videos/743779479",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
