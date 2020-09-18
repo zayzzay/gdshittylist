@@ -16523,11 +16523,17 @@ const d = {
 				       "percent": 100,
 				       "hz": "244hz"
 			       },
-				{
+			       {
 					"user": "v1nnyy",
 					"link": "https://youtu.be/bpj5s0q4de4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Acidius",
+					"link": "https://youtu.be/9e5VGPN2ub8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Civic",
