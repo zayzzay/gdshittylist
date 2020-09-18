@@ -11922,6 +11922,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=pRXp_xJX9zo",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Anoxysm",
 			"author": "Serpyy",
@@ -19236,6 +19242,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			       },
+			       {
+				       "user": "LegionofBaum31",
+				       "link": "https://www.youtube.com/watch?v=-S_THs26LAY",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -20619,6 +20631,12 @@ const d = {
 					"link": "https://youtu.be/i4cZZsf66vs",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=043w77BgCtk",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
                        "name": "Shitty Doop",
