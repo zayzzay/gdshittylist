@@ -2593,6 +2593,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "Guip15",
+					"link": "https://youtu.be/EH89seCU1fE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Step To Hell",
 			"author": "oSpace",
@@ -2715,6 +2721,12 @@ const d = {
 		/*=================================================================================*/
 				{
 			"vids": [
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/1XK7HtQrCwM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Incipient",
 			"author": "DeadshotHD and more [DeadshotHD]",
@@ -3156,6 +3168,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=C0Fl2wwSZaw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=GzqTkPYV6x4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Zettabyte",
@@ -5812,6 +5830,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Auryen",
+					"link": "https://youtu.be/ATTsemS93ts",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -6852,6 +6876,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ExtremeBeemon",
+					"link": "https://youtu.be/rWFfC8tkUbc",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -7395,6 +7425,12 @@ const d = {
 					"link": "https://youtu.be/uW4TePPvA8U",
 					"percent": 100,
 				        "hz": "144hz"
+				},
+				{
+					"user": "ExtremeBeemon",
+					"link": "https://youtu.be/_sRqfTvWCiY",
+					"percent": 100,
+				        "hz": "240hz"
 				},
 			],
 			"name": "Shitty Glide",
@@ -8038,6 +8074,12 @@ const d = {
 					"link": "https://youtu.be/UeQZF_ZeXh8",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Guip15",
+					"link": "https://youtu.be/6hVjt_vKu-0",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ancestral Calamity",
@@ -9478,6 +9520,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=_TrruE_mEYM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/fPGtdnTAM7o",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Tenth Circle",
@@ -14244,6 +14292,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "OLDWAR",
+					"link": "https://www.youtube.com/watch?v=EGThquT_8Wo",
+					"percent": 62,
+					"hz": "60hz"
+				},
+				{
+					"user": "shift",
+					"link": "https://www.youtube.com/watch?v=EGThquT_8Wo",
+					"percent": 64,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -14843,6 +14903,12 @@ const d = {
 				{
 					"user": "Vink",
 					"link": "https://www.youtube.com/watch?v=BeA85ERljSY&feature=youtu.be",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Guip15",
+					"link": "https://youtu.be/dqHJw8C2zxs",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -16172,6 +16238,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Guip15",
+					"link": "https://youtu.be/GMmURdFkuLE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
                         "name": "Shitty Ethereal Artifice",
                         "author": "Megum and more [Megum]",
@@ -16476,7 +16548,6 @@ const d = {
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
-			"more": "ZenrioL, AlexTheGS33, Megum, xSmajlik, ShadowNinja441",
 			"id": 51744070,
 			"pass": "Free to copy",
 			"percentToQualify": 57,
@@ -16491,6 +16562,12 @@ const d = {
 					"link": "https://youtu.be/BMb8P-KPaRE",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/zvA22YbcJbw",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty QFP",
@@ -17113,6 +17190,12 @@ const d = {
 					"percent": 62,
 					"hz": "300hz"
 				},
+				{
+					"user": "Nova_",
+					"link": "https://youtu.be/kT_pIOQQd78",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -17650,6 +17733,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=VteEN9P8ZNo",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "ComeOut",
+					"link": "https://youtu.be/fm_PCt8j9F4",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ballin",
@@ -18209,6 +18298,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=hVcgxWMUj1g&feature=youtu.be",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "ComeOut",
+					"link": "https://youtu.be/7miDjLkvIyo",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
@@ -19643,6 +19738,12 @@ const d = {
 					"link": "https://youtu.be/Bbfln6LSmRE",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "GalaxyV",
+					"link": "https://youtu.be/oBPHYBAESDs",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Magma Bound",
@@ -23828,6 +23929,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "ComeOut",
+					"link": "https://youtu.be/Kz2nBdhXXso",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -25112,6 +25219,12 @@ const d = {
 					"link": "https://www.twitch.tv/videos/743779479",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Snorlaxx",
+					"link": "https://www.youtube.com/watch?v=a-y5ydT2EPs",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
