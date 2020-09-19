@@ -179,6 +179,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MrSaturnY",
+					"link": "https://youtu.be/KFTudChwP0w",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
                        "name": "Shitty Biohazard",
                        "author": "Tril and more [Tril]",
@@ -790,6 +796,12 @@ const d = {
 					"link": "https://youtu.be/hmP37CaGpLw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ExtremeBeemon",
+					"link": "https://youtu.be/aHGuW69ko0A",
+					"percent": 64,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Balengu Vortex",
@@ -1492,6 +1504,12 @@ const d = {
 					"link": "https://youtu.be/9i_Ag3dKRf0",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "xxCAUA2203xx",
+					"link": "https://youtu.be/6S-KBzPQtIo",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Innards",
@@ -3554,6 +3572,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "ExtremeBeemon",
+					"link": "https://youtu.be/dtemmhIiBXM",
+					"percent": 100,
+				        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -3656,6 +3680,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=DoNaydsH6-0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ExtremeBeemon",
+					"link": "https://youtu.be/Jr99DjNqrbA",
+					"percent": 100,
+				        "hz": "240hz"
 				},
 			],
 			"name": "Shitty Prismatic Haze",
@@ -6254,6 +6284,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/A6d5V_FMGgs",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Nebula",
 			"author": "Serpyy",
@@ -8025,6 +8061,12 @@ const d = {
 					"link": "https://youtu.be/qVlTH8bD8XY",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Guip15",
+					"link": "https://www.youtube.com/watch?v=zjeYqoPpoLc",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -15164,9 +15206,15 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-					{
+				{
 					"user": "mrmcflukester",
 					"link": "https://www.twitch.tv/mrmcflukester/clip/ModernAstuteNeanderthalYee",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/2KcUFYB56l8",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -15610,6 +15658,12 @@ const d = {
 					"link": "https://youtu.be/1kih4xic_7s?t=79",
 					"percent": 100,
 				        "hz": "144hz"
+				},
+				{
+					"user": "Daxy",
+					"link": "https://youtu.be/qjKfh8OZkVE",
+					"percent": 100,
+				        "hz": "288hz"
 				},
 			],
 			"name": "Shitty The Flawless",
@@ -16948,6 +17002,18 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/QypRGWcSfKg",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/IniTzLuxC9I",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -17357,6 +17423,12 @@ const d = {
 					"link": "https://youtu.be/F8WfuyIof08",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=tWIsLvSdMxc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Civic",
@@ -19413,6 +19485,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
+			        {
+				       "user": "Guip15",
+				       "link": "https://youtu.be/xDf0jAXtJRE",
+				       "percent": 100,
+				       "hz": "Mobile"
+			      },
 		       ],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
@@ -20189,6 +20267,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=jQ0nv1GTIKw",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/BArNar83wnw",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty xo",
@@ -23078,7 +23162,7 @@ const d = {
 				},
 				{
 					"user": "Cyns",
-					"link": "https://www.youtube.com/watch?v=eAZ3M8CbSxk",
+					"link": "https://youtu.be/44ySMVYW9yI",
 					"percent": 100,
 					"hz": "288hz"
 				},
