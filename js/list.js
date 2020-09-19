@@ -1839,8 +1839,8 @@ const d = {
 				},
 				{
 					"user": "ExtremeBeemon",
-					"link": "https://youtu.be/T-JBTA9ZGg4",
-					"percent": 91,
+					"link": "https://youtu.be/N5KQyI8hLbM",
+					"percent": 100,
 					"hz": "240hz"
 				},
 			],
@@ -9090,6 +9090,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ExtremeBeemon",
+					"link": "https://youtu.be/JvclCDkbyk8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -10056,6 +10062,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ExtremeBeemon",
+					"link": "https://youtu.be/EzcMuj0XYx8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -10540,8 +10552,8 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Bartuski",
-					"link": "https://youtu.be/uW4TePPvA8U",
+					"user": "ComeOut",
+					"link": "https://youtu.be/FnZlKkEBaGs",
 					"percent": 100,
 				        "hz": "144hz"
 				},
@@ -18305,6 +18317,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Bibus [ET]",
+					"link": "https://www.youtube.com/watch?v=-hMNSBp--Yk&t=1s",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -19744,6 +19762,12 @@ const d = {
 					"link": "https://youtu.be/oBPHYBAESDs",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Memester420",
+					"link": "https://www.youtube.com/watch?v=a5V0HSMWFa0",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Magma Bound",
