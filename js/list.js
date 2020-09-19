@@ -6846,6 +6846,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://www.youtube.com/watch?v=_TrruE_mEYM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -8167,6 +8173,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://www.youtube.com/watch?v=_TrruE_mEYM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Caution",
 			"author": "ZekronGD and ShadowNinja441 [ShadowNinja441]",
@@ -9461,6 +9473,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://www.youtube.com/watch?v=_TrruE_mEYM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
@@ -9981,6 +9999,12 @@ const d = {
 				{
 					"user": "Kobra456",
 					"link": "https://www.youtube.com/watch?v=DoNaydsH6-0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "FrostBurn",
+					"link": "https://www.youtube.com/watch?v=_TrruE_mEYM",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -15045,6 +15069,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://www.youtube.com/watch?v=_TrruE_mEYM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Silver Shade",
 			"author": "Aassbll",
@@ -16835,6 +16865,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=lCbDTg0h9WQ&feature=youtu.be",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "FrostBurn",
+					"link": "https://www.youtube.com/watch?v=_TrruE_mEYM",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Civic",
@@ -21025,6 +21061,12 @@ const d = {
 				{
 					"user": "Dist3nd",
 					"link": "https://youtu.be/HhM5G8o8MQw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "FrostBurn",
+					"link": "https://www.youtube.com/watch?v=_TrruE_mEYM",
 					"percent": 100,
 					"hz": "144hz"
 				},
