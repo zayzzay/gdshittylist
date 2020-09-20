@@ -2242,6 +2242,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=ZzRHBalS91s&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Catalyze",
 			"author": "Bluuper",
@@ -12197,6 +12203,12 @@ const d = {
 					"link": "https://youtu.be/50JDO-DtYgE",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+			`	{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=ZzRHBalS91s&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Zodiac",
