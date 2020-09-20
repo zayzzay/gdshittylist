@@ -7286,6 +7286,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Ketrick",
+					"link": "https://www.youtube.com/watch?v=M7Ya5Gqk3nU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
