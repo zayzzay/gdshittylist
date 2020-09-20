@@ -4984,6 +4984,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "zSekanii",
+					"link": "https://youtu.be/knNxo1VBnUg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -7295,6 +7301,12 @@ const d = {
 				{
 					"user": "Ketrick",
 					"link": "https://www.youtube.com/watch?v=M7Ya5Gqk3nU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Guip15",
+					"link": "https://www.youtube.com/watch?v=pE2jP8VTLpQ",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -9623,6 +9635,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://www.youtube.com/watch?v=gAjyoOyNVh0&feature=youtu.be",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
@@ -11919,6 +11937,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=yVAmORcRhQE",
 					"percent": 69, 
 					"hz": "120hz Mobile"
+				},
+				{
+					"user": "dots",
+					"link": "https://youtu.be/GIUHEsxV_hw",
+					"percent": 100, 
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -17068,6 +17092,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+					{
+					"user": "dots",
+					"link": "https://youtu.be/GIUHEsxV_hw",
+					"percent": 100, 
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -21362,6 +21392,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=TGynXPWwwZc",
 					"percent": 100,
 					"hz": "240hz"
+				},
+			         {
+					"user": "qwertydash",
+					"link": "https://www.youtube.com/watch?v=-6lx3Kos4aA",
+					"percent": 51,
+					"hz": "150hz"
 				},
 		       ],
                        "name": "Shitty Poltergeist",
