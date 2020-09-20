@@ -222,7 +222,7 @@ const d = {
 				       "percent": 100,
 				       "hz": "120hz"
 			        },
-			 	 {
+			 	{
 				       "user": "xBlur",
 				       "link": "https://youtu.be/erX9TtuDYHo", 
 				       "percent": 100,
@@ -263,19 +263,19 @@ const d = {
 				       "link": "https://youtu.be/WTlARI2xilw",
 				       "percent": 100,
 				       "hz": "288hz"
-			       },
+			      	},
 				{
 				       "user": "xxCaua2203xx",
 				       "link": "https://youtu.be/IlgZ_H9vEPg",
 				       "percent": 100,
 				       "hz": "60hz"
-			       },
+			      	},
 				{
 				       "user": "Hixobit",
 				       "link": "https://www.youtube.com/watch?v=GRwVwyKiVDI&feature=youtu.be",
 				       "percent": 100,
 				       "hz": "300hz"
-			       },
+			      	},
 		         ],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper [MP3141]",
