@@ -130,6 +130,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "Covieta",
+				       "link": "https://www.youtube.com/watch?v=2Q4iWhYcc-A",
+				       "percent": 58,
+				       "hz": "288hz"
+			       },
 		       ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -2173,6 +2179,12 @@ const d = {
 					"link": "https://youtu.be/Fw-otchA81o",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "oyp_oyp",
+					"link": "https://www.youtube.com/watch?v=6Xgs0-9ePOk&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Wasureta",
@@ -8214,6 +8226,12 @@ const d = {
 					"hz": "60hz"
 				},
 				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/hwS0DeqWdKc",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
 					"user": "Guip15",
 					"link": "https://youtu.be/6hVjt_vKu-0",
 					"percent": 100,
@@ -12015,7 +12033,13 @@ const d = {
 					"link": "https://youtu.be/JBhsAjmsrFM",
 					"percent": 100,
 					"hz": "144hz"
-				},	
+				},
+				{
+					"user": "zSekanii",
+					"link": "https://youtu.be/Y0-iu46sMdM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
@@ -13974,6 +13998,12 @@ const d = {
 				{
 					"user": "Nova_",
 					"link": "https://youtu.be/jeO6rtOhBaA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "zSekanii",
+					"link": "https://youtu.be/vaqkUTyChMg",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -16706,6 +16736,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=Eoa5zGL-jbg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
                         "name": "Shitty 1929",
                         "author": "TheIcyConey[Tril]",
@@ -17866,6 +17902,12 @@ const d = {
 				{
 					"user": "Nova_",
 					"link": "https://youtu.be/kT_pIOQQd78",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "zSekanii",
+					"link": "https://youtu.be/7h7lLZVJBWM",
 					"percent": 100,
 					"hz": "Mobile"
 				},
