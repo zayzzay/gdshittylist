@@ -21394,6 +21394,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/zAZZXJKMUOU",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
                        "name": "Shitty Doop",
                        "author": "Megum and more [Megum]",
