@@ -609,12 +609,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDCailloux",
-					"link": "https://www.youtube.com/watch?v=yVBi2PoPnqw",
-					"percent": 77,
-					"hz": "300hz"
-				},
-				{
 					"user": "Lostical",
 					"link": "https://www.youtube.com/watch?v=ahHUjgGvxn4&",
 					"percent": 85,
@@ -1055,6 +1049,12 @@ const d = {
 					"link": "https://youtu.be/uhtsab27X-I",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "GDCailloux",
+					"link": "https://www.youtube.com/watch?v=yVBi2PoPnqw",
+					"percent": 77,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Zaphkiel",
