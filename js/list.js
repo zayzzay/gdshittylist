@@ -10919,7 +10919,7 @@ const d = {
 					"hz": "165hz"
 				},
 				{
-					"user": "Caroliibe",
+					"user": "carol",
 					"link": "https://www.youtube.com/watch?v=CLKI-6RDWXw",
 					"percent": 100,
 					"hz": "165hz"
@@ -16610,7 +16610,7 @@ const d = {
 				       "hz": "165hz"
 			        },
 				{
-				       "user": "caroliibe",
+				       "user": "carol",
 				       "link": "https://www.youtube.com/watch?v=aE--S6u-uRA",
 				       "percent": 100,
 				       "hz": "144hz"
