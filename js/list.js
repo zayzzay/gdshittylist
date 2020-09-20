@@ -9617,6 +9617,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Ketrick",
+					"link": "https://www.youtube.com/watch?v=dKZmvB4Hy-M",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
@@ -10157,6 +10163,12 @@ const d = {
 					"link": "https://youtu.be/0HazYAiq-yw",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				
+					"user": "Ketrick",
+					"link": "https://www.youtube.com/watch?v=bw7xhzxhx8s",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Devil Vortex",
