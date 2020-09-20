@@ -7014,6 +7014,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Guip15",
+					"link": "https://www.youtube.com/watch?v=_3imIbvcF7E",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "xR",
+					"link": "https://youtu.be/uvfBTHHguVE",
+					"percent": 61,
+					"hz": "102hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -8426,6 +8438,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+					{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/Mdu43LK2tcE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Omnitoxin",
 			"author": "Segone and more [Segone]",
@@ -9046,6 +9064,12 @@ const d = {
 					"link": "https://youtu.be/KwJTNDJeTi4",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Guip15",
+					"link": "https://www.youtube.com/watch?v=BQidslqD99o",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Thinking Space",
@@ -12348,6 +12372,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Serenix",
+					"link": "hhttps://www.youtube.com/watch?v=6_aIexIv-kM",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -13308,6 +13338,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			       },
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=VNbWqotzHc0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Lantern Lights",
 			"author": "GD4sh",
@@ -18401,6 +18437,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=VNbWqotzHc0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -22382,6 +22424,12 @@ const d = {
 				{
 					"user": "Covieta",
 					"link": "https://youtu.be/nWUgv9zi3Z4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Diogan",
+					"link": "https://www.youtube.com/watch?v=rlG8RrXwW1s&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
 				},
