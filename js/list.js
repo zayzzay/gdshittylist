@@ -15242,7 +15242,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-			],
+				{
+					"user": "Ketrick",
+					"link": "https://www.youtube.com/watch?v=37pQiKghPUc",
+					"percent": 100,
+					"hz": "Mobile"
+                          ],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
 			"more": "Whiliams8080, Megum, TheKate, Serpyy, ItzShuvon, GDStarStorm",
