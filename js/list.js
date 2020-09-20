@@ -10164,7 +10164,7 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
-				
+				{
 					"user": "Ketrick",
 					"link": "https://www.youtube.com/watch?v=bw7xhzxhx8s",
 					"percent": 100,
