@@ -614,6 +614,12 @@ const d = {
 					"percent": 77,
 					"hz": "300hz"
 				},
+				{
+					"user": "Lostical",
+					"link": "https://www.youtube.com/watch?v=ahHUjgGvxn4&",
+					"percent": 85,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
