@@ -18045,6 +18045,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ArKsHere",
+					"link": "https://youtu.be/d58Kbkjr8D0s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Ketrick",
+					"link": "https://www.youtube.com/watch?v=JSisPGg0bss",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Thirteen",
 			"author": "AlexTheGS33 and GDStarStorm [AlexTheGS33]",
