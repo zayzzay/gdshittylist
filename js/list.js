@@ -19275,6 +19275,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/8xeb6kEjlG8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
