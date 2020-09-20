@@ -4496,6 +4496,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Guip15",
+					"link": "https://www.youtube.com/watch?v=QNqUfxyzk4s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Deimos",
 			"author": "oSpace",
@@ -9435,6 +9441,12 @@ const d = {
 					"percent": 61,
 					"hz": "60hz"
 				},
+				{
+                                         "user": "NKSWEETDREAM",
+                                         "link": "https://youtu.be/zLH1k5x_-k8",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },
                         ],
 			"name": "Shitty Omega",
 			"author": "GDStarStorm and more [Megum]",
@@ -13878,6 +13890,12 @@ const d = {
 				{
 					"user": "Guip15",
 					"link": "https://youtu.be/8jk1Es9KxDg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Nova_",
+					"link": "https://youtu.be/jeO6rtOhBaA",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -20413,6 +20431,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Fez7",
+					"link": "https://youtu.be/U09mBSFSYUY",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -21489,6 +21513,12 @@ const d = {
 					"link": "https://youtu.be/zAZZXJKMUOU",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=UUG-kzaxzqE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
                        "name": "Shitty Doop",
