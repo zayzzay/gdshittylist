@@ -3822,6 +3822,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "aet",
+					"link": "https://youtu.be/YeUvcTGCWZI",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
 					"user": "JTgaming7",
 					"link": "https://www.youtube.com/watch?v=PMGkRu4V32k",
 					"percent": 100,
@@ -8270,12 +8276,6 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "aet",
-					"link": "https://youtu.be/YeUvcTGCWZI",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
 					"user": "GDMeric",
 					"link": "https://youtu.be/htx1zQjCM_g",
 					"percent": 100,
@@ -12502,7 +12502,7 @@ const d = {
 				{
 					"user": "Madcards",
 					"link": "https://www.youtube.com/watch?v=mcdo-FDTMQo",
-					"percent": 100,
+					"percent": 65,
 					"hz": "240hz"
 				},
 				{
