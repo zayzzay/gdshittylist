@@ -699,6 +699,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/JBhsAjmsrFM",
+					"percent": 100,
+					"hz": "144hz"
+				},	
 			],
 			"name": "Shitty Delta Interface",
 			"author": "MP3141",
@@ -2501,6 +2507,12 @@ const d = {
 					"link": "https://youtu.be/UMyBYTUANic",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/JBhsAjmsrFM",
+					"percent": 100,
+					"hz": "144hz"
 				},	
 			],
 			"name": "Shitty Avalanche",
@@ -5926,6 +5938,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/pocSnmYhw-0",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -8691,6 +8709,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/JBhsAjmsrFM",
+					"percent": 100,
+					"hz": "144hz"
+				},	
                         ],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -9306,6 +9330,12 @@ const d = {
 					"link": "https://youtu.be/Yn_VMRmz3kk",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "ItsCeleste",
+					"link": "https://youtu.be/JBRF1QcDYEU",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Explosion",
@@ -11045,6 +11075,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			       },
+			       {
+				       "user": "BrightBird",
+				       "link": "https://youtu.be/I6Pxn-MynOw",
+				       "percent": 100,
+				       "hz": "60hz"
+			      },
 			],
 			"name": "Shitty Cadrega Mode",
 			"author": "Megum and more [Megum]",
@@ -11974,6 +12010,12 @@ const d = {
 					"percent": 100, 
 					"hz": "60hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/JBhsAjmsrFM",
+					"percent": 100,
+					"hz": "144hz"
+				},	
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
@@ -12555,8 +12597,8 @@ const d = {
 				},
 				{
 					"user": "Madcards",
-					"link": "https://www.youtube.com/watch?v=mcdo-FDTMQo",
-					"percent": 65,
+					"link": "https://www.youtube.com/watch?v=8CRonI4syuk",
+					"percent": 83,
 					"hz": "240hz"
 				},
 				{
@@ -13036,6 +13078,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/JBhsAjmsrFM",
+					"percent": 100,
+					"hz": "144hz"
+				},	
 			],
 			"name": "Shitty Ad Aeternum",
 			"author": "Vlaash and more [rVlaash]",
@@ -13375,6 +13423,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			        },
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/JBhsAjmsrFM",
+					"percent": 100,
+					"hz": "144hz"
+				},	
 			],
 			"name": "Shitty Firepower",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -16032,6 +16086,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/JBhsAjmsrFM",
+					"percent": 100,
+					"hz": "144hz"
+				},	
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -19473,6 +19533,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/05z5tsdK2eU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
@@ -20136,6 +20202,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/JBhsAjmsrFM",
+					"percent": 100,
+					"hz": "144hz"
+				},	
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -25664,6 +25736,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=a-y5ydT2EPs",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Kytc",
+					"link": "https://youtu.be/WwRlllUDdns",
+					"percent": 100,
+					"hz": "236hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
