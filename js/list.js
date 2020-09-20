@@ -18112,6 +18112,19 @@ const d = {
 		},
 		/*=================================================================================*/
 				{
+			"vids": [		
+			],
+			"name": "Shitty Titan Complex",
+			"author": "ShadowNinja441 and more [ShadowNinja441]",
+			"more": "Acropolisboy, Miini03, ColdBlast, GoddardL, SoyNadie, ThePheonix",
+			"id": 56161135,
+			"pass": "121221",
+			"percentToQualify": 68,
+			"verificationVid": "https://www.youtube.com/watch?v=GjNQW7N4Br8",
+			"key": 113
+		},
+		/*=================================================================================*/
+				{
 			"vids": [
 				{
 					"user": "Cyns",
@@ -18229,7 +18242,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 79,
 			"verificationVid": "https://www.youtube.com/watch?v=6_jgsOMW0Aw",
-			"key": 113
+			"key": 114
 		},
 		/*=================================================================================*/
 		{
@@ -18806,7 +18819,7 @@ const d = {
 			"pass": "243759",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=YkGrbj0vucY",
-			"key": 114
+			"key": 115
 		},
 		/*=================================================================================*/
 				{
@@ -19023,7 +19036,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 64,
 			"verificationVid": "https://www.youtube.com/watch?v=Rnk_S2Ef-EM",
-			"key": 115
+			"key": 116
 		},
 		/*=====================================================c============================*/
 		{
@@ -19270,7 +19283,7 @@ const d = {
 			"pass": "200819",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=xmOPCe4tmwk",
-			"key": 116
+			"key": 117
 		},
 		/*=================================================================================*/
 		{
@@ -19499,7 +19512,7 @@ const d = {
 			"pass": "023689",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=g-NAgrh8XXI",
-			"key": 117
+			"key": 118
 		},
 		/*=================================================================================*/
 		{
@@ -19746,7 +19759,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=0FM56f4CdH8",
-			"key": 118
+			"key": 119
 		},
 		/*=================================================================================*/
 				{
@@ -19915,7 +19928,7 @@ const d = {
 			"pass": "314253",
 			"percentToQualify": 78,
 			"verificationVid": "https://www.youtube.com/watch?v=4Mtef2_U8yU",
-			"key": 119
+			"key": 120
 		},
 		/*=====================================================c============================*/
 				{
@@ -20282,7 +20295,7 @@ const d = {
 			"pass": "694201",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=wqSDcRO4BCQ",
-			"key": 120
+			"key": 121
 		},
 		/*=================================================================================*/
 		{
@@ -20691,7 +20704,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://youtu.be/qLvxTjKJqaU",
-			"key": 121
+			"key": 122
 		},
 		/*=================================================================================*/
 				{
@@ -21262,7 +21275,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 51,
                        "verificationVid": "https://youtu.be/e7rFSg5vvr8",
-                       "key": 122
+                       "key": 123
                 },
 		/*================================================================================= */
 		   {
@@ -21347,7 +21360,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 73,
                        "verificationVid": "https://www.youtube.com/watch?v=16w6BhgEBHs",
-                       "key": 123
+                       "key": 124
                 },
 		/*================================================================================= */
 		{
@@ -22020,7 +22033,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=lDiqYSya0NA",
-			"key": 124
+			"key": 125
 		},
 		/*=================================================================================*/
 		{
@@ -22735,7 +22748,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=-u-ijZwZuz4",
-			"key": 125
+			"key": 126
 		},
 		/*=================================================================================*/
 		{
@@ -23396,7 +23409,7 @@ const d = {
 			"pass": "101825",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=QBky9dJEi-M",
-			"key": 126
+			"key": 127
 		},
 		/*=================================================================================*/
 		{
@@ -24111,7 +24124,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6GQliYTw6hQ",
-			"key": 127
+			"key": 128
 		},
 		/*=================================================================================*/
 		{
@@ -25402,7 +25415,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=qo9v8DgztNA",
-			"key": 128
+			"key": 129
 		}
 		/*=================================================================================*/	
 
