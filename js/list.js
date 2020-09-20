@@ -3699,6 +3699,12 @@ const d = {
 					"percent": 100,
 				        "hz": "240hz"
 				},
+				{
+					"user": "Aassbll",
+					"link": "https://youtu.be/myucpTrDNVI",
+					"percent": 100,
+				        "hz": "60hz"
+				},
 			],
 			"name": "Shitty Prismatic Haze",
 			"author": "Bluuper",
@@ -4501,6 +4507,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=QNqUfxyzk4s",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/G3P3Cn0cK-8",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Deimos",
@@ -10687,7 +10699,7 @@ const d = {
 					"user": "ComeOut",
 					"link": "https://youtu.be/FnZlKkEBaGs",
 					"percent": 100,
-				        "hz": "144hz"
+				        "hz": "Mobile"
 				},
 			],
 			"name": "Shitty Penombre",
@@ -11027,6 +11039,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			      },
+				   {
+				       "user": "Guip15",
+				       "link": "https://www.youtube.com/watch?v=xDf0jAXtJRE&t=1s",
+				       "percent": 100,
+				       "hz": "Mobile"
+			       },
 			],
 			"name": "Shitty Cadrega Mode",
 			"author": "Megum and more [Megum]",
@@ -13211,6 +13229,12 @@ const d = {
 				       "link": "https://youtu.be/Z60ktmDi5uk",
 				       "percent": 100,
 				       "hz": "288hz"
+			       },
+				{
+				       "user": "ShadowNinja441",
+				       "link": "https://youtu.be/-ThjJsgLja0",
+				       "percent": 100,
+				       "hz": "Mobile"
 			       },
 			],
 			"name": "Shitty Lantern Lights",
@@ -16002,6 +16026,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fez7",
+					"link": "https://youtu.be/x7N0FF47ZUM",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -18226,7 +18256,49 @@ const d = {
 		},
 		/*=================================================================================*/
 				{
-			"vids": [		
+			"vids": [
+				 {
+					"user": "ItsCeleste",
+					"link": "https://youtu.be/JBRF1QcDYEU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/WCsKP_vb4_A",
+					"percent": 100,
+					"hz": "60hz"
+				}, 
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/BhsQ098ttYk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "zLunatiX",
+					"link": "https://youtu.be/uPQLQ6vM_UM",
+					"percent": 100,
+					"hz": "60hz"
+				}, 
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/A2QD1Cdgx5A",
+					"percent": 100,
+					"hz": "Mobile"
+				}, 
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=O3FKZzUJGeE",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/fA3xW1y9bUE",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -21519,6 +21591,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=UUG-kzaxzqE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "GamerbossPlayz",
+					"link": "https://youtu.be/LzhMqhCZd4c",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
                        "name": "Shitty Doop",
