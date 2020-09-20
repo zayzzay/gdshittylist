@@ -12222,7 +12222,7 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-			`	{
+				{
 					"user": "Aber",
 					"link": "https://www.youtube.com/watch?v=ZzRHBalS91s&ab_channel=Aber",
 					"percent": 100,
