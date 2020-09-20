@@ -19926,6 +19926,24 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "ArKsHere",
+					"link": "https://youtu.be/JG8vTHkk-90",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Xomus",
+					"link": "https://youtu.be/-9Y4j_aiUSk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "InferiorPatty",
+					"link": "https://www.youtube.com/watch?v=NtKO93Bu3Rw&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
