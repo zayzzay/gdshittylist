@@ -3138,6 +3138,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "yonggal",
+					"link": "https://youtu.be/ZvB-9ipQ6sw",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -3613,6 +3619,12 @@ const d = {
 					"link": "https://youtu.be/dtemmhIiBXM",
 					"percent": 100,
 				        "hz": "240hz"
+				},
+				{
+					"user": "plucc",
+					"link": "https://youtu.be/kRhvHn2pZBk",
+					"percent": 100,
+				        "hz": "300hz"
 				},
 			],
 			"name": "Shitty Aquatic Auroras",
@@ -5116,6 +5128,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=jEZXbO8f--g",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "carol",
+					"link": "https://www.youtube.com/watch?v=emo4R8xpKDM",
+					"percent": 73,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Aftermath",
@@ -8388,6 +8406,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=_TrruE_mEYM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Acidius",
+					"link": "https://youtu.be/UvycNfq0Otg",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Caution",
@@ -16169,6 +16193,12 @@ const d = {
 					"link": "https://youtu.be/JBhsAjmsrFM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Guip15",
+					"link": "https://youtu.be/g86MAaBnJRo",
+					"percent": 100,
+					"hz": "Mobile"
 				},	
 			],
 			"name": "Shitty Plasma Pulse",
