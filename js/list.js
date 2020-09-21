@@ -2774,12 +2774,6 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-				{
-					"user": "carol",
-					"link": "https://www.youtube.com/watch?v=zC1w6rLSpKc",
-					"percent": 66,
-					"hz": "165hz"
-				},
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "MythicalTG",
@@ -5962,6 +5956,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Serenix",
+					"link": "https://www.youtube.com/watch?v=uLh2HQXgnTg",
+					"percent": 77,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -8757,7 +8757,13 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},	
-                        ],
+                        	{
+					"user": "xBlur",
+					"link": "https://youtu.be/SotlHF5QvWA",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
 			"more": "none",
@@ -18388,6 +18394,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/0Gxfn0431B0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Rupture",
 			"author": "JoinMolten",
@@ -18448,6 +18460,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=VNbWqotzHc0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/SotlHF5QvWA",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Titan Complex",
@@ -21656,6 +21674,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=-6lx3Kos4aA",
 					"percent": 51,
 					"hz": "150hz"
+				},
+		       		{
+					"user": "carol",
+					"link": "https://www.youtube.com/watch?v=VtxBKIAhSY4",
+					"percent": 100,
+					"hz": "165hz"
 				},
 		       ],
                        "name": "Shitty Poltergeist",
