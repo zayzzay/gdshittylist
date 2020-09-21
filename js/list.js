@@ -2163,7 +2163,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/xTvj3HotC1k",
 					"percent": 100,
 					"hz": "144hz"
@@ -10273,7 +10273,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/xTvj3HotC1k",
 					"percent": 100,
 					"hz": "144hz"
@@ -12668,12 +12668,6 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "xR",
-					"link": "https://youtu.be/s8mqkKnBqrg",
-					"percent": 77,
-					"hz": "60hz"
-				},
-				{
 					"user": "IkamiI",
 					"link": "https://www.youtube.com/watch?v=6J2oacE1aWU",
 					"percent": 100,
@@ -13024,7 +13018,7 @@ const d = {
 				       "hz": "60hz"
 			       },
 				{
-				       "user": "RagingTurtle",
+				       "user": "raging",
 				       "link": "https://youtu.be/05sgXeItRpo",
 				       "percent": 100,
 				       "hz": "144hz"
@@ -18231,7 +18225,7 @@ const d = {
 					"hz": "180hz"
 				},
 				{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/xTvj3HotC1k",
 					"percent": 100,
 					"hz": "144hz"
@@ -18310,7 +18304,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/9lecRc-FpUw",
 					"percent": 100,
 					"hz": "144hz"
@@ -18601,7 +18595,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/xTvj3HotC1k",
 					"percent": 100,
 					"hz": "144hz"
@@ -19028,7 +19022,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/Io3jZutm_gc",
 					"percent": 100,
 					"hz": "144hz"
@@ -19371,7 +19365,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/OIn9oHXUPC4",
 					"percent": 100,
 					"hz": "144hz"
@@ -19660,7 +19654,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/xTvj3HotC1k",
 					"percent": 100,
 					"hz": "144hz"
@@ -19847,7 +19841,7 @@ const d = {
 				       "hz": "60hz"
 			       },
 			       {
-				       "user": "RagingTurtle",
+				       "user": "raging",
 				       "link": "https://youtu.be/Ck2MC7DIX7U",
 				       "percent": 100,
 				       "hz": "144hz"
@@ -20588,7 +20582,7 @@ const d = {
 					"hz": "280hz"
 				},
 				{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/NwRRSmck2D8",
 					"percent": 100,
 					"hz": "144hz"
@@ -21508,7 +21502,7 @@ const d = {
 				       "hz": "240hz"
 			       },
 			       {
-				       "user": "RagingTurtle",
+				       "user": "raging",
 				       "link": "https://youtu.be/IFZ1YzMDatE",
 				       "percent": 100,
 				       "hz": "144hz"
@@ -22326,7 +22320,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/i1V18404MZQ",
 					"percent": 100,
 					"hz": "144hz"
@@ -23005,7 +22999,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/unBknDZVxbA",
 					"percent": 100,
 					"hz": "144hz"
@@ -23672,7 +23666,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/t1hqUWdm1M0",
 					"percent": 100,
 					"hz": "144hz"
@@ -24453,7 +24447,7 @@ const d = {
 					"hz": "144hz"
 				},
                         	{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/uUFlfvMb_Jw",
 					"percent": 100,
 					"hz": "144hz"
@@ -25618,7 +25612,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "RagingTurtle",
+					"user": "raging",
 					"link": "https://youtu.be/L2pTQi5km5Y",
 					"percent": 100,
 					"hz": "144hz"
