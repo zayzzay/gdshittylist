@@ -25181,9 +25181,9 @@ const d = {
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=qo9v8DgztNA",
 			"key": 128
-		}
+		},
 		/*=================================================================================*/
-				{
+		{
 			"vids": [
 				{
 					"user": "Fhyron06",
