@@ -5149,8 +5149,8 @@ const d = {
 				},
 				{
 					"user": "carol",
-					"link": "https://www.youtube.com/watch?v=emo4R8xpKDM",
-					"percent": 73,
+					"link": "https://www.youtube.com/watch?v=5v5KciGw3JM",
+					"percent": 100,
 					"hz": "165hz"
 				},
 				{
@@ -7073,6 +7073,12 @@ const d = {
 					"link": "https://youtu.be/uvfBTHHguVE",
 					"percent": 61,
 					"hz": "102hz"
+				},
+				{
+					"user": "dots",
+					"link": "https://youtu.be/X7Jxu9kTizw",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -15506,6 +15512,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Buvuwh",
+					"link": "https://youtu.be/7MiIxxrCMZU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                           ],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -15880,6 +15892,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/8XP4pR-NKrA",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Silver Shade",
 			"author": "Aassbll",
@@ -16218,6 +16236,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},	
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=VkjcqxAEIaw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -18635,6 +18659,12 @@ const d = {
 					"link": "https://youtu.be/fm_PCt8j9F4",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/8XP4pR-NKrA",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Ballin",
