@@ -2774,6 +2774,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "carol",
+					"link": "https://www.youtube.com/watch?v=zC1w6rLSpKc",
+					"percent": 66,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "MythicalTG",
