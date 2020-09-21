@@ -2266,6 +2266,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Predatoe",
+					"link": "https://youtu.be/V5n29sVKY9Y",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Catalyze",
 			"author": "Bluuper",
@@ -2452,6 +2458,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=PvakVZDTHOU",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Gloomy boy",
+					"link": "https://youtu.be/KAMPAyC5emU",
+					"percent": 84,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Eternal Moment",
@@ -4019,6 +4031,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			        },
+				{
+				       "user": "BlueStone",
+				       "link": "https://youtu.be/lYyo-D4dxoc",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
@@ -5134,6 +5152,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=emo4R8xpKDM",
 					"percent": 73,
 					"hz": "165hz"
+				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/i8W_f2uD9BU",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Aftermath",
@@ -21122,6 +21146,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Serenade",
+					"link": "https://www.youtube.com/watch?v=8iu8uKiEADs",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -25172,6 +25202,12 @@ const d = {
 					"percent": 100,
 					"hz": "236hz"
 				},
+				{
+					"user": "plucc",
+					"link": "https://youtu.be/nNATrqoGMkY",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
@@ -25886,6 +25922,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1HEV_iMlTMM",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "plucc",
+					"link": "https://youtu.be/rxEcOIF8vOA",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty VendetTa",
