@@ -21981,6 +21981,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://youtu.be/5FouUcwtvuI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
