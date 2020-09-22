@@ -7717,6 +7717,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/GFhyEU85_ts",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Nine Paws",
 			"author": "DeadshotHD [xFactorGD]",
