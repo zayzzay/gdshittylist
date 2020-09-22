@@ -20528,8 +20528,8 @@ const d = {
 				},
 				{
 					"user": "OliXor",
-					"link": "https://youtu.be/81aFCW7j0Mc",
-					"percent": 79,
+					"link": "https://youtu.be/8N8BW3En8o4",
+					"percent": 100,
 					"hz": "144hz"
 				},
 			],
