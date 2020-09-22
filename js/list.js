@@ -25401,12 +25401,6 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "MrScatman7",
-					"link": "https://youtu.be/wA3eScdoq6U",
-					"percent": 62,
-					"hz": "60hz"
-				},
-				{
 					"user": "LCKV",
 					"link": "https://www.youtube.com/watch?v=fUUhjfvSxsE&feature=youtu.be",
 					"percent": 100,
