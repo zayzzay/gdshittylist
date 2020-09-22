@@ -20519,7 +20519,13 @@ const d = {
 					"link": "https://youtu.be/JBhsAjmsrFM",
 					"percent": 100,
 					"hz": "144hz"
-				},	
+				},
+				{
+					"user": "OliXor",
+					"link": "https://youtu.be/81aFCW7j0Mc",
+					"percent": 79,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
