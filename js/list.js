@@ -9179,6 +9179,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "FrenchFry",
+					"link": "https://youtu.be/hAKsQ6nXHJM",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
