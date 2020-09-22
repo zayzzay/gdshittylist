@@ -26157,6 +26157,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Target",
+					"link": "https://youtu.be/85Bl2brjQs0",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
