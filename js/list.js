@@ -18853,24 +18853,6 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
-				{
-					"user": "LegionofBaum31",
-					"link": "https://www.youtube.com/watch?v=J7LdlyfSO1k",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Shatter",
-					"link": "https://youtu.be/Xvl-yKKs5B8",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "Lawnmower",
-					"link": "https://youtu.be/DeFF4xwiddw",
-					"percent": 100,
-					"hz": "288hz"
-				},
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -25645,6 +25627,30 @@ const d = {
 				{
 					"user": "Target",
 					"link": "https://youtu.be/1Qm7gR3s_4w",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "HellKniveTeamZ",
+					"link": "https://youtu.be/btUCoNc77dY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Marp",
+					"link": "https://www.youtube.com/watch?v=ixjXsFt7iiI&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "BraceGD",
+					"link": "https://youtu.be/3agISlyWZEo",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Shatter",
+					"link": "https://youtu.be/jSGD8Pkd5pE",
 					"percent": 100,
 					"hz": "300hz"
 				},
