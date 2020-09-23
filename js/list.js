@@ -6476,7 +6476,13 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [	
+			"vids": [
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/eUwL5U-kMm4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Vertigo",
 			"author": "Cyns",
