@@ -229,7 +229,7 @@ const d = {
 			      	},
 		         ],
                        "name": "Shitty Crimson Planet",
-                       "author": "MP3141 and Kuiper [MP3141]",
+                       "author": "MP3141 and Kuiper1 [MP3141]",
                        "more": "none",
                        "id": 63348652,
                        "pass": "Free to copy",
