@@ -18658,6 +18658,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "BraceGD",
+					"link": "https://youtu.be/iW-Tc8M4esQ,
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
