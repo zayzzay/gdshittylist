@@ -9912,6 +9912,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=j0vQQpw6w20",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
