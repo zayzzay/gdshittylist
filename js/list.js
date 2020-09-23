@@ -349,7 +349,13 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
-			],
+			        {
+					"user": "Alphanetic",
+					"link": "https://www.twitch.tv/videos/749282814",
+					"percent": 100,
+					"hz": "165hz"
+				},	
+		          ],
                        "name": "Shitty Biohazard",
                        "author": "Tril and more [Kobra456]",
                        "more": "Coney, Unlawful, Wunjo, X1Might",
