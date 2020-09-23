@@ -9543,7 +9543,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "ItsCeleste",
+					"user": "Omicronic70",
 					"link": "https://youtu.be/JBRF1QcDYEU",
 					"percent": 100,
 					"hz": "Mobile"
@@ -15737,7 +15737,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "ItsCeleste",
+					"user": "Omicronic70",
 					"link": "https://youtu.be/kqZ842sbMVc",
 					"percent": 100,
 					"hz": "Mobile"
@@ -18824,7 +18824,7 @@ const d = {
 				{
 			"vids": [
 				 {
-					"user": "ItsCeleste",
+					"user": "Omicronic70",
 					"link": "https://youtu.be/JBRF1QcDYEU",
 					"percent": 100,
 					"hz": "Mobile"
@@ -20625,7 +20625,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "ItsCeleste",
+					"user": "Omicronic70",
 					"link": "https://youtu.be/BXr0mFVd_YA",
 					"percent": 100,
 					"hz": "Mobile"
@@ -21509,7 +21509,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "ItsCeleste",
+					"user": "Omicronic70",
 					"link": "https://youtu.be/tZVChptjje8",
 					"percent": 100,
 					"hz": "Mobile"
@@ -22176,7 +22176,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "ItsCeleste",
+					"user": "Omicronic70",
 					"link": "https://youtu.be/nxhHp_olCd4",
 					"percent": 100,
 					"hz": "Mobile"
@@ -23655,7 +23655,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "ItsCeleste",
+					"user": "Omicronic70",
 					"link": "https://youtu.be/giCDF1QPb7w",
 					"percent": 100,
 					"hz": "Mobile"
@@ -25493,7 +25493,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "ItsCeleste",
+					"user": "Omicronic70",
 					"link": "https://youtu.be/nxhHp_olCd4",
 					"percent": 100,
 					"hz": "Mobile"
@@ -26274,7 +26274,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "ItsCeleste",
+					"user": "Omicronic70",
 					"link": "https://youtu.be/-iuHohDZakM",
 					"percent": 100,
 					"hz": "Mobile"
