@@ -632,6 +632,12 @@ const d = {
 					"percent": 85,
 					"hz": "144hz"
 				},
+				{
+					"user": "Aquii",
+					"link": "https://youtu.be/TjC-abW7wEM",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -2889,6 +2895,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=IHulsepK-Hs",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "MythicalTG",
@@ -2919,6 +2931,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=UPtUv3X2oaY",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=IHulsepK-Hs",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Incipient",
@@ -3266,7 +3284,7 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "Auryen",
+					"user": "Auryal",
 					"link": "https://youtu.be/16MHByiwd5o",
 					"percent": 100,
 					"hz": "180hz"
@@ -6035,7 +6053,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "Auryen",
+					"user": "Auryal",
 					"link": "https://youtu.be/ATTsemS93ts",
 					"percent": 100,
 					"hz": "180hz"
@@ -8114,6 +8132,12 @@ const d = {
 				{
 					"user": "MP3141",
 					"link": "https://www.youtube.com/watch?v=Dq1r979XXjk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://youtu.be/1m6WRt1yQNg",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -15867,6 +15891,12 @@ const d = {
 					"link": "https://youtu.be/VW83ovVrCiQ",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Guip15",
+					"link": "https://www.youtube.com/watch?v=HpgWG7liznY&feature=youtu.be",
+					"percent": 100,
+					"hz": "Mobile"
 				},
                           ],
 			"name": "Shitty Dolos",
@@ -25703,7 +25733,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "Auryen",
+					"user": "Auryal",
 					"link": "https://youtu.be/zTXqDNf96WI",
 					"percent": 100,
 					"hz": "120hz"
@@ -25797,6 +25827,12 @@ const d = {
 					"link": "https://youtu.be/jSGD8Pkd5pE",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://www.youtube.com/watch?v=ew0ru-LtAmk&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
