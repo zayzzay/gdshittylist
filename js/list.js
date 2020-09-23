@@ -6046,6 +6046,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "HellKniveTeamZ",
+					"link": "https://youtu.be/i7CRSx6oi-U",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -13337,6 +13343,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Target",
+					"link": "https://youtu.be/V1Iy_EbaEXg",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
@@ -15297,6 +15309,12 @@ const d = {
 					"percent": 64,
 					"hz": "60hz"
 				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=7YEe2PR67mQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -17067,6 +17085,11 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "qwertydash",
+					"link": "https://youtu.be/RDqJO9cBTlU",
+					"percent": 100,
+					"hz": "150hz"
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -20536,6 +20559,12 @@ const d = {
 				{
 					"user": "Fen1x11",
 					"link": "https://youtu.be/8wP_QPQZl0U",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/-AXagpamJEA",
 					"percent": 100,
 					"hz": "60hz"
 				},
