@@ -23071,6 +23071,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "BraceGD",
+					"link": "https://youtu.be/MZQUaq8SoCY",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
                        "name": "Shitty Doop",
                        "author": "Megum and more [Megum]",
