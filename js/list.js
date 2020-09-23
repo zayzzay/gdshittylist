@@ -147,61 +147,6 @@ const d = {
                        "key": 0
                 },
 		/*=================================================================================*/
-		{
-                "vids": [
-			        {
-				       "user": "Orizu",
-				       "link": "https://www.youtube.com/watch?v=nbS2RXrN4fM",
-				       "percent": 100,
-				       "hz": "240hz"
-			        },
-				{
-				       "user": "Lawnmower",
-				       "link": "https://youtu.be/iRpq1TPQbz4",
-				       "percent": 100,
-				       "hz": "288hz"
-			        },
-				{
-				       "user": "GDMeric",
-				       "link": "https://youtu.be/3EqxfBZVZBY",
-				       "percent": 100,
-				       "hz": "144hz"
-			        },
-				{
-				       "user": "zMarc",
-				       "link": "https://youtu.be/HifhDe0cbss",
-				       "percent": 100,
-				       "hz": "288hz"
-			        },
-			 	{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/EGL4JrUytw0",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=MdE-e69EEdI",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "MrSaturnY",
-					"link": "https://youtu.be/KFTudChwP0w",
-					"percent": 100,
-					"hz": "300hz"
-				},
-			],
-                       "name": "Shitty Biohazard",
-                       "author": "Tril and more [Tril]",
-                       "more": "Coney, Unlawful, Wunjo, X1Might",
-                       "id": 63730118,
-                       "pass": "Free to copy",
-                       "percentToQualify": 53,
-                       "verificationVid": "https://youtu.be/WeJRC60GwSs",
-                       "key": 1
-                },
-		/*=================================================================================*/
 		{   
 		"vids": [
 				{
@@ -290,7 +235,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 64,
                        "verificationVid": "https://www.youtube.com/watch?v=zQbSDp6iWCg",
-                       "key": 2
+                       "key": 1
                 },
 		/*=================================================================================*/
 		{
@@ -351,6 +296,67 @@ const d = {
                        "pass": "Not Copyable",
                        "percentToQualify": 49,
                        "verificationVid": "https://www.youtube.com/watch?v=7bxgDss4jXM&start=20s%29",
+                       "key": 2
+                },
+		/*=================================================================================*/
+				{
+                "vids": [
+			        {
+				       "user": "Orizu",
+				       "link": "https://www.youtube.com/watch?v=nbS2RXrN4fM",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
+				{
+				       "user": "Lawnmower",
+				       "link": "https://youtu.be/iRpq1TPQbz4",
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
+				{
+				       "user": "GDMeric",
+				       "link": "https://youtu.be/3EqxfBZVZBY",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
+				{
+				       "user": "zMarc",
+				       "link": "https://youtu.be/HifhDe0cbss",
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
+			 	{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/EGL4JrUytw0",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=MdE-e69EEdI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MrSaturnY",
+					"link": "https://youtu.be/KFTudChwP0w",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "Tril",
+					"link": "https://youtu.be/WeJRC60GwSs",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+                       "name": "Shitty Biohazard",
+                       "author": "Tril and more [Kobra456]",
+                       "more": "Coney, Unlawful, Wunjo, X1Might",
+                       "id": 63730118,
+                       "pass": "Free to copy",
+                       "percentToQualify": 53,
+                       "verificationVid": "https://www.youtube.com/watch?v=3HRdD2n1h_4",
                        "key": 3
                 },
 		/*=================================================================================*/
