@@ -871,7 +871,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "piesy",
+					"user": "Lawnmower",
 					"link": "https://youtu.be/Criav4diels",
 					"percent": 100,
 					"hz": "288hz"
@@ -7832,7 +7832,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "piesy",
+					"user": "Lawnmower",
 					"link": "https://youtu.be/GFhyEU85_ts",
 					"percent": 100,
 					"hz": "288hz"
