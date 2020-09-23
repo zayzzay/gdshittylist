@@ -870,6 +870,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "piesy",
+					"link": "https://youtu.be/Criav4diels",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "xBlur",
+					"link": "https://youtu.be/JTwtpshhGKk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Golden Paracosm",
 			"author": "FizzySalad",
