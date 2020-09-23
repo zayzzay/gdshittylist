@@ -18660,7 +18660,7 @@ const d = {
 				},
 				{
 					"user": "BraceGD",
-					"link": "https://youtu.be/iW-Tc8M4esQ,
+					"link": "https://youtu.be/iW-Tc8M4esQ",
 					"percent": 100,
 					"hz": "Mobile"
 				},
