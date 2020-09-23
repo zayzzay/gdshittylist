@@ -2369,6 +2369,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "ExtremeBeemon",
+					"link": "https://youtu.be/aZXbWakA2jQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Catalyze",
 			"author": "Bluuper",
@@ -7661,6 +7667,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "ExtremeBeemon",
+					"link": "https://youtu.be/KEkRWWILPzo5",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty 2 1 1 ",
 			"author": "Acidius",
@@ -7817,6 +7829,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Czs5Q9o4nkY",
 					"percent": 100,
 				        "hz": "240hz"
+				},
+				{
+					"user": "Fen1x11",
+					"link": "https://youtu.be/vmDdX-TvJUA",
+					"percent": 100,
+				        "hz": "60hz"
 				},
 			],
 			"name": "Shitty Glide",
@@ -10592,6 +10610,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "carol",
+					"link": "https://www.youtube.com/watch?v=wMYUnjRWV0M",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -12728,6 +12752,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/jq9E8h9NjdU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -12995,8 +13025,8 @@ const d = {
 				},
 				{
 					"user": "Madcards",
-					"link": "https://www.youtube.com/watch?v=8CRonI4syuk",
-					"percent": 83,
+					"link": "https://www.youtube.com/watch?v=XUGOYJ70nDs",
+					"percent": 100,
 					"hz": "240hz"
 				},
 				{
@@ -14398,6 +14428,12 @@ const d = {
 					"link": "https://youtu.be/vaqkUTyChMg",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://www.youtube.com/watch?v=s1ms1NMO2LM&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Kenos",
@@ -18924,6 +18960,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=J7LdlyfSO1k",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Shatter",
+					"link": "https://youtu.be/Xvl-yKKs5B8",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Titan Complex",
@@ -24410,6 +24452,12 @@ const d = {
 					"link": "https://youtu.be/AuAbJGYmY7A",
 					"percent": 100,
 					"hz": "144hz"
+				},
+			       {
+					"user": "MrScatman7",
+					"link": "https://www.youtube.com/watch?v=Z79codIJsv0",
+					"percent": 90,
+					"hz": "60hz"
 				},
 		       ],
                        "name": "Shitty Poltergeist",
