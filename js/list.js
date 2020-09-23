@@ -16627,6 +16627,43 @@ const d = {
 			"key": 103
 		},
 		/*=================================================================================*/
+				{
+			"vids": [	
+				{
+					"user": "AoZoX",
+					"link": "https://youtu.be/BMb8P-KPaRE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/zvA22YbcJbw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=-EDfiLYingg",
+					"percent": 100,
+					"hz": "120hz"
+				},	
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/0MyuhTiTJTo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Shitty QFP",
+			"author": "Dashermachine and TheRealYeeter [Dashermachine]",
+			"more": "none",
+			"id": 63162388,
+			"pass": "Free to Copy",
+			"percentToQualify": 78,
+			"verificationVid": "https://youtu.be/A36KaX9KWH8",
+			"key": 104
+		},
+		/*=================================================================================*/
 		{
                         "vids": [
 				{
@@ -17165,7 +17202,7 @@ const d = {
                         "pass": "444446",
                         "percentToQualify": 61,
                         "verificationVid": "https://www.youtube.com/watch?v=LeykUbA7N5Y&t=44s",
-                        "key": 104
+                        "key": 105
                 }, 
 		/*=================================================================================*/
 		 {
@@ -17256,7 +17293,7 @@ const d = {
                         "pass": "Free to Copy",
                         "percentToQualify": 63,
                         "verificationVid": "https://www.youtube.com/watch?v=R5xWaIyZR-c",
-                        "key": 105
+                        "key": 106
                 }, 
 		/*=================================================================================*/
 		{
@@ -17431,7 +17468,7 @@ const d = {
                         "pass": "Free to copy",
                         "percentToQualify": 51,
                         "verificationVid": "https://www.youtube.com/watch?v=0wzYbY7pyxA",
-                        "key": 106
+                        "key": 107
                 }, 
 		/*=================================================================================*/
 		{
@@ -17761,43 +17798,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=q-P4ybSLZP4",
-			"key": 107
-		},
-		/*=================================================================================*/
-		{
-			"vids": [	
-				{
-					"user": "AoZoX",
-					"link": "https://youtu.be/BMb8P-KPaRE",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/zvA22YbcJbw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "LegionofBaum31",
-					"link": "https://www.youtube.com/watch?v=-EDfiLYingg",
-					"percent": 100,
-					"hz": "120hz"
-				},	
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/0MyuhTiTJTo",
-					"percent": 100,
-					"hz": "240hz"
-				},
-			],
-			"name": "Shitty QFP",
-			"author": "Dashermachine and TheRealYeeter [Dashermachine]",
-			"more": "none",
-			"id": 63162388,
-			"pass": "Free to Copy",
-			"percentToQualify": 78,
-			"verificationVid": "https://youtu.be/A36KaX9KWH8",
 			"key": 108
 		},
 		/*=================================================================================*/
