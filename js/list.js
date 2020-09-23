@@ -354,7 +354,13 @@ const d = {
 					"link": "https://www.twitch.tv/videos/749282814",
 					"percent": 100,
 					"hz": "165hz"
-				},	
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/J7vl-sWS_ck",
+					"percent": 100,
+					"hz": "288hz"
+				},
 		          ],
                        "name": "Shitty Biohazard",
                        "author": "Tril and more [Kobra456]",
@@ -6518,6 +6524,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ImXOe2Ydz5w",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/J7vl-sWS_ck",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Vertigo",
