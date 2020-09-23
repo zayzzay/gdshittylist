@@ -25415,12 +25415,6 @@ const d = {
 					"hz": "180hz"
 				},
 				{
-					"user": "DrakeGD",
-					"link": "https://youtu.be/k2nmpvLZSuQ",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
 					"user": "Fen1x11",
 					"link": "https://youtu.be/RbzXosXEjbs",
 					"percent": 100,
@@ -25431,12 +25425,6 @@ const d = {
 					"link": "https://youtu.be/4TZiUHMYJS0",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "DrakeGD",
-					"link": "https://www.youtube.com/watch?v=k2nmpvLZSuQ",
-					"percent": 100,
-					"hz": "240hz"
 				},
 				{
 					"user": "Glutton",
