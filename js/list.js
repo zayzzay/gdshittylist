@@ -22951,11 +22951,17 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
-					{
+				{
 					"user": "IIEliteRainII",
 					"link": "https://youtu.be/FKLZzNxhZlE",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/v6w-5CbzS8Q",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
                        "name": "Shitty Doop",
