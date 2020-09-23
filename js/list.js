@@ -26429,6 +26429,24 @@ const d = {
 					"percent": 73,
 					"hz": "120hz"
 				},
+				{
+					"user": "ertiiss",
+					"link": "https://youtu.be/N3EkmGXFqsU",
+					"percent": 61,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Brace",
+					"link": "https://youtu.be/2X8djVjD16Y",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "vekarzi",
+					"link": "https://youtu.be/ECaFD7vecZQ",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
