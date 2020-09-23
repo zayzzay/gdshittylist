@@ -2558,8 +2558,8 @@ const d = {
 				},
 				{
 					"user": "Gloomy boy",
-					"link": "https://youtu.be/KAMPAyC5emU",
-					"percent": 84,
+					"link": "https://youtu.be/0r80uxQwSM4",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 			],
