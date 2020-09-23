@@ -12145,12 +12145,6 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Vink",
-					"link": "https://youtu.be/3CBZtd22bW8",
-					"percent": 72,
-					"hz": "120hz"
-				},
-				{
 					"user": "HideriGh",
 					"link": "https://youtu.be/RsrNMBgMuFM",
 					"percent": 70,
