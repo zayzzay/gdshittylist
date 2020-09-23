@@ -18853,6 +18853,24 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=J7LdlyfSO1k",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Shatter",
+					"link": "https://youtu.be/Xvl-yKKs5B8",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/DeFF4xwiddw",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
