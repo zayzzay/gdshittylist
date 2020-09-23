@@ -20738,11 +20738,17 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-					{
+				{
 					"user": "IIEliteRainII",
 					"link": "https://youtu.be/FKLZzNxhZlE",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/9Y9Sb-EMk4Y",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Magma Bound",
