@@ -852,6 +852,18 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Alphanetic",
+					"link": "https://www.twitch.tv/videos/749282814",
+					"percent": 100,
+					"hz": "165hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/0MyuhTiTJTo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Golden Paracosm",
 			"author": "FizzySalad",
@@ -2259,6 +2271,12 @@ const d = {
 					"link": "https://youtu.be/1hAod4IrjPA",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/0MyuhTiTJTo",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Gang Plank Hell",
@@ -4508,6 +4526,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/0MyuhTiTJTo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Tartarus",
 			"author": "AcropolisBoy [Darkys]",
@@ -6391,6 +6415,12 @@ const d = {
 					"link": "https://youtu.be/A6d5V_FMGgs",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/0MyuhTiTJTo",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty The Nebula",
@@ -17585,6 +17615,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},	
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/0MyuhTiTJTo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty QFP",
 			"author": "Dashermachine and TheRealYeeter [Dashermachine]",
@@ -24173,6 +24209,12 @@ const d = {
 			        {
 					"user": "LCKV",
 					"link": "https://www.youtube.com/watch?v=k24e_00rmXg&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
+		       		{
+					"user": "SlimmeFelix",
+					"link": "https://youtu.be/AuAbJGYmY7A",
 					"percent": 100,
 					"hz": "144hz"
 				},
