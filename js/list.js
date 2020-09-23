@@ -19034,6 +19034,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Poptart",
+					"link": "https://youtu.be/Pe_FJR52qqY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Ballin",
 			"author": "Aassbll",
