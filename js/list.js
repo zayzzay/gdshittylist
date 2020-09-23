@@ -3717,6 +3717,12 @@ const d = {
 					"percent": 100,
 				        "hz": "300hz"
 				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=_QC3LHQryQU",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -7749,6 +7755,12 @@ const d = {
 				{
 					"user": "ExtremeBeemon",
 					"link": "https://youtu.be/_sRqfTvWCiY",
+					"percent": 100,
+				        "hz": "240hz"
+				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=Czs5Q9o4nkY",
 					"percent": 100,
 				        "hz": "240hz"
 				},
@@ -12311,6 +12323,12 @@ const d = {
 					"link": "https://youtu.be/Y0-iu46sMdM",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=o5VaBpnapoI",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -17598,6 +17616,12 @@ const d = {
 					"percent": 100, 
 					"hz": "60hz"
 				},
+					{
+					"user": "Phlips",
+					"link": "https://youtu.be/F8ge7iHC2JA",
+					"percent": 100, 
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -20672,6 +20696,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+					{
+					"user": "IIEliteRainII",
+					"link": "https://youtu.be/FKLZzNxhZlE",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -22920,6 +22950,12 @@ const d = {
 					"link": "https://youtu.be/LzhMqhCZd4c",
 					"percent": 100,
 					"hz": "120hz"
+				},
+					{
+					"user": "IIEliteRainII",
+					"link": "https://youtu.be/FKLZzNxhZlE",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
                        "name": "Shitty Doop",
@@ -26314,6 +26350,12 @@ const d = {
 					"link": "https://youtu.be/QD07VXAnQqw",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "LNeolait",
+					"link": "https://www.youtube.com/watch?v=G2BklVUGQL8",
+					"percent": 73,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty VendetTa",
