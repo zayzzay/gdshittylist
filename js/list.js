@@ -19936,6 +19936,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=47CLUDfn3gk&t=8s",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
@@ -20983,12 +20989,6 @@ const d = {
 					"link": "https://youtu.be/U09mBSFSYUY",
 					"percent": 100,
 					"hz": "60hz"
-				},
-				{
-					"user": "Target",
-					"link": "https://youtu.be/1Qm7gR3s_4w",
-					"percent": 100,
-					"hz": "300hz"
 				},
 			],
 			"name": "Shitty xo",
@@ -25490,6 +25490,12 @@ const d = {
 					"link": "https://youtu.be/zXXVjhQE_KM",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Target",
+					"link": "https://youtu.be/1Qm7gR3s_4w",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
