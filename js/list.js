@@ -12360,6 +12360,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Marp",
+					"link": "https://www.youtube.com/watch?v=zfYQAUoz8ac&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "iISuperDogIi",
+					"link": "https://youtu.be/araCvwue6Mo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
