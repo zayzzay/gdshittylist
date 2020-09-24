@@ -259,7 +259,7 @@ const d = {
                        "id": 64156354,
                        "pass": "533053",
                        "percentToQualify": 56,
-                       "verificationVid": "https://youtu.be/PpeFax-Obxw"
+                       "verificationVid": "https://youtu.be/PpeFax-Obxw",
                        "key": 2
                 },
 		/*=================================================================================*/
@@ -1122,6 +1122,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=yVBi2PoPnqw",
 					"percent": 77,
 					"hz": "300hz"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/LzTk5OaGDy0",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Zaphkiel",
@@ -5280,6 +5286,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://youtu.be/Dk9h_Acy2lk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -8745,6 +8757,12 @@ const d = {
 					"link": "https://youtu.be/Mdu43LK2tcE",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+					{
+					"user": "Arctic",
+					"link": "https://youtu.be/RwnCtXlM59k",
+					"percent": 91,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Omnitoxin",
@@ -21075,6 +21093,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Superxman777",
+					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -21453,6 +21477,12 @@ const d = {
 					"link": "https://youtu.be/r50Tg0HWSjI",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Superxman777",
+					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty xo",
@@ -21868,6 +21898,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=8iu8uKiEADs",
 					"percent": 100,
 					"hz": "165hz"
+				},
+				{
+					"user": "Superxman777",
+					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Mujigae",
@@ -22554,6 +22590,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Superxman777",
+					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -23227,6 +23269,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Superxman777",
+					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -23363,6 +23411,18 @@ const d = {
 				{
 					"user": "Kobra456",
 					"link": "https://www.youtube.com/watch?v=lD0SN3j4ziE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Superxman777",
+					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Diogan",
+					"link": "https://youtu.be/IL8x_bq8pjY",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -24081,6 +24141,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "BraceGD",
+					"link": "https://youtu.be/xD28vUGzdJ8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Superxman777",
+					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -24700,6 +24772,18 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			        },
+			       {
+					"user": "Superxman777",
+					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			          {
+					"user": "BraceGD",
+					"link": "https://youtu.be/ShotgZ4RchE",
+					"percent": 100,
+					"hz": "60hz"
+				},
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -26045,6 +26129,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Superxman777",
+					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
@@ -26810,8 +26900,8 @@ const d = {
 				},
 				{
 					"user": "ertiiss",
-					"link": "https://youtu.be/agF7qUVGj3A",
-					"percent": 95,
+					"link": "https://youtu.be/s870hc3Xfk8",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 				{
@@ -26825,6 +26915,24 @@ const d = {
 					"link": "https://youtu.be/ECaFD7vecZQ",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "01234wasd56789",
+					"link": "https://www.youtube.com/watch?v=T4l7qhVYvz8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Burningcouch",
+					"link": "https://youtu.be/JkWuSRF2YZ0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Superxman777",
+					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty VendetTa",
