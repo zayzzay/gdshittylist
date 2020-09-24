@@ -2841,6 +2841,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Predatoe",
+					"link": "https://youtu.be/cfN1gtJRQ0I",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Step To Hell",
 			"author": "oSpace",
@@ -3995,6 +4001,12 @@ const d = {
 					"link": "https://youtu.be/ndtUjxqgQTs",
 					"percent": 100,
 				        "hz": "288hz"
+				},
+				{
+					"user": "blessed",
+					"link": "https://youtu.be/TZfouPXgUxQ",
+					"percent": 100,
+				        "hz": "60hz"
 				},
 			],
 			"name": "Shitty Occult Outcry",
@@ -7358,6 +7370,12 @@ const d = {
 					"link": "https://youtu.be/BJwnPRYjD2w",
 					"percent": 69,
 					"hz": "Mobile"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/VegRW6mvkOY",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -16502,6 +16520,12 @@ const d = {
 					"percent": 100,
 				        "hz": "288hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/Lpk12ZB7mnE",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty The Flawless",
 			"author": "AcropolisBoy and more [AcropolisBoy]",
@@ -16824,8 +16848,8 @@ const d = {
 				},
 			],
 			"name": "Shitty QFP",
-			"author": "Dashermachine and TheRealYeeter [Dashermachine]",
-			"more": "none",
+			"author": "Dashermachine and more[Dashermachine]",
+			"more": "TheRealYeeter, MP3141",
 			"id": 63162388,
 			"pass": "Free to Copy",
 			"percentToQualify": 78,
@@ -24153,6 +24177,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "LCKV",
+					"link": "https://www.youtube.com/watch?v=e5OgzOb58gY&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -26894,8 +26924,8 @@ const d = {
 				},
 				{
 					"user": "LNeolait",
-					"link": "https://www.youtube.com/watch?v=G2BklVUGQL8",
-					"percent": 73,
+					"link": "https://www.youtube.com/watch?v=JSMMDnEX4b0&feature=youtu.be",
+					"percent": 100,
 					"hz": "120hz"
 				},
 				{
