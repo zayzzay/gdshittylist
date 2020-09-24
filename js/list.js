@@ -8665,6 +8665,7 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=DCacasRq9BA",
 					"percent": 100,
 					"hz": "240hz
+				},
 			],
 			"name": "Shitty Caution",
 			"author": "ZekronGD and ShadowNinja441 [ShadowNinja441]",
