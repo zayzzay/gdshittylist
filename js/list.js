@@ -1129,6 +1129,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=wS1BgPK5E3I&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -1613,6 +1619,43 @@ const d = {
 			"key": 14
 		},
 		/*=================================================================================*/
+						{
+			"vids": [
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/8_9ueVRSbyY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/1hAod4IrjPA",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/0MyuhTiTJTo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/rAxXAem7mSQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Gang Plank Hell",
+			"author": "AcropolisBoy and more [AcropolisBoy]",
+			"more": "ZekronGD, Aassbll, DeadshotHD, HDLink13, TheKate, Jackieriz, Williams8080",
+			"id": 63487281,
+			"pass": "Free to copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=FGARY9mestA",
+			"key": 15
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
  				{
@@ -1743,7 +1786,7 @@ const d = {
 			"pass": "100006",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=RPDmLNJBpMc",
-			"key": 15
+			"key": 16
 		},
 		/*=================================================================================*/
 		{
@@ -1978,7 +2021,7 @@ const d = {
 			"pass": "789123",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=xGBfvrRvIbU",
-			"key": 16
+			"key": 17
 		},
 		/*=================================================================================*/
 		{
@@ -2279,43 +2322,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=Wc_Jj3oWXL0",
-			"key": 17
-		},
-		/*=================================================================================*/
-				{
-			"vids": [
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/8_9ueVRSbyY",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Lawnmower",
-					"link": "https://youtu.be/1hAod4IrjPA",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/0MyuhTiTJTo",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/rAxXAem7mSQ",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Gang Plank Hell",
-			"author": "AcropolisBoy and more [AcropolisBoy]",
-			"more": "ZekronGD, Aassbll, DeadshotHD, HDLink13, TheKate, Jackieriz, Williams8080",
-			"id": 63487281,
-			"pass": "Free to copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=FGARY9mestA",
 			"key": 18
 		},
 		/*=================================================================================*/
@@ -3844,6 +3850,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Auryal",
+					"link": "https://youtu.be/5o0Lev7qsNk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -4250,10 +4262,10 @@ const d = {
 				       "hz": "240hz"
 			        },
 				{
-				       "user": "Shatter",
-				       "link": "https://youtu.be/741fTCkOcXo",
+				       "user": "Nepenthe",
+				       "link": "https://www.youtube.com/watch?v=PDUSNpvygXM",
 				       "percent": 100,
-				       "hz": "300hz"
+				       "hz": "144hz"
 			        },
 			],
 			"name": "Shitty Artificial Dream",
@@ -7377,6 +7389,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Veridium",
+					"link": "https://www.youtube.com/watch?v=pzMj6WyklB4&t=1s",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -8562,6 +8580,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=lD0SN3j4ziE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Nevise",
+					"link": "https://youtu.be/TRVX7-HNFBQ",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -17665,6 +17689,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "zSekanii",
+					"link": "https://youtu.be/omC2wZNUC1Y",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
                         "name": "Shitty Ethereal Artifice",
                         "author": "Megum and more [Megum]",
@@ -21122,6 +21152,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/gN52j9yuuAc",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Magma Bound",
