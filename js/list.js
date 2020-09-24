@@ -136,6 +136,12 @@ const d = {
 				       "percent": 58,
 				       "hz": "288hz"
 			       },
+			       {
+				       "user": "FrostBurn",
+				       "link": "https://youtu.be/J4FXHoRn7p0",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 		       ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -2664,7 +2670,13 @@ const d = {
 					"link": "https://youtu.be/JBhsAjmsrFM",
 					"percent": 100,
 					"hz": "144hz"
-				},	
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=-GerPfUZhGk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Avalanche",
 			"author": "Cyns",
@@ -8648,6 +8660,11 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Veridium",
+					"link": "https://www.youtube.com/watch?v=DCacasRq9BA",
+					"percent": 100,
+					"hz": "240hz
 			],
 			"name": "Shitty Caution",
 			"author": "ZekronGD and ShadowNinja441 [ShadowNinja441]",
@@ -17314,6 +17331,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Serenix",
+					"link": "https://www.youtube.com/watch?v=Wk3TEv8hpk8",
+					"percent": 100,
+					"hz": "120hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -24645,6 +24668,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+			       {
+				       "user": "Kobra456",
+				       "link": "https://www.youtube.com/watch?v=-GerPfUZhGk",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
+			       {
+				       "user": "Veridium",
+				       "link": "https://www.youtube.com/watch?v=z5-cUHbpQi0",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
