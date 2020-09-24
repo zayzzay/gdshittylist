@@ -8664,7 +8664,7 @@ const d = {
 					"user": "Veridium",
 					"link": "https://www.youtube.com/watch?v=DCacasRq9BA",
 					"percent": 100,
-					"hz": "240hz
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Caution",
