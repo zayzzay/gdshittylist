@@ -132,8 +132,8 @@ const d = {
 			       },
 			       {
 				       "user": "Covieta",
-				       "link": "https://www.youtube.com/watch?v=2Q4iWhYcc-A",
-				       "percent": 58,
+				       "link": "https://youtu.be/IvH7BC4KSwk",
+				       "percent": 100,
 				       "hz": "288hz"
 			       },
 			       {
