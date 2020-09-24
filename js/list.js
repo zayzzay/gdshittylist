@@ -244,16 +244,22 @@ const d = {
                        "key": 1
                 },
 		/*=================================================================================*/
-		{
+		{	
 		"vids": [
-		],
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/PpeFax-Obxw",
+					"percent": 100,
+					"hz": "288hz"	
+				},
+			],
                        "name": "Shitty Plasma Pulse Finale",
                        "author": "Acidius and Aassbll [Acidius]",
                        "more": "none",
                        "id": 64156354,
                        "pass": "533053",
                        "percentToQualify": 56,
-                       "verificationVid": "",
+                       "verificationVid": "https://youtu.be/PpeFax-Obxw"
                        "key": 2
                 },
 		/*=================================================================================*/
