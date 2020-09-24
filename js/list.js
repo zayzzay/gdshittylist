@@ -2320,6 +2320,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://www.youtube.com/watch?v=5yTCvdouSnA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Golden Paracosm",
 			"author": "FizzySalad",
@@ -3004,6 +3010,12 @@ const d = {
 					"link": "https://youtu.be/E3TPx6PGEoY",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/xBN1PqV2YEc",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Retitled",
@@ -6530,6 +6542,12 @@ const d = {
 					"link": "https://youtu.be/J7vl-sWS_ck",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://www.youtube.com/watch?v=HSq1kuKd6Uo",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Vertigo",
@@ -14471,6 +14489,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ES25000",
+					"link": "https://youtu.be/pWRgmFOkqjg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -19032,6 +19056,12 @@ const d = {
 					"link": "https://youtu.be/r50Tg0HWSjI",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://www.youtube.com/watch?v=2Ug5OzUYhTU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Titan Complex",
