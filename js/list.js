@@ -759,7 +759,13 @@ const d = {
 					"link": "https://youtu.be/JBhsAjmsrFM",
 					"percent": 100,
 					"hz": "144hz"
-				},	
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/vkxPEt-1BwY",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Delta Interface",
 			"author": "MP3141",
