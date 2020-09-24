@@ -8496,6 +8496,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=lD0SN3j4ziE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -8554,6 +8560,12 @@ const d = {
 				{
 					"user": "ddddr",
 					"link": "https://www.youtube.com/watch?v=NpJr-gSMbPo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=lD0SN3j4ziE",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -11545,6 +11557,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			      },
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=lD0SN3j4ziE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cadrega Mode",
 			"author": "Megum and more [Megum]",
@@ -23298,6 +23316,12 @@ const d = {
 					"link": "https://youtu.be/r50Tg0HWSjI",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=lD0SN3j4ziE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
                        "name": "Shitty Doop",
