@@ -27096,6 +27096,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Veridium",
+					"link": "https://www.youtube.com/watch?v=F9qxN7R8iLQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
