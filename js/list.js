@@ -15387,6 +15387,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/uH8KlzNgbMw",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
