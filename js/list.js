@@ -11933,6 +11933,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [	
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/gVyvRgTOoMQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Swing Squad",
 			"author": "Cyns and more [Cyns]",
