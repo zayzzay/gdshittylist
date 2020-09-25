@@ -16944,7 +16944,7 @@ const d = {
 				},
 			],
 			"name": "Shitty QFP",
-			"author": "Dashermachine and more[Dashermachine]",
+			"author": "Dashermachine and more [Dashermachine]",
 			"more": "TheRealYeeter, MP3141",
 			"id": 63162388,
 			"pass": "Free to Copy",
