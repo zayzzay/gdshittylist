@@ -6664,6 +6664,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/yyrsrs_g1bQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Vertigo",
 			"author": "Cyns",
@@ -19273,6 +19279,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=2Ug5OzUYhTU",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH541",
+					"link": "https://youtu.be/QB3aeevI3oo",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Titan Complex",
