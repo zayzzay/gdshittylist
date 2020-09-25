@@ -27042,6 +27042,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "BlueStone",
+					"link": "https://youtu.be/fzpAYlTItYY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
