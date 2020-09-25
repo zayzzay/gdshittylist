@@ -11957,6 +11957,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/pqhfKibBZnM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Swing Squad",
 			"author": "Cyns and more [Cyns]",
