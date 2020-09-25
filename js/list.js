@@ -19292,6 +19292,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://youtu.be/a8sQjcgzPeQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
