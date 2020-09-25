@@ -6688,6 +6688,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://www.youtube.com/watch?v=IEWs_Xl0K3Q",
+					"percent": 100,
+					"hz": "50hz"
+				},
 			],
 			"name": "Shitty Vertigo",
 			"author": "Cyns",
