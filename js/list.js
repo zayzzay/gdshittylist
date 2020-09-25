@@ -4013,6 +4013,12 @@ const d = {
 					"percent": 100,
 				        "hz": "60hz"
 				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/OHY_kKlpeeI",
+					"percent": 100,
+				        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Prismatic Haze",
 			"author": "Bluuper",
@@ -6941,6 +6947,12 @@ const d = {
 					"link": "https://youtu.be/6hVjt_vKu-0",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/OHY_kKlpeeI",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Ancestral Calamity",
@@ -11938,6 +11950,12 @@ const d = {
 					"link": "https://youtu.be/gVyvRgTOoMQ",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/OHY_kKlpeeI",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Swing Squad",
