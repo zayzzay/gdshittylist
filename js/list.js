@@ -14658,6 +14658,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Veridium",
+					"link": "https://www.youtube.com/watch?v=yQjfX2Iz2Ac&t=2s",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
