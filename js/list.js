@@ -233,7 +233,13 @@ const d = {
 				       "percent": 100,
 				       "hz": "300hz"
 			      	},
-		         ],
+		                {
+				       "user": "Alphanetic",
+				       "link": "https://www.twitch.tv/videos/750083147",
+				       "percent": 100,
+				       "hz": "165hz"
+			      	},         
+		          ],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper1 [MP3141]",
                        "more": "none",
@@ -1141,6 +1147,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Alphanetic",
+					"link": "https://www.twitch.tv/videos/750083147",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -1359,6 +1371,12 @@ const d = {
 					"link": "https://youtu.be/f_PZvOvzlrU",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Alphanetic",
+					"link": "https://www.twitch.tv/videos/750083147",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Spacial Rend",
