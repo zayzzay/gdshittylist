@@ -19281,10 +19281,16 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "TH541",
+					"user": "TH54",
 					"link": "https://youtu.be/QB3aeevI3oo",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=zA-Ey4t7KQs&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Titan Complex",
