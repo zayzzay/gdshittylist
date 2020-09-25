@@ -1170,6 +1170,49 @@ const d = {
 			"key": 9
 		},
 		/*=================================================================================*/
+								{
+		        "vids": [
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/sypq9JoIzeA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/4dT07iggioo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/JJDypoxakHg",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/f_PZvOvzlrU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Alphanetic",
+					"link": "https://www.twitch.tv/videos/750083147",
+					"percent": 100,
+					"hz": "165hz"
+				},
+			],
+			"name": "Shitty Spacial Rend",
+			"author": "Lawnmower and Jah [Lawnmower]",
+			"more": "none",
+			"id": 63976167,
+			"pass": "Free copy",
+			"percentToQualify": 63,
+			"verificationVid": "https://youtu.be/PmI1SlfjwyI",
+			"key": 10
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
@@ -1270,7 +1313,7 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=x89Bj43uEDU",
-			"key": 10
+			"key": 11
 		},
 		/*=================================================================================*/
 				{
@@ -1349,49 +1392,6 @@ const d = {
 			"pass": "032520",
 			"percentToQualify": 52,
 			"verificationVid": "https://www.youtube.com/watch?v=N9vQCwp01pM",
-			"key": 11
-		},
-		/*=================================================================================*/
-				{
-		        "vids": [
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/sypq9JoIzeA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/4dT07iggioo",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "WowoGD",
-					"link": "https://youtu.be/JJDypoxakHg",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/f_PZvOvzlrU",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Alphanetic",
-					"link": "https://www.twitch.tv/videos/750083147",
-					"percent": 100,
-					"hz": "165hz"
-				},
-			],
-			"name": "Shitty Spacial Rend",
-			"author": "Lawnmower and Jah [Lawnmower]",
-			"more": "none",
-			"id": 63976167,
-			"pass": "Free copy",
-			"percentToQualify": 63,
-			"verificationVid": "https://youtu.be/PmI1SlfjwyI",
 			"key": 12
 		},
 		/*=================================================================================*/
