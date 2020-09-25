@@ -398,6 +398,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				}, 
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/F7DK-G9m0Eo",
+					"percent": 100,
+					"hz": "144hz"
+				}, 
 		         ],
                        "name": "Shitty Biohazard",
                        "author": "Tril and more [Kobra456]",
@@ -2743,6 +2749,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=-GerPfUZhGk",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ExtremeBeemon",
+					"link": "https://youtu.be/_7GTwlW5VbY",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Avalanche",
@@ -8053,6 +8065,12 @@ const d = {
 					"percent": 100,
 				        "hz": "60hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=8a69Itx3xNg",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Glide",
 			"author": "Aassbll",
@@ -9862,6 +9880,18 @@ const d = {
 		/*=================================================================================*/
 		  {
 			"vids": [ 
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/7IgVpaqdAsw",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/syfP9lDe8TM",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Team Z",
 			"author": "Kobra456",
@@ -11981,6 +12011,12 @@ const d = {
 					"link": "https://youtu.be/pqhfKibBZnM",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/syfP9lDe8TM",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Swing Squad",
@@ -15720,6 +15756,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=03VT9PVhehE",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -16218,6 +16260,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=HpgWG7liznY&feature=youtu.be",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "dezka77",
+					"link": "https://youtu.be/-nqRGUiTsQM",
+					"percent": 100,
+					"hz": "60hz"
 				},
                           ],
 			"name": "Shitty Dolos",
@@ -27205,6 +27253,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=47xeXrVD0Qk",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "OliXor",
+					"link": "https://youtu.be/RDXaxmU1fg0",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty VendetTa",
