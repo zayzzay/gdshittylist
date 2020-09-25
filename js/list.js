@@ -1638,6 +1638,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Ketrick",
+					"link": "https://youtu.be/GJlohy3bIDE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Innards",
 			"author": "Keleru",
@@ -23424,6 +23430,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "InfinityAce",
+					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
