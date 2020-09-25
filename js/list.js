@@ -18441,6 +18441,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/yqW7gADMVc4",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Civic",
 			"author": "wshedd",
