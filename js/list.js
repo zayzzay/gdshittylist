@@ -5950,6 +5950,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=Y_lF7yIPd84",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Calculator Core",
 			"author": "oSpace and more [oSpace]",
