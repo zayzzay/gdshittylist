@@ -1820,6 +1820,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://www.youtube.com/watch?v=H31KFSPCXtA&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Kr_Flame",
+					"link": "https://youtu.be/Ulk5Kr4_2hc",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
@@ -6533,6 +6545,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=-qLiTD6QJwk",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "ragerod",
+					"link": "https://www.youtube.com/watch?v=fj4U47STEn4&ab_channel=RageRod",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Tapwreck",
@@ -15762,6 +15780,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "ragerod",
+					"link": "https://youtu.be/q-Ev4j6YYCk",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -19431,6 +19455,12 @@ const d = {
 					"link": "https://youtu.be/a8sQjcgzPeQ",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ragerod",
+					"link": "https://www.youtube.com/watch?v=x3dTjK8dVss&ab_channel=RageRod",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Titan Complex",
