@@ -392,7 +392,13 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
-		          ],
+		         	{
+					"user": "MP3141",
+					"link": "https://youtu.be/eezc_6luCac",
+					"percent": 100,
+					"hz": "144hz"
+				}, 
+		         ],
                        "name": "Shitty Biohazard",
                        "author": "Tril and more [Kobra456]",
                        "more": "Coney, Unlawful, Wunjo, X1Might",
