@@ -142,11 +142,17 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
-			          {
+			       {
 				       "user": "Hixobit",
 				       "link": "https://www.youtube.com/watch?v=3wvMMrxBkoU&feature=youtu.be",
 				       "percent": 100,
 				       "hz": "300hz"
+			       },
+		               {
+				       "user": "Tai0",
+				       "link": "https://youtu.be/t3IzHy5Mar8",
+				       "percent": 56,
+				       "hz": "120hz"
 			       },
 		       ],
                        "name": "Shitty Azure Flare",
@@ -819,6 +825,12 @@ const d = {
 					"link": "https://youtu.be/vkxPEt-1BwY",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/vkxPEt-1BwY",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Delta Interface",
@@ -2415,6 +2427,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=-ktZTLGWcO4",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "AVRG",
+					"link": "https://youtu.be/EJeX0HGhUYA",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Wasureta",
@@ -5824,8 +5842,8 @@ const d = {
 				},
 				{
 					"user": "Cyns",
-					"link": "https://youtu.be/n065-suEYU0",
-					"percent": 73,
+					"link": "https://youtu.be/KdN6Gp6Ord0",
+					"percent": 82,
 					"hz": "288hz"
 				},
 				{
@@ -13331,6 +13349,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ZephyrosGD",
+					"link": "https://youtu.be/7MzOMmkoXUg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -13613,6 +13637,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Q2VezL2w4Xc&feature=youtu.be",
 					"percent": 100,
 					"hz": "102hz"
+				},
+				{
+					"user": "ZephyrosGD ",
+					"link": "https://youtu.be/Jt7Y6d2yHLw",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
                         "name": "Shitty Ouroboros",
@@ -15062,6 +15092,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=UBCU1GlGLT4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ZephyrosGD",
+					"link": "https://youtu.be/UlBqXd0dW50",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Kenos",
@@ -18499,8 +18535,8 @@ const d = {
 				},
 				{
 					"user": "ava",
-					"link": "https://www.youtube.com/watch?v=PsNwwb8VkCU",
-					"percent": 86,
+					"link": "https://www.youtube.com/watch?v=XnwmwtigzsU",
+					"percent": 100,
 					"hz": "165hz"
 				},
 				{
@@ -21014,6 +21050,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=LDu77Bt8emA&t=15s",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "YeckGrinding",
+					"link": "https://www.youtube.com/watch?v=iPw8ITqT52A&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Wavebreaker",
