@@ -5800,8 +5800,8 @@ const d = {
 				},
 				{
 					"user": "Cyns",
-					"link": "https://youtu.be/vR6Oz_jIC-g",
-					"percent": 67,
+					"link": "https://youtu.be/n065-suEYU0",
+					"percent": 73,
 					"hz": "288hz"
 				},
 				{
