@@ -264,6 +264,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"	
 				},
+			        {
+					"user": "GDMeric",
+					"link": "https://youtu.be/3lKZcAwgFkA",
+					"percent": 100,
+					"hz": "144hz"	
+				},
 			],
                        "name": "Shitty Plasma Pulse Finale",
                        "author": "Acidius and Aassbll [Acidius]",
