@@ -279,7 +279,7 @@ const d = {
 			 	{
 					"user": "Aassbll",
 					"link": "https://youtu.be/1Ylgg-oBcZw",
-					"percent": 100,
+					"percent": 79,
 					"hz": "60hz"	
 				},
 			],
@@ -4133,6 +4133,12 @@ const d = {
 					"link": "https://youtu.be/TZfouPXgUxQ",
 					"percent": 100,
 				        "hz": "60hz"
+				},
+				{
+					"user": "TASGOD",
+					"link": "https://youtu.be/jdz3pSbGGMA",
+					"percent": 100,
+				        "hz": "240hz"
 				},
 			],
 			"name": "Shitty Occult Outcry",
@@ -9987,6 +9993,12 @@ const d = {
 					"link": "https://youtu.be/_XOAfmSY92g",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/N98XLDTX0EM",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Team Z",
@@ -16858,6 +16870,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "Gloomy boy",
+					"link": "https://youtu.be/GoB-FG_1vdA",
+					"percent": 99,
+				        "hz": "Mobile"
+				},
 			],
 			"name": "Shitty The Flawless",
 			"author": "AcropolisBoy and more [AcropolisBoy]",
@@ -19576,6 +19594,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				 {
+				       "user": "Blast",
+				       "link": "https://youtu.be/63YYgzKQVp4",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -21045,6 +21069,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+			       {
+				       "user": "Blast",
+				       "link": "https://youtu.be/7xBCjSkTCQ4",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
 		       ],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
