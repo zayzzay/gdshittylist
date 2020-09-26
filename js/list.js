@@ -244,7 +244,13 @@ const d = {
 				       "link": "https://www.twitch.tv/videos/750083147",
 				       "percent": 100,
 				       "hz": "165hz"
-			      	},         
+			      	},
+			  	{
+				       "user": "FrostBurn",
+				       "link": "https://youtu.be/ldGiKB_WOMI",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 		          ],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper1 [MP3141]",
@@ -269,6 +275,12 @@ const d = {
 					"link": "https://youtu.be/3lKZcAwgFkA",
 					"percent": 100,
 					"hz": "144hz"	
+				},
+			 	{
+					"user": "Aassbll",
+					"link": "https://youtu.be/1Ylgg-oBcZw",
+					"percent": 100,
+					"hz": "60hz"	
 				},
 			],
                        "name": "Shitty Plasma Pulse Finale",
@@ -4067,6 +4079,12 @@ const d = {
 					"percent": 100,
 				        "hz": "240hz"
 				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/en3QkZOQtQ4",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Prismatic Haze",
 			"author": "Bluuper",
@@ -5165,6 +5183,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "TzAnder",
+					"link": "https://www.youtube.com/watch?v=F90pX9hRA7E",
+					"percent": 100,
+				        "hz": "75hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -5411,6 +5435,12 @@ const d = {
 					"link": "https://youtu.be/Dk9h_Acy2lk",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TzAnder",
+					"link": "https://www.youtube.com/watch?v=267IHluXSmI&t=12s",
+					"percent": 100,
+				        "hz": "60hz"
 				},
 			],
 			"name": "Shitty Ragnarok",
@@ -6027,6 +6057,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Y_lF7yIPd84",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "TzAnder",
+					"link": "https://www.youtube.com/watch?v=TF_rnAVFUUE&t=218s",
+					"percent": 100,
+				        "hz": "75hz"
 				},
 			],
 			"name": "Shitty Calculator Core",
@@ -7527,6 +7563,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "TzAnder",
+					"link": "https://www.youtube.com/watch?v=6hsPE0e7gG8",
+					"percent": 100,
+				        "hz": "75hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -8724,6 +8766,12 @@ const d = {
 					"link": "https://youtu.be/TRVX7-HNFBQ",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/_AlP3c0EA3U",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -9934,6 +9982,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/_XOAfmSY92g",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Team Z",
 			"author": "Kobra456",
@@ -10965,6 +11019,12 @@ const d = {
 					"link": "https://youtu.be/60AuJ2SGAoA",
 					"percent": 90,
 					"hz": "300hz"
+				},
+				{
+					"user": "Serenix",
+					"link": "https://www.youtube.com/watch?v=qsmSYzpVfHs",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -12814,7 +12874,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "iISuperDogIi",
+					"user": "SuperDog",
 					"link": "https://youtu.be/araCvwue6Mo",
 					"percent": 100,
 					"hz": "Mobile"
@@ -17081,6 +17141,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Serenix",
+					"link": "https://www.youtube.com/watch?v=1ytbs75UpFE",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -18273,6 +18339,12 @@ const d = {
 					"link": "https://youtu.be/F8ge7iHC2JA",
 					"percent": 100, 
 					"hz": "144hz"
+				},
+				{
+					"user": "ava",
+					"link": "https://www.youtube.com/watch?v=PsNwwb8VkCU",
+					"percent": 86,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
@@ -23649,6 +23721,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Serenix",
+					"link": "https://www.youtube.com/watch?v=w4kLsyXvYkU",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -23803,6 +23881,12 @@ const d = {
 				{
 					"user": "Ar28",
 					"link": "https://www.youtube.com/watch?v=uYGgnfp31dk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=QBf83hsYEGk",
 					"percent": 100,
 					"hz": "Mobile"
 				},
