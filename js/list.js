@@ -8209,6 +8209,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "SuperDog",
+					"link": "https://youtu.be/73teLgz20d0",
+					"percent": 97,
+				        "hz": "Mobile"
+				},
 			],
 			"name": "Shitty Glide",
 			"author": "Aassbll",
@@ -8452,6 +8458,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=4WR7Y3-8w9s",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/ZL5cXGRGRBk",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Matilda The Machine",
@@ -14085,6 +14097,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},	
+				{
+					"user": "SlimmeFelix",
+					"link": "https://www.youtube.com/watch?v=mRmVvBB-zGU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ad Aeternum",
 			"author": "Vlaash and more [rVlaash]",
@@ -14108,7 +14126,7 @@ const d = {
 					"user": "Covieta",
 					"link": "https://youtu.be/qFk2fCA4q8M",
 					"percent": 100,
-					"percent": "288hz"
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Necropolis",
