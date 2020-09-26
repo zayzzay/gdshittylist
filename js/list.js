@@ -1862,6 +1862,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/yHHyCy5P09w?t=100",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
@@ -9311,6 +9317,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "dezka77",
+					"link": "https://youtu.be/osytPEmZ8VU",
+					"percent": 82,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -11264,6 +11276,12 @@ const d = {
 				{
 					"user": "ddddr",
 					"link": "https://www.youtube.com/watch?v=VSp3g6lihxQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=_VjhxFwFhtI",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -14400,6 +14418,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=hTWhb0dgzIY",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://www.youtube.com/watch?v=0gVtTZYPaNM",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty The Hell Bird",
@@ -18767,6 +18791,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/yHHyCy5P09w",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Civic",
 			"author": "wshedd",
@@ -19744,6 +19774,12 @@ const d = {
 					"link": "https://youtu.be/r50Tg0HWSjI",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=_VjhxFwFhtI",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ballin",
