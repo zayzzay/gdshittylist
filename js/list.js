@@ -18547,8 +18547,8 @@ const d = {
 				},
 				{
 					"user": "Fascade",
-					"link": "https://youtu.be/FGE7FfIPsjg",
-					"percent": 91,
+					"link": "https://youtu.be/lOSycyzvk7Q",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 			],
