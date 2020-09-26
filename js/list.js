@@ -4103,6 +4103,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "justiceguy",
+					"link": "https://www.youtube.com/watch?v=NAVg2KWII2k",
+					"percent": 67,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Prismatic Haze",
 			"author": "Bluuper",
@@ -4947,6 +4953,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=3Bq2qSgQPxM",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/qFk2fCA4q8M",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Deimos",
@@ -7599,6 +7611,12 @@ const d = {
 					"percent": 100,
 				        "hz": "75hz"
 				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/Ky0kuHUfszc",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -9902,6 +9920,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://youtu.be/d3m_h5ltZas",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -11315,6 +11339,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://www.youtube.com/watch?v=ZY4GClyWh1s",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -12009,6 +12039,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=3FUr2yJBGYA",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "justiceguy",
+					"link": "https://www.youtube.com/watch?v=scewLH0qnbY",
+					"percent": 74,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Hyperio Technia",
@@ -14067,6 +14103,12 @@ const d = {
 					"link": "https://youtu.be/RMDa86yq77k",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/qFk2fCA4q8M",
+					"percent": 100,
+					"percent": "288hz"
 				},
 			],
 			"name": "Shitty Necropolis",
@@ -18443,6 +18485,12 @@ const d = {
 					"percent": 86,
 					"hz": "165hz"
 				},
+				{
+					"user": "Fascade",
+					"link": "https://youtu.be/FGE7FfIPsjg",
+					"percent": 91,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -18746,6 +18794,12 @@ const d = {
 				{
 					"user": "errør",
 					"link": "https://youtu.be/kwj0sK2Z12g",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "SuperDog",
+					"link": "https://youtu.be/4kvHppUzSSM",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -19842,6 +19896,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "burningcouch",
+					"link": "https://www.youtube.com/watch?v=oZglhj2zSw4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Ballin",
 			"author": "Aassbll",
@@ -20930,6 +20990,12 @@ const d = {
 					"link": "https://youtu.be/r50Tg0HWSjI",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "burningcouch",
+					"link": "https://www.youtube.com/watch?v=LDu77Bt8emA&t=15s",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Wavebreaker",
