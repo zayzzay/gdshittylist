@@ -10378,7 +10378,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "carol",
+					"user": "ava",
 					"link": "https://www.youtube.com/watch?v=5v5KciGw3JM",
 					"percent": 100,
 					"hz": "165hz"
@@ -10943,7 +10943,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "carol",
+					"user": "ava",
 					"link": "https://www.youtube.com/watch?v=wMYUnjRWV0M",
 					"percent": 100,
 					"hz": "165hz"
@@ -11595,7 +11595,7 @@ const d = {
 					"hz": "165hz"
 				},
 				{
-					"user": "carol",
+					"user": "ava",
 					"link": "https://www.youtube.com/watch?v=CLKI-6RDWXw",
 					"percent": 100,
 					"hz": "165hz"
@@ -13134,7 +13134,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "carol",
+					"user": "ava",
 					"link": "https://www.youtube.com/watch?v=ADu17HCqmTc",
 					"percent": 100,
 					"hz": "165hz"
@@ -17558,7 +17558,7 @@ const d = {
 				       "hz": "165hz"
 			        },
 				{
-				       "user": "carol",
+				       "user": "ava",
 				       "link": "https://www.youtube.com/watch?v=aE--S6u-uRA",
 				       "percent": 100,
 				       "hz": "144hz"
@@ -25105,7 +25105,7 @@ const d = {
 					"hz": "150hz"
 				},
 		       		{
-					"user": "carol",
+					"user": "ava",
 					"link": "https://www.youtube.com/watch?v=VtxBKIAhSY4",
 					"percent": 100,
 					"hz": "165hz"
