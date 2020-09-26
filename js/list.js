@@ -142,6 +142,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			          {
+				       "user": "Hixobit",
+				       "link": "https://www.youtube.com/watch?v=3wvMMrxBkoU&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
 		       ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -1165,6 +1171,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "GDCailloux",
+					"link": "https://www.youtube.com/watch?v=GPUUNW0dfiQ&feature=youtu.be",
+					"percent": 92,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -1176,7 +1188,7 @@ const d = {
 			"key": 9
 		},
 		/*=================================================================================*/
-								{
+		{
 		        "vids": [
 				{
 					"user": "Covieta",
@@ -12795,6 +12807,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Ar28",
+					"link": "https://www.youtube.com/watch?v=LeZtWObMtQk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Artifice",
 			"author": "Megum and more [Megum]",
@@ -14815,6 +14833,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=yQjfX2Iz2Ac&t=2s",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=UBCU1GlGLT4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Kenos",
@@ -18635,6 +18659,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=YCZ-VUb8MAo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Civic",
 			"author": "wshedd",
@@ -20190,6 +20220,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://youtu.be/FmBVQG9494I",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -21406,6 +21442,18 @@ const d = {
 					"link": "https://youtu.be/pok-NtMKLD4",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://youtu.be/u2dyr3WalHI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Veridium",
+					"link": "https://www.youtube.com/watch?v=zmxmpGjKYx4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Magma Bound",
@@ -23739,6 +23787,12 @@ const d = {
 					"link": "https://youtu.be/IL8x_bq8pjY",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Ar28",
+					"link": "https://www.youtube.com/watch?v=uYGgnfp31dk",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
                        "name": "Shitty Doop",
