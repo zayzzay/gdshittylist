@@ -282,6 +282,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"	
 				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/ok95rc5aFVg",
+					"percent": 100,
+					"hz": "288hz"	
+				},
 			],
                        "name": "Shitty Plasma Pulse Finale",
                        "author": "Acidius and Aassbll [Acidius]",
@@ -6795,6 +6801,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=IEWs_Xl0K3Q",
 					"percent": 100,
 					"hz": "50hz"
+				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/EYBOIKNNyPY",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Vertigo",
