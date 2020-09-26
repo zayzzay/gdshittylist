@@ -278,8 +278,8 @@ const d = {
 				},
 			 	{
 					"user": "Aassbll",
-					"link": "https://youtu.be/1Ylgg-oBcZw",
-					"percent": 79,
+					"link": "https://youtu.be/BVkGPNaIRCc",
+					"percent": 100,
 					"hz": "60hz"	
 				},
 			],
