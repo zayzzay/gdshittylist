@@ -3519,6 +3519,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=U5VZ4WfTrTk",
+					"percent": 100,
+				        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -6384,6 +6390,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=YZEDT4hRSsc",
+					"percent": 100,
+				        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -7653,6 +7665,12 @@ const d = {
 					"link": "https://youtu.be/Ky0kuHUfszc",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=pzMj6WyklB4&t=7s",
+					"percent": 100,
+				        "hz": "240hz"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -9091,8 +9109,8 @@ const d = {
 				},
 					{
 					"user": "Arctic",
-					"link": "https://youtu.be/RwnCtXlM59k",
-					"percent": 91,
+					"link": "https://youtu.be/EfmbIN5wNM0",
+					"percent": 100,
 					"hz": "60hz"
 				},
 				{
@@ -15123,6 +15141,12 @@ const d = {
 					"link": "https://youtu.be/UlBqXd0dW50",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=yQjfX2Iz2Ac&t=16s",
+					"percent": 100,
+				        "hz": "240hz"
 				},
 			],
 			"name": "Shitty Kenos",
@@ -24186,6 +24210,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=zmxmpGjKYx4&t=10s",
+					"percent": 100,
+				        "hz": "240hz"
+				},
 			],
                        "name": "Shitty Doop",
                        "author": "Megum and more [Megum]",
@@ -26919,6 +26949,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=prvcryomn4Y",
+					"percent": 100,
+				        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
@@ -27747,6 +27783,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1Nvadfp6hyw&ab_channel=mDetious",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=F9qxN7R8iLQ&t=3s",
+					"percent": 100,
+				        "hz": "240hz"
 				},
 			],
 			"name": "Shitty VendetTa",
