@@ -5003,6 +5003,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=3Bq2qSgQPxM",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Deimos",
 			"author": "oSpace",
@@ -6696,6 +6702,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=fj4U47STEn4&ab_channel=RageRod",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=SVfpHiol0xM",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "TASGOD",
+					"link": "https://youtu.be/urgIN8dQteo",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Tapwreck",
@@ -9041,7 +9059,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Veridium",
+					"user": "Varidium",
 					"link": "https://www.youtube.com/watch?v=DCacasRq9BA",
 					"percent": 100,
 					"hz": "240hz"
@@ -12644,6 +12662,12 @@ const d = {
 					"link": "https://youtu.be/syfP9lDe8TM",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/smhnl7SK59c?t=207",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Swing Squad",
@@ -19848,6 +19872,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=SVO-IPE8ggE&t=26s",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -25586,6 +25616,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+			       {
+					"user": "Varidium",
+					"link": "https://www.youtube.com/watch?v=z5-cUHbpQi0",
+					"percent": 100,
+					"hz": "240hz"
+				},
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -26954,6 +26990,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=prvcryomn4Y",
 					"percent": 100,
 				        "hz": "240hz"
+				},
+				{
+					"user": "Fascade",
+					"link": "https://youtu.be/06GpcH94PwA",
+					"percent": 100,
+				        "hz": "Mobile"
+				},
+				{
+					"user": "Finki",
+					"link": "https://www.youtube.com/watch?v=iQj1OmGggc0",
+					"percent": 100,
+				        "hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
