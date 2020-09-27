@@ -19878,6 +19878,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "UnbreakablePlays",
+					"link": "https://youtu.be/_ZdMnauy4Ok",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
