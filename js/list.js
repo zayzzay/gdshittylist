@@ -27039,6 +27039,12 @@ const d = {
 					"percent": 100,
 				        "hz": "Mobile"
 				},
+				{
+					"user": "Alexo",
+					"link": "https://youtu.be/HmvYT4IR49w",
+					"percent": 100,
+				        "hz": "Mobile"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
