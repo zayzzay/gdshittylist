@@ -1274,7 +1274,13 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [	
+			"vids": [
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/QhBvdW9h80o",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bausha Vortex",
 			"author": "Covieta and v1nnyy [Covieta]",
