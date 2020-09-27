@@ -17510,6 +17510,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/smhnl7SK59c",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty QFP",
 			"author": "Dashermachine and more [Dashermachine]",
