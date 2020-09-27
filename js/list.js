@@ -294,6 +294,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"	
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=t9-LIScKu_0",
+					"percent": 100,
+					"hz": "144hz"	
+				},
 			],
                        "name": "Shitty Plasma Pulse Finale",
                        "author": "Acidius and Aassbll [Acidius]",
@@ -4478,6 +4484,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=3HQCw2UNb2c",
+					"percent": 100,
+					"hz": "144hz"	
+				},
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
@@ -6923,6 +6935,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				 {
+				       "user": "Blast",
+				       "link": "https://youtu.be/EwrNXG8HXiI",
+				       "percent": 100,
+				       "hz": "Mobile"
+			        },
 			],
 			"name": "Shitty Vertigo",
 			"author": "Cyns",
@@ -8318,6 +8336,12 @@ const d = {
 					"percent": 97,
 				        "hz": "Mobile"
 				},
+				{
+					"user": "Nezzicom",
+					"link": "https://www.youtube.com/watch?v=vGrB5UhYq6g&feature=youtu.be",
+					"percent": 100,
+				        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Glide",
 			"author": "Aassbll",
@@ -8360,6 +8384,12 @@ const d = {
 					"link": "https://youtu.be/GFhyEU85_ts",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=3HQCw2UNb2c",
+					"percent": 100,
+					"hz": "144hz"	
 				},
 			],
 			"name": "Shitty Nine Paws",
@@ -11236,6 +11266,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=qsmSYzpVfHs",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "dezka77",
+					"link": "https://youtu.be/n4cPxhQc05U",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -14285,6 +14321,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=3HQCw2UNb2c",
+					"percent": 100,
+					"hz": "144hz"	
+				},
 			],
 			"name": "Shitty Necropolis",
 			"author": "Tai0",
@@ -16869,6 +16911,12 @@ const d = {
 					"link": "https://youtu.be/2wHqzy8yqsM",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=3HQCw2UNb2c",
+					"percent": 100,
+					"hz": "144hz"	
 				},
 			],
 			"name": "Shitty Novalis",
@@ -21485,12 +21533,6 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
-			       {
-				       "user": "Blast",
-				       "link": "https://youtu.be/7xBCjSkTCQ4",
-				       "percent": 100,
-				       "hz": "Mobile"
-			        },
 		       ],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
@@ -22796,6 +22838,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://www.youtube.com/watch?v=x_R_Bp9PjbU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Mujigae",
