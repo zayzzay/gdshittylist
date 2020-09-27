@@ -14237,6 +14237,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/smhnl7SK59c?t=95",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Necropolis",
 			"author": "Tai0",
