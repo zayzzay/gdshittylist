@@ -24336,6 +24336,12 @@ const d = {
 					"percent": 100,
 				        "hz": "240hz"
 				},
+				{
+					"user": "OliXor",
+					"link": "https://youtu.be/SSGpAZOt44s",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
                        "name": "Shitty Doop",
                        "author": "Megum and more [Megum]",
