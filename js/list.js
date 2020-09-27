@@ -14238,6 +14238,12 @@ const d = {
 					"hz": "288hz"
 				},
 				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/IPT1PgXeYtY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
 					"user": "iRaily",
 					"link": "https://youtu.be/smhnl7SK59c?t=95",
 					"percent": 100,
