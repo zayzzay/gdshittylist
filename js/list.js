@@ -4225,6 +4225,12 @@ const d = {
 					"percent": 100,
 				        "hz": "240hz"
 				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/XUo2zNvI88E",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Occult Outcry",
 			"author": "Cyns and XanPlayzGamez [Cyns]",
