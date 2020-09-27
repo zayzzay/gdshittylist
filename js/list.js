@@ -1281,6 +1281,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=Myp7g2BxB8A",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bausha Vortex",
 			"author": "Covieta and v1nnyy [Covieta]",
