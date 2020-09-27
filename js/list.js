@@ -6915,7 +6915,7 @@ const d = {
 					"user": "Nevise",
 					"link": "https://youtu.be/tXAdlRzjK3w",
 					"percent": 100,
-					"hz": "288hz"
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Vertigo",
