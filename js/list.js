@@ -10557,6 +10557,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "BlueStone",
+					"link": "https://youtu.be/RFKF_I5Lq2E",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
