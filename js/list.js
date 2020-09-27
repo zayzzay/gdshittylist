@@ -15546,6 +15546,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/SU4dMuADP3w",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Cyber Chaos",
 			"author": "NourTheKing",
