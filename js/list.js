@@ -14243,6 +14243,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/ox02B2X3ZzI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Necropolis",
 			"author": "Tai0",
