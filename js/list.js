@@ -16870,7 +16870,13 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
-                          ],
+                        	{
+					"user": "BrightBird",
+					"link": "https://youtu.be/wYuFBLGqbyM",
+					"percent": 100,
+					"hz": "60hz"
+				},	  
+			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
 			"more": "Whiliams8080, Megum, TheKate, Serpyy, ItzShuvon, GDStarStorm",
