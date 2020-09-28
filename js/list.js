@@ -6034,6 +6034,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "Charlielance",
+					"link": "https://www.youtube.com/watch?v=yVzo_UwBb9I&ab_channel=CharlieLance",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
