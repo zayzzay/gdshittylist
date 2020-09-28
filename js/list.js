@@ -14630,9 +14630,15 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			       },
-				{
+			       {
 					"user": "Kobra456",
 					"link": "https://www.youtube.com/watch?v=VNbWqotzHc0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=w09uSm3EjYY",
 					"percent": 100,
 					"hz": "144hz"
 				},
