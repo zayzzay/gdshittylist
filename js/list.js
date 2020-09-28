@@ -11358,6 +11358,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Domca26",
+					"link": "https://www.youtube.com/watch?v=v7isB7qvXm0",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
