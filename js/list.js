@@ -19545,6 +19545,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Guip15",
+					"link": "https://www.youtube.com/watch?v=LA6EDJasrIc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
