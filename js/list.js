@@ -22190,6 +22190,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Acute",
+					"link": "https://www.youtube.com/watch?v=r7JWShhnLxQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
