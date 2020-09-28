@@ -15377,6 +15377,12 @@ const d = {
 					"percent": 100,
 				        "hz": "240hz"
 				},
+				{
+					"user": "Zprisma",
+					"link": "https://www.youtube.com/watch?v=6V2PvFP-k28",
+					"percent": 70,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
