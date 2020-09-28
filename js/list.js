@@ -6475,6 +6475,12 @@ const d = {
 					"percent": 100,
 				        "hz": "240hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/q0E9NoIFx9o",
+					"percent": 100,
+				        "hz": "120hz"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
