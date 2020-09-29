@@ -14644,7 +14644,7 @@ const d = {
 				},
 			],
 			"name": "Shitty Lantern Lights",
-			"author": "GD4sh",
+			"author": "GdWaaab",
 			"more": "none",
 			"id": 63007959,
 			"pass": "739642",
