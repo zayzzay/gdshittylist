@@ -2624,6 +2624,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				  {
+				       "user": "zGod",
+				       "link": "https://www.youtube.com/watch?v=xKV_72xD5bY",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
 			],
 			"name": "Shitty Catalyze",
 			"author": "Bluuper",
@@ -2817,6 +2823,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+				       "user": "FrostBurn",
+				       "link": "https://youtu.be/ltjdaUv2YVE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Eternal Moment",
 			"author": "Miini03",
@@ -3162,6 +3174,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+				       "user": "FrostBurn",
+				       "link": "https://youtu.be/ltjdaUv2YVE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "MythicalTG",
@@ -4074,6 +4092,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+				       "user": "FrostBurn",
+				       "link": "https://youtu.be/ltjdaUv2YVE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -9589,6 +9613,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/QZVnnu2j62g",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -10357,6 +10387,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+				       "user": "FrostBurn",
+				       "link": "https://youtu.be/ltjdaUv2YVE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty PV II",
 			"author": "Serpyy and more [Serpyy]",
@@ -10769,6 +10805,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+				       "user": "FrostBurn",
+				       "link": "https://youtu.be/ltjdaUv2YVE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Aftermath",
 			"author": "Magma",
@@ -11611,6 +11653,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+				       "user": "FrostBurn",
+				       "link": "https://youtu.be/ltjdaUv2YVE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -12034,6 +12082,12 @@ const d = {
 					"percent": 100,
 				        "hz": "Mobile"
 				},
+				{
+				       "user": "FrostBurn",
+				       "link": "https://youtu.be/ltjdaUv2YVE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Penombre",
 			"author": "Miini03",
@@ -16893,6 +16947,12 @@ const d = {
 					"link": "https://youtu.be/wYuFBLGqbyM",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Fascade",
+					"link": "https://youtu.be/nSM_RRixt7s",
+					"percent": 58,
+					"hz": "60hz"
 				},	  
 			],
 			"name": "Shitty Dolos",
@@ -21160,6 +21220,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+				       "user": "FrostBurn",
+				       "link": "https://youtu.be/ltjdaUv2YVE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                           ],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
