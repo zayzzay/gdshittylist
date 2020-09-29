@@ -735,6 +735,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+				       "user": "WowoGD",
+				       "link": "https://youtu.be/ldolFnrkZns", 
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -6157,7 +6163,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "NanCho",
+					"user": "Nancho",
 					"link": "https://youtu.be/z53uUl25Zr0",
 					"percent": 65,
 					"hz": "240hz"
@@ -10323,6 +10329,12 @@ const d = {
 				{
 					"user": "MP3141",
 					"link": "https://youtu.be/N98XLDTX0EM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Nancho",
+					"link": "https://youtu.be/sJlYcSOAbGw",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -16952,7 +16964,7 @@ const d = {
 					"user": "Fascade",
 					"link": "https://youtu.be/nSM_RRixt7s",
 					"percent": 58,
-					"hz": "60hz"
+					"hz": "Mobile"
 				},	  
 			],
 			"name": "Shitty Dolos",
@@ -28287,6 +28299,12 @@ const d = {
 					"user": "Scy",
 					"link": "https://www.youtube.com/watch?v=vJ6Iw-bDXiw",
 					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Fluxit",
+					"link": "https://youtu.be/NMgNjsglzOU",
+					"percent": 62,
 					"hz": "60hz"
 				},
 			],
