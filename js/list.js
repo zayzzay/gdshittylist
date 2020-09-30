@@ -165,6 +165,49 @@ const d = {
                        "key": 0
                 },
 		/*=================================================================================*/
+				{	
+		"vids": [
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/PpeFax-Obxw",
+					"percent": 100,
+					"hz": "288hz"	
+				},
+			        {
+					"user": "GDMeric",
+					"link": "https://youtu.be/3lKZcAwgFkA",
+					"percent": 100,
+					"hz": "144hz"	
+				},
+			 	{
+					"user": "Aassbll",
+					"link": "https://youtu.be/BVkGPNaIRCc",
+					"percent": 100,
+					"hz": "60hz"	
+				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/ok95rc5aFVg",
+					"percent": 100,
+					"hz": "288hz"	
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=t9-LIScKu_0",
+					"percent": 100,
+					"hz": "144hz"	
+				},
+			],
+                       "name": "Shitty Plasma Pulse Finale",
+                       "author": "Acidius and Aassbll [Acidius]",
+                       "more": "none",
+                       "id": 64156354,
+                       "pass": "533053",
+                       "percentToQualify": 56,
+                       "verificationVid": "https://youtu.be/BVkGPNaIRCc",
+                       "key": 1
+                },
+		/*=================================================================================*/
 		{   
 		"vids": [
 				{
@@ -265,49 +308,6 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 64,
                        "verificationVid": "https://www.youtube.com/watch?v=zQbSDp6iWCg",
-                       "key": 1
-                },
-		/*=================================================================================*/
-		{	
-		"vids": [
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/PpeFax-Obxw",
-					"percent": 100,
-					"hz": "288hz"	
-				},
-			        {
-					"user": "GDMeric",
-					"link": "https://youtu.be/3lKZcAwgFkA",
-					"percent": 100,
-					"hz": "144hz"	
-				},
-			 	{
-					"user": "Aassbll",
-					"link": "https://youtu.be/BVkGPNaIRCc",
-					"percent": 100,
-					"hz": "60hz"	
-				},
-				{
-					"user": "Lawnmower",
-					"link": "https://youtu.be/ok95rc5aFVg",
-					"percent": 100,
-					"hz": "288hz"	
-				},
-				{
-					"user": "Kobra456",
-					"link": "https://www.youtube.com/watch?v=t9-LIScKu_0",
-					"percent": 100,
-					"hz": "144hz"	
-				},
-			],
-                       "name": "Shitty Plasma Pulse Finale",
-                       "author": "Acidius and Aassbll [Acidius]",
-                       "more": "none",
-                       "id": 64156354,
-                       "pass": "533053",
-                       "percentToQualify": 56,
-                       "verificationVid": "https://youtu.be/BVkGPNaIRCc",
                        "key": 2
                 },
 		/*=================================================================================*/
@@ -6295,6 +6295,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://www.youtube.com/watch?v=u2gW4ywOHUE",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/PB1htgN8Qgk",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty The Secret Box",
 			"author": "jOnel",
@@ -8493,6 +8505,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=24f8ecSv5s0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ComeOut",
+					"link": "https://youtu.be/7919iFMEK_U",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "dezka77",
+					"link": "https://youtu.be/_XEPlhTKXPQ",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Glide",
@@ -12028,6 +12052,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "ComeOut",
+					"link": "https://youtu.be/INSAwFEoB50",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty The Hell Field",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -12831,6 +12861,12 @@ const d = {
 					"percent": 74,
 					"hz": "60hz"
 				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=1_fA8ZQtwRc",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Hyperio Technia",
 			"author": "Miini03 and more [RedLimeGD]",
@@ -13404,6 +13440,12 @@ const d = {
 					"link": "https://youtu.be/2wHqzy8yqsM?t=89",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=J8uBxn23rUM",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Factory Realm X",
