@@ -2508,6 +2508,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "TheHumanWTF",
+					"link": "https://youtu.be/HTTT1UsViHM",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
@@ -4551,6 +4557,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"	
 				},
+				{
+					"user": "Shatter",
+					"link": "https://youtu.be/741fTCkOcXo",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
@@ -5622,7 +5634,13 @@ const d = {
 					"user": "TzAnder",
 					"link": "https://www.youtube.com/watch?v=267IHluXSmI&t=12s",
 					"percent": 100,
-				        "hz": "60hz"
+				        "hz": "75hz"
+				},
+				{
+					"user": "TuxWasTaken",
+					"link": "https://www.youtube.com/watch?v=1xHQWQKDuHs",
+					"percent": 100,
+				        "hz": "240hz"
 				},
 			],
 			"name": "Shitty Ragnarok",
@@ -9063,6 +9081,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Aber",
+					"link": "https://www.youtube.com/watch?v=tq4jQ-kJfds&ab_channel=Aber",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -9286,7 +9310,7 @@ const d = {
 					"user": "XoaOfficial",
 					"link": "https://youtu.be/m-OicvkZgxI",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Omnitoxin",
@@ -10337,6 +10361,12 @@ const d = {
 					"link": "https://youtu.be/sJlYcSOAbGw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "dezka77",
+					"link": "https://youtu.be/raJhv11ulYw",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Team Z",
@@ -11424,6 +11454,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+					{
+				       "user": "Nepenthe",
+				       "link": "https://www.youtube.com/watch?v=hC_vczZAOd8",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -28305,6 +28341,12 @@ const d = {
 					"user": "Fluxit",
 					"link": "https://youtu.be/NMgNjsglzOU",
 					"percent": 62,
+					"hz": "60hz"
+				},
+				{
+					"user": "DignityLoss",
+					"link": "https://youtu.be/IWx7xhHxjm0",
+					"percent": 100,
 					"hz": "60hz"
 				},
 			],
