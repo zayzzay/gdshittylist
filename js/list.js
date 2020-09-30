@@ -1202,12 +1202,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDCailloux",
-					"link": "https://www.youtube.com/watch?v=yVBi2PoPnqw",
-					"percent": 77,
-					"hz": "300hz"
-				},
-				{
 					"user": "WowoGD",
 					"link": "https://youtu.be/LzTk5OaGDy0",
 					"percent": 100,
@@ -1230,6 +1224,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=GPUUNW0dfiQ&feature=youtu.be",
 					"percent": 92,
 					"hz": "300hz"
+				},
+				{
+					"user": "Fulva",
+					"link": "https://youtu.be/CVTOUUerTzo",
+					"percent": 77,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Zaphkiel",
@@ -6088,6 +6088,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://www.youtube.com/watch?v=X04VgnJT96E",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
@@ -8209,6 +8215,12 @@ const d = {
 					"link": "https://youtu.be/XG5w6ANesW0",
 					"percent": 100,
 				        "hz": "75hz"
+				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://www.youtube.com/watch?v=nmJ-PQrUbsk",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Belloq",
@@ -12167,6 +12179,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "ComeOut",
+					"link": "https://youtu.be/FnZlKkEBaGs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Penombre",
 			"author": "Miini03",
@@ -14636,6 +14654,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+				       "user": "GD Cade21",
+				       "link": "https://www.youtube.com/watch?v=4zb6mpP4mkA",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Magnolia",
 			"author": "Williams8080 [ZekronGD]",
@@ -17032,7 +17056,13 @@ const d = {
 					"link": "https://youtu.be/nSM_RRixt7s",
 					"percent": 58,
 					"hz": "Mobile"
-				},	  
+				},
+				{
+					"user": "Shay",
+					"link": "https://youtu.be/xjejnLGQ4jg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
