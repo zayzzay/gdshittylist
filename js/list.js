@@ -6288,7 +6288,13 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-		        "vids": [	
+		        "vids": [
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/9R9BkeHcX6w",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Secret Box",
 			"author": "jOnel",
@@ -12958,6 +12964,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=HnOdbm8sTZc",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Concaved Memories",
 			"author": "oSpace",
@@ -13121,6 +13133,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=HdC_WxAlU28",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=i7lSawG-70U",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Distraught",
@@ -15010,6 +15028,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=0gVtTZYPaNM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/HbcqjY6jIEE",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty The Hell Bird",
