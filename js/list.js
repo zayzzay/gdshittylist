@@ -6326,49 +6326,6 @@ const d = {
 		{
 		        "vids": [
 				{
-					"user": "MP3141",
-					"link": "https://youtu.be/9R9BkeHcX6w",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://www.youtube.com/watch?v=u2gW4ywOHUE",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Cyns",
-					"link": "https://youtu.be/PB1htgN8Qgk",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Kobra456",
-					"link": "https://www.youtube.com/watch?v=3HQCw2UNb2c",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-                                         "user": "iRaily",
-                                         "link": "https://youtu.be/H7qwOPDiwhE",
-                                         "percent": 100,
-                                         "hz": "144hz"
-                                },
-			],
-			"name": "Shitty The Secret Box",
-			"author": "jOnel",
-			"more": "none",
-			"id": 64227671,
-			"pass": "Free to copy",
-			"percentToQualify": 62,
-			"verificationVid": "https://www.youtube.com/watch?v=Dih_QOKhhYQ",
-			"key": 44
-		},
-		/*=================================================================================*/
-		{
-		        "vids": [
-				{
 					"user": "Vink",
 					"link": "https://youtu.be/0H2GPqIJXCs",
 					"percent": 100,
@@ -6614,12 +6571,6 @@ const d = {
 					"percent": 100,
 				        "hz": "120hz"
 				},
-				{
-					"user": "zlapstbok",
-					"link": "https://youtu.be/1uMLEKF63ro",
-					"percent": 100,
-				        "hz": "288hz"
-				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -6628,6 +6579,55 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=adUt1CqEUw0",
+			"key": 44
+		},
+		/*=================================================================================*/
+				{
+		        "vids": [
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/9R9BkeHcX6w",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://www.youtube.com/watch?v=u2gW4ywOHUE",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/PB1htgN8Qgk",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=3HQCw2UNb2c",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+                                         "user": "iRaily",
+                                         "link": "https://youtu.be/H7qwOPDiwhE",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/kOo0ehlFs6U",
+					"percent": 100,
+					"hz": "60hz"
+				},
+			],
+			"name": "Shitty The Secret Box",
+			"author": "jOnel",
+			"more": "none",
+			"id": 64227671,
+			"pass": "Free to copy",
+			"percentToQualify": 62,
+			"verificationVid": "https://www.youtube.com/watch?v=Dih_QOKhhYQ",
 			"key": 45
 		},
 		/*=================================================================================*/
@@ -10114,6 +10114,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "ava",
+					"link": "https://www.youtube.com/watch?v=-UHwY1oUkfc",
+					"percent": 54,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -12015,6 +12021,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=eOZzMWPuQUI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Anoxysm",
 			"author": "Serpyy",
@@ -13270,7 +13282,7 @@ const d = {
 					"user": "LegionofBaum31",
 					"link": "https://www.youtube.com/watch?v=i7lSawG-70U",
 					"percent": 100,
-					"hz": "120hz"
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Distraught",
@@ -23024,7 +23036,7 @@ const d = {
 					"user": "DignityLoss",
 					"link": "https://youtu.be/ugRnlRXooA4",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty xo",
@@ -24147,6 +24159,12 @@ const d = {
 				{
 					"user": "Superxman777",
 					"link": "https://www.youtube.com/watch?v=CS_tayq-7Uo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "geothermalguy",
+					"link": "https://youtu.be/ysgXPM5tJMk",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -27837,6 +27855,12 @@ const d = {
 					"user": "LKLOCO",
 					"link": "https://youtu.be/BgPiBpVCrtc",
 					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "ToastSticks",
+					"link": "https://youtu.be/YNgfV9F-GhQ",
+					"percent": 81,
 					"hz": "60hz"
 				},
 			],
