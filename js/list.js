@@ -160,6 +160,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+			       {
+					"user": "Tai0",
+					"link": "https://youtu.be/IqFG4RAWqQE",
+					"percent": 100,
+				        "hz": "120hz"
+				},
 		       ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -764,6 +770,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=fmXv7Et0FEo",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "geothermalguy",
+					"link": "https://youtu.be/zhYElf806go",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty The Golden",
@@ -9292,6 +9304,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			        },
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/jJzVwpJsnVk",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Vertigo",
 			"author": "Cyns",
@@ -13968,6 +13986,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=LeZtWObMtQk",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Kr_Flame",
+					"link": "https://youtu.be/g0lIdjQ7cUc",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -22803,6 +22827,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Hazelnut",
+					"link": "https://youtu.be/EXd_cO9fgUo",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -24335,6 +24365,12 @@ const d = {
 					"link": "https://youtu.be/ysgXPM5tJMk",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "FallenAresse",
+					"link": "https://www.youtube.com/watch?v=wNuYFLtCpWc&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Sakupen Hell",
