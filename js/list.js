@@ -367,6 +367,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=tDN5WbCjJSM",
+					"percent": 100,
+					"hz": "144hz"
+				},
                          ],
                        "name": "Shitty Hateful Reflection",
                        "author": "v1nnyy",
@@ -969,6 +975,12 @@ const d = {
 				{
 					"user": "GDMeric",
 					"link": "https://youtu.be/x3faOfnmbUE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=_-Xs9orOqoU",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -2543,6 +2555,12 @@ const d = {
 					"link": "https://youtu.be/HTTT1UsViHM",
 					"percent": 100,
 					"hz": "165hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/PQKFjGNO6TE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Wasureta",
@@ -6165,6 +6183,12 @@ const d = {
 					"link": "https://youtu.be/irW9CT9YLao",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Bag",
+					"link": "https://youtu.be/bm7GQc8tfVc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sonic Wave",
@@ -9873,6 +9897,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/heUBRopRjF0",
+					"percent": 100,
+				        "hz": "288hz"
+				},
 			],
 			"name": "Shitty Phantasmagoria",
 			"author": "v1nnyy",
@@ -13174,55 +13204,6 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [	
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/gVyvRgTOoMQ",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/OHY_kKlpeeI",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Qwerisity",
-					"link": "https://youtu.be/pqhfKibBZnM",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/syfP9lDe8TM",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/smhnl7SK59c?t=207",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "LegionofBaum31",
-					"link": "https://www.youtube.com/watch?v=gMhlJRPjBjo",
-					"percent": 100,
-					"hz": "120hz"
-				},
-			],
-			"name": "Shitty Swing Squad",
-			"author": "Cyns and more [Cyns]",
-			"more": "ShuvonIslam777, LXan",
-			"id": 64175157,
-			"pass": "Free to copy",
-			"percentToQualify": 64,
-			"verificationVid": "https://youtu.be/NTfavIdwWeE",
-			"key": 89
-		},
-		/*=================================================================================*/
-		{
 			"vids": [
 				{
 					"user": "Aassbll",
@@ -13346,7 +13327,7 @@ const d = {
 			"pass": "258852",
 			"percentToQualify": 59,
 			"verificationVid": "https://www.youtube.com/watch?v=KcphTwbl2wc",
-			"key": 90
+			"key": 89
 		},
 		/*=================================================================================*/
 		{
@@ -13617,7 +13598,7 @@ const d = {
 			"pass": "375209",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=cUz5AlXaXxU",
-			"key": 91
+			"key": 90
 		},
 		/*=================================================================================*/
 				{
@@ -13996,7 +13977,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 66,
 			"verificationVid": "https://www.youtube.com/watch?v=5UTJ5-_WQNs",
-			"key": 92
+			"key": 91
 		},
 		/*=================================================================================*/
 		{
@@ -14352,7 +14333,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=lFD9lHR562E",
-			"key": 93
+			"key": 92
 		},
 		/*=================================================================================*/
 		{
@@ -14641,8 +14622,63 @@ const d = {
                         "pass": "735735",
                         "percentToQualify": 53,
                         "verificationVid": "https://www.youtube.com/watch?v=A-hl2gVl1aE",
-                        "key": 94
+                        "key": 93
                 },
+		/*=================================================================================*/
+				{
+			"vids": [	
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/gVyvRgTOoMQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/OHY_kKlpeeI",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Qwerisity",
+					"link": "https://youtu.be/pqhfKibBZnM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/syfP9lDe8TM",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/smhnl7SK59c?t=207",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=gMhlJRPjBjo",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Poptart",
+					"link": "https://youtu.be/m1s7GuWZR8Y",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty Swing Squad",
+			"author": "Cyns and more [Cyns]",
+			"more": "ShuvonIslam777, LXan",
+			"id": 64175157,
+			"pass": "Free to copy",
+			"percentToQualify": 64,
+			"verificationVid": "https://youtu.be/NTfavIdwWeE",
+			"key": 94
+		},
 		/*=================================================================================*/
 		{
 			"vids": [
@@ -16135,6 +16171,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				  {
+					"user": "Mistik",
+					"link": "https://www.youtube.com/watch?v=awVdOHldOKU",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -16816,6 +16858,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "FelipeBr25",
+					"link": "https://youtu.be/-bJRzg-yMDY",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Just Dance",
 			"author": "PotatoManPlays",
@@ -17356,6 +17404,18 @@ const d = {
 					"link": "https://youtu.be/X8MHSoKRNBU",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				  {
+					"user": "MrScatman7",
+					"link": "https://youtu.be/Fmhy66XQDVc",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				  {
+					"user": "Mistik",
+					"link": "https://youtu.be/ZHFFRKlQIuU",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Dolos",
@@ -19803,6 +19863,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+				       "user": "ddddr",
+				       "link": "https://www.youtube.com/watch?v=VEPGP-ZCqBU",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Civic",
 			"author": "wshedd",
@@ -20666,6 +20732,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				 {
+				       "user": "ddddr",
+				       "link": "https://www.youtube.com/watch?v=qcvvQkg7ZhI",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -24967,6 +25039,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://www.youtube.com/watch?v=2ZVrC1DYpHY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -27982,6 +28060,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=0G_B0PkHYDU&ab_channel=TheZinkYT",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "QuantumCraft",
+					"link": "https://youtu.be/eXfsipORe_s",
+					"percent": 84,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Xo Circles",
