@@ -148,12 +148,6 @@ const d = {
 				       "percent": 100,
 				       "hz": "300hz"
 			       },
-		               {
-				       "user": "Tai0",
-				       "link": "https://youtu.be/t3IzHy5Mar8",
-				       "percent": 56,
-				       "hz": "120hz"
-			       },
 			       {
 				       "user": "Zeronium",
 				       "link": "https://www.youtube.com/watch?v=L8JVpXdUQjc",
@@ -1399,6 +1393,12 @@ const d = {
 				{
 					"user": "MP3141",
 					"link": "https://www.youtube.com/watch?v=VGgZd9pgDWo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=4RylowSZwRI",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -8015,6 +8015,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "OliXor",
+					"link": "https://youtu.be/uIlKIDRPyPE",
+					"percent": 74,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -11797,6 +11803,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/q94bAhscNIw?t=108",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -12345,6 +12357,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ceS3l3kUvWw",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/q94bAhscNIw",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty The Hell Field",
