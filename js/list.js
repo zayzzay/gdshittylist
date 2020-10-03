@@ -476,6 +476,12 @@ const d = {
 					"percent": 100,
 				        "hz": "75hz"
 				},
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=m61fo9-Sg4A&feature=youtu.be&t=336s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 		         ],
                        "name": "Shitty Biohazard",
                        "author": "Tril and more [Kobra456]",
@@ -777,6 +783,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=_SdFz85UMBs&t=1048s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -880,6 +892,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=tDtS-tGVIJc&feature=youtu.be&t=549s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Delta Interface",
 			"author": "MP3141",
@@ -2255,6 +2273,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=3JhKhqG3Ywg&feature=youtu.be&t=211s",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty WOW",
 			"author": "oSpace [LJosh]",
@@ -2574,6 +2598,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=9VTRg9AtUDg&feature=youtu.be&t=262s",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
@@ -2918,6 +2948,12 @@ const d = {
 				       "link": "https://youtu.be/ltjdaUv2YVE",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=2KujRoDcu5U&t=51s",
+				       "percent": 100,
+				       "hz": "288hz"
 			       },
 			],
 			"name": "Shitty Eternal Moment",
@@ -4338,6 +4374,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=NAVg2KWII2k",
 					"percent": 67,
 					"hz": "60hz"
+				},
+				{
+					"user": "jToniX",
+					"link": "https://youtu.be/ZvYDYVKcg1Y",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Prismatic Haze",
@@ -10228,6 +10270,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Serenix",
+					"link": "https://www.youtube.com/watch?v=oDFvO3uC3o4",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -15387,7 +15435,7 @@ const d = {
 			"name": "Shitty The Hell Bird",
 			"author": "YesntHimself",
 			"more": "none",
-			"id": 58264478,
+			"id": 58264778,
 			"pass": "Not Copyable",
 			"percentToQualify": 74,
 			"verificationVid": "https://youtu.be/r0eKur5JZGk",
@@ -18875,6 +18923,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+				       "user": "isemarcos",
+				       "link": "https://youtu.be/Md03NJzvOsI",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -24504,6 +24558,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+				       "user": "isemarcos",
+				       "link": "https://youtu.be/HuJyIjwY7vs",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -28267,8 +28327,8 @@ const d = {
 				},
 				{
 					"user": "QuantumCraft",
-					"link": "https://youtu.be/eXfsipORe_s",
-					"percent": 84,
+					"link": "https://youtu.be/XAB551C1fwo",
+					"percent": 97,
 					"hz": "Mobile"
 				},
 				{
@@ -29172,6 +29232,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+					"user": "Hazelnut",
+					"link": "https://youtu.be/2JmRd3zuzeE",
+					"percent": 78,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
