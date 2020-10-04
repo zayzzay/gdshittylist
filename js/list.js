@@ -8670,8 +8670,8 @@ const d = {
 				},
 				{
 					"user": "SuperDog",
-					"link": "https://youtu.be/73teLgz20d0",
-					"percent": 97,
+					"link": "hhttps://youtu.be/0k2xvXCFSco",
+					"percent": 100,
 				        "hz": "Mobile"
 				},
 				{
@@ -8709,6 +8709,12 @@ const d = {
 					"link": "https://youtu.be/skz5u2xVCFE",
 					"percent": 100,
 					"hz": "165hz"
+				},
+				{
+					"user": "Shay",
+					"link": "https://youtu.be/tIyAeXbEgrM",
+					"percent": 78,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Glide",
@@ -15083,6 +15089,12 @@ const d = {
 				{
 					"user": "BrightBird",
 					"link": "https://youtu.be/jau460-hKB4",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Sh4d0wBR",
+					"link": "https://www.youtube.com/watch?v=jSG7fTUzmT4",
 					"percent": 100,
 					"hz": "60hz"
 				},
