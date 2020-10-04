@@ -160,6 +160,12 @@ const d = {
 					"percent": 100,
 				        "hz": "120hz"
 				},
+			       {
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=gqK9K9oVSbM&feature=youtu.be&t=794s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 		       ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -203,6 +209,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"	
 				},
+			 	{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=EPbbFGUU_Bo&feature=youtu.be&t=1440s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
                        "name": "Shitty Plasma Pulse Finale",
                        "author": "Acidius and Aassbll [Acidius]",
@@ -5141,6 +5153,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "trollonggamer",
+					"link": "https://www.youtube.com/watch?v=bft68yCuf_A&t=254s",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Tartarus",
 			"author": "AcropolisBoy [Darkys]",
@@ -8685,6 +8703,12 @@ const d = {
 					"link": "https://youtu.be/_XEPlhTKXPQ",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "TheHumanWTF",
+					"link": "https://youtu.be/skz5u2xVCFE",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Glide",
@@ -15053,6 +15077,12 @@ const d = {
 				{
 					"user": "ALOCIN",
 					"link": "https://www.youtube.com/watch?v=i48mVVjovxo",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "BrightBird",
+					"link": "https://youtu.be/jau460-hKB4",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -28428,6 +28458,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+					"user": "KoceeGD",
+					"link": "https://www.youtube.com/watch?v=WJw00myC8yg",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
@@ -29325,8 +29361,8 @@ const d = {
 			       },
 				{
 					"user": "Hazelnut",
-					"link": "https://youtu.be/2JmRd3zuzeE",
-					"percent": 78,
+					"link": "https://youtu.be/1PbiyNWLysg",
+					"percent": 100,
 					"hz": "60hz"
 				},
 			],
