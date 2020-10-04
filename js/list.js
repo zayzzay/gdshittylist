@@ -28273,12 +28273,6 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "KoceeGD",
-					"link": "https://www.twitch.tv/videos/743779479",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
 					"user": "Snorlaxx",
 					"link": "https://www.youtube.com/watch?v=a-y5ydT2EPs",
 					"percent": 100,
