@@ -1026,6 +1026,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Lelzi",
+					"link": "https://youtu.be/Bz33Vg12Gi0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "MythicalTG",
@@ -6794,6 +6800,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://www.youtube.com/watch?v=PL0PNO9iuq0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Secret Box",
 			"author": "jOnel",
@@ -7112,6 +7124,12 @@ const d = {
 					"link": "https://youtu.be/HTm0alYoR_8",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Lelzi",
+					"link": "https://youtu.be/zUek6X_FLYk",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Tapwreck",
@@ -7563,7 +7581,13 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [	
+			"vids": [
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/fICGuWaNHuo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Extermination Nation",
 			"author": "zLunatiX and error4850 [zLunatiX]",
@@ -10602,6 +10626,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "FelipeBr25",
+					"link": "https://youtu.be/u5LjJab7RiA",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -11888,6 +11918,18 @@ const d = {
 					"percent": 70,
 					"hz": "144hz"
 				},
+				{
+					"user": "BlueStone",
+					"link": "https://www.youtube.com/watch?v=KVCv-CQ8C58",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				 {
+				       "user": "Sazukix",
+				       "link": "https://www.youtube.com/watch?v=F6-MCIfO5qk",
+				       "percent": 100,
+				       "hz": "144hz"
+			      },
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -14176,9 +14218,9 @@ const d = {
 				},
 				{
 					"user": "SuperDog",
-					"link": "https://youtu.be/araCvwue6Mo",
+					"link": "https://youtu.be/l1pRoHl5M5U",
 					"percent": 100,
-					"hz": "Mobile"
+					"hz": "60hz"
 				},
 				{
 					"user": "Ar28",
@@ -23194,6 +23236,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Shay",
+					"link": "https://youtu.be/2sc_RQx2MEM",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -29454,6 +29502,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=08wG5P2ZSCI",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Shay",
+					"link": "https://youtu.be/D8dFciVcdVs",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty VendetTa",
