@@ -5154,8 +5154,8 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "trollonggamer",
-					"link": "https://www.youtube.com/watch?v=bft68yCuf_A&t=254s",
+					"user": "Trollomggamer",
+					"link": "https://youtu.be/bft68yCuf_A",
 					"percent": 100,
 					"hz": "75hz"
 				},
@@ -16032,6 +16032,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "FelipeBr25",
+					"link": "https://youtu.be/Vy80JZlIGF4",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -20997,6 +21003,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=Zn7yBwbgstU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
