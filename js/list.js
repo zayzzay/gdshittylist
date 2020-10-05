@@ -1874,6 +1874,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				 {
+				       "user": "Ryclix",
+				       "link": "https://youtu.be/2ZgoDSNuTrA",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Innards",
 			"author": "Keleru",
@@ -2068,6 +2074,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				 {
+				       "user": "Ryclix",
+				       "link": "https://youtu.be/Gv0Ymvhpi1c",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
@@ -11922,14 +11934,19 @@ const d = {
 					"user": "BlueStone",
 					"link": "https://www.youtube.com/watch?v=KVCv-CQ8C58",
 					"percent": 100,
-					"hz": "240hz"
 				},
 				 {
 				       "user": "Sazukix",
 				       "link": "https://www.youtube.com/watch?v=F6-MCIfO5qk",
 				       "percent": 100,
 				       "hz": "144hz"
-			      },
+			        },
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/O2mfBr3vL4g",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -14885,6 +14902,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Cuby",
+					"link": "https://www.youtube.com/watch?v=J4poBJPcuJM",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
@@ -17392,6 +17415,12 @@ const d = {
 					"link": "https://youtu.be/SU4dMuADP3w",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=mOfOxTQCjn8",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Cyber Chaos",
@@ -24811,6 +24840,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+					"user": "2kb",
+					"link": "https://www.youtube.com/watch?v=UPEA6319qdk",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -25532,6 +25567,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Nebula",
+					"link": "https://youtu.be/UCyauRN8bSY",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -25725,6 +25766,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				 {
+					"user": "Nebula",
+					"link": "https://youtu.be/OftPgjmiGws",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
                        "name": "Shitty Doop",
                        "author": "Megum and more [Megum]",
@@ -27131,6 +27178,18 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+			       {
+					"user": "Nebula",
+					"link": "https://youtu.be/dopOzFjXjyY",
+					"percent": 100,
+					"hz": "300hz"
+				},
+			       {
+					"user": "2kb",
+					"link": "https://www.youtube.com/watch?v=Aed25VfP8Ts",
+					"percent": 100,
+					"hz": "240hz"
+				},
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -29508,6 +29567,12 @@ const d = {
 					"link": "https://youtu.be/D8dFciVcdVs",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Nebula",
+					"link": "https://youtu.be/tAcpABGqx3s",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty VendetTa",
