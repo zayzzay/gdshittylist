@@ -185,6 +185,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+			       {
+					"user": "Lelzi",
+					"link": "https://youtu.be/ZAf2w383zW0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 		       ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -8928,6 +8934,12 @@ const d = {
 					"percent": 78,
 					"hz": "60hz"
 				},
+				{
+					"user": "FelipeBr25",
+					"link": "https://youtu.be/EBW0Vu43n4E",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Glide",
 			"author": "Aassbll",
@@ -12425,6 +12437,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/8RzrcHR1weg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -13699,6 +13717,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Nevise",
+					"link": "https://youtu.be/mwfAlxyRV_c",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Concaved Memories",
 			"author": "oSpace",
@@ -14831,6 +14855,12 @@ const d = {
 					"link": "https://youtu.be/LrUfqlGr6oE",
 					"percent": 100,
 				        "hz": "288hz"
+				},
+				{
+					"user": "Noobec",
+					"link": "https://youtu.be/-QyFa7YfmDo",
+					"percent": 72,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Zodiac",
@@ -19424,6 +19454,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "2kb",
+					"link": "https://www.youtube.com/watch?v=GwK0jLXqWo0",
+					"percent": 100,
+					"hz": "240hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -22194,6 +22230,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=oLK4L-v2m9k",
 					"percent": 70,
 					"hz": "Mobile"
+				},
+				{
+					"user": "RageRod",
+					"link": "https://youtu.be/f5CM1d3z1Jg",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
@@ -25881,6 +25923,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=IRa2Ycq1QIQ&feature=youtu.be",
 					"percent": 64,
 					"hz": "60hz"
+				},
+				{
+					"user": "RageRod",
+					"link": "https://youtu.be/0aVLTpbgY2w",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/co8auWqL_uI",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
@@ -29900,6 +29954,12 @@ const d = {
 					"link": "https://youtu.be/tAcpABGqx3s",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "ItzRuPea",
+					"link": "https://www.youtube.com/watch?v=u0M8ktm1PuM",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty VendetTa",
