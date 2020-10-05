@@ -9,6 +9,24 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/x3AKojLgNtE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Ryclix",
+					"link": "https://www.youtube.com/watch?v=0rRMy_5mS-M&feature=youtu.be&t=1414s",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+				       "user": "Kapinapi",
+				       "link": "https://www.youtube.com/watch?v=p05WatZdcWE&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Cold Sweat",
                        "author": "MP3141",
@@ -191,6 +209,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+			       {
+				       "user": "Kapinapi",
+				       "link": "https://www.youtube.com/watch?v=p05WatZdcWE&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 		       ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -239,6 +263,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=EPbbFGUU_Bo&feature=youtu.be&t=1440s",
 				       "percent": 100,
 				       "hz": "288hz"
+			       },
+				{
+				       "user": "Kapinapi",
+				       "link": "https://www.youtube.com/watch?v=p05WatZdcWE&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
 			],
                        "name": "Shitty Plasma Pulse Finale",
@@ -349,6 +379,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+				       "user": "Kapinapi",
+				       "link": "https://www.youtube.com/watch?v=p05WatZdcWE&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 		          ],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper1 [MP3141]",
@@ -416,6 +452,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+				       "user": "Kapinapi",
+				       "link": "https://www.youtube.com/watch?v=p05WatZdcWE&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=MRE6yBySOeE&t=201s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
                          ],
                        "name": "Shitty Hateful Reflection",
                        "author": "v1nnyy",
@@ -996,6 +1044,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=zh6FwIlnZak&feature=youtu.be&t=846s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 		         ],
                        "name": "Shitty Removed Submission",
                        "author": "v1nnyy and xSmajlik [v1nnyy]",
@@ -1015,6 +1069,18 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Lelzi",
+					"link": "https://youtu.be/yb5RTfPZbjk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=5vKzc9CzbT0&feature=youtu.be&t=18s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 		],
                        "name": "Shitty Hyper Paradox",
                        "author": "Lupe1204",
@@ -1369,6 +1435,12 @@ const d = {
 				       "user": "Kapinapi",
 				       "link": "https://www.youtube.com/watch?v=N_eeMPD7o3k&t=422",
 				       "percent": 100,
+				       "hz": "144hz"
+			       },
+				{
+				       "user": "Valentino070406",
+				       "link": "https://youtu.be/MUA0ocoDyPI",
+				       "percent": 77,
 				       "hz": "144hz"
 			       },
 			],
@@ -1954,6 +2026,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+					"user": "Shay",
+					"link": "https://youtu.be/omrxhy24DWY",
+					"percent": 60,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Innards",
 			"author": "Keleru",
@@ -6095,6 +6173,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Elek",
+					"link": "https://www.youtube.com/watch?v=6baKDX0-qlg&feature=youtu.be",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Macabre",
 			"author": "oSpace and more [Serpyy]",
@@ -13131,6 +13215,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/xBJ_bjbx4P4",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "DeadshotHD and ShadowNinja441 [DeadshotHD]",
@@ -19460,6 +19550,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Fabricorn",
+					"link": "https://youtu.be/gD-_gAxGnVc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -21437,6 +21533,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Hazelnut",
+					"link": "https://www.youtube.com/watch?v=07aE_jLpBv4",
+					"percent": 94,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -21624,6 +21726,12 @@ const d = {
                                          "percent": 100,
                                          "hz": "Mobile"
                                 },
+				{
+					"user": "Questionblockg",
+					"link": "https://youtu.be/zkVNu6919v0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Ballin",
 			"author": "Aassbll",
@@ -24013,6 +24121,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+					"user": "Diogan",
+					"link": "https://youtu.be/0Y2F0X3otb8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -24457,6 +24571,12 @@ const d = {
 					"link": "https://youtu.be/p2nLMv58MNw",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Nebula",
+					"link": "https://youtu.be/r3-yJxL2Ol0",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Mujigae",
