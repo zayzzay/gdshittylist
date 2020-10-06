@@ -27,6 +27,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/sme9ZVKhU8I",
+					"percent": 64,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Cold Sweat",
                        "author": "MP3141",
@@ -215,6 +221,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+					"user": "skzyl",
+					"link": "https://www.youtube.com/watch?v=4-B8XSr-F2s",
+					"percent": 100,
+					"hz": "240hz"
+				},
 		       ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -1154,6 +1166,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=s4ke9bD5LzU&feature=youtu.be&t=64s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Balengu Vortex",
 			"author": "MythicalTG",
@@ -1443,6 +1461,12 @@ const d = {
 				       "percent": 77,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=Lt3lbnuNKHM&t=352s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [XanPlayzGamez]",
@@ -1486,6 +1510,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=IwYAZEVVEqI&t=431s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Spacial Rend",
 			"author": "Lawnmower and Jah [Lawnmower]",
@@ -1565,6 +1595,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=N_eeMPD7o3k&t=515",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=J6x2EeJhkBU&feature=youtu.be&t=939s",
+				       "percent": 100,
+				       "hz": "288hz"
 			       },
 			],
 			"name": "Shitty Conical Depression",
@@ -3948,6 +3984,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				 {
+					"user": "skzyl",
+					"link": "https://www.youtube.com/watch?v=Hi5Oy5KLJ0g",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -6373,12 +6415,6 @@ const d = {
 					"hz": "180hz"
 				},
 				{
-					"user": "RageRod",
-					"link": "https://www.youtube.com/watch?v=oIFXGO1oLF4&feature=youtu.be",
-					"percent": 79,
-					"hz": "60hz"
-				},
-				{
 					"user": "Charlielance",
 					"link": "https://www.youtube.com/watch?v=gLusRDgYzhQ",
 					"percent": 74,
@@ -6522,6 +6558,12 @@ const d = {
 					"percent": 61,
 					"hz": "240hz"
 				},
+				{
+				       "user": "Valentino070406",
+				       "link": "https://youtu.be/fO5wJcOmos4",
+				       "percent": 84,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
@@ -9952,6 +9994,24 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Y5fo3VwAzX0",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/lxGJ_y2JFGk",
+					"percent": 100,
+					"hz": "144hz"
+				}, 
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/3TdoWoSXn1w",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=w7BrS50nE74",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Glacial Reflections",
@@ -15446,6 +15506,12 @@ const d = {
 					"link": "https://youtu.be/XTqRGflTR-Y",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Questionblockg",
+					"link": "https://youtu.be/-hwzt65DEFA",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ad Aeternum",
@@ -22345,6 +22411,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+				       "user": "Valentino070406",
+				       "link": "https://youtu.be/AIy6HIngpUw",
+				       "percent": 67,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
