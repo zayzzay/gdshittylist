@@ -1220,7 +1220,245 @@ const d = {
 			"key": 11
 		},
 		/*=================================================================================*/
+		{
+		        "vids": [
 				{
+					"user": "Covieta",
+					"link": "https://youtu.be/sypq9JoIzeA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/4dT07iggioo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "WowoGD",
+					"link": "https://youtu.be/JJDypoxakHg",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/f_PZvOvzlrU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Alphanetic",
+					"link": "https://www.twitch.tv/videos/750083147",
+					"percent": 100,
+					"hz": "165hz"
+				},
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=IwYAZEVVEqI&t=431s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+			],
+			"name": "Shitty Spacial Rend",
+			"author": "Lawnmower and Jah [Lawnmower]",
+			"more": "none",
+			"id": 63976167,
+			"pass": "Free copy",
+			"percentToQualify": 63,
+			"verificationVid": "https://youtu.be/PmI1SlfjwyI",
+			"key": 12
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/QhBvdW9h80o",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=Myp7g2BxB8A",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/99ECnwIwxzY",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=o8mk-mWG_SU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Ryclix",
+					"link": "https://www.youtube.com/watch?v=04MPCmygTro&feature=youtu.be&t=124s",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+				       "user": "Kapinapi",
+				       "link": "https://www.youtube.com/watch?v=N_eeMPD7o3k&t=1612",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			],
+			"name": "Shitty Bausha Vortex",
+			"author": "Covieta and v1nnyy [Covieta]",
+			"more": "none",
+			"id": 64210443,
+			"pass": "Free copy",
+			"percentToQualify": 63,
+			"verificationVid": "https://youtu.be/p9noqbi029c",
+			"key": 13
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "MP3141",
+					"link": "https://www.youtube.com/watch?v=VGgZd9pgDWo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=4RylowSZwRI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+				       "user": "Kapinapi",
+				       "link": "https://www.youtube.com/watch?v=N_eeMPD7o3k&t=515",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=J6x2EeJhkBU&feature=youtu.be&t=939s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+			],
+			"name": "Shitty Conical Depression",
+			"author": "Kuiper1 and MP3141 [Kuiper1]",
+			"more": "none",
+			"id": 64172553,
+			"pass": "Free copy",
+			"percentToQualify": 62,
+			"verificationVid": "https://www.youtube.com/watch?v=5mvKv00ORJo",
+			"key": 14
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=MXbEZ3iIeis",
+					"percent": 100,
+					"hz": "280hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/x6j3jM6oi-U",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Xanii",
+					"link": "https://www.mediafire.com/file/3128yhf81tgxng8/mm.mp4/file",
+					"percent": 100,
+					"hz": "360hz"
+				},
+				{
+					"user": "Vink",
+					"link": "https://youtu.be/xwoEd3nJ5lo",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Magma",
+					"link": "https://www.youtube.com/watch?v=etMLIreOdL8",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+					"user": "GDMeric",
+					"link": "https://youtu.be/G1Kw9mHZQgk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/tq3wL8VC9eI",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Praerius",
+					"link": "https://www.youtube.com/watch?v=sM9D4V74iMM&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/gMyVVbgDbbY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "FrostBurn",
+					"link": "https://youtu.be/7TFblK4gKQA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=1D10DCTdIUo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/QAMvqDR9pg4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Orizu",
+					"link": "https://youtu.be/Vv7EkcfSAUg",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "TH54",
+					"link": "https://youtu.be/STq_Mjm0X7o",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/xad_fSVqySM",
+					"percent": 100,
+					"hz": "120hz"
+				},
+			],
+			"name": "Shitty Madmansion",
+			"author": "Aassbll",
+			"more": "none",
+			"id": 57251824,
+			"pass": "Free copy",
+			"percentToQualify": 50,
+			"verificationVid": "https://www.youtube.com/watch?v=x89Bj43uEDU",
+			"key": 15
+		},
+		/*=================================================================================*/
+						{
 			"vids": [
 				{
 					"user": "Fhyron06",
@@ -1512,244 +1750,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=fcqAzQsbVdY",
-			"key": 12
-		},
-		/*=================================================================================*/
-		{
-		        "vids": [
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/sypq9JoIzeA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/4dT07iggioo",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "WowoGD",
-					"link": "https://youtu.be/JJDypoxakHg",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/f_PZvOvzlrU",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Alphanetic",
-					"link": "https://www.twitch.tv/videos/750083147",
-					"percent": 100,
-					"hz": "165hz"
-				},
-				{
-				       "user": "Ryclix",
-				       "link": "https://www.youtube.com/watch?v=IwYAZEVVEqI&t=431s",
-				       "percent": 100,
-				       "hz": "288hz"
-			       },
-			],
-			"name": "Shitty Spacial Rend",
-			"author": "Lawnmower and Jah [Lawnmower]",
-			"more": "none",
-			"id": 63976167,
-			"pass": "Free copy",
-			"percentToQualify": 63,
-			"verificationVid": "https://youtu.be/PmI1SlfjwyI",
-			"key": 13
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/QhBvdW9h80o",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Kobra456",
-					"link": "https://www.youtube.com/watch?v=Myp7g2BxB8A",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Lawnmower",
-					"link": "https://youtu.be/99ECnwIwxzY",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=o8mk-mWG_SU",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Ryclix",
-					"link": "https://www.youtube.com/watch?v=04MPCmygTro&feature=youtu.be&t=124s",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-				       "user": "Kapinapi",
-				       "link": "https://www.youtube.com/watch?v=N_eeMPD7o3k&t=1612",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			],
-			"name": "Shitty Bausha Vortex",
-			"author": "Covieta and v1nnyy [Covieta]",
-			"more": "none",
-			"id": 64210443,
-			"pass": "Free copy",
-			"percentToQualify": 63,
-			"verificationVid": "https://youtu.be/p9noqbi029c",
-			"key": 14
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "MP3141",
-					"link": "https://www.youtube.com/watch?v=VGgZd9pgDWo",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=4RylowSZwRI",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-				       "user": "Kapinapi",
-				       "link": "https://www.youtube.com/watch?v=N_eeMPD7o3k&t=515",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-				{
-				       "user": "Ryclix",
-				       "link": "https://www.youtube.com/watch?v=J6x2EeJhkBU&feature=youtu.be&t=939s",
-				       "percent": 100,
-				       "hz": "288hz"
-			       },
-			],
-			"name": "Shitty Conical Depression",
-			"author": "Kuiper1 and MP3141 [Kuiper1]",
-			"more": "none",
-			"id": 64172553,
-			"pass": "Free copy",
-			"percentToQualify": 62,
-			"verificationVid": "https://www.youtube.com/watch?v=5mvKv00ORJo",
-			"key": 15
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=MXbEZ3iIeis",
-					"percent": 100,
-					"hz": "280hz"
-				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://youtu.be/x6j3jM6oi-U",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Xanii",
-					"link": "https://www.mediafire.com/file/3128yhf81tgxng8/mm.mp4/file",
-					"percent": 100,
-					"hz": "360hz"
-				},
-				{
-					"user": "Vink",
-					"link": "https://youtu.be/xwoEd3nJ5lo",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Magma",
-					"link": "https://www.youtube.com/watch?v=etMLIreOdL8",
-					"percent": 100,
-					"hz": "300hz"
-				},
-				{
-					"user": "GDMeric",
-					"link": "https://youtu.be/G1Kw9mHZQgk",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Lawnmower",
-					"link": "https://youtu.be/tq3wL8VC9eI",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Praerius",
-					"link": "https://www.youtube.com/watch?v=sM9D4V74iMM&feature=youtu.be",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "Covieta",
-					"link": "https://youtu.be/gMyVVbgDbbY",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "FrostBurn",
-					"link": "https://youtu.be/7TFblK4gKQA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Kobra456",
-					"link": "https://www.youtube.com/watch?v=1D10DCTdIUo",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/QAMvqDR9pg4",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Orizu",
-					"link": "https://youtu.be/Vv7EkcfSAUg",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "TH54",
-					"link": "https://youtu.be/STq_Mjm0X7o",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "N1kix",
-					"link": "https://youtu.be/xad_fSVqySM",
-					"percent": 100,
-					"hz": "120hz"
-				},
-			],
-			"name": "Shitty Madmansion",
-			"author": "Aassbll",
-			"more": "none",
-			"id": 57251824,
-			"pass": "Free copy",
-			"percentToQualify": 50,
-			"verificationVid": "https://www.youtube.com/watch?v=x89Bj43uEDU",
 			"key": 16
 		},
 		/*=================================================================================*/
