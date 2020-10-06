@@ -1350,6 +1350,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+				       "user": "DartHole",
+				       "link": "https://www.youtube.com/watch?v=QVgn7etkuMI&t",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Conical Depression",
 			"author": "Kuiper1 and MP3141 [Kuiper1]",
@@ -4238,6 +4244,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				 {
+					"user": "skzyl",
+					"link": "https://youtu.be/aIqmsBrTVbI",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -5041,6 +5053,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+				       "user": "DartHole",
+				       "link": "https://www.youtube.com/watch?v=QVgn7etkuMI&t",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
@@ -11069,6 +11087,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "DartHole",
+				       "link": "https://www.youtube.com/watch?v=QVgn7etkuMI&t",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -11615,6 +11639,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+				       "user": "DartHole",
+				       "link": "https://www.youtube.com/watch?v=QVgn7etkuMI&t",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
@@ -13735,6 +13765,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+				       "user": "DartHole",
+				       "link": "https://www.youtube.com/watch?v=QVgn7etkuMI&t",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
@@ -15714,6 +15750,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"	
 				},
+				{
+					"user": "DignityLoss",
+					"link": "https://www.youtube.com/watch?v=zgyKTDEJ3C8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Necropolis",
 			"author": "Tai0",
@@ -16659,6 +16701,18 @@ const d = {
 					"link": "https://youtu.be/Vy80JZlIGF4",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+				       "user": "DartHole",
+				       "link": "https://www.youtube.com/watch?v=QVgn7etkuMI&t",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+				{
+					"user": "Elek",
+					"link": "https://youtu.be/BdA-RXZzbLc",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Dolos",
@@ -18714,6 +18768,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			       },
+				{
+					"user": "Questionblockg",
+					"link": "https://youtu.be/0wGF84607LA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Silver Shade",
 			"author": "Aassbll",
@@ -22515,6 +22575,12 @@ const d = {
 				       "percent": 67,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Hazelnut",
+					"link": "https://www.youtube.com/watch?v=TAbyOMzsQnk",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -27873,6 +27939,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+			        {
+					"user": "skzyl",
+					"link": "https://youtu.be/m0Tiwr0548A",
+					"percent": 100,
+					"hz": "240hz"
+				},
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -29350,6 +29422,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "LNeolait",
+					"link": "https://www.youtube.com/watch?v=31TjBVGMhB4",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
@@ -30278,6 +30356,12 @@ const d = {
 				{
 				       "user": "Valentino070406",
 				       "link": "https://youtu.be/28cAsBDk1uw",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+				{
+				       "user": "iszaar",
+				       "link": "https://www.youtube.com/watch?v=FQLBUGv8f_Y&feature=youtu.be",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
