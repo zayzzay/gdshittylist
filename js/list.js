@@ -45,6 +45,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "Lelzi",
+				       "link": "https://youtu.be/-A37EZKjaXI",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Cold Sweat",
                        "author": "MP3141",
@@ -1121,7 +1127,7 @@ const d = {
                        "name": "Shitty Hyper Paradox",
                        "author": "Lupe1204",
                        "more": "none",
-                       "id": 6425202,
+                       "id": 64256202,
                        "pass": "1204",
                        "percentToQualify": 56,
                        "verificationVid": "https://www.youtube.com/watch?v=3l3slZc_RY0",
@@ -8446,6 +8452,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Elek",
+					"link": "https://www.youtube.com/watch?v=HgUtfjvyEJQ&feature=youtu.be",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
