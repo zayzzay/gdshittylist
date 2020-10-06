@@ -2142,6 +2142,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/HOYz0APlPiY",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Gang Plank Hell",
 			"author": "AcropolisBoy and more [AcropolisBoy]",
@@ -10055,6 +10061,12 @@ const d = {
   					"link": "https://youtu.be/oS_7w1pCi3o",
     					"percent": 100,
     					"hz": "Mobile"
+				},
+				{
+					"user": "Covieta",
+					"link": "https://youtu.be/HOYz0APlPiY",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Glacial Reflections",
