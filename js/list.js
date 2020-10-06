@@ -33,6 +33,18 @@ const d = {
 					"percent": 64,
 					"hz": "120hz"
 				},
+				 {
+				       "user": "HideriGH",
+				       "link": "https://youtu.be/lCHvAzhX7ME",
+				       "percent": 61,
+				       "hz": "144hz"
+			       },
+				{
+				       "user": "Matter",
+				       "link": "https://youtu.be/qtoYAUH7TDg",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Cold Sweat",
                        "author": "MP3141",
@@ -227,6 +239,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+			        {
+				       "user": "Luqualizer",
+				       "link": "https://www.youtube.com/watch?v=kT1a4jjlGA0",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 		       ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -1092,6 +1110,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=5vKzc9CzbT0&feature=youtu.be&t=18s",
 				       "percent": 100,
 				       "hz": "288hz"
+			       },
+				{
+				       "user": "Acidius",
+				       "link": "https://youtu.be/xT46u1Yoxuc",
+				       "percent": 100,
+				       "hz": "Mobile"
 			       },
 		],
                        "name": "Shitty Hyper Paradox",
@@ -10026,6 +10050,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+  					"user": "TheRealYeeter",
+  					"link": "https://youtu.be/oS_7w1pCi3o",
+    					"percent": 100,
+    					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Glacial Reflections",
 			"author": "Lupe1204",
@@ -11657,6 +11687,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/BlKA5aUAqAY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Aftermath",
 			"author": "Magma",
@@ -15024,6 +15060,12 @@ const d = {
 					"link": "https://youtu.be/-QyFa7YfmDo",
 					"percent": 72,
 					"hz": "Mobile"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=8qg9LGu8aoc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Zodiac",
@@ -19635,6 +19677,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Clydie",
+					"link": "https://youtu.be/O6wR_aJjV7k",
+					"percent": 74,
+					"hz": "120hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -23797,6 +23845,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "ALOCIN",
+					"link": "https://youtu.be/iQobH9W3G4g",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -24662,6 +24716,12 @@ const d = {
 					"link": "https://youtu.be/r3-yJxL2Ol0",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "ItsHyper37",
+					"link": "https://youtu.be/1U4B7qgTkNA",
+					"percent": 69,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Mujigae",
@@ -27770,6 +27830,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+			       {
+					"user": "KoceeGD",
+					"link": "https://www.youtube.com/watch?v=5yzHYusV1jA",
+					"percent": 100,
+					"hz": "300hz"
+				},
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -29241,6 +29307,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+				       "user": "Valentino070406",
+				       "link": "https://youtu.be/bdoiyz0gu0A",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
@@ -30166,6 +30238,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+				       "user": "Valentino070406",
+				       "link": "https://youtu.be/28cAsBDk1uw",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
