@@ -4,7 +4,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/IVUCnVHBPc8",
 					"percent": 100,
 					"hz": "288hz"
@@ -192,7 +192,7 @@ const d = {
 				       "hz": "144hz"
 			       },
 			       {
-				       "user": "Covieta",
+				       "user": "MichaelReeves",
 				       "link": "https://youtu.be/IvH7BC4KSwk",
 				       "percent": 100,
 				       "hz": "288hz"
@@ -265,7 +265,7 @@ const d = {
 				{	
 		"vids": [
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/PpeFax-Obxw",
 					"percent": 100,
 					"hz": "288hz"	
@@ -368,7 +368,7 @@ const d = {
 				       "hz": "144hz"
 			        },
 			        {
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/hm-wS9mcs7M",
 					"percent": 100,
 					"hz": "144hz"
@@ -477,7 +477,7 @@ const d = {
 				       "hz": "288hz"
 			       },
 			       {
-				       "user": "Covieta",
+				       "user": "MichaelReeves",
 				       "link": "https://youtu.be/hmP37CaGpLw",
 				       "percent": 100,
 				       "hz": "288hz"
@@ -568,7 +568,7 @@ const d = {
 					"hz": "165hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/J7vl-sWS_ck",
 					"percent": 100,
 					"hz": "288hz"
@@ -725,7 +725,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://www.youtube.com/watch?v=SEtbwV63cgI",
 					"percent": 100,
 					"hz": "144hz"
@@ -1002,7 +1002,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/vkxPEt-1BwY",
 					"percent": 100,
 					"hz": "288hz"
@@ -1069,7 +1069,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/_5q9Gk-mAbE",
 					"percent": 100,
 					"hz": "144hz"
@@ -1100,7 +1100,7 @@ const d = {
 		{
 		        "vids": [
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/u2gW4ywOHUE",
 					"percent": 100,
 					"hz": "288hz"
@@ -1161,7 +1161,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/hmP37CaGpLw",
 					"percent": 100,
 					"hz": "144hz"
@@ -1235,7 +1235,7 @@ const d = {
 		{
 		        "vids": [
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/sypq9JoIzeA",
 					"percent": 100,
 					"hz": "144hz"
@@ -1321,7 +1321,7 @@ const d = {
 			       },
 			],
 			"name": "Shitty Bausha Vortex",
-			"author": "Covieta and v1nnyy [Covieta]",
+			"author": "MichaelReeves and v1nnyy [MichaelReeves]",
 			"more": "none",
 			"id": 64210443,
 			"pass": "Free copy",
@@ -1424,7 +1424,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/gMyVVbgDbbY",
 					"percent": 100,
 					"hz": "144hz"
@@ -1611,7 +1611,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/w1-D6-pPEF4",
 					"percent": 100,
 					"hz": "144hz"
@@ -1822,7 +1822,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/DCbfQmGybX4",
 					"percent": 100,
 					"hz": "144hz"
@@ -1973,7 +1973,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/A9uaf2uhYzk",
 					"percent": 100,
 					"hz": "288hz"
@@ -2046,7 +2046,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/tOgPYFKax60",
 					"percent": 100,
 					"hz": "144hz"
@@ -2161,7 +2161,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/HOYz0APlPiY",
 					"percent": 100,
 					"hz": "288hz"
@@ -2270,7 +2270,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/u3dYBc9OEgw",
 					"percent": 100,
 					"hz": "144hz"
@@ -2481,7 +2481,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/Z6-V4thym0Q",
 					"percent": 100,
 					"hz": "144hz"
@@ -2842,7 +2842,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/hmP37CaGpLw",
 					"percent": 100,
 					"hz": "144hz"
@@ -2915,7 +2915,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://www.youtube.com/watch?v=UPtUv3X2oaY",
 					"percent": 100,
 					"hz": "288hz"
@@ -2994,7 +2994,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/hmP37CaGpLw",
 					"percent": 100,
 					"hz": "288hz"
@@ -3151,7 +3151,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/wpolz7Ogf-E",
 					"percent": 100,
 					"hz": "144hz"
@@ -3297,7 +3297,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://www.youtube.com/watch?v=LQ9ZfPApmtI",
 					"percent": 100,
 					"hz": "144hz"
@@ -3430,7 +3430,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/FlYxK1IIrXE",
 					"percent": 100,
 					"hz": "144hz"
@@ -3611,7 +3611,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/hmP37CaGpLw",
 					"percent": 100,
 					"hz": "144hz"
@@ -3654,7 +3654,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://www.youtube.com/watch?v=UPtUv3X2oaY",
 					"percent": 100,
 					"hz": "288hz"
@@ -3692,7 +3692,7 @@ const d = {
 			"vids": [
 			],
 			"name": "Shitty Quantum Processing",
-			"author": "Covieta and MP3141 [MP3141]",
+			"author": "MichaelReeves and MP3141 [MP3141]",
 			"more": "none",
 			"id": 64254305,
 			"pass": "Free to Copy",
@@ -3825,7 +3825,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://www.youtube.com/watch?v=h3-2t396isI&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
@@ -4072,7 +4072,7 @@ const d = {
 				        "hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/0eDvOMhWg0w",
 					"percent": 100,
 				        "hz": "144hz"
@@ -4439,7 +4439,7 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/kY1zBJouJP0",
 					"percent": 100,
 					"hz": "144hz"
@@ -4615,7 +4615,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/_5q9Gk-mAbE",
 					"percent": 100,
 				        "hz": "144hz"
@@ -4772,7 +4772,7 @@ const d = {
 				        "hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/bsCLyZJPggo",
 					"percent": 100,
 				        "hz": "144hz"
@@ -4893,7 +4893,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/YxajM-Slctw",
 					"percent": 100,
 					"hz": "144hz"
@@ -5417,7 +5417,7 @@ const d = {
 				        "hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/UDESbri5pbk",
 					"percent": 100,
 				        "hz": "144hz"
@@ -5640,7 +5640,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/qFk2fCA4q8M",
 					"percent": 100,
 					"hz": "288hz"
@@ -5851,7 +5851,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://www.youtube.com/watch?v=1y-8LnpTTpg&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
@@ -6291,7 +6291,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/fMPQFu3qDOs",
 					"percent": 100,
 					"hz": "144hz"
@@ -6502,7 +6502,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://www.youtube.com/watch?v=DeylK9xhPg4&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
@@ -6997,7 +6997,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/r9uJD61eQEs",
 					"percent": 100,
 					"hz": "144hz"
@@ -7136,7 +7136,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://www.youtube.com/watch?v=u2gW4ywOHUE",
 					"percent": 100,
 					"hz": "288hz"
@@ -7407,7 +7407,7 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/1gN_BSoEKPg",
 					"percent": 100,
 					"hz": "144hz"
@@ -7935,7 +7935,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/6LUrD7h7yVc",
 					"percent": 100,
 					"hz": "144hz"
@@ -8232,7 +8232,7 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/_a0Rb4yAZeQ",
 					"percent": 100,
 					"hz": "144hz"
@@ -8557,7 +8557,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/ExpmKQIdzFo",
 					"percent": 100,
 					"hz": "144hz"
@@ -8660,7 +8660,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/hmP37CaGpLw",
 					"percent": 100,
 					"hz": "288hz"
@@ -8871,7 +8871,7 @@ const d = {
 					"hz": "180hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/nyVfyp_DEZI",
 					"percent": 100,
 					"hz": "144hz"
@@ -8986,7 +8986,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/8ERnoEy59Ik",
 					"percent": 100,
 					"hz": "144hz"
@@ -9221,7 +9221,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/hmP37CaGpLw",
 					"percent": 100,
 					"hz": "288hz"
@@ -9325,7 +9325,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/mP3gryjPoiI",
 					"percent": 100,
 					"hz": "144hz"
@@ -9422,7 +9422,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/Oe5HCpJJo-A",
 					"percent": 100,
 					"hz": "144hz"
@@ -9857,7 +9857,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/qjdiZDA8zsc",
 					"percent": 100,
 					"hz": "144hz"
@@ -9900,7 +9900,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/J7vl-sWS_ck",
 					"percent": 100,
 					"hz": "288hz"
@@ -10070,7 +10070,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/sypq9JoIzeA",
 					"percent": 100,
 					"hz": "144hz"
@@ -10155,7 +10155,7 @@ const d = {
     					"hz": "Mobile"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/HOYz0APlPiY",
 					"percent": 100,
 					"hz": "288hz"
@@ -10445,7 +10445,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/6i1INe069F0",
 					"percent": 100,
 					"hz": "144hz"
@@ -10842,7 +10842,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/hmP37CaGpLw",
 					"percent": 100,
 					"hz": "144hz"
@@ -11228,7 +11228,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/GI-2onyjrQc",
 					"percent": 100,
 					"hz": "144hz"
@@ -11271,7 +11271,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/syfP9lDe8TM",
 					"percent": 100,
 					"hz": "288hz"
@@ -11356,7 +11356,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://www.youtube.com/watch?v=oige3OtPrDs&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
@@ -11575,7 +11575,7 @@ const d = {
 				{
 			"vids": [	
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/C_thHgTqn5w",
 					"percent": 100,
 					"hz": "144hz"
@@ -11750,7 +11750,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/jUF4oh7YqsI",
 					"percent": 100,
 					"hz": "144hz"
@@ -12141,7 +12141,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/UDujQaQIG_I",
 					"percent": 100,
 					"hz": "144hz"
@@ -12609,7 +12609,7 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/1xKbR_MFcCA",
 					"percent": 100,
 					"hz": "144hz"
@@ -12892,7 +12892,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/m2fVdNfxez8",
 					"percent": 100,
 					"hz": "144hz"
@@ -13036,8 +13036,8 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
-								{
-					"user": "Covieta",
+				{
+					"user": "MichaelReeves",
 					"link": "https://www.youtube.com/watch?v=UPtUv3X2oaY",
 					"percent": 100,
 					"hz": "288hz"
@@ -13273,7 +13273,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/icnJWDIP_bM",
 					"percent": 100,
 					"hz": "144hz"
@@ -13846,7 +13846,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/Da9M1GkY65M",
 					"percent": 100,
 					"hz": "144hz"
@@ -15540,7 +15540,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/syfP9lDe8TM",
 					"percent": 100,
 					"hz": "288hz"
@@ -15667,7 +15667,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/hmP37CaGpLw",
 					"percent": 100,
 					"hz": "288hz"
@@ -15728,7 +15728,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/qFk2fCA4q8M",
 					"percent": 100,
 					"hz": "288hz"
@@ -15867,7 +15867,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/jUF4oh7YqsI",
 					"percent": 100,
 					"hz": "144hz"
@@ -15976,7 +15976,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/ExpmKQIdzFo",
 					"percent": 100,
 					"hz": "144hz"
@@ -16109,7 +16109,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/3n3QpRR3qFo",
 					"percent": 100,
 					"hz": "144hz"
@@ -16482,7 +16482,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/hPxNSbiKb8Y",
 					"percent": 100,
 					"hz": "144hz"
@@ -16933,7 +16933,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/gIg6ExP8464",
 					"percent": 100,
 					"hz": "144hz"
@@ -17102,7 +17102,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/sypq9JoIzeA",
 					"percent": 100,
 					"hz": "144hz"
@@ -17385,7 +17385,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/d88-9QN9ono",
 					"percent": 100,
 					"hz": "144hz"
@@ -18029,7 +18029,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/jUF4oh7YqsI",
 					"percent": 100,
 					"hz": "144hz"
@@ -18324,7 +18324,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link":"https://www.youtube.com/watch?v=nf4Xh_yw0ck&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
@@ -18662,7 +18662,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/qq6i4-jGpSI",
 					"percent": 100,
 					"hz": "144hz"
@@ -18861,7 +18861,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/bsCLyZJPggo",
 					"percent": 100,
 				        "hz": "144hz"
@@ -19108,7 +19108,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/NR78XS3INXw",
 					"percent": 100,
 					"hz": "144hz"
@@ -19542,7 +19542,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/6fD0wSXmhrs",
 					"percent": 100,
 					"hz": "144hz"
@@ -19873,7 +19873,7 @@ const d = {
 		 {
                         "vids": [
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/bsCLyZJPggo",
 					"percent": 100,
 					"hz": "144hz"
@@ -20319,7 +20319,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/glv8clPwKZk",
 					"percent": 100,
 					"hz": "144hz"
@@ -20757,7 +20757,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/UA1G_BI-7YE",
 					"percent": 100,
 					"hz": "144hz"
@@ -20854,7 +20854,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://www.youtube.com/watch?v=Ul_BAPh9S5U&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
@@ -21119,7 +21119,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/roRWXB0ywP4",
 					"percent": 100,
 					"hz": "144hz"
@@ -21559,7 +21559,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/ExpmKQIdzFo",
 					"percent": 100,
 					"hz": "144hz"
@@ -21614,7 +21614,7 @@ const d = {
 				{
 			"vids": [
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/JzuC1_wgRl4",
 					"percent": 100,
 					"hz": "144hz"
@@ -21862,7 +21862,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/jUF4oh7YqsI",
 					"percent": 100,
 					"hz": "144hz"
@@ -22391,7 +22391,7 @@ const d = {
 					"hz": "180hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/lFuutHw3qf4",
 					"percent": 100,
 					"hz": "144hz"
@@ -22716,7 +22716,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/vaehwAILRUQ",
 					"percent": 100,
 					"hz": "144hz"
@@ -23095,7 +23095,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/jUF4oh7YqsI",
 					"percent": 100,
 					"hz": "144hz"
@@ -23752,7 +23752,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/C_thHgTqn5w",
 					"percent": 100,
 					"hz": "144hz"
@@ -24227,7 +24227,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/S3qLfZpRrsI",
 					"percent": 100,
 					"hz": "144hz"
@@ -24696,7 +24696,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/ILDeh9jSBk0",
 					"percent": 100,
 					"hz": "144hz"
@@ -25573,7 +25573,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/nWUgv9zi3Z4",
 					"percent": 100,
 					"hz": "144hz"
@@ -25946,7 +25946,7 @@ const d = {
 					"hz": "1440hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/qK2zTmwxJdk",
 					"percent": 100,
 					"hz": "144hz"
@@ -26403,7 +26403,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/sypq9JoIzeA",
 					"percent": 100,
 					"hz": "144hz"
@@ -27064,7 +27064,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/0v3VVM0TwoU",
 					"percent": 100,
 					"hz": "144hz"
@@ -27629,7 +27629,7 @@ const d = {
 				       "hz": "240hz"
 			       },
 			       {
-				       "user": "Covieta",
+				       "user": "MichaelReeves",
 				       "link": "https://youtu.be/oN8hAYBtJlI",
 				       "percent": 100,
 				       "hz": "144hz"
@@ -28872,7 +28872,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/x8QGPMwrIPI",
 					"percent": 100,
 					"hz": "144hz"
@@ -29923,7 +29923,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Covieta",
+					"user": "MichaelReeves",
 					"link": "https://youtu.be/nWUgv9zi3Z4",
 					"percent": 100,
 					"hz": "144hz"
