@@ -57,6 +57,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "Lawnmower",
+				       "link": "https://youtu.be/0INwjCY5oUQ",
+				       "percent": 79,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Cold Sweat",
                        "author": "MP3141",
@@ -513,7 +519,7 @@ const d = {
                        "id": 63161977,
                        "pass": "Not Copyable",
                        "percentToQualify": 49,
-                       "verificationVid": "https://www.youtube.com/watch?v=7bxgDss4jXM&start=20s%29",
+                       "verificationVid": "https://www.youtube.com/watch?v=ee1ifkVOKnQ",
                        "key": 4
                 },
 		/*=================================================================================*/
@@ -11748,6 +11754,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "120hz"
 			       },
+				 {	
+				       "user": "Cyns",
+				       "link": "https://youtu.be/PxITw-wZvLo",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
@@ -15267,6 +15279,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "QuickFizz",
+					"link": "https://youtu.be/sgKzJ2WM4no",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -17659,6 +17677,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "JaydenB118",
+					"link": "https://youtu.be/QVT3CxlxcTQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
