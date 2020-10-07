@@ -11729,7 +11729,7 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=QVgn7etkuMI&t",
 				       "percent": 100,
 				       "hz": "144hz"
-			       },
+			       },	
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
@@ -12793,6 +12793,12 @@ const d = {
 					"link": "https://youtu.be/8RzrcHR1weg",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/RcI2VWOWJDw",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Bloodbath",
