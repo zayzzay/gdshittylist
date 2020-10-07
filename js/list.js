@@ -3640,6 +3640,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "skzyl",
+				       "link": "https://youtu.be/HOnpdixKNQ4",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
 			],
 			"name": "Shitty Poltergeist Reborn",
 			"author": "MythicalTG",
@@ -15617,6 +15623,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ItsHyper37",
+					"link": "https://youtu.be/M7czEQUYS1Y",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Swing Squad",
 			"author": "Cyns and more [Cyns]",
@@ -15876,6 +15888,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=zgyKTDEJ3C8",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "DNM121",
+					"link": "https://youtu.be/2KEAJ8luiq8",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Necropolis",
