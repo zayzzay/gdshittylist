@@ -19998,6 +19998,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/Rtzen9NrX1k",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
                         "name": "Shitty 1929",
                         "author": "TheIcyConey[Tril]",
