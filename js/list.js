@@ -11735,7 +11735,13 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=QVgn7etkuMI&t",
 				       "percent": 100,
 				       "hz": "144hz"
-			       },	
+			       },
+			       {	
+				       "user": "LegionofBaum31",
+				       "link": "https://www.youtube.com/watch?v=u2aF22WtWh0",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
