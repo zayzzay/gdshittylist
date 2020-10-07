@@ -1221,6 +1221,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "MichaelReeves",
+					"link": "https://youtu.be/3uhzL4-rafk",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Carcano",
 			"author": "ArcticFoxGD [Kobra456]",
