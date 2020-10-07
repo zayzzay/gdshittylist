@@ -11833,6 +11833,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=4MLJV-wh6gk",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Aftermath",
 			"author": "Magma",
