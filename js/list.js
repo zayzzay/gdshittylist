@@ -22331,7 +22331,13 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-			],
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/Qk3Knoq9cHo",
+					"percent": 100,
+					"hz": "120hz"
+				},
+					],
 			"name": "Shitty Down Bass",
 			"author": "Lupe1204 [Surpl3x]",
 			"more": "none",
