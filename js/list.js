@@ -1165,6 +1165,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			       },
+				{
+				       "user": "Lawnmower",
+				       "link": "https://youtu.be/ZMCXDHazdgI",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 		],
                        "name": "Shitty Hyper Paradox",
                        "author": "Lupe1204",
