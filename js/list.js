@@ -2992,6 +2992,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Sazix",
+					"link": "https://www.youtube.com/watch?v=zNG3JtpzITE&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Golden Paracosm",
 			"author": "FizzySalad",
@@ -10196,6 +10202,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Goodyman",
+					"link": "https://www.youtube.com/watch?v=seEuza6Yfls&feature=youtu.be",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Glacial Reflections",
 			"author": "Lupe1204",
@@ -12546,6 +12558,12 @@ const d = {
 					"link": "https://youtu.be/YV5zeD4bBnA",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Questionblockg",
+					"link": "https://youtu.be/tOtgjSkue2M",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -22768,6 +22786,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "M00ncat",
+					"link": "https://m.youtube.com/watch?v=eO8AvPeA_Fo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -24555,6 +24579,12 @@ const d = {
 					"link": "https://youtu.be/0Y2F0X3otb8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Trollomgamer",
+					"link": "https://youtu.be/QE3SPcl8jC0",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty xo",
@@ -30570,6 +30600,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "trimania",
+					"link": "https://www.youtube.com/watch?v=oaTWbKoD0J4",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
