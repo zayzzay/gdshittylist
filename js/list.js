@@ -275,6 +275,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+			       {
+				       "user": "SL3NDY",
+				       "link": "https://youtu.be/DRcpwHqioWg",
+				       "percent": 47,
+				       "hz": "175hz"
+			        },
 		       ],
                        "name": "Shitty Azure Flare",
                        "author": "Magma",
@@ -7484,6 +7490,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Pipzzzzzz",
+					"link": "https://youtu.be/EdQj7-F-F70",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty The Secret Box",
 			"author": "jOnel",
@@ -11251,6 +11263,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "FrenchFry",
+					"link": "https://youtu.be/hAKsQ6nXHJM",
+					"percent": 100,
+					"hz": "240hz"
+				}
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -22309,7 +22327,13 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=Hs9QOerNPJc&t=1189",
 				       "percent": 100,
 				       "hz": "144hz"
-			       },
+			        },
+				{
+					"user": "TheSlammed",
+					"link": "https://youtu.be/SvODP1h1Jig",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Necropolis",
 			"author": "Tai0",
@@ -22933,7 +22957,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-					],
+				{
+					"user": "TheSlammed",
+					"link": "https://youtu.be/OulPwpRsbEM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Heater123",
+					"link": "https://youtu.be/3eACXoCsHgI",
+					"percent": 62,
+					"hz": "60hz"
+			],
 			"name": "Shitty Down Bass",
 			"author": "Lupe1204 [Surpl3x]",
 			"more": "none",
@@ -28747,6 +28782,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "TheSlammed",
+				       "link": "https://youtu.be/fCWqyF7pCM8",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -30254,6 +30295,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "300hz"
 			       },
+				{
+					"user": "TheSlammed",
+					"link": "https://youtu.be/rB_wupUPB98",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
@@ -31239,6 +31286,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "KingTripod",
+					"link": "https://youtu.be/2kPQlYNbo00",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
