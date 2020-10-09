@@ -3885,12 +3885,12 @@ const d = {
 				}, 
 			],
 			"name": "Shitty Quantum Processing",
-			"author": "MichaelReeves and MP3141 [MP3141]",
+			"author": "MichaelReeves and MP3141 [MichaelReeves]",
 			"more": "none",
 			"id": 64254305,
 			"pass": "Free to Copy",
 			"percentToQualify": 61,
-			"verificationVid": "https://youtu.be/wgjgDW6pR7Q",
+			"verificationVid": "https://youtu.be/U5kK8Q87upU",
 			"key": 33
 		},
 		/*=================================================================================*/
