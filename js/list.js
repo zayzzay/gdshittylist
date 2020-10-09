@@ -24178,7 +24178,13 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-		       "vids": [ 
+		       "vids": [
+			       {
+				       "user": "MP3141",
+				       "link": "https://www.youtube.com/watch?v=dgtzv_gVk68",
+				       "percent": 100,
+				       "hz": "144hz",
+			       },
 			],
 			"name": "Shitty Crimson Clutter",
 			"author": "MichaelReeves",
