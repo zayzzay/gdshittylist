@@ -22968,7 +22968,7 @@ const d = {
 					"link": "https://youtu.be/3eACXoCsHgI",
 					"percent": 62,
 					"hz": "60hz"
-			],
+				],
 			"name": "Shitty Down Bass",
 			"author": "Lupe1204 [Surpl3x]",
 			"more": "none",
