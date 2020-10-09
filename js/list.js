@@ -14474,7 +14474,7 @@ const d = {
 				},
 				{
 					"user": "GD Cade21",
-					"link": "https://www.youtube.com/watch?v=LWlRsczZ8PA,
+					"link": "https://www.youtube.com/watch?v=LWlRsczZ8PA,",
 					"percent": 100,
 					"hz": "144hz"
 				},
