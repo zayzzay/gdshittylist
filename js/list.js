@@ -4521,16 +4521,22 @@ const d = {
 				       "link": "https://youtu.be/ltjdaUv2YVE",
 				       "percent": 100,
 				       "hz": "144hz"
-			       },
+			        },
 				{
 				       "user": "Kapinapi",
 				       "link": "https://www.youtube.com/watch?v=N_eeMPD7o3k&t=682",
 				       "percent": 100,
 				       "hz": "144hz"
-			       },
-				 {
+			        },
+				{
 					"user": "skzyl",
 					"link": "https://youtu.be/aIqmsBrTVbI",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/CUY74Qbm870",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -20521,6 +20527,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Trollomggamer",
+					"link": "https://youtu.be/QE3SPcl8jC0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -30235,6 +30247,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=Hs9QOerNPJc&t=338",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+				{
+				       "user": "watter",
+				       "link": "https://www.youtube.com/watch?v=K_4dvZAQ514&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "300hz"
 			       },
 			],
 			"name": "Shitty Xo Circles",
