@@ -56,7 +56,7 @@ function userList() {
                 }
             } else {
                 var map = entry.name.toString();
-                if (parseInt(entry2.percent) != 150) {
+                if (parseInt(entry2.percent) != 100) {
                     map = "null";
                 }
 
