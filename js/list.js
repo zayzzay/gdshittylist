@@ -3938,31 +3938,6 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "2kb",
-					"link": "https://www.youtube.com/watch?v=ufZz4iix640",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/U5kK8Q87upU",
-					"percent": 100,
-					"hz": "144hz"
-				}, 
-			],
-			"name": "Shitty Quantum Processing",
-			"author": "MichaelReeves and MP3141 [MichaelReeves]",
-			"more": "none",
-			"id": 64254305,
-			"pass": "Free to Copy",
-			"percentToQualify": 61,
-			"verificationVid": "https://youtu.be/U5kK8Q87upU",
-			"key": 33
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
 					"user": "Fhyron06",
 					"link": "https://www.youtube.com/watch?v=sMCRm04pkq4",
 					"percent": 100,
@@ -4024,7 +3999,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=nrDrncLXevE",
-			"key": 34
+			"key": 33
 		},
 		/*=================================================================================*/
 		{
@@ -4145,7 +4120,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=2Mkex3RGOnQ",
-			"key": 35
+			"key": 34
 		},
 		/*=================================================================================*/
 		{
@@ -4560,7 +4535,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=gx-NqXHlGoA",
-			"key": 36
+			"key": 35
 		},
 		/*=================================================================================*/
 				{
@@ -4886,7 +4861,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=I8Xo3JL8fjs",
-			"key": 37
+			"key": 36
 		},
 		/*=================================================================================*/
 		{
@@ -5049,7 +5024,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 51,
 			"verificationVid": "https://www.youtube.com/watch?v=JdKVhYu1eGo&feature=youtu.be",
-			"key": 38
+			"key": 37
 		},
 		/*=================================================================================*/
 		 {
@@ -5116,7 +5091,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=V16wJ3PkJys",
-			"key": 39
+			"key": 38
 		},
 		/*=================================================================================*/
 		{
@@ -5387,6 +5362,31 @@ const d = {
 			"pass": "173869",
 			"percentToQualify": 62,
 			"verificationVid": "https://www.youtube.com/watch?v=qd9enLukIEc",
+			"key": 39
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "2kb",
+					"link": "https://www.youtube.com/watch?v=ufZz4iix640",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/U5kK8Q87upU",
+					"percent": 100,
+					"hz": "144hz"
+				}, 
+			],
+			"name": "Shitty Quantum Processing",
+			"author": "MichaelReeves and MP3141 [MichaelReeves]",
+			"more": "none",
+			"id": 64254305,
+			"pass": "Free to Copy",
+			"percentToQualify": 61,
+			"verificationVid": "https://youtu.be/U5kK8Q87upU",
 			"key": 40
 		},
 		/*=================================================================================*/
@@ -16432,6 +16432,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Questionblockg",
+					"link": "https://youtu.be/9wVOs9zO5Lc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Lantern Lights",
 			"author": "GdWaaab",
@@ -19944,6 +19950,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				 {
+				       "user": "TheSlammed",
+				       "link": "https://youtu.be/MJOFEwI5DRw",
+				       "percent": 100,
+				       "hz": "Mobile"
+			       },
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -25653,6 +25665,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+				       "user": "Great",
+				       "link": "https://youtu.be/S_G21QYHRCw?t=286",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -26410,6 +26428,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+				       "user": "Great",
+				       "link": "https://youtu.be/S_G21QYHRCw?t=286",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -27155,6 +27179,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+				       "user": "Great",
+				       "link": "https://youtu.be/S_G21QYHRCw?t=286",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -27366,6 +27396,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+				       "user": "Great",
+				       "link": "https://youtu.be/S_G21QYHRCw?t=286",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
                        "name": "Shitty Doop",
                        "author": "Megum and more [Megum]",
@@ -28129,6 +28165,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "Great",
+				       "link": "https://youtu.be/S_G21QYHRCw?t=208",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Killerzone",
 			"author": "Acropolisboy",
@@ -28829,6 +28871,12 @@ const d = {
 			       {
 				       "user": "TheSlammed",
 				       "link": "https://youtu.be/fCWqyF7pCM8",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Great",
+				       "link": "https://youtu.be/S_G21QYHRCw?t=143",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
@@ -30345,7 +30393,19 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-			],
+				{
+				       "user": "Great",
+				       "link": "https://youtu.be/S_G21QYHRCw?t=74",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+				],
+				{
+					"user": "FrenchFry",
+					"link": "https://youtu.be/ZNRNEj1R5tY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
 			"more": "none",
@@ -31342,6 +31402,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+				       "user": "Great",
+				       "link": "https://www.youtube.com/watch?v=S_G21QYHRCw",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
