@@ -69,6 +69,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "aet",
+					"link": "https://youtu.be/xDroG1VxAc8",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Cold Sweat",
                        "author": "MP3141",
@@ -1340,6 +1346,55 @@ const d = {
 			"key": 11
 		},
 		/*=================================================================================*/
+				{
+			"vids": [
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/QhBvdW9h80o",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=Myp7g2BxB8A",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/99ECnwIwxzY",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=o8mk-mWG_SU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Ryclix",
+					"link": "https://www.youtube.com/watch?v=04MPCmygTro&feature=youtu.be&t=124s",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+				       "user": "Kapinapi",
+				       "link": "https://www.youtube.com/watch?v=N_eeMPD7o3k&t=1612",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			],
+			"name": "Shitty Bausha Vortex",
+			"author": "MichaelReeves and v1nnyy [MichaelReeves]",
+			"more": "none",
+			"id": 64210443,
+			"pass": "Free copy",
+			"percentToQualify": 63,
+			"verificationVid": "https://youtu.be/p9noqbi029c",
+			"key": 12
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
@@ -1374,7 +1429,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=ve3rcO8D4Ns",
-			"key": 12
+			"key": 13
 		},
 		/*=================================================================================*/
 		{
@@ -1423,55 +1478,6 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://youtu.be/PmI1SlfjwyI",
-			"key": 13
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/QhBvdW9h80o",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Kobra456",
-					"link": "https://www.youtube.com/watch?v=Myp7g2BxB8A",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Lawnmower",
-					"link": "https://youtu.be/99ECnwIwxzY",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=o8mk-mWG_SU",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Ryclix",
-					"link": "https://www.youtube.com/watch?v=04MPCmygTro&feature=youtu.be&t=124s",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-				       "user": "Kapinapi",
-				       "link": "https://www.youtube.com/watch?v=N_eeMPD7o3k&t=1612",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			],
-			"name": "Shitty Bausha Vortex",
-			"author": "MichaelReeves and v1nnyy [MichaelReeves]",
-			"more": "none",
-			"id": 64210443,
-			"pass": "Free copy",
-			"percentToQualify": 63,
-			"verificationVid": "https://youtu.be/p9noqbi029c",
 			"key": 14
 		},
 		/*=================================================================================*/
@@ -4112,6 +4118,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "aet",
+					"link": "https://youtu.be/7EYkr0vCbCA",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Zettabyte",
 			"author": "Serpyy",
@@ -5354,6 +5366,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
+				{
+					"user": "ExtremeBeemon",
+					"link": "https://youtu.be/MOf50S8Q0So",
+					"percent": 100,
+				        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Cyns",
@@ -7956,6 +7974,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				}, 
+				{
+					"user": "zMultix",
+					"link": "https://youtu.be/MaZekHWTxHc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Curse Calling",
 			"author": "v1nnyy",
@@ -10236,6 +10260,12 @@ const d = {
 					"percent": 100,
 				        "hz": "288hz"
 				},
+				{
+					"user": "aet",
+					"link": "https://youtu.be/uBXSnutDSck",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Phantasmagoria",
 			"author": "v1nnyy",
@@ -10308,6 +10338,12 @@ const d = {
 					"link": "https://youtu.be/jJzVwpJsnVk",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/1sxN_Lfo-D4",
+					"percent": 100,
+				        "hz": "144hz"
 				},
 			],
 			"name": "Shitty Vertigo",
@@ -17455,6 +17491,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Lazvy",
+					"link": "https://youtu.be/-Vn6cVD3MK0",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -17857,6 +17899,12 @@ const d = {
 				{
 				       "user": "TheSlammed",
 				       "link": "https://youtu.be/62jjcPwpjRc",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+				{
+				       "user": "Crossx7",
+				       "link": "https://youtu.be/sgR0KKrD-lI",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
@@ -24775,6 +24823,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+				       "user": "redracer",
+				       "link": "https://www.youtube.com/watch?v=m2p2v1AO92c&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -26433,6 +26487,12 @@ const d = {
 				       "link": "https://youtu.be/S_G21QYHRCw?t=286",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+				{
+				       "user": "redracer",
+				       "link": "https://www.youtube.com/watch?v=0RoQVlrpVuA&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "288hz"
 			       },
 			],
 			"name": "Shitty Sakupen Hell",
@@ -28880,6 +28940,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+				       "user": "redracer",
+				       "link": "https://www.youtube.com/watch?v=cqW0i_XanpM",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -30405,7 +30471,13 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
-				],
+				{
+					"user": "hotnakji",
+					"link": " https://youtu.be/iuv9GUuG_Y0",
+					"percent": 100,
+					"hz": "165hz"
+				},
+			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
 			"more": "none",
@@ -31408,6 +31480,24 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "hotnakji",
+					"link": "https://youtu.be/nA70KACUnTs",
+					"percent": 100,
+					"hz": "165hz"
+				},
+				 {
+				       "user": "redracer",
+				       "link": "https://youtu.be/bRm1oUqsjuc",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+				{
+					"user": "Poperto21",
+					"link": "https://youtu.be/VZ3HIGnIipo",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
