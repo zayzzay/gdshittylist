@@ -492,6 +492,31 @@ const d = {
                        "key": 3
                 },
 		/*=================================================================================*/
+					{
+                "vids": [
+			 {
+				       "user": "Fulva",
+				       "link": "https://youtu.be/EtGkEOS_jqw",
+				       "percent": 100,
+				       "hz": "288hz"
+		        },
+			{
+				       "user": "MichaelReeves",
+				       "link": "https://www.youtube.com/watch?v=27OPMEe27LM",
+				       "percent": 100,
+				       "hz": "288hz"
+		        },
+			],
+                       "name": "Shitty Chromatic Haze",
+                       "author": "Serpyy",
+                       "more": "none",
+                       "id": 64352170,
+                       "pass": "Free to Copy",
+                       "percentToQualify": 61,
+                       "verificationVid": "https://youtu.be/EtGkEOS_jqw",
+                       "key": 4
+                },
+		/*=================================================================================*/
 		{
                 "vids": [
 				{
@@ -580,31 +605,6 @@ const d = {
                        "pass": "Not Copyable",
                        "percentToQualify": 49,
                        "verificationVid": "https://www.youtube.com/watch?v=ee1ifkVOKnQ",
-                       "key": 4
-                },
-		/*=================================================================================*/
-			{
-                "vids": [
-			 {
-				       "user": "Fulva",
-				       "link": "https://youtu.be/EtGkEOS_jqw",
-				       "percent": 100,
-				       "hz": "288hz"
-		        },
-			{
-				       "user": "MichaelReeves",
-				       "link": "https://www.youtube.com/watch?v=27OPMEe27LM",
-				       "percent": 100,
-				       "hz": "288hz"
-		        },
-			],
-                       "name": "Shitty Chromatic Haze",
-                       "author": "Serpyy",
-                       "more": "none",
-                       "id": 64352170,
-                       "pass": "Free to Copy",
-                       "percentToQualify": 61,
-                       "verificationVid": "https://youtu.be/EtGkEOS_jqw",
                        "key": 5
                 },
 		/*=================================================================================*/
@@ -11330,12 +11330,6 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
-				{
-					"user": "FrenchFry",
-					"link": "https://youtu.be/hAKsQ6nXHJM",
-					"percent": 100,
-					"hz": "240hz"
-				}
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -22802,6 +22796,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz",
 			       },
+				{
+					"user": "Magma",
+                                        "link": "https://www.youtube.com/watch?v=ubdvy8IXfJk&feature=youtu.be",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Down Bass",
 			"author": "Lupe1204 [Surpl3x]",
@@ -26848,6 +26848,12 @@ const d = {
 				       "link": "https://youtu.be/S_G21QYHRCw?t=286",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+				{
+				       "user": "TheSlammed",
+				       "link": "https://youtu.be/HeomSM3jLG8",
+				       "percent": 100,
+				       "hz": "180hz"
 			       },
 			],
 			"name": "Shitty Ithacropolis",
@@ -30987,6 +30993,30 @@ const d = {
                                         "link": "https://www.youtube.com/watch?v=Vw0xmF9QOP",
                                         "percent": 100,
                                         "hz": "60hz"
+				},
+				{
+					"user": "Magma",
+                                        "link": "https://www.youtube.com/watch?v=LZ3aH7MAW80&feature=youtu.be",
+                                        "percent": 100,
+                                        "hz": "300hz"
+				},
+				{
+					"user": "Patrick61804",
+                                        "link": "https://youtu.be/wPkXiSvR0ls",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
+				{
+					"user": "kaiden phoenix",
+                                        "link": "https://youtu.be/uHl_QLEfnnw",
+                                        "percent": 100,
+                                        "hz": "144hz"
+				},
+				{
+					"user": "HopZy",
+                                        "link": "https://www.youtube.com/watch?v=SPoA5DuHvjM&ab_channel=HopZy",
+                                        "percent": 100,
+                                        "hz": "120hz"
 				},
 			],
 			"name": "Shitty VendetTa",
