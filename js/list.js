@@ -30399,13 +30399,13 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
-				],
 				{
 					"user": "FrenchFry",
 					"link": "https://youtu.be/ZNRNEj1R5tY",
 					"percent": 100,
 					"hz": "240hz"
 				},
+				],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
 			"more": "none",
