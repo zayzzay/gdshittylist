@@ -75,6 +75,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Tai0",
+                                        "link": "https://youtu.be/suaHu4eUu-s",
+                                        "percent": 100,
+                                        "hz": "120hz"
+				},
 			],
 			"name": "Shitty Cold Sweat",
                        "author": "MP3141",
@@ -3099,6 +3105,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=9VTRg9AtUDg&feature=youtu.be&t=262s",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+				{
+				       "user": "grecide",
+				       "link": "https://youtu.be/duczMjfIDG8",
+				       "percent": 100,
+				       "hz": "60hz"
 			       },
 			],
 			"name": "Shitty Wasureta",
@@ -12086,6 +12098,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "FallenAresse",
+					"link": "https://www.youtube.com/watch?v=a1J5k2WVTig&ab_channel=FallenAresse",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Battle of the Shades",
 			"author": "xSmajlik and Superxman777 [xSmajlik]",
@@ -14179,6 +14197,12 @@ const d = {
 				{
 				       "user": "DartHole",
 				       "link": "https://www.youtube.com/watch?v=QVgn7etkuMI&t",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+				{
+				       "user": "Crossx7",
+				       "link": "https://youtu.be/l4YxYJnQS08",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
@@ -16287,6 +16311,12 @@ const d = {
 					"link": "https://youtu.be/9wVOs9zO5Lc",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "HopZy",
+					"link": "https://www.youtube.com/watch?v=aUhcfWioBE4&ab_channel=HopZy",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Lantern Lights",
@@ -19323,6 +19353,12 @@ const d = {
 					"link": "https://youtu.be/0wGF84607LA",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "HopZy",
+					"link": "https://www.youtube.com/watch?v=MWw2KBroOjQ&ab_channel=HopZy",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Silver Shade",
@@ -27030,6 +27066,18 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "TheSlammed",
+				       "link": "https://youtu.be/5eDPodknSoA",
+				       "percent": 100,
+				       "hz": "180hz"
+			       },
+				{
+				       "user": "Tai0",
+				       "link": "https://youtu.be/BggRhGOfYKM",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
 			],
                        "name": "Shitty Doop",
                        "author": "Megum and more [Megum]",
@@ -29918,6 +29966,18 @@ const d = {
                                         "link": "https://youtu.be/T4qNqAmAJWY",
                                         "percent": 100,
                                         "hz": "240hz"
+				},
+				{
+					"user": "KingTripod",
+					"link": "https://youtu.be/2u7SvTThcuk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Fabricorn",
+					"link": "https://youtu.be/d7ApawE8id0",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Xo Circles",
