@@ -8768,8 +8768,8 @@ const d = {
 				},
 				{
 					"user": "OliXor",
-					"link": "https://youtu.be/uIlKIDRPyPE",
-					"percent": 74,
+					"link": "https://youtu.be/WlXacpc08mI",
+					"percent": 100,
 					"hz": "144hz"
 				},
 				{
@@ -15382,6 +15382,12 @@ const d = {
 					"link": "https://youtu.be/QclYja-QIhs",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "ItzCari",
+					"link": "https://youtu.be/BKEFvMHwkHg",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Zodiac",
@@ -23791,6 +23797,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://www.youtube.com/watch?v=zZ9TI0NDZrg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
@@ -26876,6 +26888,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://www.youtube.com/watch?v=pRWJRx7ZLYA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
                        "name": "Shitty Doop",
                        "author": "Megum and more [Megum]",
@@ -28330,6 +28348,24 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+			       {
+				       "user": "Setsoku",
+				       "link": "https://youtu.be/s5AMcS1VfWI",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+			       {
+					"user": "kaiden phoenix",
+                                        "link": "https://youtu.be/RSKAlS2daeA",
+                                        "percent": 100,
+                                        "hz": "144hz"
+				},
+			       {
+				       "user": "Makov",
+				       "link": "https://www.youtube.com/watch?v=sCGKwQdjMBs&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
@@ -29812,6 +29848,12 @@ const d = {
                                         "link": "https://youtu.be/aDSoaJbZhXU",
                                         "percent": 100,
                                         "hz": "Mobile"
+				},
+				{
+					"user": "kaiden phoenix",
+                                        "link": "https://youtu.be/VgzbhXIqOGw",
+                                        "percent": 100,
+                                        "hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
