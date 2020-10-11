@@ -1055,6 +1055,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+				       "user": "BensonGD",
+				       "link": "https://www.youtube.com/watch?v=bBi65g2YDSE",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -2521,6 +2527,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=-RMpP6lFigk",
 					"percent": 71,
 					"hz": "60hz"
+				},
+				{
+					"user": "FrenchFry",
+					"link": "https://youtu.be/Nizy-Ez8SE8",
+					"percent": 65,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Renevant",
@@ -4506,6 +4518,24 @@ const d = {
 				{
 					"user": "Pipzzzzzzz",
 					"link": "https://youtu.be/CUY74Qbm870",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Sync Jaws",
+					"link": "https://youtu.be/9zdw5DDcbnI",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+				       "user": "TheSlammed",
+				       "link": "https://youtu.be/v4Bi3Fbu4UY",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
+				{
+					"user": "aurora",
+					"link": "https://youtu.be/PSY7bojXI-A",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -7478,6 +7508,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				 {
+				       "user": "aurora",
+				       "link": "https://youtu.be/-wzGh3mf3kk",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
 			],
 			"name": "Shitty The Secret Box",
 			"author": "jOnel",
@@ -7931,6 +7967,12 @@ const d = {
 					"link": "https://youtu.be/MaZekHWTxHc",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Cyns",
+					"link": "https://www.youtube.com/watch?v=R7xs27J9fYY",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Curse Calling",
@@ -10545,6 +10587,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+				       "user": "TheSlammed",
+				       "link": "https://youtu.be/-vza4gF1liY",
+				       "percent": 100,
+				       "hz": "180hz"
+			       },
 			],
 			"name": "Shitty Glacial Reflections",
 			"author": "Lupe1204",
@@ -11595,6 +11643,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=v3zogh0sX0o",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Explosion",
 			"author": "Serpyy",
@@ -11606,7 +11660,7 @@ const d = {
 			"key": 82
 		},
 		/*=================================================================================*/
-						{
+		{
 			"vids": [	
 				{
 					"user": "MichaelReeves",
@@ -12574,6 +12628,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=v3zogh0sX0o",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Anoxysm",
 			"author": "Serpyy",
@@ -15993,6 +16053,12 @@ const d = {
 		/*=================================================================================*/
 		{
                         "vids": [
+				{
+					"user": "Cyns",
+					"link": "https://www.youtube.com/watch?v=BrAxBVzaWB4",
+					"percent": 100,
+					"hz": "288hz"
+				},
                         ],
                         "name": "Shitty Heartbeat",
                         "author": "MightGD",
@@ -18831,6 +18897,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=v3zogh0sX0o",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -20560,6 +20632,12 @@ const d = {
                                         "link": "https://youtu.be/kfnc68UkUtM",
                                         "percent": 100,
                                         "hz": "144hz"
+				},
+				{
+					"user": "Shay",
+					"link": "https://youtu.be/IUnD5WaQuoI",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
                         "name": "Shitty Ethereal Artifice",
@@ -22726,6 +22804,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=UHbBloWd4XQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Down Bass",
 			"author": "Lupe1204 [Surpl3x]",
@@ -23627,6 +23711,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=RyeozdeQe8U",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Whiteteeth",
+					"link": "https://youtu.be/PEwiDcsCvEg",
+					"percent": 100,
+					"hz": "Mobile"
 				},
                           ],
 			"name": "Shitty Sparkling Hope",
@@ -25373,6 +25463,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=v3zogh0sX0o",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
@@ -26852,7 +26948,7 @@ const d = {
                                         "hz": "144hz"
 				},
 				{
-					"user": "Cyril
+					"user": "Cyril",
 					"link": "https://youtu.be/mksmWzqvJGo",
 					"percent": 100,
 					"hz": "300hz"
@@ -26863,6 +26959,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "KingTripod",
+					"link": "https://youtu.be/Tf7K2feD3B4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
