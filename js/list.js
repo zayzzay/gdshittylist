@@ -81,6 +81,18 @@ const d = {
                                         "percent": 100,
                                         "hz": "120hz"
 				},
+				{
+					"user": "Kobra456",
+                                        "link": "https://www.youtube.com/watch?v=ky4dFDIuYfU",
+                                        "percent": 100,
+                                        "hz": "144hz"
+				},
+				{
+					"user": "Magma",
+                                        "link": "https://youtu.be/8S0p4jTpEAs",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Cold Sweat",
                        "author": "MP3141",
@@ -4901,6 +4913,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/hVj29JluISM",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and XanPlayzGamez [Serpyy]",
@@ -9400,6 +9418,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "MobTras",
+					"link": "https://www.youtube.com/watch?v=izd1WOwoho0",
+					"percent": 98,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Belloq",
 			"author": "oSpace and more [oSpace]",
@@ -10782,6 +10806,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "LegionofBaum31",
+				       "link": "https://www.youtube.com/watch?v=Wf8OPx7EdM8",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
 			],
 			"name": "Shitty PV II",
 			"author": "Serpyy and more [Serpyy]",
@@ -11107,6 +11137,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "120hz"
 			       },
+				{
+					"user": "aurora",
+                                        "link": "https://youtu.be/lBJvisd8IMg",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Rate Demon",
 			"author": "Serpyy",
@@ -11934,6 +11970,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+				       "user": "LegionofBaum31",
+				       "link": "https://www.youtube.com/watch?v=eN1gF24IUsk",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
 			],
 			"name": "Shitty Team Z",
 			"author": "Kobra456",
@@ -12127,6 +12169,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=a1J5k2WVTig&ab_channel=FallenAresse",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/sG8CSPu1SbU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Battle of the Shades",
@@ -17354,6 +17402,24 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+			       {
+				       "user": "TheSlammed",
+				       "link": "https://youtu.be/sca7ajxq47s",
+				       "percent": 100,
+				       "hz": "180hz"
+			       },
+			        {
+				       "user": "LegionofBaum31",
+				       "link": "https://www.youtube.com/watch?v=GsHuTVC3pdg",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
+			       {
+					"user": "Goodyman",
+					"link": "https://youtu.be/Kl7lVr6yZmE",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Crimson Clutter",
 			"author": "MichaelReeves",
@@ -22197,6 +22263,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://youtu.be/1IJwObJCRiU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Necropolis",
 			"author": "Tai0",
@@ -22838,6 +22910,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+				  {
+				       "user": "LegionofBaum31",
+				       "link": "https://www.youtube.com/watch?v=dWLqJkAyXiI",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
 			],
 			"name": "Shitty Down Bass",
 			"author": "Lupe1204 [Surpl3x]",
@@ -23457,6 +23535,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Samucrack18",
+					"link": "https://www.youtube.com/watch?v=eE110clNHi8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -23715,6 +23799,12 @@ const d = {
 					"link": "https://youtu.be/0GyDDpbEuhw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "aurora",
+					"link": "https://youtu.be/CraMAmJ8XY0",
+					"percent": 100,
+					"hz": "240hz"
 				},
                           ],
 			"name": "Shitty Sparkling Hope",
@@ -24023,6 +24113,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+					"user": "Haze1nut",
+					"link": "https://youtu.be/RHXyO9g-KDE",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
@@ -28574,6 +28670,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+			       {
+				       "user": "isemarcos",
+				       "link": "https://youtu.be/jAKabEGyaKw",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
