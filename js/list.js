@@ -1061,6 +1061,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Sazix",
+					"link": "https://www.youtube.com/watch?v=PxbfY74rBGQ&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -22316,6 +22322,12 @@ const d = {
 					"link": "https://youtu.be/1IJwObJCRiU",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "FallenAresse",
+					"link": "https://youtu.be/RAJJBHsx3gI",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Necropolis",
