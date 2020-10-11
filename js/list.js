@@ -26308,6 +26308,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+				       "user": "Patrick61804",
+				       "link": "https://youtu.be/qWfLcd-kgVQ",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
 			],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
