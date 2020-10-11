@@ -3112,6 +3112,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			       },
+				{
+				       "user": "Aeon102",
+				       "link": "https://youtu.be/CN7RclsbcWU",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
@@ -5427,6 +5433,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				}, 
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/GZMuitK_fH4",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Quantum Processing",
 			"author": "MichaelReeves and MP3141 [MichaelReeves]",
@@ -7562,6 +7574,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Tai0",
+					"link": "https://youtu.be/_YV5xW-LcLc",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty The Secret Box",
 			"author": "jOnel",
@@ -7983,6 +8001,12 @@ const d = {
 					"user": "GDMeric",
 					"link": "https://youtu.be/W93m9jYkgIY",
 					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "SlimmeFelix",
+					"link": "hhttps://www.youtube.com/watch?v=JVZHt8JpIxk",
+					"percent": 72,
 					"hz": "144hz"
 				},
 			],
@@ -11330,6 +11354,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/aOyS0nfKdrs",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -14272,6 +14302,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1_fA8ZQtwRc",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=mGSUTW3L4RQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Hyperio Technia",
@@ -23674,6 +23710,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+					"user": "SlimmeFelix",
+					"link": "https://youtu.be/0GyDDpbEuhw",
+					"percent": 100,
+					"hz": "144hz"
+				},
                           ],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
@@ -24535,6 +24577,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+					"user": "Scy",
+					"link": "https://www.youtube.com/watch?v=aAHZNo0H-9c",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -29984,6 +30032,30 @@ const d = {
 					"link": "https://youtu.be/d7ApawE8id0",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "GDPentol",
+					"link": "https://youtu.be/ZK92dsbZ67c",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+				       "user": "Setsoku",
+				       "link": "https://youtu.be/RlddO1uwgzc",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
+				{
+				       "user": "BensonGD",
+				       "link": "https://youtu.be/5Fd3Gh3vRDE",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
+				{
+					"user": "Crossx7",
+					"link": "https://youtu.be/K8ddZsqvy8Q",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Xo Circles",
