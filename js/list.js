@@ -28688,6 +28688,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+		       		{
+				       "user": "Questionblockg",
+				       "link": "https://youtu.be/mJh7gxFJ2es",
+				       "percent": 100,
+				       "hz": "Mobile"
+			       },
 		       ],
                        "name": "Shitty Poltergeist",
                        "author": "AcropolisBoy",
