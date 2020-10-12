@@ -3748,6 +3748,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+				       "user": "Elek",
+				       "link": "https://youtu.be/boHsCkEISTE",
+				       "percent": 100,
+				       "hz": "40hz"
+			       },
 			],
 			"name": "Shitty Step To Hell",
 			"author": "oSpace",
@@ -9628,6 +9634,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Zirkitri",
+					"link": "https://www.youtube.com/watch?v=H9ACOb21Zq4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Glide",
 			"author": "Aassbll",
@@ -11883,79 +11895,6 @@ const d = {
 			"key": 83
 		},
 		/*=================================================================================*/
-		  {
-			"vids": [ 
-				{
-					"user": "Cyns",
-					"link": "https://youtu.be/7IgVpaqdAsw",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "MichaelReeves",
-					"link": "https://youtu.be/syfP9lDe8TM",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "jOnel",
-					"link": "https://youtu.be/_XOAfmSY92g",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/N98XLDTX0EM",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Nancho",
-					"link": "https://youtu.be/sJlYcSOAbGw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "dezka77",
-					"link": "https://youtu.be/raJhv11ulYw",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "dots",
-					"link": "https://youtu.be/qe465CRw8Gw",
-					"percent": 100,
-				        "hz": "60hz"
-				},
-				{
-					"user": "Baechukimchi",
-					"link": "https://www.youtube.com/watch?v=hb-UXTzNs54&ab_channel=%EC%A7%80%EB%A9%94%ED%95%98%EB%8A%94%EB%B0%B0%EC%B6%94%EA%B9%80%EC%B9%98",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "wshedd",
-					"link": "https://youtu.be/JhK8jOoWB_Q",
-					"percent": 100,
-				        "hz": "144hz"
-				},
-				{
-				       "user": "LegionofBaum31",
-				       "link": "https://www.youtube.com/watch?v=eN1gF24IUsk",
-				       "percent": 100,
-				       "hz": "120hz"
-			       },
-			],
-			"name": "Shitty Team Z",
-			"author": "Kobra456",
-			"more": "none",
-			"id": 63637436,
-			"pass": "Free To Copy",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=-psODAZHoDM",
-			"key": 84
-		},
-		/*=================================================================================*/
 		{
 			"vids": [
 				{
@@ -12038,7 +11977,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=cGY6Y3hwCs0",
-			"key": 85
+			"key": 84
 		},
 		/*=================================================================================*/
 		{
@@ -12147,7 +12086,7 @@ const d = {
 			"pass": "130919",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=mPhVpA2g2EM",
-			"key": 86
+			"key": 85
 		},
 		/*=================================================================================*/
 				{
@@ -12280,7 +12219,7 @@ const d = {
 			"pass": "Free to Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=stGqAj0XSoQ",
-			"key": 87
+			"key": 86
 		},
 		/*=================================================================================*/
 		{
@@ -12563,7 +12502,7 @@ const d = {
 			"pass": "Not copyable",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/1Y1T2UdSCEY?t=2425",
-			"key": 88
+			"key": 87
 		},
 		/*=================================================================================*/
 				{
@@ -12720,6 +12659,79 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=f8Ih6EaNugI",
+			"key": 88
+		},
+		/*=================================================================================*/
+				  {
+			"vids": [ 
+				{
+					"user": "Cyns",
+					"link": "https://youtu.be/7IgVpaqdAsw",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "MichaelReeves",
+					"link": "https://youtu.be/syfP9lDe8TM",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
+					"user": "jOnel",
+					"link": "https://youtu.be/_XOAfmSY92g",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/N98XLDTX0EM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Nancho",
+					"link": "https://youtu.be/sJlYcSOAbGw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "dezka77",
+					"link": "https://youtu.be/raJhv11ulYw",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "dots",
+					"link": "https://youtu.be/qe465CRw8Gw",
+					"percent": 100,
+				        "hz": "60hz"
+				},
+				{
+					"user": "Baechukimchi",
+					"link": "https://www.youtube.com/watch?v=hb-UXTzNs54&ab_channel=%EC%A7%80%EB%A9%94%ED%95%98%EB%8A%94%EB%B0%B0%EC%B6%94%EA%B9%80%EC%B9%98",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/JhK8jOoWB_Q",
+					"percent": 100,
+				        "hz": "144hz"
+				},
+				{
+				       "user": "LegionofBaum31",
+				       "link": "https://www.youtube.com/watch?v=eN1gF24IUsk",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
+			],
+			"name": "Shitty Team Z",
+			"author": "Kobra456",
+			"more": "none",
+			"id": 63637436,
+			"pass": "Free To Copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=-psODAZHoDM",
 			"key": 89
 		},
 		/*=================================================================================*/
@@ -13244,6 +13256,12 @@ const d = {
 		/*=================================================================================*/
 		{
                         "vids": [
+				{
+					"user": "Dashermachine",
+					"link": "https://youtu.be/3oxjWkRekyA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
                         ],
                         "name": "Shitty Supersonic",
                         "author": "GamerbossPlayz and GD Blast [GamerbossPlayz]",
@@ -14054,6 +14072,12 @@ const d = {
 					"link": "https://youtu.be/zB7jAPs888I",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Spectrum",
+					"link": "https://www.youtube.com/watch?v=PPsLc7HWfw0&feature=youtu.be",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -15634,6 +15658,12 @@ const d = {
 					"link": "https://youtu.be/08N3yGVuBNU",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				 {
+					"user": "Mistik",
+					"link": "https://www.youtube.com/watch?v=Vfq5b1NbiVg",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Zodiac",
@@ -30430,6 +30460,12 @@ const d = {
                                         "link": "https://youtu.be/VgzbhXIqOGw",
                                         "percent": 100,
                                         "hz": "144hz"
+				},
+				{
+					"user": "KingTripod",
+					"link": "https://youtu.be/6GOiTyCn4bU",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Xo Circles",
