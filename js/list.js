@@ -11389,6 +11389,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=hcbdv98Z88s",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -11630,6 +11636,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=LT6QK7nn1NI",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -11732,6 +11744,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=v3zogh0sX0o",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://www.youtube.com/watch?v=nnuybmma8ME",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Explosion",
@@ -13261,6 +13279,18 @@ const d = {
 					"link": "https://youtu.be/3oxjWkRekyA",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Emonadeo",
+					"link": "https://youtu.be/vYH-kJ-WoxE",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/XCqjCCkKMJw",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
                         "name": "Shitty Supersonic",
@@ -16202,6 +16232,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=BrAxBVzaWB4",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/vslhxnAUemo",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
                         "name": "Shitty Heartbeat",
@@ -22531,6 +22567,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+				       "user": "LegionofBaum31",
+				       "link": "https://www.youtube.com/watch?v=7lPhXZlNoBQ",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
+				{
+				       "user": "MP3141",
+				       "link": "https://youtu.be/vHPOLddT4hI",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Hurricane",
 			"author": "Heizen and more [Heizen]",
@@ -27494,6 +27542,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "redracer",
+					"link": "https://youtu.be/51GlzhmdkX8",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
                        "name": "Shitty Doop",
                        "author": "Megum and more [Megum]",
@@ -28226,6 +28280,12 @@ const d = {
                                         "link": "https://youtu.be/AwaiQ-SdFKQ",
                                         "percent": 100,
                                         "hz": "144hz"
+				},
+				{
+					"user": "redracer",
+                                        "link": "https://youtu.be/ia_z2OvE_cE",
+                                        "percent": 100,
+                                        "hz": "288hz"
 				},
 			],
 			"name": "Shitty Killerzone",
