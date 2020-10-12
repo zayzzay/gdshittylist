@@ -13260,7 +13260,7 @@ const d = {
 					"user": "Dashermachine",
 					"link": "https://youtu.be/3oxjWkRekyA",
 					"percent": 100,
-					"hz": "Mobile"
+					"hz": "120hz"
 				},
                         ],
                         "name": "Shitty Supersonic",
