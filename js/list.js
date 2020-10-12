@@ -21704,6 +21704,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
 				},
+				{
+					"user": "Whiteteeth",
+					"link": "https://youtu.be/RAod9kEwXc4?t=4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -26233,7 +26239,7 @@ const d = {
 				       "hz": "300hz"
 			       },
 				{
-				       "user": "Spork"
+				       "user": "Spork",
 				       "link": "https://youtu.be/ajPMItV199E",
 				       "percent": 100,
 				       "hz": "240hz"
