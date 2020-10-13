@@ -24422,6 +24422,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SAOkiritolol",
+					"link": "https://youtu.be/gRmzc1a9oHU",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
