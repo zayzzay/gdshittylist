@@ -4913,6 +4913,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "TheSlammed",
+					"link": "https://youtu.be/0uqU_hz67Tg",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and LLunaa [Serpyy]",
