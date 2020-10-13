@@ -24097,6 +24097,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "HideriGH",
+					"link": "https://youtu.be/kX1GhckwrNc",
+					"percent": 100,
+					"hz": "144hz"
+				},
                           ],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
