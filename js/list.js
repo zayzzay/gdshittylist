@@ -383,6 +383,43 @@ const d = {
                        "key": 2
                 },
 		/*=================================================================================*/
+							{
+                "vids": [
+			 {
+				       "user": "Fulva",
+				       "link": "https://youtu.be/EtGkEOS_jqw",
+				       "percent": 100,
+				       "hz": "288hz"
+		        },
+			{
+				       "user": "MichaelReeves",
+				       "link": "https://www.youtube.com/watch?v=27OPMEe27LM",
+				       "percent": 100,
+				       "hz": "288hz"
+		        },
+			 {
+				       "user": "FrenchFry",
+				       "link": "https://youtu.be/KfTUnV0TeRY",
+				       "percent": 76,
+				       "hz": "240hz"
+			},
+			{
+					"user": "Sazix",
+					"link": "https://www.youtube.com/watch?v=anYsAASkh10&feature=youtu.be",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+                       "name": "Shitty Chromatic Haze",
+                       "author": "Serpyy",
+                       "more": "none",
+                       "id": 64352170,
+                       "pass": "Free to Copy",
+                       "percentToQualify": 61,
+                       "verificationVid": "https://youtu.be/EtGkEOS_jqw",
+                       "key": 3
+                },
+		/*=================================================================================*/
 		{   
 		"vids": [
 				{
@@ -501,43 +538,6 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 64,
                        "verificationVid": "https://www.youtube.com/watch?v=zQbSDp6iWCg",
-                       "key": 3
-                },
-		/*=================================================================================*/
-					{
-                "vids": [
-			 {
-				       "user": "Fulva",
-				       "link": "https://youtu.be/EtGkEOS_jqw",
-				       "percent": 100,
-				       "hz": "288hz"
-		        },
-			{
-				       "user": "MichaelReeves",
-				       "link": "https://www.youtube.com/watch?v=27OPMEe27LM",
-				       "percent": 100,
-				       "hz": "288hz"
-		        },
-			 {
-				       "user": "FrenchFry",
-				       "link": "https://youtu.be/KfTUnV0TeRY",
-				       "percent": 76,
-				       "hz": "240hz"
-			},
-			{
-					"user": "Sazix",
-					"link": "https://www.youtube.com/watch?v=anYsAASkh10&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-			],
-                       "name": "Shitty Chromatic Haze",
-                       "author": "Serpyy",
-                       "more": "none",
-                       "id": 64352170,
-                       "pass": "Free to Copy",
-                       "percentToQualify": 61,
-                       "verificationVid": "https://youtu.be/EtGkEOS_jqw",
                        "key": 4
                 },
 		/*=================================================================================*/
@@ -4575,6 +4575,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/eCN2Phjhy2k",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -6259,6 +6265,12 @@ const d = {
 					"percent": 100,
 				        "hz": "75hz"
 				},
+				{
+					"user": "HopZy",
+					"link": "https://www.youtube.com/watch?v=A4puCjcxzv0&ab_channel=HopZy",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -7024,6 +7036,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "300hz"
 			       },
+				{
+					"user": "isemarcos",
+                                        "link": "https://youtu.be/qL9WzhQtCbc",
+                                        "percent": 99,
+                                        "hz": "288hz"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "Acropolisboy [timckic]",
@@ -22646,6 +22664,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/HVdXc4SpOiM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Hurricane",
 			"author": "Heizen and more [Heizen]",
@@ -25385,6 +25409,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "KingTripod",
+					"link": "https://youtu.be/6GOiTyCn4bU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -27373,6 +27403,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=EjWcTs_wFnM",
 					"percent": 100,
 					"hz": "165hz"
+				},
+				{
+					"user": "Denis Dash",
+					"link": "https://youtu.be/qVCMMlwX9wY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ithacropolis",
