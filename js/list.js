@@ -19976,11 +19976,17 @@ const d = {
 				       "percent": 100,
 				       "hz": "Mobile"
 			       },
-				 {
+			       {
 				       "user": "HopZy",
 				       "link": "https://www.youtube.com/watch?v=pDKdGcXURCg&ab_channel=HopZy",
 				       "percent": 100,
 				       "hz": "120hz"
+			       },
+			       {
+				       "user": "Foxsyatin",
+				       "link": "https://www.youtube.com/watch?v=RtGmeh0r8QU&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "240hz"
 			       },
 			],
 			"name": "Shitty Plasma Pulse",
