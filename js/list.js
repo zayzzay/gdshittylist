@@ -23056,6 +23056,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Steppler008",
+					"link": "https://youtu.be/g78o7QAWMH0",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Ballin",
 			"author": "Aassbll",
