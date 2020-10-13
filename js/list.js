@@ -23177,6 +23177,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/GzOthEyrMkk",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Down Bass",
 			"author": "Lupe1204 [Surpl3x]",
