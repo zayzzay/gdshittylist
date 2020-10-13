@@ -8976,11 +8976,17 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
-				{
+			       {
 				       "user": "Es25000",
 				       "link": "https://youtu.be/3mtIuj2gRTg",
 				       "percent": 97,
 				       "hz": "60hz"
+			       },
+			       {
+				       "user": "QuickFizz",
+				       "link": "https://youtu.be/KJQSsY2AZkg",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
 			],
 			"name": "Shitty Cognition",
