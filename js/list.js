@@ -368,8 +368,8 @@ const d = {
 				},
 				{
 					"user": "HugoHMF",
-					"link": "https://www.youtube.com/watch?v=yQYNYeHajbE",
-					"percent": 58,
+					"link": "https://www.youtube.com/watch?v=lWdnqgLkV2o&feature=youtu.be",
+					"percent": 100,
 					"hz": "144hz"
 				},
 			],
