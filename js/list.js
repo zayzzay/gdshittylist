@@ -25444,6 +25444,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			      },
+			       {
+				       "user": "HopZy",
+				       "link": "https://www.youtube.com/watch?v=J2SoiCzSbMY&ab_channel=HopZy",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
 		       ],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
