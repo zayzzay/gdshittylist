@@ -26256,6 +26256,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Nebula",
+					"link": "https://www.youtube.com/watch?v=GXmHEFTck28&t=72s",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
