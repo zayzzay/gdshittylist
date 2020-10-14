@@ -9784,6 +9784,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "SlimmeFelix",
+					"link": "https://youtu.be/M2G9cteDeEI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Glide",
 			"author": "Aassbll",
