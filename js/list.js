@@ -6072,6 +6072,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Snoweylol",
+					"link": "https://www.youtube.com/watch?v=_rgdy8pzjAo",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Deimos",
 			"author": "oSpace",
