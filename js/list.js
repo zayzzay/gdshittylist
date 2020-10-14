@@ -22823,6 +22823,7 @@ const d = {
 					"link": "https://youtu.be/d58Kbkjr8D0s",
 					"percent": 100,
 					"hz": "Mobile"
+				},
 				{
 					"user": "Ketrick",
 					"link": "https://www.youtube.com/watch?v=JSisPGg0bss",
