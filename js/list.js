@@ -4973,6 +4973,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "LAze",
+					"link": "https://youtu.be/OWrO_JYqLnA",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and LLunaa [Serpyy]",
