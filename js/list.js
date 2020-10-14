@@ -16407,7 +16407,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "Partyt,
+					"user": "Partyt",
 					"link": "https://www.youtube.com/watch?v=4gDeBJuDo0I",
 					"percent": 100,
 					"hz": "Mobile"
@@ -18764,7 +18764,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "Partyt,
+					"user": "Partyt",
 					"link": "https://www.youtube.com/watch?v=jCQS133lyMA",
 					"percent": 100,
 					"hz": "Mobile"
