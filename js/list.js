@@ -2342,8 +2342,8 @@ const d = {
 			       },
 				{
 					"user": "Shay",
-					"link": "https://youtu.be/omrxhy24DWY",
-					"percent": 60,
+					"link": "https://youtu.be/Hn6Uq_TdVkc",
+					"percent": 100,
 					"hz": "60hz"
 				},
 				{
