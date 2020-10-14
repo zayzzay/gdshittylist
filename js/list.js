@@ -9760,6 +9760,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				 {
+				       "user": "Foxsyatin",
+				       "link": "https://www.youtube.com/watch?v=m9kvaeDaQ-s&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
 			],
 			"name": "Shitty Glide",
 			"author": "Aassbll",
@@ -20566,6 +20572,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "TheSlammed",
+					"link": "https://youtu.be/DaJxRMGeeFI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty QFP",
 			"author": "Dashermachine and more [Dashermachine]",
@@ -21968,6 +21980,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Goodyman",
+					"link": "https://www.youtube.com/watch?v=VHw6f1tj5Fs&feature=youtu.be",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Civic",
 			"author": "wshedd",
@@ -22805,12 +22823,17 @@ const d = {
 					"link": "https://youtu.be/d58Kbkjr8D0s",
 					"percent": 100,
 					"hz": "Mobile"
-				},
 				{
 					"user": "Ketrick",
 					"link": "https://www.youtube.com/watch?v=JSisPGg0bss",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "blessed",
+					"link": "https://www.youtube.com/watch?v=hr3kInU8gGY",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Thirteen",
@@ -23453,6 +23476,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+				       "user": "waterrr",
+				       "link": "https://www.youtube.com/watch?v=8KnWc8JzmBE",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
 			],
 			"name": "Shitty Down Bass",
 			"author": "Lupe1204 [Surpl3x]",
@@ -25733,6 +25762,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "CoolCodin",
+					"link": "https://youtu.be/HJld8f10r4E",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+				       "user": "waterrr",
+				       "link": "https://youtu.be/db2X4HFiSas",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -26971,6 +27012,18 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "ty47h",
+                                        "link": "https://youtu.be/vno0vqdacRM",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
+				{
+					"user": "MrScatman7",
+                                        "link": "https://youtu.be/8aNoD2xvqJ4",
+                                        "percent": 100,
+                                        "hz": "60hz"
+				},
 			],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -27740,6 +27793,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+					"user": "ty47h",
+                                        "link": "https://youtu.be/elFqeYz_PDk",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -31025,6 +31084,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=7zjQoUuDj3o",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+				{
+				       "user": "waterrr",
+				       "link": "https://www.youtube.com/watch?v=fKWvhcEHGNM",
+				       "percent": 100,
+				       "hz": "300hz"
 			       },
 			],
 			"name": "Shitty Xo Circles",
