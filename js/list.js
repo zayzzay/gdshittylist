@@ -25805,6 +25805,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "300hz"
 			       },
+				{
+					"user": "Nebula",
+					"link": "https://youtu.be/-YN6sXVTUNY",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
