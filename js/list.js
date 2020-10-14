@@ -13267,6 +13267,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=gIo5iUc9pqY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Penombre",
 			"author": "Miini03",
