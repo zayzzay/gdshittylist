@@ -16498,6 +16498,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "120hz"
 			       },
+				{
+					"user": "SlimmeFelix",
+					"link": "https://youtu.be/Ua9g8AvtrwM",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
                         "name": "Shitty Heartbeat",
                         "author": "MightGD",
