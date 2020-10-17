@@ -4701,6 +4701,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "DerflaX",
+					"link": "https://www.youtube.com/watch?v=vadz4qtLuqI",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Aquatic Auroras",
 			"author": "Aassbll [PotatoManPlays]",
@@ -5050,6 +5056,12 @@ const d = {
 					"link": "https://youtu.be/OWrO_JYqLnA",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "DerflaX",
+					"link": "https://www.youtube.com/watch?v=vadz4qtLuqI",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Arctic Lights",
@@ -6421,6 +6433,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "DerflaX",
+					"link": "https://www.youtube.com/watch?v=vadz4qtLuqI",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -6843,6 +6861,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "DerflaX",
+					"link": "https://www.youtube.com/watch?v=vadz4qtLuqI",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Macabre",
 			"author": "oSpace and more [Serpyy]",
@@ -7221,6 +7245,12 @@ const d = {
 					"link": "https://youtu.be/h1cGtw4c2WA",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "DerflaX",
+					"link": "https://www.youtube.com/watch?v=vadz4qtLuqI",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Sonic Wave",
@@ -7656,6 +7686,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=qv3HvSQp0-M",
 					"percent": 74,
 				        "hz": "60hz"
+				},
+				{
+					"user": "DerflaX",
+					"link": "https://www.youtube.com/watch?v=vadz4qtLuqI",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Calculator Core",
@@ -12322,6 +12358,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=6TnuU9j9frY&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "DerflaX",
+					"link": "https://www.youtube.com/watch?v=vadz4qtLuqI",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Tenth Circle",
@@ -28328,6 +28370,18 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "Kubzzonkk",
+					"link": "https://www.youtube.com/watch?v=QI5AC8xOB4E",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "L1GHTNING",
+					"link": "https://youtu.be/PfwEmUMOjgo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -28622,6 +28676,12 @@ const d = {
 					"link": "https://youtu.be/ea0WwI6gcjA",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "L1GHTNING",
+					"link": "https://youtu.be/nyKwxKwwlxk",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
                        "name": "Shitty Doop",
