@@ -426,6 +426,12 @@ const d = {
 					"link": "https://youtu.be/0-0CDzJwTCc",
 					"percent": 100,
 					"hz": "240hz"
+			},
+			{
+					"user": "Lelzi",
+					"link": "https://youtu.be/VanhU21WZn4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
                        "name": "Shitty Chromatic Haze",
@@ -2890,6 +2896,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "120hz"
 			       },
+				{
+					"user": "Serenix",
+					"link": "https://www.youtube.com/watch?v=Zxq_t2ioYYc",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty WOW",
 			"author": "oSpace [LJosh]",
@@ -12135,6 +12147,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "GemzL",
+					"link": "https://youtu.be/vPyY3JGCd4g",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -20267,7 +20285,26 @@ const d = {
 			"key": 121
 		},
 		/*=================================================================================*/
-			{
+		{
+                        "vids": [
+				{
+					"user": "Cyns",
+					"link": "https://www.youtube.com/watch?v=GmYmmBhFUks",
+					"percent": 100,
+					"hz": "288hz"
+				},
+			],
+			"name": "Shitty Lunatic Doom Machine",
+			"author": "HideriGH",
+			"more": "none",
+			"id": 64517155,
+			"pass": "Free to copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=zpfHkgHNeUs",
+			"key": 122
+		},
+		/*=================================================================================*/
+		{
                         "vids": [
 				{
 					"user": "jOnel",
@@ -20367,7 +20404,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/O7VnoMgO710",
-			"key": 122
+			"key": 123
 		},
 		/*=================================================================================*/
 				{
@@ -20690,6 +20727,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "dezka77",
+					"link": "https://youtu.be/3rDB11rwXL4",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
@@ -20698,7 +20741,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=s-MQYRZdPQw",
-			"key": 123
+			"key": 124
 		},
 		/*=================================================================================*/
 				{
@@ -21023,7 +21066,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=w_UX8sAnXkE",
-			"key": 124
+			"key": 125
 		},
 		/*=================================================================================*/
 				{
@@ -21072,7 +21115,7 @@ const d = {
 			"pass": "Free to Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/A36KaX9KWH8",
-			"key": 125
+			"key": 126
 		},
 		/*=================================================================================*/
 		{
@@ -21703,7 +21746,7 @@ const d = {
                         "pass": "444446",
                         "percentToQualify": 100,
                         "verificationVid": "https://www.youtube.com/watch?v=LeykUbA7N5Y&t=44s",
-                        "key": 126
+                        "key": 127
                 }, 
 		/*=================================================================================*/
 		 {
@@ -21812,7 +21855,7 @@ const d = {
                         "pass": "Free to Copy",
                         "percentToQualify": 100,
                         "verificationVid": "https://www.youtube.com/watch?v=R5xWaIyZR-c",
-                        "key": 127
+                        "key": 128
                 }, 
 		/*=================================================================================*/
 		{
@@ -22011,7 +22054,7 @@ const d = {
                         "pass": "Free to copy",
                         "percentToQualify": 100,
                         "verificationVid": "https://www.youtube.com/watch?v=0wzYbY7pyxA",
-                        "key": 128
+                        "key": 129
                 }, 
 		/*=================================================================================*/
 		{
@@ -22389,7 +22432,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=q-P4ybSLZP4",
-			"key": 129
+			"key": 130
 		},
 		/*=================================================================================*/
 		{
@@ -22504,7 +22547,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=Ul_BAPh9S5U&feature=youtu.be",
-			"key": 130
+			"key": 131
 		},
 		/*=================================================================================*/
 		{
@@ -22775,7 +22818,7 @@ const d = {
 			"pass": "167349",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=bUz7ePRVGAk",
-			"key": 131
+			"key": 132
 		},
 		/*=================================================================================*/
 		{
@@ -23046,7 +23089,7 @@ const d = {
 			"pass": "042019",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=6JYh8vNm-EA",
-			"key": 132
+			"key": 133
 		},
 		/*=================================================================================*/
 				{
@@ -23243,6 +23286,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "blessed",
+					"link": "https://www.youtube.com/watch?v=DIxLj8SkJIE&t=39s",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Necropolis",
 			"author": "Tai0",
@@ -23251,7 +23300,7 @@ const d = {
 			"pass": "Free to Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/ctx2OcgyDO4",
-			"key": 133
+			"key": 134
 		},
 		/*=================================================================================*/
 		{
@@ -23378,7 +23427,7 @@ const d = {
 			"pass": "693396",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=lhF-jich2ro",
-			"key": 134
+			"key": 135
 		},
 		/*=================================================================================*/
 				{
@@ -23463,7 +23512,7 @@ const d = {
 			"pass": "258036",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/Fg0yIUdcNXk",
-			"key": 135
+			"key": 136
 		},
 		/*=================================================================================*/
 		{
@@ -23506,7 +23555,7 @@ const d = {
 			"pass": "664455",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/HIaf6p3oWGo",
-			"key": 136
+			"key": 137
 		},
 		/*=================================================================================*/
 				{
@@ -23687,7 +23736,7 @@ const d = {
 			"pass": "121221",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=GjNQW7N4Br8",
-			"key": 137
+			"key": 138
 		},
 		/*=================================================================================*/
 						{
@@ -24150,7 +24199,7 @@ const d = {
 			"pass": "694201",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=wqSDcRO4BCQ",
-			"key": 138
+			"key": 139
 		},
 		/*=================================================================================*/
 				{
@@ -24373,7 +24422,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=6_jgsOMW0Aw",
-			"key": 139
+			"key": 140
 		},
 		/*=================================================================================*/
 		{
@@ -24518,7 +24567,7 @@ const d = {
 			"pass": "001204",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/HkPT6Mh1B2k",
-			"key": 140
+			"key": 141
 		},
 		/*=================================================================================*/
 		{
@@ -25155,7 +25204,7 @@ const d = {
 			"pass": "243759",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=YkGrbj0vucY",
-			"key": 141
+			"key": 142
 		},
 		/*=================================================================================*/
 				{
@@ -25954,7 +26003,7 @@ const d = {
 			"pass": "101825",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=QBky9dJEi-M",
-			"key": 142
+			"key": 143
 		},
 		/*=================================================================================*/
 				{
@@ -26235,6 +26284,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+				       "user": "Great",
+				       "link": "https://www.youtube.com/watch?v=FlUK_VjQJ2c",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                           ],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
@@ -26243,7 +26298,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=Rnk_S2Ef-EM",
-			"key": 143
+			"key": 144
 		},
 		/*=====================================================c============================*/
 						{
@@ -26706,7 +26761,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/qLvxTjKJqaU",
-			"key": 144
+			"key": 145
 		},
 		/*=================================================================================*/
 				{
@@ -27529,7 +27584,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=lDiqYSya0NA",
-			"key": 145
+			"key": 146
 		},
 		/*=================================================================================*/
 		{
@@ -27890,7 +27945,7 @@ const d = {
 			"pass": "200819",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=xmOPCe4tmwk",
-			"key": 146
+			"key": 147
 		},
 		/*=================================================================================*/
 		{
@@ -28147,6 +28202,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+			       {
+					"user": "Bacon",
+					"link": "https://www.youtube.com/watch?v=6xR5JYY30eU",
+					"percent": 100,
+					"hz": "288hz"
+				},
 		       ],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
@@ -28155,7 +28216,7 @@ const d = {
 			"pass": "023689",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=g-NAgrh8XXI",
-			"key": 147
+			"key": 148
 		},
 		/*=================================================================================*/
 				{
@@ -28552,7 +28613,7 @@ const d = {
 			"pass": "314253",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=4Mtef2_U8yU",
-			"key": 148
+			"key": 149
 		},
 		/*=====================================================c============================*/
 				   {
@@ -28871,7 +28932,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=16w6BhgEBHs",
-                       "key": 149
+                       "legacykey": 0
                 },
 		/*================================================================================= */
 		{
