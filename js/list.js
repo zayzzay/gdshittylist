@@ -2460,6 +2460,31 @@ const d = {
 			"key": 21
 		},
 		/*=================================================================================*/
+				{
+			"vids": [
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=k_Jo9lWQxxs&t=888s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+				{
+				       "user": "MP3141",
+				       "link": "https://youtu.be/Uqq24hm9UHU",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			],
+			"name": "Shitty Shock Breaker",
+			"author": "Rimexon and more [LLunaa]",
+			"more": "Hilzi, Williams8080, NourTheKing, Serpyy, Heizen, Сталин, Acidius",
+			"id": 64346675,
+			"pass": "147258",
+			"percentToQualify": 59,
+			"verificationVid": "https://www.youtube.com/watch?v=a1AMbO1DVco",
+			"key": 22
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
  				{
@@ -2626,7 +2651,7 @@ const d = {
 			"pass": "100006",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=RPDmLNJBpMc",
-			"key": 22
+			"key": 23
 		},
 		/*=================================================================================*/
 		{
@@ -2873,7 +2898,7 @@ const d = {
 			"pass": "789123",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=xGBfvrRvIbU",
-			"key": 23
+			"key": 24
 		},
 		/*=================================================================================*/
 		{
@@ -3234,7 +3259,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=Wc_Jj3oWXL0",
-			"key": 24
+			"key": 25
 		},
 		/*=================================================================================*/
 		{
@@ -3325,7 +3350,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 55,
 			"verificationVid": "https://www.youtube.com/watch?v=BxGRk9-unw8",
-			"key": 25
+			"key": 26
 		},
 		/*=================================================================================*/
 		{
@@ -3428,7 +3453,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=djwY15f51dE",
-			"key": 26
+			"key": 27
 		},
 		/*=================================================================================*/
 		{
@@ -3633,31 +3658,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=CEO9I6Xr7EE",
-			"key": 27
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-				       "user": "Ryclix",
-				       "link": "https://www.youtube.com/watch?v=k_Jo9lWQxxs&t=888s",
-				       "percent": 100,
-				       "hz": "288hz"
-			       },
-				{
-				       "user": "MP3141",
-				       "link": "https://youtu.be/Uqq24hm9UHU",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			],
-			"name": "Shitty Shock Breaker",
-			"author": "Rimexon and more [LLunaa]",
-			"more": "Hilzi, Williams8080, NourTheKing, Serpyy, Heizen, Сталин, Acidius",
-			"id": 64346675,
-			"pass": "147258",
-			"percentToQualify": 59,
-			"verificationVid": "https://www.youtube.com/watch?v=a1AMbO1DVco",
 			"key": 28
 		},
 		/*=================================================================================*/
@@ -16676,6 +16676,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=DOzl_a3CWw4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
@@ -21990,6 +21996,12 @@ const d = {
 					"link": "https://youtu.be/IUnD5WaQuoI",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=DOzl_a3CWw4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
                         "name": "Shitty Ethereal Artifice",
@@ -27864,6 +27876,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+				       "user": "Great",
+				       "link": "https://www.youtube.com/watch?v=s4qqAZ11XuE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
@@ -28123,6 +28141,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+			       {
+				       "user": "Great",
+				       "link": "https://www.youtube.com/watch?v=Qxtd_-a2_TE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 		       ],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
@@ -28514,6 +28538,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Bacon",
+					"link": "https://www.youtube.com/watch?v=eOKsoDSVNYQ",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Magma Bound",
 			"author": "ShadowNinja441 and more [GDStarStorm]",
@@ -28826,6 +28856,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=9rcZFzjdYHc",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Bacon",
+					"link": "https://www.youtube.com/watch?v=O7tpq6gKL5E",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
                        "name": "Shitty Doop",
