@@ -1592,8 +1592,8 @@ const d = {
 			       },
 				{
 					"user": "Serenix",
-					"link": "https://www.youtube.com/watch?v=6QbnOlgBrcs",
-					"percent": 82,
+					"link": "https://www.youtube.com/watch?v=fsaw8PQDAK4",
+					"percent": 100,
 					"hz": "120hz"
 				},
 			],
@@ -6548,6 +6548,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Ghost Viridian",
+					"link": "https://youtu.be/IGoNmMt0fJQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -11387,6 +11393,12 @@ const d = {
 				{
 					"user": "BlueStone",
 					"link": "https://youtu.be/MDULxXbefZY",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "aurora",
+					"link": "https://youtu.be/L_FjdnEA0JQ",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -20469,6 +20481,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "aurora",
+					"link": "https://youtu.be/L_FjdnEA0JQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Lunatic Doom Machine",
 			"author": "HideriGH",
@@ -21920,6 +21938,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "CrokyWi",
+					"link": "https://youtu.be/zs5e0v3EZlc",
+					"percent": 100,
+					"hz": "144hz",
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -23946,6 +23970,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "fakeiwnl",
+					"link": "https://www.youtube.com/watch?v=y_-hVdQZp4Y&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -25444,6 +25474,18 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Rayaleg8",
+					"link": "https://www.youtube.com/watch?v=VG3hWJjeGms&ab_channel=Rayaleg8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Robaleg9",
+					"link": "https://www.youtube.com/watch?v=TmEF-3y7D7o&ab_channel=Robaleg9",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -26254,6 +26296,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=0uiKL5jtlI0",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "lil_derpyz",
+					"link": "https://youtu.be/2QuEXutTON8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ithacropolis",
@@ -28948,6 +28996,12 @@ const d = {
 					"link": "https://youtu.be/yRtO8DNoftY",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Robaleg9",
+					"link": "https://www.youtube.com/watch?v=co0zolZ1NNo&feature=share&ab_channel=Robaleg9",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Magma Bound",
