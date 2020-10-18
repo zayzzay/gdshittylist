@@ -384,6 +384,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "FigTheCat",
+					"link": "https://youtu.be/GMZIG4oqF6Q",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
                        "name": "Shitty Plasma Pulse Finale",
                        "author": "Acidius and Aassbll [Acidius]",
@@ -3506,6 +3512,18 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/hfx3cG0e6bs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Velorum",
+					"link": "https://youtu.be/V9eFrT-IZ20",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Athanatos",
 			"author": "Lupe1204 and more [MP3141]",
@@ -4773,6 +4791,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=vadz4qtLuqI",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "GemzL",
+					"link": "https://youtu.be/LDSKkDCq4N4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Aquatic Auroras",
@@ -7924,6 +7948,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "LLunaa",
+					"link": "https://youtu.be/R3YSAkZnaw4",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty The Secret Box",
 			"author": "jOnel",
@@ -9434,6 +9464,12 @@ const d = {
 					"link": "https://youtu.be/O4rf3IIV2O0",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Emonadeo",
+					"link": "https://youtu.be/5bOcONE5BDU",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -20873,6 +20909,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "blessed",
+					"link": "https://youtu.be/qcc2_5xIsC8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty SPL",
 			"author": "Serpyy",
@@ -25396,6 +25438,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Bacon",
+					"link": "https://www.youtube.com/watch?v=7UPhvKno7do",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -26200,6 +26248,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=IqrnSNGtpzk",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Bacon",
+					"link": "https://www.youtube.com/watch?v=0uiKL5jtlI0",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Ithacropolis",
@@ -28882,6 +28936,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=uj6YKRrrwc4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Rayaleg8",
+					"link": "https://www.youtube.com/watch?v=lW1L0-yw6vc&ab_channel=Rayaleg8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Emonadeo",
+					"link": "https://youtu.be/yRtO8DNoftY",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Magma Bound",
