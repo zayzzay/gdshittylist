@@ -20971,7 +20971,7 @@ const d = {
 					"hz": "Mobile"
 				},
 			],
-			"name": "Shitty SPL",
+			"name": "Shitty Super Probably Level",
 			"author": "Serpyy",
 			"more": "none",
 			"id": 56489174,
