@@ -3556,7 +3556,7 @@ const d = {
 				},
 				{
     					"user": "Kobra456",
-    					"link": "https://www.youtube.com/watch?v=EqHi7512wvc&t=429s",
+    					"link": "https://www.youtube.com/watch?v=EqHi7512wvc",
     					"percent": 100,
     					"hz": "144hz"
 				},
