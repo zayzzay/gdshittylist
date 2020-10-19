@@ -3542,6 +3542,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+  					"user": "BlueStone",
+ 				  	"link": "https://youtu.be/uifGmuDJc1U",
+				        "percent": 100,
+   				 	"hz": "240hz"
+				},
 			],
 			"name": "Shitty Athanatos",
 			"author": "Lupe1204 and more [MP3141]",
