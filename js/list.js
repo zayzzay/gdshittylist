@@ -24874,6 +24874,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "L1GHTNING",
+					"link": "https://youtu.be/_7tqUElSF7E",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Down Bass",
 			"author": "Lupe1204 [Surpl3x]",
@@ -27963,6 +27969,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "L1GHTNING",
+					"link": "https://youtu.be/rYoPtb39p7M",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sakupen Hell",
 			"author": "AcropolisBoy [timckic]",
@@ -28342,6 +28354,13 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				},
+								{
+					"user": "redracer",
+					"link": "https://youtu.be/c74ccMzJ16Y",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
@@ -28619,7 +28638,13 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
 				},
-		       ],
+		       		{
+					"user": "redracer",
+                                        "link": "https://youtu.be/bUz5Ysfc-yA",
+                                        "percent": 100,
+                                        "hz": "288hz"
+				},
+		        ],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
 			"more": "none",
@@ -29051,6 +29076,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=co0zolZ1NNo&feature=share&ab_channel=Robaleg9",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "FrenchFry",
+					"link": "https://youtu.be/mniPM0bOr0o",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Magma Bound",
