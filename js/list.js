@@ -1645,6 +1645,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Matter",
+					"link": "https://youtu.be/d5PjI9Ic9_U",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Conical Depression",
 			"author": "Kuiper1 and MP3141 [Kuiper1]",
@@ -3741,6 +3747,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Matter",
+					"link": "https://youtu.be/d5PjI9Ic9_U",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Eternal Moment",
 			"author": "Miini03",
@@ -3990,6 +4002,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Matter",
+					"link": "https://youtu.be/d5PjI9Ic9_U?t=181",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/VmwMtbGtENk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse III",
 			"author": "wshedd",
@@ -5445,6 +5469,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Matter",
+					"link": "https://youtu.be/d5PjI9Ic9_U?t=267",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Occult Outcry",
 			"author": "Cyns and LLunaa [Cyns]",
@@ -6163,6 +6193,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+					"user": "Matter",
+					"link": "https://youtu.be/d5PjI9Ic9_U?t=90",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Tartarus",
 			"author": "AcropolisBoy [Darkys]",
