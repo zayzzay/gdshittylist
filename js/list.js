@@ -24868,6 +24868,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Syndicate",
+					"link": "https://youtu.be/TMk3mj0vd48",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Down Bass",
 			"author": "Lupe1204 [Surpl3x]",
@@ -28329,6 +28335,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=jq8W3UVGzPw",
 					"percent": 100,
 					"hz": "288hz"
+				},
+								{
+					"user": "L1GHTNING",
+					"link": "https://youtu.be/NiUh0Qn42f4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Wavebreaker",
