@@ -28355,7 +28355,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-								{
 					"user": "redracer",
 					"link": "https://youtu.be/c74ccMzJ16Y",
 					"percent": 100,
