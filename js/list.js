@@ -3991,7 +3991,7 @@ const d = {
 		{
 			"vids": [
 			],
-			"name": "Shitty PP III",
+			"name": "Shitty Plasma Pulse III",
 			"author": "wshedd",
 			"more": "none",
 			"id": 63414175,
@@ -8925,7 +8925,7 @@ const d = {
 					"hz": "144hz"
 				},
 			],
-			"name": "Shitty PP II",
+			"name": "Shitty Plasma Pulse II",
 			"author": "Jah and Coney [Jah]",
 			"more": "none",
 			"id": 63697818,
@@ -11373,7 +11373,7 @@ const d = {
 				       "hz": "120hz"
 			       },
 			],
-			"name": "Shitty PV II",
+			"name": "Shitty Photovoltaic II",
 			"author": "Serpyy and more [Serpyy]",
 			"more": "Keleru, Segone",
 			"id": 61345238,
@@ -21345,7 +21345,7 @@ const d = {
 					"hz": "144hz"
 				},
 			],
-			"name": "Shitty QFP",
+			"name": "Shitty Quest for Perfection",
 			"author": "Dashermachine and more [Dashermachine]",
 			"more": "TheRealYeeter, MP3141",
 			"id": 63162388,
