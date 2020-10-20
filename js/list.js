@@ -6898,6 +6898,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "NovaIsTaken",
+					"link": "https://youtu.be/5alpR_OOmqw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -13798,6 +13804,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/EWtJU_L7MuQ?t=15",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Team Z",
 			"author": "Kobra456",
@@ -13930,6 +13942,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=jrbii4JqdqE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ItsHyper37",
+					"link": "https://www.youtube.com/watch?v=jrbii4JqdqE",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty The Hell Field",
@@ -14356,6 +14374,12 @@ const d = {
 				{
 					"user": "zBeam",
 					"link": "https://youtu.be/tUUU76V5qwM",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "aurora",
+					"link": "https://youtu.be/4UOq-7Coy1c",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -15224,6 +15248,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=PPsLc7HWfw0&feature=youtu.be",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "HzAlula",
+					"link": "https://youtu.be/2uSFmdCwv_s",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -20611,6 +20641,12 @@ const d = {
 				{
 					"user": "aurora",
 					"link": "https://youtu.be/L_FjdnEA0JQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Fhyron06",
+					"link": "https://www.youtube.com/watch?v=soIT0CrYUhM",
 					"percent": 100,
 					"hz": "240hz"
 				},
@@ -26484,6 +26520,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+				{
+					"user": "HzAlula",
+                                        "link": "https://www.youtube.com/watch?v=VMWBMBT1_do",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -28118,6 +28160,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=mU-bPClcoCk",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Valentino070406",
+					"link": "https://youtu.be/sLzyM-W6tSA",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sakupen Hell",
