@@ -5420,6 +5420,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "LunarSpark",
+					"link": "https://youtu.be/cS0sc-TR4QQ",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Prismatic Haze",
 			"author": "Bluuper",
