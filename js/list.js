@@ -3547,6 +3547,12 @@ const d = {
     					"percent": 100,
     					"hz": "144hz"
 				},
+				{
+					"user": "MichaelReeves",
+					"link": "https://www.youtube.com/watch?v=tRmLcONOKFs",
+					"percent": 100,
+					"hz": "288hz"
+				},
 
 			],
 			"name": "Shitty Athanatos",
@@ -7754,6 +7760,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Acidius",
+					"link": "https://www.youtube.com/watch?v=VOSwgeqvDXY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Glacial Core",
 			"author": "AcropolisBoy [rxmmybtw]",
@@ -11540,6 +11552,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=dxubuerNAtA",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "MichaelReeves",
+					"link": "https://www.youtube.com/watch?v=tRmLcONOKFs",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty El Dorado",
@@ -20691,6 +20709,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=soIT0CrYUhM",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "MichaelReeves",
+					"link": "https://www.youtube.com/watch?v=tRmLcONOKFs",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Lunatic Doom Machine",
