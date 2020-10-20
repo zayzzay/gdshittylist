@@ -1247,7 +1247,7 @@ const d = {
 			"key": 8
 		},
 		/*=================================================================================*/
-				{
+	        {
 		"vids": [
 				{
 					"user": "Lawnmower",
@@ -1300,6 +1300,12 @@ const d = {
 			       {
 				       "user": "Kapinapi",
 				       "link": "https://www.youtube.com/watch?v=Hs9QOerNPJc&t=974",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Lelzi",
+				       "link": "https://youtu.be/KxPH6yRcC6s",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
