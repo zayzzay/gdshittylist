@@ -8608,6 +8608,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
+				{
+					"user": "fakeiwnl",
+					"link": "https://www.youtube.com/watch?v=NFNSWGiibUI&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty 2 1 1 ",
 			"author": "Acidius",
