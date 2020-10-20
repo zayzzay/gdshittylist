@@ -28510,6 +28510,13 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				},
+								{
+					"user": "lil_derpzy",
+					"link": "https://youtu.be/y7y4BjjD86Y",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Wavebreaker",
 			"author": "SoyNadie and more [SoyNadie]",
@@ -28793,7 +28800,13 @@ const d = {
                                         "percent": 100,
                                         "hz": "288hz"
 				},
-		        ],
+		        	{
+					"user": "FrenchFry",
+                                        "link": "https://youtu.be/j0lS3_NV-kc",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
+		       ],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
 			"more": "none",
