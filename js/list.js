@@ -28510,8 +28510,7 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
-				},
-								{
+				{
 					"user": "lil_derpzy",
 					"link": "https://youtu.be/y7y4BjjD86Y",
 					"percent": 100,
