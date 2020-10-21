@@ -18607,19 +18607,6 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-                        "vids": [
-                        ],
-                        "name": "Shitty Windy Landscape",
-                        "author": "SmallDaniPlay",
-                        "more": "none",
-                        "id": 64328222,
-                        "pass": "011020",
-                        "percentToQualify": 100,
-                        "verificationVid": "https://youtu.be/0QKou-MK6PA",
-                        "key": 115
-                },
-		/*=================================================================================*/
-		{
 		       "vids": [
 			       {
 				       "user": "MP3141",
@@ -18689,7 +18676,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/8ISvmm1_JJ8",
-			"key": 116
+			"key": 115
 		},
 		/*=================================================================================*/
 				{
@@ -18984,7 +18971,7 @@ const d = {
 			"pass": "150620",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/TwBHuCPo6DA",
-			"key": 117
+			"key": 116
 		},
 		/*=================================================================================*/
 				{
@@ -19063,7 +19050,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/r0eKur5JZGk",
-			"key": 118
+			"key": 117
 		},
 		/*=================================================================================*/
 		{
@@ -19604,7 +19591,7 @@ const d = {
 			"pass": "195563",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=prOytV0MGAQ",
-			"key": 119
+			"key": 118
 		},
 		/*=================================================================================*/
 		{
@@ -19917,7 +19904,7 @@ const d = {
 			"pass": "090319",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=irwPkK6x9Mg",
-			"key": 120
+			"key": 119
 		},
 		/*=================================================================================*/
 		{
@@ -19990,7 +19977,7 @@ const d = {
 			"pass": "Free to Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/QOd7yQAztoE",
-			"key": 121
+			"key": 120
 		},
 		/*=================================================================================*/
 		{
@@ -20333,7 +20320,7 @@ const d = {
 			"pass": "135086",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=mBa4Q1PFzN4",
-			"key": 122
+			"key": 121
 		},
 		/*=================================================================================*/
 		{
@@ -20490,7 +20477,7 @@ const d = {
 			"pass": "Not copyable",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=qP0v6diamBM",
-			"key": 123
+			"key": 122
 		},
 		/*=================================================================================*/
 		{
@@ -20749,7 +20736,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=xfNYS-XFZ1Y",
-			"key": 124
+			"key": 123
 		},
 		/*=================================================================================*/
 		{
@@ -20810,7 +20797,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=zpfHkgHNeUs",
-			"key": 125
+			"key": 124
 		},
 		/*=================================================================================*/
 		{
@@ -20913,7 +20900,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/O7VnoMgO710",
-			"key": 126
+			"key": 125
 		},
 		/*=================================================================================*/
 				{
@@ -21262,7 +21249,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=s-MQYRZdPQw",
-			"key": 127
+			"key": 126
 		},
 		/*=================================================================================*/
 				{
@@ -21593,7 +21580,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=w_UX8sAnXkE",
-			"key": 128
+			"key": 127
 		},
 		/*=================================================================================*/
 				{
@@ -21642,7 +21629,7 @@ const d = {
 			"pass": "Free to Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/A36KaX9KWH8",
-			"key": 129
+			"key": 128
 		},
 		/*=================================================================================*/
 		{
@@ -22279,7 +22266,7 @@ const d = {
                         "pass": "444446",
                         "percentToQualify": 100,
                         "verificationVid": "https://www.youtube.com/watch?v=LeykUbA7N5Y&t=44s",
-                        "key": 130
+                        "key": 129
                 }, 
 		/*=================================================================================*/
 		 {
@@ -22400,7 +22387,7 @@ const d = {
                         "pass": "Free to Copy",
                         "percentToQualify": 100,
                         "verificationVid": "https://www.youtube.com/watch?v=R5xWaIyZR-c",
-                        "key": 131
+                        "key": 130
                 }, 
 		/*=================================================================================*/
 		{
@@ -22599,7 +22586,7 @@ const d = {
                         "pass": "Free to copy",
                         "percentToQualify": 100,
                         "verificationVid": "https://www.youtube.com/watch?v=0wzYbY7pyxA",
-                        "key": 132
+                        "key": 131
                 }, 
 		/*=================================================================================*/
 		{
@@ -22983,7 +22970,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=q-P4ybSLZP4",
-			"key": 133
+			"key": 132
 		},
 		/*=================================================================================*/
 				{
@@ -23032,7 +23019,7 @@ const d = {
 			"pass": "664455",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/HIaf6p3oWGo",
-			"key": 134
+			"key": 133
 		},
 		/*=================================================================================*/
 		{
@@ -23147,8 +23134,21 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=Ul_BAPh9S5U&feature=youtu.be",
-			"key": 135
+			"key": 134
 		},
+		/*=================================================================================*/
+		{
+                        "vids": [
+                        ],
+                        "name": "Shitty Windy Landscape",
+                        "author": "SmallDaniPlay",
+                        "more": "none",
+                        "id": 64328222,
+                        "pass": "011020",
+                        "percentToQualify": 100,
+                        "verificationVid": "https://youtu.be/0QKou-MK6PA",
+                        "key": 135
+                },
 		/*=================================================================================*/
 		{
 			"vids": [
