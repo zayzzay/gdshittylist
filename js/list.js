@@ -7518,6 +7518,12 @@ const d = {
 					"percent": 60,
 					"hz": "60hz"
 				},
+				{
+					"user": "fakeiwnl",
+					"link": "https://www.youtube.com/watch?v=wxTPjyAI3ZY&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
 				
 			],
 			"name": "Shitty Sonic Wave",
