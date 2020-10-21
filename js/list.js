@@ -1140,6 +1140,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Spinach",
+					"link": "https://youtu.be/zZUR50x5T2M",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -7561,6 +7567,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "xdgdytque",
+					"link": "https://www.youtube.com/watch?v=cSLhBbx-x6I",
+					"percent": 72,
+					"hz": "60hz"
+				},
 				
 			],
 			"name": "Shitty Sonic Wave",
@@ -11170,7 +11182,7 @@ const d = {
 			"more": "none",
 			"id": 64142990,
 			"pass": "Free to copy",
-			"percentToQualify": 79,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=ori0z7gZr-s",
 			"key": 75
 		},
@@ -11657,6 +11669,12 @@ const d = {
 		/*=================================================================================*/
 		{
                         "vids": [
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/AcSzbOXd_lo",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
                         "name": "Shitty Ice Carbon Diablo X",
                         "author": "BlastIsBaeLol",
@@ -12276,6 +12294,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=hcbdv98Z88s",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Spinach",
+					"link": "https://youtu.be/0hVQdW-TjcA",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Thinking Space",
@@ -20868,6 +20892,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/K3Oz2LCJyoE",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Lunatic Doom Machine",
 			"author": "HideriGH",
@@ -22337,6 +22367,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz",
 				},
+				{
+					"user": "NightRukkus",
+					"link": "https://www.youtube.com/watch?v=EBQ9i7d_el0",
+					"percent": 100,
+					"hz": "120hz",
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -23218,6 +23254,18 @@ const d = {
 		/*=================================================================================*/
 		{
                         "vids": [
+				{
+					"user": "iSantiGD3",
+					"link": "https://youtu.be/141hOdYp0yc",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://youtu.be/3vTH9_SAS2s",
+					"percent": 100,
+					"hz": "120hz"
+				},
                         ],
                         "name": "Shitty Windy Landscape",
                         "author": "SmallDaniPlay",
@@ -27118,6 +27166,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "anefu",
+					"link": "https://www.youtube.com/watch?v=jNYxCBlDWH4",
+					"percent": 100,
+					"hz": "60hz"
+				},
                           ],
 			"name": "Shitty Sparkling Hope",
 			"author": "MythicalTG",
@@ -27599,11 +27653,17 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Denc",
+					"link": "https://www.youtube.com/watch?v=Yv2QAUt-2VA",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
 			"more": "none",
-			"id": 50594877,
+			"id": 50594877,https://www.youtube.com/watch?v=Yv2QAUt-2VA
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/qLvxTjKJqaU",
@@ -28457,6 +28517,12 @@ const d = {
 					"link": "https://youtu.be/sLzyM-W6tSA",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "iRaserG",
+					"link": "https://youtu.be/97jDwsmsN9s",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Sakupen Hell",
