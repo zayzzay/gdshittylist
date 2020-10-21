@@ -6675,6 +6675,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Acidius",
+					"link": "https://www.youtube.com/watch?v=Kp3bSnFf67k",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -7505,6 +7511,12 @@ const d = {
 					"link": "https://youtu.be/ObPv2D2wczE",
 					"percent": 73,
 					"hz": "240hz"
+				},
+				{
+					"user": "iSantiGD3",
+					"link": "https://www.youtube.com/watch?v=UsDSt4VHicg&feature=youtu.be",
+					"percent": 60,
+					"hz": "60hz"
 				},
 				
 			],
@@ -9066,6 +9078,12 @@ const d = {
 				{
 				       "user": "Ryclix",
 				       "link": "https://youtu.be/ULJjo6YTQSY",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+				{
+				       "user": "fakeiwnl",
+				       "link": "https://www.youtube.com/watch?v=QI6sMFHBIaU",
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
@@ -14015,6 +14033,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "fakeiwnl",
+					"link": "https://www.youtube.com/watch?v=z4V4J6LKGAw&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty The Hell Field",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -16738,6 +16762,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Mynameisjarv",
+					"link": "https://youtu.be/AlpVZAuk6us",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace",
@@ -18987,6 +19017,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "fakeiwnl",
+				       "link": "https://www.youtube.com/watch?v=3HV9e1C30D4&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty The Hell Bird",
 			"author": "YesntHimself",
@@ -20727,6 +20763,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=tRmLcONOKFs",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/FdzHmihriPI",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Lunatic Doom Machine",
@@ -23821,6 +23863,12 @@ const d = {
 				{
 					"user": "blessed",
 					"link": "https://www.youtube.com/watch?v=DIxLj8SkJIE&t=39s",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "anefu",
+					"link": "https://www.youtube.com/watch?v=1UzYm6qOMiI",
 					"percent": 100,
 					"hz": "60hz"
 				},
