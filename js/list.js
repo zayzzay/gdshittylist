@@ -8166,6 +8166,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "iSantiGD3",
+					"link": "https://www.youtube.com/watch?v=w2_CnuGaOpA",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty The Secret Box",
 			"author": "jOnel",
@@ -10370,6 +10376,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Celestius",
+                                        "link": "https://www.youtube.com/watch?v=4WyoRhyj_kA",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Glide",
 			"author": "Aassbll",
@@ -11085,6 +11097,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
+				{
+					"user": "LegionofBaum31",
+					"link": "https://youtu.be/nf9kwgxMSk4",
+					"percent": 100,
+				        "hz": "120hz"
+				},
 			],
 			"name": "Shitty Phantasmagoria",
 			"author": "v1nnyy",
@@ -11175,6 +11193,12 @@ const d = {
                                         "link": "https://youtu.be/rwJRVf7Whg8",
                                         "percent": 100,
                                         "hz": "144hz"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://youtu.be/zYLv5oNpx1I",
+					"percent": 100,
+				        "hz": "120hz"
 				},
 			],
 			"name": "Shitty Vertigo",
@@ -11675,6 +11699,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "KingTripod",
+					"link": "https://youtu.be/lu9ZjpwHZ-k",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "LegionofBaum31",
+					"link": "https://youtu.be/O7gsGaLkWUs",
+					"percent": 100,
+				        "hz": "120hz"
+				},
                         ],
                         "name": "Shitty Ice Carbon Diablo X",
                         "author": "BlastIsBaeLol",
@@ -12036,9 +12072,15 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
-								{
+				{
 					"user": "Lelzi",
 					"link": "https://youtu.be/vzWqWP1qufA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Kraz",
+					"link": "https://youtu.be/j9rxP0n3Q8c",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -20066,6 +20108,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "Celestius",
+                                        "link": "https://www.youtube.com/watch?v=MH4ZaMd555U",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Cyber Chaos",
 			"author": "NourTheKing",
@@ -20409,6 +20457,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "Celestius",
+                                        "link": "https://www.youtube.com/watch?v=fUmM-rNkbHA",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -20897,6 +20951,12 @@ const d = {
 					"link": "https://youtu.be/K3Oz2LCJyoE",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=fSmribTBpuQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Lunatic Doom Machine",
@@ -22372,6 +22432,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=EBQ9i7d_el0",
 					"percent": 100,
 					"hz": "120hz",
+				},
+				{
+					"user": "Scythe63",
+					"link": "https://youtu.be/q6p5jou6leE",
+					"percent": 100,
+					"hz": "60hz"
 				},
 	                ],
                         "name": "Shitty Cataclysm",
@@ -26846,6 +26912,18 @@ const d = {
 					"link": "https://youtu.be/muNtmzcKYNk",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+				       "user": "Great",
+				       "link": "https://www.youtube.com/watch?v=ICq8ekE_jPc",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+				{
+					"user": "anefu",
+					"link": "https://www.youtube.com/watch?v=IMud6x5k65U",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
