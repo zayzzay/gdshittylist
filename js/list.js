@@ -5245,6 +5245,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Acidius",
+					"link": "https://www.youtube.com/watch?v=BiickEUSX48",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and LLunaa [Serpyy]",
