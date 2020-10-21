@@ -4032,6 +4032,12 @@ const d = {
 					"percent": 70,
 					"hz": "288hz"
 				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/EvRtZK46aAM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse III",
 			"author": "wshedd",
@@ -25922,6 +25928,12 @@ const d = {
 				{
 					"user": "L1GHTNING",
 					"link": "https://youtu.be/_7tqUElSF7E",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Conical",
+					"link": "https://youtu.be/_l7TCp0uZ5Y",
 					"percent": 100,
 					"hz": "144hz"
 				},
