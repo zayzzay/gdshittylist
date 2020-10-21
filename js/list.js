@@ -21493,6 +21493,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "anefu",
+					"link": "https://www.youtube.com/watch?v=oFXENC6tAJc",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -26893,11 +26899,17 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
-								{
+				{
 				       "user": "L1GHTNING",
 				       "link": "https://youtu.be/NfRiFEoCEOU",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+				 {
+				       "user": "Emonadeo",
+				       "link": "https://www.twitch.tv/videos/776815939",
+				       "percent": 100,
+				       "hz": "240hz"
 			       },
                           ],
 			"name": "Shitty Sparkling Hope",
@@ -28627,6 +28639,12 @@ const d = {
 				{
 					"user": "lil_derpzy",
 					"link": "https://youtu.be/y7y4BjjD86Y",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Rayaleg8",
+					"link": "https://www.youtube.com/watch?v=Ax9EDeOnhk8&ab_channel=Rayaleg8",
 					"percent": 100,
 					"hz": "Mobile"
 				},
