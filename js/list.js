@@ -52,7 +52,7 @@ const d = {
 				       "hz": "144hz"
 			       },
 			       {
-				       "user": "GDMeric",
+				       "user": "GregoryHouse",
 				       "link": "https://youtu.be/vGSgiHqBfi8",
 				       "percent": 100,
 				       "hz": "144hz"
@@ -119,7 +119,7 @@ const d = {
 				       "hz": "300hz" 
 			       },
 			       {
-				       "user": "GDMeric",
+				       "user": "GregoryHouse",
 				       "link": "https://www.youtube.com/watch?v=clQudjuJUTk&feature=youtu.be",
 				       "percent": 100,
 				       "hz": "144hz"
@@ -337,7 +337,7 @@ const d = {
 					"hz": "288hz"	
 				},
 			        {
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/3lKZcAwgFkA",
 					"percent": 100,
 					"hz": "144hz"	
@@ -484,7 +484,7 @@ const d = {
 				       "hz": "240hz"
 			        },
 			        {
-				       "user": "GDMeric",
+				       "user": "GregoryHouse",
 				       "link": "https://www.youtube.com/watch?v=KfB-Jmaqi-c&feature=youtu.be",
 				       "percent": 100,
 				       "hz": "144hz"
@@ -605,7 +605,7 @@ const d = {
 				       "hz": "288hz"
 			        },
 				{
-				       "user": "GDMeric",
+				       "user": "GregoryHouse",
 				       "link": "https://www.youtube.com/watch?v=zZEruSFzvII",
 				       "percent": 100,
 				       "hz": "144hz"
@@ -702,7 +702,7 @@ const d = {
 				       "hz": "288hz"
 			        },
 				{
-				       "user": "GDMeric",
+				       "user": "GregoryHouse",
 				       "link": "https://youtu.be/3EqxfBZVZBY",
 				       "percent": 100,
 				       "hz": "144hz"
@@ -841,7 +841,7 @@ const d = {
                                         "hz": "144hz"
                                 },
 				{
-                                        "user": "GDMeric",
+                                        "user": "GregoryHouse",
                                         "link": "https://youtu.be/3thN6SRQ-Uc",
                                         "percent": 100,
                                         "hz": "144hz"
@@ -1160,7 +1160,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/iDrdgYX_wbQ",
 					"percent": 100,
 					"hz": "144hz"
@@ -1293,7 +1293,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/wglcKsFnxac",
 					"percent": 100,
 					"hz": "144hz"
@@ -1445,7 +1445,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/x3faOfnmbUE",
 					"percent": 100,
 					"hz": "144hz"
@@ -1616,7 +1616,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/f_PZvOvzlrU",
 					"percent": 100,
 					"hz": "144hz"
@@ -1726,7 +1726,7 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/G1Kw9mHZQgk",
 					"percent": 100,
 					"hz": "144hz"
@@ -1835,7 +1835,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://www.youtube.com/watch?v=VLOHaT0GLHo&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
@@ -2130,7 +2130,7 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://www.youtube.com/watch?v=r8dABwGrPyY&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
@@ -2209,7 +2209,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/m8QFrYZSdwI",
 					"percent": 100,
 					"hz": "144hz"
@@ -2354,7 +2354,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/_oH6tEu5a_8",
 					"percent": 100,
 					"hz": "144hz"
@@ -2505,7 +2505,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/rAxXAem7mSQ",
 					"percent": 100,
 					"hz": "144hz"
@@ -2578,7 +2578,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/qrtHzMxhiuA",
 					"percent": 100,
 					"hz": "144hz"
@@ -2789,7 +2789,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/5USdJxTvaDk",
 					"percent": 100,
 					"hz": "144hz"
@@ -3024,7 +3024,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/Ez_HHQUCjrE",
 					"percent": 100,
 					"hz": "144hz"
@@ -3361,7 +3361,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/16LkioLm9G8",
 					"percent": 100,
 					"hz": "144hz"
@@ -3464,7 +3464,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/8bFbWtYwQ4Y",
 					"percent": 100,
 					"hz": "144hz"
@@ -3665,7 +3665,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://www.youtube.com/watch?v=xWxax4mV7Ao&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
@@ -3834,7 +3834,7 @@ const d = {
 					"hz": "165hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/xH1tg4IrxLU",
 					"percent": 100,
 					"hz": "144hz"
@@ -3937,7 +3937,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/PZ494rurvbk",
 					"percent": 100,
 					"hz": "144hz"
@@ -4107,7 +4107,7 @@ const d = {
 					"hz": "165hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/xW1HvKP9qo4",
 					"percent": 100,
 					"hz": "144hz"
@@ -4240,7 +4240,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/fPNculynonQ",
 					"percent": 100,
 					"hz": "144hz"
@@ -4295,7 +4295,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/FbNe0kvk7MA",
 					"percent": 100,
 					"hz": "144hz"
@@ -4374,7 +4374,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/A-nV05xEjRM",
 					"percent": 100,
 					"hz": "144hz"
@@ -4531,7 +4531,7 @@ const d = {
                                         "hz": "240hz"
                                 },
 				{
-                                        "user": "GDMeric",
+                                        "user": "GregoryHouse",
                                         "link": "https://youtu.be/4XAHRnQckdE",
                                         "percent": 100,
                                         "hz": "144hz"
@@ -4958,7 +4958,7 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/6nAmsWgvgsY",
 					"percent": 100,
 					"hz": "144hz"
@@ -5543,7 +5543,7 @@ const d = {
 				        "hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/XUo2zNvI88E",
 					"percent": 100,
 				        "hz": "144hz"
@@ -5616,7 +5616,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/KlfNR0Zf0GU",
 					"percent": 100,
 					"hz": "Mobile"
@@ -5912,7 +5912,7 @@ const d = {
                                         "hz": "69hz"
                                 },
 				{
-                                        "user": "GDMeric",
+                                        "user": "GregoryHouse",
                                         "link": "https://youtu.be/8OTlECSBRgU",
                                         "percent": 100,
                                         "hz": "144hz"
@@ -6177,7 +6177,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/5dccidFJ7JI",
 					"percent": 100,
 				        "hz": "144hz"
@@ -6364,7 +6364,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/Ooc4800QEsI",
 					"percent": 100,
 					"hz": "144hz"
@@ -6563,7 +6563,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/9oq4wCooLN8",
 					"percent": 100,
 					"hz": "144hz"
@@ -6882,7 +6882,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/Qg8vTllVj3A",
 					"percent": 100,
 					"hz": "144hz"
@@ -7087,7 +7087,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/bPL4avdr4B8",
 					"percent": 100,
 					"hz": "144hz"
@@ -7226,7 +7226,7 @@ const d = {
 					"hz": "360hz"
 				},
 				{
-                                        "user": "GDMeric",
+                                        "user": "GregoryHouse",
                                         "link": "https://www.youtube.com/watch?v=J82TfOgxcPI",
                                         "percent": 100,
                                         "hz": "144hz"
@@ -7630,7 +7630,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/Uaynj4_HJWw",
 					"percent": 100,
 					"hz": "144hz"
@@ -7883,7 +7883,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/bh8RD5ahRqw",
 					"percent": 100,
 					"hz": "144hz"
@@ -7986,7 +7986,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/MWF_ww640Bk",
 					"percent": 100,
 					"hz": "144hz"
@@ -8288,7 +8288,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/VwSMXf952Qw",
 					"percent": 100,
 					"hz": "144hz"
@@ -8547,7 +8547,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/JuYd0ccSlpQ",
 					"percent": 100,
 					"hz": "144hz"
@@ -8602,7 +8602,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/W93m9jYkgIY",
 					"percent": 100,
 					"hz": "144hz"
@@ -8694,7 +8694,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/hjIkrtoECII",
 					"percent": 100,
 					"hz": "144hz"
@@ -8918,7 +8918,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/EROEms3I4WE",
 					"percent": 100,
 					"hz": "144hz"
@@ -9027,7 +9027,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/u2mzYX_-GRk",
 					"percent": 100,
 					"hz": "144hz"
@@ -9118,7 +9118,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link":"https://youtu.be/ilb1TNljNBU",
 					"percent": 100,
 					"hz": "144hz"
@@ -9456,7 +9456,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/Ew7rkWikX-Q",
 					"percent": 100,
 					"hz": "144hz"
@@ -9769,7 +9769,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/HlmJCrj40Lk",
 					"percent": 100,
 					"hz": "144hz"
@@ -9986,7 +9986,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/B8qBicuyih8",
 					"percent": 100,
 					"hz": "144hz"
@@ -10155,7 +10155,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/Elw_vgAsoYk",
 					"percent": 100,
 					"hz": "144hz"
@@ -10487,7 +10487,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/123InJIagdc",
 					"percent": 100,
 					"hz": "144hz"
@@ -10548,7 +10548,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/ppK1PY6Y8-U",
 					"percent": 100,
 					"hz": "144hz"
@@ -10627,7 +10627,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/mvhyUtGhu64",
 					"percent": 100,
 					"hz": "144hz"
@@ -10676,7 +10676,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/1s58syAkXbA",
 					"percent": 100,
 					"hz": "144hz"
@@ -10917,7 +10917,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/u2rKbrVpZLc",
 					"percent": 100,
 					"hz": "144hz"
@@ -11080,7 +11080,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/HFIRNOno_0A",
 					"percent": 100,
 					"hz": "144hz"
@@ -11153,7 +11153,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://www.youtube.com/watch?v=IEWs_Xl0K3Q",
 					"percent": 100,
 					"hz": "50hz"
@@ -11250,7 +11250,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/G7Ml-GI3pog",
 					"percent": 100,
 					"hz": "144hz"
@@ -11317,7 +11317,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/htx1zQjCM_g",
 					"percent": 100,
 					"hz": "144hz"
@@ -11511,7 +11511,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/RaEItxA94Ok",
 					"percent": 100,
 					"hz": "144hz"
@@ -11590,7 +11590,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/yDpJ6D3ypkc",
 					"percent": 100,
 					"hz": "144hz"
@@ -11797,7 +11797,7 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/6zBW6gLyoiY",
 					"percent": 100,
 					"hz": "144hz"
@@ -12218,7 +12218,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/DmXdQPYWOyU",
 					"percent": 100,
 					"hz": "144hz"
@@ -12423,7 +12423,7 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/xi49KKyLB2o",
 					"percent": 100,
 					"hz": "144hz"
@@ -12676,7 +12676,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/LQnW49q6Tys",
 					"percent": 100,
 					"hz": "144hz"
@@ -12966,7 +12966,7 @@ const d = {
                                          "hz": "144hz"
                                 },
 				{
-                                         "user": "GDMeric",
+                                         "user": "GregoryHouse",
                                          "link": "https://youtu.be/zylCYlN8LEU",
                                          "percent": 100,
                                          "hz": "144hz"
@@ -13009,7 +13009,7 @@ const d = {
 					"hz": "200hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/tW25q_3XIuU",
 					"percent": 100,
 					"hz": "144hz"
@@ -13112,7 +13112,7 @@ const d = {
 				{
 			"vids": [
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/_LfqIKCQRm4",
 					"percent": 100,
 					"hz": "144hz"
@@ -13251,7 +13251,7 @@ const d = {
 		{
 			"vids": [
 				{
-                                         "user": "GDMeric",
+                                         "user": "GregoryHouse",
                                          "link": "https://youtu.be/qBjlZECPKd0",
                                          "percent": 100,
                                          "hz": "144hz"
@@ -13576,7 +13576,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/cB3KuqiQVKs",
 					"percent": 100,
 					"hz": "144hz"
@@ -13811,7 +13811,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://www.youtube.com/watch?v=Nqra8dydTSE&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
@@ -14108,7 +14108,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/Dx7Nkae5zoU",
 					"percent": 100,
 					"hz": "144hz"
@@ -14289,7 +14289,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/YOb13jV4W6U",
 					"percent": 100,
 					"hz": "144hz"
@@ -14440,7 +14440,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/CHEh0dHpi3E",
 					"percent": 100,
 					"hz": "144hz"
@@ -14724,7 +14724,7 @@ const d = {
 					"hz": "72hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/otrlfF8IJ-A",
 					"percent": 100,
 					"hz": "144hz"
@@ -14905,7 +14905,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://www.youtube.com/watch?v=_1lYJu681jc&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
@@ -15529,7 +15529,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/-ekCncL9zNM",
 					"percent": 100,
 					"hz": "144hz"
@@ -15686,7 +15686,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/JPfgq3g61e8",
 					"percent": 100,
 					"hz": "144hz"
@@ -15795,7 +15795,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/P1mPK4IvZR8",
 					"percent": 100,
 					"hz": "144hz"
@@ -16036,7 +16036,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/RHGWh9So2oo",
 					"percent": 100,
 					"hz": "144hz"
@@ -16289,7 +16289,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/SmY-QPObZwA",
 					"percent": 100,
 					"hz": "144hz"
@@ -16698,7 +16698,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/8aMWNxtFJ-I",
 					"percent": 100,
 					"hz": "144hz"
@@ -17066,7 +17066,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/n0FrLB8VzGk",
 					"percent": 100,
 					"hz": "144hz"
@@ -17493,7 +17493,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/nMLCwFCiXz4",
 					"percent": 100,
 					"hz": "144hz"
@@ -18047,7 +18047,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/jDEL6x1tEDM",
 					"percent": 100,
 					"hz": "144hz"
@@ -18241,7 +18241,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/HF-iS4riq_I",
 					"percent": 100,
 					"hz": "144hz"
@@ -18398,7 +18398,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/s2lWv0JKcdY",
 					"percent": 100,
 					"hz": "144hz"
@@ -18657,7 +18657,7 @@ const d = {
 					"hz": "60hz"
 				},
                                 {
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/9dW2AT3XHbY",
 					"percent": 100,
 					"hz": "144hz"
@@ -18881,7 +18881,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/qczRgts6UHA",
 					"percent": 100,
 					"hz": "144hz"
@@ -19363,7 +19363,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/HiokzFe4ngI",
 					"percent": 100,
 					"hz": "144hz"
@@ -19934,7 +19934,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/_JkyOWA5woY",
 					"percent": 100,
 					"hz": "144hz"
@@ -20200,7 +20200,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/QfKYFFO7IFk",
 					"percent": 100,
 					"hz": "144hz"
@@ -20501,7 +20501,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/UnLDOyNWrvs",
 					"percent": 100,
 					"hz": "144hz"
@@ -20736,7 +20736,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/hNz-ggzo1n8",
 					"percent": 100,
 					"hz": "144hz"
@@ -21044,7 +21044,7 @@ const d = {
 				        "hz": "288hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/Lpk12ZB7mnE",
 					"percent": 100,
 				        "hz": "144hz"
@@ -21261,7 +21261,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/ivdhxxp7wzc",
 					"percent": 100,
 					"hz": "144hz"
@@ -21436,7 +21436,7 @@ const d = {
 				{
 			"vids": [
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/aXFAt1oRyj8",
 					"percent": 100,
 					"hz": "144hz"
@@ -21852,7 +21852,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/yWD-EskK0DI",
 					"percent": 100,
 					"hz": "144hz"
@@ -22646,7 +22646,7 @@ const d = {
 					"hz": "288hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/tnp3nRG1TwE",
 					"percent": 100,
 					"hz": "144hz"
@@ -22869,7 +22869,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://www.youtube.com/watch?v=twF685Ao1YA",
 					"percent": 100,
 					"hz": "144hz"
@@ -23508,7 +23508,7 @@ const d = {
 					"hz": "120hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://www.youtube.com/watch?v=XEqg38ydqMg",
 					"percent": 100,
 					"hz": "144hz"
@@ -23773,7 +23773,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/kQQH2WgANXo",
 					"percent": 100,
 					"hz": "144hz"
@@ -24189,7 +24189,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/xDU4SvKP9ig",
 					"percent": 100,
 					"hz": "144hz"
@@ -24660,7 +24660,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/cUXgG7eThtM",
 					"percent": 100,
 					"hz": "144hz"
@@ -25087,7 +25087,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://www.youtube.com/watch?v=oSgPQ7szFFk",
 					"percent": 100,
 					"hz": "144hz"
@@ -26018,7 +26018,7 @@ const d = {
 				       "hz": "288hz"
 			       },
 				{
-                                         "user": "GDMeric",
+                                         "user": "GregoryHouse",
                                          "link": "https://youtu.be/QGw71ubeiLM",
                                          "percent": 100,
                                          "hz": "Mobile"
@@ -26169,7 +26169,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/uG8rKDFEnt4",
 					"percent": 100,
 					"hz": "144hz"
@@ -26320,7 +26320,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://www.youtube.com/watch?v=I_nm9rlthsQ&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
@@ -27017,7 +27017,7 @@ const d = {
 					"hz": "300hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/rrhPQ90kdGM",
 					"percent": 100,
 					"hz": "144hz"
@@ -27336,7 +27336,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://www.youtube.com/watch?v=1lPH9LfiZxE",
 					"percent": 100,
 					"hz": "144hz"
@@ -27835,7 +27835,7 @@ const d = {
                                         "hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
                                         "link": "https://youtu.be/daF8DxZzkm4",
                                         "percent": 100,
                                         "hz": "144hz"
@@ -28754,7 +28754,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/7lj6Q8mbrgw",
 					"percent": 100,
 					"hz": "144hz"
@@ -29061,7 +29061,7 @@ const d = {
 				       "hz": "300hz"
 			       },
 			       {
-				       "user": "GDMeric",
+				       "user": "GregoryHouse",
 				       "link": "https://youtu.be/-e2lpQO7sbw",
 				       "percent": 100,
 				       "hz": "144hz"
@@ -29524,7 +29524,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/9Y9Sb-EMk4Y",
 					"percent": 100,
 					"hz": "144hz"
@@ -29867,7 +29867,7 @@ const d = {
 					"hz": "75hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://youtu.be/v6w-5CbzS8Q",
 					"percent": 100,
 					"hz": "144hz"
@@ -30234,7 +30234,7 @@ const d = {
                                         "hz": "144hz"
                                 },
 				{
-                                        "user": "GDmeric",
+                                        "user": "GregoryHouse",
                                         "link": "https://youtu.be/g9SIz5L7yVs",
                                         "percent": 100,
                                         "hz": "144hz"
@@ -30871,7 +30871,7 @@ const d = {
 				       "hz": "240hz"
 			       },
 			       {
-				       "user": "GDMeric",
+				       "user": "GregoryHouse",
 				       "link": "https://youtu.be/NK_TfQKAdwI",
 				       "percent": 100,
 				       "hz": "144hz"
@@ -31766,7 +31766,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "GDMeric",
+					"user": "GregoryHouse",
 					"link": "https://www.youtube.com/watch?v=oS_09W2Elv4",
 					"percent": 100,
 					"hz": "144hz"
@@ -33195,7 +33195,7 @@ const d = {
                                         "hz": "144hz"
                                 },
 				{
-                                        "user": "GDMeric",
+                                        "user": "GregoryHouse",
                                         "link": "https://youtu.be/b21Bqbyhm7U",
                                         "percent": 100,
                                         "hz": "144hz"
