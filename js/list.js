@@ -27741,7 +27741,7 @@ const d = {
 			"name": "Shitty Mujigae",
 			"author": "Serpyy",
 			"more": "none",
-			"id": 50594877,https://www.youtube.com/watch?v=Yv2QAUt-2VA
+			"id": 50594877,
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/qLvxTjKJqaU",
