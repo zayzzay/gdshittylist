@@ -12517,6 +12517,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "xdgdytque",
+					"link": "https://www.youtube.com/watch?v=y4tpf4vN3-I",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
@@ -15706,6 +15712,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=BIfBp34wZAs",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Spork",
+					"link": "https://youtu.be/hn3VGndMoZ0",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -21222,6 +21234,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/K1PHmsIHtx4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Lunatic Doom Machine",
 			"author": "HideriGH",
@@ -23680,6 +23698,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/K1PHmsIHtx4",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
                         "name": "Shitty Windy Landscape",
                         "author": "SmallDaniPlay",
@@ -24450,6 +24474,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1UzYm6qOMiI",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "krakow1918",
+					"link": "https://youtu.be/fskXzkA5Wf4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Necropolis",
