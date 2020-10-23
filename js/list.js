@@ -3566,6 +3566,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "Spinach",
+					"link": "https://youtu.be/c4FOe-iXg2M",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
 					"user": "Cyns",
 					"link": "https://youtu.be/nSwOaBCImd0",
 					"percent": 61,
@@ -4110,6 +4116,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=j5tRrjmDzCE&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "PPeldelostacos",
+					"link": "https://youtu.be/NI4O28nKRlk",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Plasma Pulse III",
