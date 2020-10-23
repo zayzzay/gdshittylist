@@ -11617,6 +11617,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/aEVJ5sRGmgE",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Caution",
 			"author": "ZekronGD and ShadowNinja441 [ShadowNinja441]",
@@ -21891,6 +21897,12 @@ const d = {
 					"percent": 100,
 					"hz": "144Hz"
 				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/aEVJ5sRGmgE",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Super Probably Level",
 			"author": "Serpyy",
@@ -23300,6 +23312,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/aEVJ5sRGmgE",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
                         "name": "Shitty Ethereal Artifice",
                         "author": "Megum and more [Megum]",
@@ -23745,6 +23763,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/aEVJ5sRGmgE",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Hurricane",
 			"author": "Heizen and more [Heizen]",
@@ -23863,6 +23887,12 @@ const d = {
 				{
 					"user": "Denc",
 					"link": "https://www.youtube.com/watch?v=mGP_FAiF834",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/aEVJ5sRGmgE",
 					"percent": 100,
 					"hz": "120hz"
 				},
@@ -24734,6 +24764,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/aEVJ5sRGmgE",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Necropolis",
 			"author": "Tai0",
@@ -24860,6 +24896,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=hr3kInU8gGY",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "N1kix",
+					"link": "https://youtu.be/aEVJ5sRGmgE",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Thirteen",
