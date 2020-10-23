@@ -11867,6 +11867,12 @@ const d = {
 					"percent": 100,
 				        "hz": "120hz"
 				},
+				{
+					"user": "Justin3859",
+					"link": "https://www.youtube.com/watch?v=S5jgpYaKLKk",
+					"percent": 100,
+					"hz": "240hz"
+				},
                         ],
                         "name": "Shitty Ice Carbon Diablo X",
                         "author": "BlastIsBaeLol",
@@ -12245,12 +12251,6 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=VUN2rLQgGf4&t",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "Justin3859",
-					"link": "https://www.youtube.com/watch?v=S5jgpYaKLKk",
-					"percent": 100,
-					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Rate Demon",
