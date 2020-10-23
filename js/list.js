@@ -3539,6 +3539,12 @@ const d = {
 				       "link": "https://youtu.be/qohCvBQtfWw",
 				       "percent": 100,
 				       "hz": "180hz"
+			        },
+				{
+				       "user": "TzAnder",
+				       "link": "https://youtu.be/pv3uiq2Vv-s",
+				       "percent": 100,
+				       "hz": "75hz"
 			       },
 			],
 			"name": "Shitty Golden Paracosm",
@@ -15130,6 +15136,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=8-gzagP5o2I",
 					"percent": 100,
 				        "hz": "240hz"
+				},
+				{
+					"user": "wshedd",
+					"link": "https://youtu.be/n2QNlKBVl3Q",
+					"percent": 100,
+				        "hz": "144hz"
 				},
 			],
 			"name": "Shitty Stalemate Redux",
