@@ -5673,6 +5673,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Mo0t",
+					"link": "https://www.youtube.com/watch?v=wp2tXDcSdJk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Prismatic Haze",
 			"author": "Bluuper",
@@ -18950,6 +18956,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "geothermalguy",
+					"link": "https://youtu.be/jN2Go3bGkdU",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Lantern Lights",
 			"author": "GdWaaab",
@@ -21614,6 +21626,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "krakow1918",
+					"link": "https://youtu.be/VtL-e6yFPwM",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Lunatic Doom Machine",
 			"author": "HideriGH",
@@ -24071,6 +24089,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "ZerniasX",
+					"link": "https://www.youtube.com/watch?v=TUGUoPQrI-M&feature=youtu.be&ab_channel=ZerniasX",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Civic",
 			"author": "wshedd",
@@ -24456,6 +24480,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=hiOLYR0YltA&feature=youtu.be&ab_channel=ZerniasX",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "krakow1918",
+					"link": "https://youtu.be/VtL-e6yFPwM",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Sigma",
@@ -25945,6 +25975,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "300hz"
 				},
+				{
+				       "user": "ZerniasX",
+				       "link": "https://www.youtube.com/watch?v=1HnKYNrO3-s&ab_channel=ZerniasX",
+				       "percent": 100,
+				       "hz": "120hz"
+			        },
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -26813,6 +26849,12 @@ const d = {
 				{
 					"user": "luqfps",
 					"link": "https://www.youtube.com/watch?v=nLGz6rZlCMY",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "krakow1918",
+					"link": "https://youtu.be/VtL-e6yFPwM",
 					"percent": 100,
 					"hz": "240hz"
 				},
