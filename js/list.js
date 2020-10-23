@@ -23655,6 +23655,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "Denc",
+					"link": "https://www.youtube.com/watch?v=mGP_FAiF834",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Civic",
 			"author": "wshedd",
