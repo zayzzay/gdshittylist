@@ -11224,12 +11224,6 @@ const d = {
 				        "hz": "120hz"
 				},
 				{
-					"user": "LegionofBaum31",
-					"link": "https://youtu.be/nf9kwgxMSk4",
-					"percent": 100,
-				        "hz": "120hz"
-				},
-				{
 					"user": "Nebula",
 					"link": "https://youtu.be/KgfjVjJi_XM",
 					"percent": 100,
