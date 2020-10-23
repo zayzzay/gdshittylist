@@ -6357,6 +6357,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "GD Catalyst",
+					"link": "https://www.youtube.com/watch?v=g4D02RPkx-w",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "xSxythe",
 					"link": "https://youtu.be/DnTjovSO_WI",
 					"percent": 53,
@@ -12788,6 +12794,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/EWJxBURgNi0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -13724,6 +13736,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GD Catalyst",
+					"link": "https://www.youtube.com/watch?v=F6byevZX_Sk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -14126,6 +14144,12 @@ const d = {
 				{
 					"user": "SlimmeFelix",
 					"link": "https://youtu.be/Ua9g8AvtrwM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "iRaily",
+					"link": "https://youtu.be/EWJxBURgNi0",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -22751,6 +22775,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Z3Firox",
+					"link": "https://youtu.be/4zsgHmHrjrM",
+					"percent": 100,
+					"hz": "300hz"
+				},
 	                ],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -26467,6 +26497,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/nzwE4DTJ07g",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Ballin",
 			"author": "Aassbll",
@@ -26635,6 +26671,12 @@ const d = {
 					"link": "https://youtu.be/_l7TCp0uZ5Y",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/gOUi1kuKMGo",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Down Bass",
@@ -27375,6 +27417,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/cDCsBCojKfY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -27705,6 +27753,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=8PsrOQGMzXI&feature=youtu.be&ab_channel=ZerniasX",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Pipzzzzzzz",
+					"link": "https://youtu.be/aRWqXLUmvFk",
+					"percent": 100,
+					"hz": "240hz"
 				},
                           ],
 			"name": "Shitty Sparkling Hope",
