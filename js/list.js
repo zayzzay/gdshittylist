@@ -706,6 +706,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "fakeiwnl",
+					"link": "https://www.youtube.com/watch?v=eeAtmttuDOc&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
                          ],
                        "name": "Shitty Hateful Reflection",
                        "author": "v1nnyy",
@@ -7772,6 +7778,12 @@ const d = {
 					"percent": 60,
 					"hz": "240hz"
 				},
+				{
+					"user": "Mo0t",
+					"link": "https://www.youtube.com/watch?v=tlerbWd8pto",
+					"percent": 100,
+					"hz": "144hz"
+				},
 				
 			],
 			"name": "Shitty Sonic Wave",
@@ -12048,6 +12060,12 @@ const d = {
 					"percent": 100,
 				        "hz": "240hz"
 				},
+				{
+					"user": "GD Catalyst",
+					"link": "https://www.youtube.com/watch?v=0cBoU0NKWHo",
+					"percent": 100,
+				        "hz": "144hz"
+				},
                         ],
                         "name": "Shitty Ice Carbon Diablo X",
                         "author": "BlastIsBaeLol",
@@ -13265,6 +13283,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Mo0t",
+					"link": "https://www.youtube.com/watch?v=SHcc_tK11uA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Tenth Circle",
 			"author": "Kobra456",
@@ -13610,6 +13634,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+				       "user": "GD Catalyst",
+				       "link": "https://www.youtube.com/watch?v=nSMxKwAUc4M",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 			],
 			"name": "Shitty Aftermath",
 			"author": "Magma",
@@ -15112,6 +15142,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=38M7xRWKNxQ&ab_channel=Capamari",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "GD Catalyst",
+					"link": "https://www.youtube.com/watch?v=pQ7ja8ssKk4",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
                         "name": "Shitty Supersonic",
@@ -23179,6 +23215,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "PPeldelostacos",
+					"link": "https://youtu.be/4_QG37asQ8A",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
                         "name": "Shitty 1929",
                         "author": "TheIcyConey[Tril]",
@@ -24330,6 +24372,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "ZerniasX",
+					"link": "https://www.youtube.com/watch?v=hiOLYR0YltA&feature=youtu.be&ab_channel=ZerniasX",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -24607,6 +24655,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
 				},
+				{
+					"user": "ZerniasX",
+                                        "link": "https://www.youtube.com/watch?v=LxYQAivjfew&feature=youtu.be&ab_channel=ZerniasX",
+                                        "percent": 100,
+                                        "hz": "120hz"
+				},
 			],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
@@ -24842,6 +24896,18 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "GDNick2",
+					"link": "https://youtu.be/BBMdsaTLW3w",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ZerniasX",
+					"link": "https://www.youtube.com/watch?v=sqhGmsICO1o&feature=youtu.be&ab_channel=ZerniasX",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Necropolis",
 			"author": "Tai0",
@@ -24975,6 +25041,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "ZerniasX",
+					"link": "https://www.youtube.com/watch?v=PnnBqtKlkZI&feature=youtu.be&ab_channel=ZerniasX",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Thirteen",
 			"author": "AlexTheGS33 and GDStarStorm [AlexTheGS33]",
@@ -25071,6 +25143,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=OEt43KvjW68",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "ZerniasX",
+					"link": "https://www.youtube.com/watch?v=sTn_jxZqPSM&feature=youtu.be&ab_channel=ZerniasX",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Rupture",
@@ -25282,6 +25360,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=XnRTNE3MX10&feature=youtu.be",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "ZerniasX",
+					"link": "https://www.youtube.com/watch?v=rQtsubrctOY&ab_channel=ZerniasX",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Titan Complex",
@@ -26623,6 +26707,24 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "ZerniasX",
+					"link": "https://www.youtube.com/watch?v=J_AAs1IJZnA&feature=youtu.be&ab_channel=ZerniasX",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Freakydashy",
+					"link": "https://www.youtube.com/watch?v=quw0U1jYQsA&t=1s",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "luqfps",
+					"link": "https://www.youtube.com/watch?v=nLGz6rZlCMY",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -26857,6 +26959,12 @@ const d = {
 					"link": "https://youtu.be/nzwE4DTJ07g",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "ZerniasX",
+					"link": "https://www.youtube.com/watch?v=84_s5X-gEiU&feature=youtu.be&ab_channel=ZerniasX",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Ballin",
@@ -34010,6 +34118,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "120hz"
 			       },
+				{
+				       "user": "ZerniasX",
+				       "link": "https://www.youtube.com/watch?v=1HnKYNrO3-s&ab_channel=ZerniasX",
+				       "percent": 100,
+				       "hz": "120hz"
+			        },
 			],
 			"name": "Shitty Xo Circles",
 			"author": "AcropolisBoy",
