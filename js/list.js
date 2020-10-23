@@ -470,6 +470,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			        },
+				{
+				       "user": "Kobra456",
+				       "link": "https://www.youtube.com/watch?v=MnLxM7L0O2w",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
                        ],
                        "name": "Shitty Bloodlust",
                        "author": "HideriGH",
@@ -1431,6 +1437,12 @@ const d = {
 					"percent": 100,
 				        "hz": "288hz"
 				},
+				{
+					"user": "GregoryHouse",
+					"link": "https://youtu.be/iF7KtwaNlsI",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 		],
                        "name": "Shitty Hyper Paradox",
                        "author": "Lupe1204",
@@ -1747,6 +1759,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=8-gzagP5o2I",
 					"percent": 100,
 				        "hz": "240hz"
+				},
+				{
+					"user": "GregoryHouse",
+					"link": "https://youtu.be/iF7KtwaNlsI",
+					"percent": 100,
+				        "hz": "144hz"
 				},
 			],
 			"name": "Shitty Conical Depression",
@@ -9887,6 +9905,12 @@ const d = {
 					"link": "https://youtu.be/kZWGscb_HMc",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "BraceGD",
+					"link": "https://www.youtube.com/watch?v=6FvACAhmDDQ&lc=Ugxtp27jcLTfFE6vJFZ4AaABAg.9F8xUXFKNPD9F9756Nfc3h",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -23714,6 +23738,12 @@ const d = {
 					"link": "https://youtu.be/AIJ8UJKn1vY",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "GregoryHouse",
+					"link": "https://youtu.be/iF7KtwaNlsI",
+					"percent": 100,
+				        "hz": "144hz"
 				},
 			],
 			"name": "Shitty Hurricane",
