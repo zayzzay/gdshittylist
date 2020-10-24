@@ -8503,6 +8503,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "XxYourNan69420xD",
+					"link": "https://www.youtube.com/watch?v=4pVPtlDaJ9Y&ab_channel=mineman2005",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Secret Box",
 			"author": "jOnel",
@@ -23503,7 +23509,13 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
-	                ],
+	                	{
+					"user": "GDNick2",
+					"link": "https://youtu.be/3dQzl903dgw",
+					"percent": 100,
+				        "hz": "Mobile"
+				},
+			],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
                         "more": "none",
