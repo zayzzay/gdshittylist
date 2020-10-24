@@ -22010,6 +22010,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/PrbLCx2NJMU",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Lunatic Doom Machine",
 			"author": "HideriGH",
