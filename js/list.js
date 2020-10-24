@@ -16219,6 +16219,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "XxYourNan69420xD",
+					"link": "https://www.youtube.com/watch?v=fQT7bed_6XM&ab_channel=mineman2005",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -20527,6 +20533,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=H4rCAA-Ia94",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "henrik_kln",
+					"link": "https://www.youtube.com/watch?v=xx8HeMMamI4",
+					"percent": 100,
+					"hz": "280hz"
 				},
 			],
 			"name": "Shitty Kenos",
@@ -27187,6 +27199,12 @@ const d = {
 					"link": "https://youtu.be/26FIdO38PbQ",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "GDNick2",
+					"link": "https://youtu.be/RXejDn_G_n8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ithacropolis",
