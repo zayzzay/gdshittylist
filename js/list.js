@@ -20523,7 +20523,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "KetamineAddict1",
+					"user": "Cow",
 					"link": "https://www.youtube.com/watch?v=c5u1N9kkfKk",
 					"percent": 100,
 					"hz": "240hz"
