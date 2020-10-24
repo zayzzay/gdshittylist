@@ -8539,6 +8539,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/wtp9d2Mn-10",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty The Secret Box",
 			"author": "jOnel",
@@ -9040,6 +9046,12 @@ const d = {
 					"link": "https://youtu.be/wwXWNxPcXXQ",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/MY-mM_wOARk",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Curse Calling",
