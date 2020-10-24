@@ -3576,6 +3576,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "75hz"
 			       },
+				{
+				       "user": "Kobra456",
+				       "link": "https://www.youtube.com/watch?v=1yBbR5ChW-E",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Golden Paracosm",
 			"author": "FizzySalad",
@@ -4266,6 +4272,12 @@ const d = {
 					"link": "https://youtu.be/NI4O28nKRlk",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=DOzl_a3CWw4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Plasma Pulse III",
@@ -14622,6 +14634,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "288hz"
 				},
+				{
+					"user": "Defek",
+                                        "link": "https://youtu.be/JcfsGZ7UGZo",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Kidsmoke",
 			"author": "Whiliams8080 and rVlaash [Whiliams8080]",
@@ -14662,6 +14680,12 @@ const d = {
 				{
 					"user": "iRaily",
 					"link": "https://youtu.be/EWJxBURgNi0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=v3zogh0sX0o",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -15467,6 +15491,12 @@ const d = {
 					"link": "https://youtu.be/gRyMavyJB3w",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=v3zogh0sX0o",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
                         "name": "Shitty Supersonic",
@@ -21865,6 +21895,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+				       "user": "Kobra456",
+				       "link": "https://www.youtube.com/watch?v=1yBbR5ChW-E",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 			],
 			"name": "Shitty Silver Shade",
 			"author": "Aassbll",
@@ -24373,6 +24409,12 @@ const d = {
 				{
 					"user": "Cryex",
 					"link": "https://www.youtube.com/watch?v=X-meRCydypQ&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=v3zogh0sX0o",
 					"percent": 100,
 					"hz": "144hz"
 				},
