@@ -1200,6 +1200,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Dustik",
+					"link": "https://www.youtube.com/watch?v=Z_BZ5ivSmPo&ab_channel=Dustik",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -9005,6 +9011,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Plasma64",
+					"link": "https://youtu.be/wwXWNxPcXXQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Curse Calling",
 			"author": "v1nnyy",
@@ -10121,6 +10133,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Z9S0eR0sENc&ab_channel=mineman2005",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "zLunar",
+					"link": "https://youtu.be/dzELM1SAzhw",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Cognition",
@@ -12204,6 +12222,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "krakow1918",
+					"link": "https://www.youtube.com/watch?v=48ucZ4r47Us",
+					"percent": 100,
+				        "hz": "240hz"
+				},
 			],
 			"name": "Shitty El Dorado",
 			"author": "TheIcyConey [Matter]",
@@ -13225,6 +13249,12 @@ const d = {
 				{
 					"user": "HaydenX13",
 					"link": "https://www.youtube.com/watch?v=8-gzagP5o2I",
+					"percent": 100,
+				        "hz": "240hz"
+				},
+				{
+					"user": "krakow1918",
+					"link": "https://www.youtube.com/watch?v=48ucZ4r47Us",
 					"percent": 100,
 				        "hz": "240hz"
 				},
@@ -16966,6 +16996,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=FuhuBqLRBP4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "krakow1918",
+					"link": "https://www.youtube.com/watch?v=48ucZ4r47Us",
+					"percent": 100,
+				        "hz": "240hz"
 				},
 			],
 			"name": "Shitty Factory Realm X",
@@ -24310,7 +24346,7 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-								{
+				{
 					"user": "Chaotrix",
 					"link": "https://youtu.be/AIJ8UJKn1vY",
 					"percent": 100,
@@ -24331,6 +24367,12 @@ const d = {
 				{
 					"user": "ZerniasX",
 					"link": "https://www.youtube.com/watch?v=Z5qt1igHUJ0&feature=youtu.be&ab_channel=ZerniasX",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Cryex",
+					"link": "https://www.youtube.com/watch?v=X-meRCydypQ&feature=youtu.be",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -24599,6 +24641,12 @@ const d = {
 					"link": "https://youtu.be/A_Fly3kjqDI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "DatedCelery",
+					"link": "https://www.youtube.com/watch?v=9D5Y1CQQRz8",
+					"percent": 100,
+					"hz": "60hz"
 				},
                         ],
                         "name": "Shitty Windy Landscape",
@@ -25446,6 +25494,12 @@ const d = {
 				{
 					"user": "Plasma64",
 					"link": "https://youtu.be/2KXgzfSaRFA",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Alba72",
+					"link": "https://www.youtube.com/watch?v=qdOm_r2TpPs&feature=youtu.be&ab_channel=Albagd",
 					"percent": 100,
 					"hz": "60hz"
 				},
