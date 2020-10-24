@@ -1674,6 +1674,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/x-QHy49-D4I",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Carcano",
 			"author": "ArcticFoxGD [Kobra456]",
