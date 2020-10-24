@@ -10050,7 +10050,13 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [		
+			"vids": [	
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/4TAIGgXHOtg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Hell Zone",
 			"author": "Fakeiwnl",
@@ -12160,6 +12166,12 @@ const d = {
 				{
 					"user": "wshedd",
 					"link": "https://youtu.be/w5MGlws8gFI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/PF2fX6lLB_M",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -24309,6 +24321,12 @@ const d = {
 				{
 					"user": "uwushinn",
 					"link": "https://youtu.be/i4N2Dk4ehSU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/A_Fly3kjqDI",
 					"percent": 100,
 					"hz": "144hz"
 				},
