@@ -1743,73 +1743,6 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "MP3141",
-					"link": "https://www.youtube.com/watch?v=VGgZd9pgDWo",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=4RylowSZwRI",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-				       "user": "Kapinapi",
-				       "link": "https://www.youtube.com/watch?v=N_eeMPD7o3k&t=515",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-				{
-				       "user": "Ryclix",
-				       "link": "https://www.youtube.com/watch?v=J6x2EeJhkBU&feature=youtu.be&t=939s",
-				       "percent": 100,
-				       "hz": "288hz"
-			       },
-				{
-				       "user": "DartHole",
-				       "link": "https://www.youtube.com/watch?v=QVgn7etkuMI&t",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-				{
-					"user": "Matter",
-					"link": "https://youtu.be/d5PjI9Ic9_U",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Pi Guy",
-					"link": "https://youtu.be/djBz8f_hzhc",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "HaydenX13",
-					"link": "https://www.youtube.com/watch?v=8-gzagP5o2I",
-					"percent": 100,
-				        "hz": "240hz"
-				},
-				{
-					"user": "GregoryHouse",
-					"link": "https://youtu.be/iF7KtwaNlsI",
-					"percent": 100,
-				        "hz": "144hz"
-				},
-			],
-			"name": "Shitty Conical Depression",
-			"author": "Kuiper1 and MP3141 [Kuiper1]",
-			"more": "none",
-			"id": 64172553,
-			"pass": "Free copy",
-			"percentToQualify": 62,
-			"verificationVid": "https://www.youtube.com/watch?v=5mvKv00ORJo",
-			"key": 16
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
 					"user": "Fhyron06",
 					"link": "https://www.youtube.com/watch?v=MXbEZ3iIeis",
 					"percent": 100,
@@ -1907,7 +1840,7 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=x89Bj43uEDU",
-			"key": 17
+			"key": 16
 		},
 		/*=================================================================================*/
 						{
@@ -2214,7 +2147,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=fcqAzQsbVdY",
-			"key": 18
+			"key": 17
 		},
 		/*=================================================================================*/
 				{
@@ -2293,7 +2226,7 @@ const d = {
 			"pass": "032520",
 			"percentToQualify": 52,
 			"verificationVid": "https://www.youtube.com/watch?v=N9vQCwp01pM",
-			"key": 19
+			"key": 18
 		},
 		/*=================================================================================*/
 		{
@@ -2444,7 +2377,7 @@ const d = {
 			"pass": "666666",
 			"percentToQualify": 46,
 			"verificationVid": "https://www.youtube.com/watch?v=gvkoieLhRLo",
-			"key": 20
+			"key": 19
 		},
 		/*=================================================================================*/
 		{
@@ -2601,7 +2534,7 @@ const d = {
 			"pass": "000005",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=yW9oNZ07yC8",
-			"key": 21
+			"key": 20
 		},
 		/*=================================================================================*/
 		{
@@ -2656,7 +2589,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=FGARY9mestA",
-			"key": 22
+			"key": 21
 		},
 		/*=================================================================================*/
 		{
@@ -2831,7 +2764,7 @@ const d = {
 			"pass": "100006",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=RPDmLNJBpMc",
-			"key": 23
+			"key": 22
 		},
 		/*=================================================================================*/
 		{
@@ -3102,7 +3035,7 @@ const d = {
 			"pass": "789123",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=xGBfvrRvIbU",
-			"key": 24
+			"key": 23
 		},
 		/*=================================================================================*/
 		{
@@ -3487,7 +3420,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=Wc_Jj3oWXL0",
-			"key": 25
+			"key": 24
 		},
 		/*=================================================================================*/
 		{
@@ -3590,7 +3523,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 55,
 			"verificationVid": "https://www.youtube.com/watch?v=BxGRk9-unw8",
-			"key": 26
+			"key": 25
 		},
 		/*=================================================================================*/
 		{
@@ -3729,7 +3662,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=djwY15f51dE",
-			"key": 27
+			"key": 26
 		},
 		/*=================================================================================*/
 		{
@@ -3785,7 +3718,7 @@ const d = {
 			"pass": "1204",
 			"percentToQualify": 66,
 			"verificationVid": "https://www.youtube.com/watch?v=2mifSod_ys0",
-			"key": 28
+			"key": 27
 		},
 		/*=================================================================================*/
 		{
@@ -3996,7 +3929,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=CEO9I6Xr7EE",
-			"key": 29
+			"key": 28
 		},
 		/*=================================================================================*/
 		{
@@ -4081,7 +4014,7 @@ const d = {
 			"pass": "413586",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=L-oqEbfdF10&t=41s",
-			"key": 30
+			"key": 29
 		},
 		/*=================================================================================*/
 		{
@@ -4232,7 +4165,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=f8HQ1T1HmXs",
-			"key": 31
+			"key": 30
 		},
 		/*=================================================================================*/
 		{
@@ -4287,7 +4220,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 64,
 			"verificationVid": "",
-			"key": 32
+			"key": 31
 		},
 		/*=================================================================================*/
 		{
@@ -4420,7 +4353,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 64,
 			"verificationVid": "https://www.youtube.com/watch?v=XCAx9jVS2VQ",
-			"key": 33
+			"key": 32
 		},
 		/*=================================================================================*/
 				{
@@ -4481,7 +4414,7 @@ const d = {
 			"pass": "Free to Copy",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=JOCFuQBU6Oc&feature=youtu.be&t=38",
-			"key": 34
+			"key": 33
 		},
 		/*=================================================================================*/
 		{
@@ -4542,7 +4475,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=nrDrncLXevE",
-			"key": 35
+			"key": 34
 		},
 		/*=================================================================================*/
 		{
@@ -4669,7 +4602,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=2Mkex3RGOnQ",
-			"key": 36
+			"key": 35
 		},
 		/*=================================================================================*/
 		{
@@ -5156,7 +5089,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=gx-NqXHlGoA",
-			"key": 37
+			"key": 36
 		},
 		/*=================================================================================*/
 				{
@@ -5536,7 +5469,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=I8Xo3JL8fjs",
-			"key": 38
+			"key": 37
 		},
 		/*=================================================================================*/
 		{
@@ -5777,7 +5710,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 51,
 			"verificationVid": "https://www.youtube.com/watch?v=JdKVhYu1eGo&feature=youtu.be",
-			"key": 39
+			"key": 38
 		},
 		/*=================================================================================*/
 		 {
@@ -5856,7 +5789,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=V16wJ3PkJys",
-			"key": 40
+			"key": 39
 		},
 		/*=================================================================================*/
 		{
@@ -6140,6 +6073,73 @@ const d = {
 			"pass": "173869",
 			"percentToQualify": 62,
 			"verificationVid": "https://www.youtube.com/watch?v=qd9enLukIEc",
+			"key": 40
+		},
+		/*=================================================================================*/
+				{
+			"vids": [
+				{
+					"user": "MP3141",
+					"link": "https://www.youtube.com/watch?v=VGgZd9pgDWo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=4RylowSZwRI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+				       "user": "Kapinapi",
+				       "link": "https://www.youtube.com/watch?v=N_eeMPD7o3k&t=515",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=J6x2EeJhkBU&feature=youtu.be&t=939s",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+				{
+				       "user": "DartHole",
+				       "link": "https://www.youtube.com/watch?v=QVgn7etkuMI&t",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+				{
+					"user": "Matter",
+					"link": "https://youtu.be/d5PjI9Ic9_U",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Pi Guy",
+					"link": "https://youtu.be/djBz8f_hzhc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "HaydenX13",
+					"link": "https://www.youtube.com/watch?v=8-gzagP5o2I",
+					"percent": 100,
+				        "hz": "240hz"
+				},
+				{
+					"user": "GregoryHouse",
+					"link": "https://youtu.be/iF7KtwaNlsI",
+					"percent": 100,
+				        "hz": "144hz"
+				},
+			],
+			"name": "Shitty Conical Depression",
+			"author": "Kuiper1 and MP3141 [Kuiper1]",
+			"more": "none",
+			"id": 64172553,
+			"pass": "Free copy",
+			"percentToQualify": 62,
+			"verificationVid": "https://www.youtube.com/watch?v=5mvKv00ORJo",
 			"key": 41
 		},
 		/*=================================================================================*/
