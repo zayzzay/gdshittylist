@@ -24436,6 +24436,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/Ju8wGzHQFOM",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Hurricane",
 			"author": "Heizen and more [Heizen]",
