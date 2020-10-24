@@ -7230,6 +7230,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Kraz",
+					"link": "https://youtu.be/iXY3CtYGqe0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -10731,6 +10737,12 @@ const d = {
                                         "link": "https://youtu.be/LLDnBBaPS1k",
                                         "percent": 100,
                                         "hz": "144hz"
+				},
+				{
+					"user": "Zombieland",
+                                        "link": "https://www.youtube.com/watch?v=rHRaOV6w5aA",
+                                        "percent": 100,
+                                        "hz": "300hz"
 				},
 			],
 			"name": "Shitty Glide",
@@ -23247,9 +23259,9 @@ const d = {
 				},
 				{
 					"user": "MajessticGD",
-					"link": "https://youtu.be/MvQ86BOBDJ4",
+					"link": "https://www.youtube.com/watch?v=MvQ86BOBDJ4",
 					"percent": 100,
-				        "hz": "60hz"
+				        "hz": "240hz"
 				},
 	                ],
                         "name": "Shitty Cataclysm",
@@ -23974,6 +23986,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+				{
+					"user": "ZerniasX",
+                                        "link": "https://www.youtube.com/watch?v=-3wk6iAEGjY&feature=youtu.be&ab_channel=ZerniasX",
+                                        "percent": 100,
+                                        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -24285,6 +24303,12 @@ const d = {
 				{
 					"user": "gumrwing",
 					"link": "https://www.youtube.com/watch?v=Riul5Wnq3_8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "uwushinn",
+					"link": "https://youtu.be/i4N2Dk4ehSU",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -25110,6 +25134,12 @@ const d = {
 				{
 					"user": "GD Cade21",
 					"link": "https://www.youtube.com/watch?v=KH0DV2ji0-I",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "uwushinn",
+					"link": "https://youtu.be/m6znM27gqaE",
 					"percent": 100,
 					"hz": "144hz"
 				},
