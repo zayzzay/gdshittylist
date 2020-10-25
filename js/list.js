@@ -12270,6 +12270,12 @@ const d = {
 					"percent": 100,
 				        "hz": "240hz"
 				},
+				{
+					"user": "Defek",
+					"link": "https://youtu.be/oidIuqvEks4",
+					"percent": 100,
+				        "hz": "240hz"
+				},
 			],
 			"name": "Shitty El Dorado",
 			"author": "TheIcyConey [Matter]",
@@ -22908,6 +22914,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ZerniasX",
+					"link": "https://www.youtube.com/watch?v=XFeYeCKWl-Q",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Quest for Perfection",
 			"author": "Dashermachine and more [Dashermachine]",
@@ -27572,6 +27584,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "ExplodingTaco",
+					"link": "https://youtu.be/E_liRMHlueY",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -28065,6 +28083,12 @@ const d = {
 					"link": "https://youtu.be/0gqOLTP8lig",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Jah",
+					"link": "https://youtu.be/970FzAOpZeE",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Down Bass",
@@ -28847,6 +28871,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Jah",
+					"link": "https://youtu.be/x0eHxZ3Zn1k",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -29243,6 +29273,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=xrz3nhEzgwM&ab_channel=Rayaleg8",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Jah",
+					"link": "https://youtu.be/6fMIp8RvsDE",
+					"percent": 100,
+					"hz": "288hz"
 				},
                           ],
 			"name": "Shitty Sparkling Hope",
