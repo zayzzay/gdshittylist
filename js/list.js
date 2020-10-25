@@ -4460,6 +4460,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "Lawnmower",
+				       "link": "https://youtu.be/fiYfHj28fEA",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Incipient",
 			"author": "DeadshotHD and more [DeadshotHD]",
@@ -6203,6 +6209,12 @@ const d = {
 					"link": "https://youtu.be/1yBbR5ChW-E?t=73",
 					"percent": 100,
 				        "hz": "144hz"
+				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/8SHZMDhIyoQ",
+					"percent": 100,
+				        "hz": "288hz"
 				},
 			],
 			"name": "Shitty Conical Depression",
@@ -10966,6 +10978,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "60hz"
 				},
+				{
+					"user": "Lawnmower",
+                                        "link": "https://youtu.be/qPL1I2LCF1A",
+                                        "percent": 100,
+                                        "hz": "288hz"
+				},
 			],
 			"name": "Shitty Glide",
 			"author": "Aassbll",
@@ -12264,6 +12282,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "120hz"
 			       },
+				{
+				       "user": "Lawnmower",
+				       "link": "https://youtu.be/UzDV5F2_htE",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Photovoltaic II",
 			"author": "Serpyy and more [Serpyy]",
@@ -12451,6 +12475,12 @@ const d = {
 					"link": "https://youtu.be/6PbzTsi6-1A",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/OS7HwKrt7Eg",
+					"percent": 100,
+					"hz": "288hz"
 				},
                         ],
                         "name": "Shitty Ice Carbon Diablo X",
