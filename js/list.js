@@ -2163,6 +2163,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			        },
+				{
+				       "user": "Weedeater69420",
+				       "link": "https://www.youtube.com/watch?v=awzUzomhMxA",
+				       "percent": 68,
+				       "hz": "200hz"
+			        },
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Serpyy [LLunaa]",
