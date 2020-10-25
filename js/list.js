@@ -1212,6 +1212,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "XxYourNan69420xD",
+					"link": "https://www.youtube.com/watch?v=6knzH9VHyb4&ab_channel=mineman2005",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -4266,6 +4272,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Titan Complex",
+					"link": "https://youtu.be/qUaCvhAEs_M",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse III",
 			"author": "wshedd",
@@ -5140,6 +5152,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=_dKne4ZYSbM&feature=youtu.be",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "iBounje",
+					"link": "https://youtu.be/CgXtYEuhOdw",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Aquatic Auroras",
@@ -7409,6 +7427,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=-udegfbFlF8",
 					"percent": 59,
 					"hz": "60hz"
+				},
+				{
+					"user": "Sternal_BOT",
+					"link": "https://youtu.be/eiZtHMjaJLk",
+					"percent": 70,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ragnarok",
@@ -11270,6 +11294,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Titan Complex",
+					"link": "https://youtu.be/HFimi4cvVH4",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Matilda The Machine",
 			"author": "LLunaa and Serpyy [LLunaa]",
@@ -11857,6 +11887,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "MP3141",
+					"link": "https://youtu.be/dIKcUqjmmoQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Phosphorescent",
 			"author": "Acidius",
@@ -13426,6 +13462,12 @@ const d = {
 					"link": "https://youtu.be/NJnKlfwZARI",
 					"percent": 100,
 				        "hz": "Mobile"
+				},
+				{
+					"user": "Iowa",
+					"link": "https://www.youtube.com/watch?v=esx_f8qQ8ks",
+					"percent": 100,
+				        "hz": "60hz"
 				},
 			],
 			"name": "Shitty Black Blizzard",
@@ -20883,6 +20925,12 @@ const d = {
 					"percent": 100,
 					"hz": "280hz"
 				},
+				{
+					"user": "Nix3l",
+					"link": "https://youtu.be/t7q-Tb5WLTY",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Kenos",
 			"author": "Rexiture",
@@ -22294,6 +22342,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "ZerniasX",
+				       "link": "https://www.youtube.com/watch?v=9N2roMwPX1M&feature=youtu.be&ab_channel=ZerniasX",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 			],
 			"name": "Shitty The Flawless",
 			"author": "AcropolisBoy and more [AcropolisBoy]",
@@ -24973,6 +25027,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "Patrical",
+				       "link": "https://youtu.be/bKeo7LWLseA",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
                         ],
                         "name": "Shitty Windy Landscape",
                         "author": "SmallDaniPlay",
