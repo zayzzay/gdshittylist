@@ -2810,6 +2810,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Siko",
+					"link": "https://lowkey.gg/v/16aa032a-bb2f-46bc-be72-03b103d9e93e",
+					"percent": 85,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Renevant",
 			"author": "Acropolisboy [LJosh]",
@@ -11959,6 +11965,12 @@ const d = {
 					"link": "https://youtu.be/A3tB845ZqM8",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "dots",
+					"link": "https://youtu.be/glBOWHkCh8Y",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Phosphorescent",
@@ -28023,6 +28035,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=LxNiS7lo98A",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "MajessticGD",
+					"link": "https://youtu.be/y3aySeyt6lU",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Rayaleg8",
+					"link": "https://www.youtube.com/watch?v=o3614fa8qVI",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ithacropolis",
