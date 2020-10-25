@@ -6198,6 +6198,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "Kobra456",
+					"link": "https://youtu.be/1yBbR5ChW-E?t=73",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Conical Depression",
 			"author": "Kuiper1 and MP3141 [Kuiper1]",
@@ -7385,6 +7391,12 @@ const d = {
 					"link": "https://youtu.be/yYr9ZxGpvS0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "xdgamer",
+					"link": "https://www.youtube.com/watch?v=-udegfbFlF8",
+					"percent": 59,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Ragnarok",
@@ -28060,6 +28072,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "QuixoticGD",
+					"link": "https://youtu.be/RHd4C6cZoDU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Ballin",
 			"author": "Aassbll",
@@ -28318,6 +28336,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=3NObMvzlkt0",
 				       "percent": 100,
 				       "hz": "288hz"
+			       },
+				{
+				       "user": "iBounje",
+				       "link": "https://youtu.be/RT3PVFoYFgQ",
+				       "percent": 100,
+				       "hz": "300hz"
 			       },
 			],
 			"name": "Shitty Down Bass",
