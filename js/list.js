@@ -6234,6 +6234,12 @@ const d = {
 					"percent": 100,
 				        "hz": "288hz"
 				},
+				{
+					"user": "WhoIsCyn",
+					"link": "https://youtu.be/mCw9zNV1fjo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Conical Depression",
 			"author": "Kuiper1 and MP3141 [Kuiper1]",
@@ -9266,12 +9272,12 @@ const d = {
 				
 			],
 			"name": "Shitty Sonic Wave",
-			"author": "Acropolisboy [timckic]",
+			"author": "Acropolisboy [BoundelBoi]",
 			"more": "none",
 			"id": 55367155,
 			"pass": "001006",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=dnjnt9rI_qc",
+			"verificationVid": "https://youtu.be/05y7ifmZSyo",
 			"key": 58
 		},
 		/*=================================================================================*/
@@ -11173,6 +11179,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+					"user": "MP3141",
+					"link": "https://www.youtube.com/watch?v=qgn5gXGnXjA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Hell World",
 			"author": "fakeiwnl",
@@ -23246,6 +23258,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=hWmQy02pSyA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Quest for Perfection",
 			"author": "Dashermachine and more [Dashermachine]",
@@ -25713,6 +25731,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=OQlTtbwVCRY",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "Sugar",
+					"link": "https://www.youtube.com/watch?v=6BfmzKFT8DA&feature=push-u-sub&attr_tag=tVyF69OxRHYUegMe%3A6",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Visible Ray",
