@@ -15522,6 +15522,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "60hz"
 				},
+				{
+					"user": "XxYourNan69420xD",
+					"link": "https://www.youtube.com/watch?v=SZ5XAPrW_HI&ab_channel=mineman2005",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "DeadshotHD and ShadowNinja441 [DeadshotHD]",
@@ -23919,6 +23925,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				 {
+				       "user": "GregoryHouse",
+				       "link": "https://www.youtube.com/watch?v=lzIQO7CLAaw&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
                         "name": "Shitty 1929",
                         "author": "TheIcyConey[Tril]",
@@ -24756,6 +24768,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
 				},
+				 {
+				       "user": "GregoryHouse",
+				       "link": "https://www.youtube.com/watch?v=lzIQO7CLAaw&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Civic",
 			"author": "wshedd",
@@ -24907,6 +24925,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				 {
+				       "user": "GregoryHouse",
+				       "link": "https://www.youtube.com/watch?v=lzIQO7CLAaw&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                         ],
                         "name": "Shitty Windy Landscape",
                         "author": "SmallDaniPlay",
@@ -26070,6 +26094,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				 {
+				       "user": "GregoryHouse",
+				       "link": "https://www.youtube.com/watch?v=lzIQO7CLAaw&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
 			],
 			"name": "Shitty Rupture",
 			"author": "JoinMolten",
@@ -28277,6 +28307,18 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "FallenAresse",
+					"link": "https://www.youtube.com/watch?v=3I2eucgUZDk&feature=youtu.be&ab_channel=FallenAresse",
+					"percent": 100,
+					"hz": "300hz"
+				},
+				{
+				       "user": "Bacon",
+				       "link": "https://www.youtube.com/watch?v=3NObMvzlkt0",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Down Bass",
 			"author": "Lupe1204 [Surpl3x]",
@@ -29063,6 +29105,12 @@ const d = {
 					"link": "https://youtu.be/x0eHxZ3Zn1k",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "iBounje",
+					"link": "https://youtu.be/2Dug8VPHDKQ",
+					"percent": 100,
+					"hz": "300hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
