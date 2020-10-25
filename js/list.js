@@ -25969,6 +25969,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/DeFF4xwiddw",
+					"percent": 100,
+					"hz": "288hz"
+				},
+				{
 					"user": "TH54",
 					"link": "https://youtu.be/QB3aeevI3oo",
 					"percent": 100,
