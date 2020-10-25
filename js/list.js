@@ -5714,6 +5714,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "uwushinn",
+					"link": "https://youtu.be/_Hg3sbOWNjk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Prismatic Haze",
 			"author": "Bluuper",
@@ -21045,6 +21051,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "uwushinn",
+					"link": "https://youtu.be/CQ3m9AxG1zA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -24731,6 +24743,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=9D5Y1CQQRz8",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "GD Cade21",
+					"link": "https://www.youtube.com/watch?v=QSu3mVM1KkY",
+					"percent": 100,
+					"hz": "144hz"
 				},
                         ],
                         "name": "Shitty Windy Landscape",
