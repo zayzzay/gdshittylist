@@ -19829,6 +19829,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/FAnLa_kpeM0",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Lantern Lights",
 			"author": "GdWaaab",
