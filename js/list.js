@@ -15866,6 +15866,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/zR5N8DXDzkQ",
+					"percent": 100,
+					"hz": "288hz"
+				},
                         ],
                         "name": "Shitty Supersonic",
                         "author": "GamerbossPlayz and GD Blast [GamerbossPlayz]",
@@ -20293,6 +20299,12 @@ const d = {
 					"link": "https://youtu.be/b_Ni4lGgT9M",
 					"percent": 100,
 					"hz": "144hz"
+				},
+			        {
+					"user": "Lawnmower",
+					"link": "https://youtu.be/C2rVVK1WQ1Q",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Crimson Clutter",
@@ -26459,6 +26471,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=uasCwOKI064",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/MTscgSCKwj8",
+					"percent": 100,
+					"hz": "288hz"
 				},
 			],
 			"name": "Shitty Necropolis",
