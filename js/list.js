@@ -462,13 +462,19 @@ const d = {
 					"link": "https://youtu.be/VanhU21WZn4",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
+			},
+			{
 					"user": "geothermalguy",
 					"link": "https://youtu.be/mq5f8trbfYs",
 					"percent": 90,
 					"hz": "240hz"
-				},
+			},
+			{
+					"user": "Kobra456",
+					"link": "https://www.youtube.com/watch?v=jFnSOUk08LQ",
+					"percent": 100,
+					"hz": "144hz"
+			},
 			],
                        "name": "Shitty Chromatic Haze",
                        "author": "Serpyy",
