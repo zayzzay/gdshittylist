@@ -11167,49 +11167,6 @@ const d = {
 		{
 			"vids": [
 				{
-                                        "user": "Fhyron06",
-                                        "link": "https://www.youtube.com/watch?v=vvMFZnLM2Hk",
-                                        "percent": 100,
-                                        "hz": "240hz"
-                                },
-				{
-					"user": "zMarc",
-					"link": "https://youtu.be/jAswegucN80",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "MP3141",
-					"link": "https://youtu.be/RWpWOCqMrow",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Lawnmower",
-					"link": "https://youtu.be/VKjXJD1fLk0",
-					"percent": 100,
-					"hz": "288hz"
-				},
-				{
-					"user": "GregoryHouse",
-					"link": "https://youtu.be/123InJIagdc",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Pinball Panic",
-			"author": "HdLink13 [GDTeaBag]",
-			"more": "none",
-			"id": 62581697,
-			"pass": "Free to copy",
-			"percentToQualify": 50,
-			"verificationVid": "https://www.youtube.com/watch?v=nwef7j6lSc0",
-			"key": 70
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
 					"user": "Cyns",
 					"link": "https://www.youtube.com/watch?v=uydbtU3rDYg&t=47s",
 					"percent": 100,
@@ -11235,7 +11192,7 @@ const d = {
 			"pass": "666666",
 			"percentToQualify": 65,
 			"verificationVid": "https://www.youtube.com/watch?v=rKdRmj-bsYM&feature=youtu.be",
-			"key": 71
+			"key": 70
 		},
 		/*=================================================================================*/
 		{
@@ -11314,6 +11271,19 @@ const d = {
 			"pass": "060320",
 			"percentToQualify": 59,
 			"verificationVid": "https://www.youtube.com/watch?v=9UlwGcWhxp8",
+			"key": 71
+		},
+		/*=================================================================================*/
+		{
+			"vids": [		
+			],	
+			"name": "Shitty Narcissist",
+			"author": "wshedd",
+			"more": "none",
+			"id": 64431141,
+			"pass": "Free to Copy",
+			"percentToQualify": 65,
+			"verificationVid": "https://youtu.be/5PPNkTyYz1w",
 			"key": 72
 		},
 		/*=================================================================================*/
@@ -23294,6 +23264,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
+				{
+				       "user": "Cataclysmix",
+				       "link": "https://youtu.be/mooedP-bvvQ",
+				       "percent": 100,
+				       "hz": "60hz"
+			        },
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -27202,6 +27178,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+				       "user": "Vaxec",
+				       "link": "https://youtu.be/mYpfE8IUfIY",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
@@ -28157,6 +28139,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
+				{
+				       "user": "Cryex",
+				       "link": "https://youtu.be/hoEZmQYnG84",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -28722,6 +28710,18 @@ const d = {
 				       "link": "https://youtu.be/ajYGX5ezP3s",
 				       "percent": 100,
 				       "hz": "240hz"
+			       },
+				{
+				       "user": "lolxRd",
+				       "link": "https://www.youtube.com/watch?v=vVDozxnC_Mc&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "280hz"
+			       },
+				{
+				       "user": "Iowa",
+				       "link": "https://www.youtube.com/watch?v=sh2BDrnEHUg",
+				       "percent": 100,
+				       "hz": "60hz"
 			       },
 			],
 			"name": "Shitty Down Bass",
