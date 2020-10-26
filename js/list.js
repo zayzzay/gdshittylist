@@ -494,6 +494,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
+				{
+				       "user": "Fhyron06",
+				       "link": "https://www.youtube.com/watch?v=bwlrDXPdwMI",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
                        ],
                        "name": "Shitty Bloodlust",
                        "author": "HideriGH",
@@ -22552,6 +22558,12 @@ const d = {
 				       "link": "https://youtu.be/Rg1ju_Nk0lI",
 				       "percent": 100,
 				       "hz": "240hz"
+			        },
+				{
+				       "user": "Lasaga",
+				       "link": "https://youtu.be/GdQ-pJBmsFk",
+				       "percent": 100,
+				       "hz": "144hz"
 			        },
 			],
 			"name": "Shitty Lunatic Doom Machine",
