@@ -6314,8 +6314,8 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "wshedd",
-					"link": "PPeldelostacos",
+					"user": "PPeldelostacos",
+					"link": "https://youtu.be/04IfYTGytNo",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -11385,6 +11385,12 @@ const d = {
 					"percent": 100,
 				        "hz": "240hz"
 				},
+				{
+					"user": "Whisker",
+					"link": "https://www.youtube.com/watch?v=EWT8mmlrYJk",
+					"percent": 100,
+				        "hz": "288hz"
+				},
 			],
 			"name": "Shitty Matilda The Machine",
 			"author": "LLunaa and Serpyy [LLunaa]",
@@ -12056,6 +12062,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=noVMixk3K_0",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "AshlieBu",
+					"link": "https://www.youtube.com/watch?v=SXn5_jlr1dc&t=135s",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Cadrega City",
@@ -17098,6 +17110,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Demonkiller124",
+					"link": "https://www.youtube.com/watch?v=jy_q1HCAai0",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -19199,6 +19217,12 @@ const d = {
                                         "link": "https://youtu.be/AR6l2wkbdss",
                                         "percent": 100,
                                         "hz": "Mobile"
+				},
+				{
+					"user": "Pheonix",
+                                        "link": "https://www.youtube.com/watch?v=0NQzs8Dbb7A",
+                                        "percent": 100,
+                                        "hz": "180hz"
 				},
 			],
 			"name": "Shitty Dolos",
@@ -22354,6 +22378,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
+				{
+					"user": "ZerniasX",
+                                        "link": "https://www.youtube.com/watch?v=9-kr9DeGd10&feature=youtu.be&ab_channel=ZerniasX",
+                                        "percent": 100,
+                                        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Silver Shade",
 			"author": "Aassbll",
@@ -24895,6 +24925,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "144hz"
 				},
+				{
+					"user": "Vaxec",
+                                        "link": "https://youtu.be/2hEZ6drLE3I",
+                                        "percent": 100,
+                                        "hz": "240hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "oSpace and more [oSpace]",
@@ -25123,6 +25159,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=lzIQO7CLAaw&feature=youtu.be",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+				{
+				       "user": "Vaxec",
+				       "link": "https://youtu.be/VVgLobdL4To",
+				       "percent": 100,
+				       "hz": "240hz"
 			       },
 			],
 			"name": "Shitty Civic",
