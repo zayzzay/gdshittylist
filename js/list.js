@@ -17128,6 +17128,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "reizor",
+					"link": "https://youtu.be/uLYTuUJPJnU",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
