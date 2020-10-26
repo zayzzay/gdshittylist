@@ -1224,6 +1224,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Belleelle",
+					"link": "https://www.youtube.com/watch?v=0wnY8rbIxUM&list=PLGwrnSCBOYcmu2wTu09_t2zDYkw3uabqL&index=2",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -5532,6 +5538,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=_dKne4ZYSbM&feature=youtu.be",
 					"percent": 100,
 					"hz": "288hz"
+				},
+				{
+					"user": "belleelle",
+					"link": "https://www.youtube.com/watch?v=IS1x1his7Rs&list=PLGwrnSCBOYcmu2wTu09_t2zDYkw3uabqL&index=4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Arctic Lights",
@@ -12639,6 +12651,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Cosmy",
+					"link": "https://www.youtube.com/watch?v=s5oSLEJ9LvE",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
                         "name": "Shitty Ice Carbon Diablo X",
                         "author": "BlastIsBaeLol",
@@ -16372,6 +16390,12 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "Spitfire14YT",
+					"link": "https://youtu.be/Axj8kMEOK80",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
                         "name": "Shitty Ouroboros",
                         "author": "Megum",
@@ -18194,6 +18218,18 @@ const d = {
 					"link": "https://youtu.be/6rS6BsdYzwQ",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "Glitchstery",
+					"link": "https://youtu.be/zAngQwfyx1c",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "HinelAram",
+					"link": "https://youtu.be/xXU0nF5n8cE",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -28450,6 +28486,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=7KeBNL-5esg&feature=youtu.be",
 				       "percent": 100,
 				       "hz": "300hz"
+			        },
+				{
+				       "user": "Tirimid",
+				       "link": "https://www.youtube.com/watch?v=waXKFM397Ec&feature=youtu.be",
+				       "percent": 100,
+				       "hz": "144hz"
 			        },
 			],
 			"name": "Shitty Ithacropolis",
