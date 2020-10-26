@@ -5635,6 +5635,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SemiAutoSneze",
+					"link": "https://www.youtube.com/watch?v=0iNPO0PSK7s",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "Serpyy and LLunaa [Serpyy]",
@@ -11336,6 +11342,12 @@ const d = {
                                         "link": "https://youtu.be/5dl7vDZVX9w",
                                         "percent": 100,
                                         "hz": "300hz"
+				},
+				{
+					"user": "suspicion",
+                                        "link": "https://www.youtube.com/watch?v=XktQ5iL_rRI&feature=youtu.be",
+                                        "percent": 100,
+                                        "hz": "144hz"
 				},
 			],
 			"name": "Shitty Glide",
@@ -17527,7 +17539,7 @@ const d = {
 			"author": "Vlaash",
 			"more": "none",
 			"id": 60330613,
-			"pass": "137349",
+			"pass": "091206",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=Of-jAU42U8k",
 			"key": 105
@@ -20614,6 +20626,12 @@ const d = {
                                         "link": "https://www.youtube.com/watch?v=EqHi7512wvc",
                                         "percent": 100,
                                         "hz": "144hz"
+				},
+				{
+					"user": "Sh4d0wBR",
+                                        "link": "https://www.youtube.com/watch?v=hmCccMfUYaQ",
+                                        "percent": 100,
+                                        "hz": "60hz"
 				},
 			],
 			"name": "Shitty Esencia",
@@ -25684,6 +25702,12 @@ const d = {
                                         "link": "https://youtu.be/Roz4NRvT4DU",
                                         "percent": 100,
                                         "hz": "144hz"
+				},
+				{
+					"user": "Alba72",
+                                        "link": "https://youtu.be/xOcP8FnT2os",
+                                        "percent": 100,
+                                        "hz": "60hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
