@@ -12657,6 +12657,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Tirimid",
+					"link": "https://www.youtube.com/watch?v=_7wPjwGQWxQ&feature=youtu.be",
+					"percent": 100,
+					"hz": "144hz"
+				},
                         ],
                         "name": "Shitty Ice Carbon Diablo X",
                         "author": "BlastIsBaeLol",
@@ -17158,6 +17164,18 @@ const d = {
 					"percent": 100,
 					"hz": "300hz"
 				},
+				{
+					"user": "cradium",
+					"link": "https://youtu.be/pI6gkCmnSH0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Charlielance",
+					"link": "https://www.youtube.com/watch?v=xv0iXebAYDA&ab_channel=CharlieLance",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -19295,6 +19313,12 @@ const d = {
                                         "link": "https://youtu.be/oAnlKqvISCU",
                                         "percent": 100,
                                         "hz": "60hz"
+				},
+				{
+					"user": "Alvaro13GD",
+                                        "link": "https://www.youtube.com/watch?v=CaEI4ASqLWI",
+                                        "percent": 100,
+                                        "hz": "180hz"
 				},
 			],
 			"name": "Shitty Dolos",
@@ -24307,6 +24331,12 @@ const d = {
 				{
 					"user": "AustenWithAnE",
 					"link": "https://youtu.be/eUcKIy6fcwo",
+					"percent": 100,
+				        "hz": "144hz"
+				},
+				{
+					"user": "Patatita",
+					"link": "https://youtu.be/HP0Y20L-rCk",
 					"percent": 100,
 				        "hz": "144hz"
 				},
