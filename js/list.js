@@ -7307,6 +7307,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "AlphaXIV",
+                                        "link": "https://youtu.be/0JWdFZhIKNI",
+                                        "percent": 95,
+                                        "hz": "Mobile"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -9751,6 +9757,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "Dustik",
+					"link": "https://www.youtube.com/watch?v=NK5orXW7ZiY&ab_channel=Dustik",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Orochi",
 			"author": "Keleru",
@@ -9903,12 +9915,7 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
-				{
-					"user": "olitomhig",
-					"link": "https://www.youtube.com/watch?v=_KV5wpvTZmQ",
-					"percent": 100,
-					"hz": "Mobile"
-				},
+				
 			],
 			"name": "Shitty Plasma Pulse II",
 			"author": "Jah and Coney [Jah]",
@@ -11032,8 +11039,8 @@ const d = {
 				},
 				{
 					"user": "ItsZivery",
-					"link": "https://www.youtube.com/watch?v=Ufakc8Ibdco",
-					"percent": 68,
+					"link": "https://www.youtube.com/watch?v=lj_59MDPiaw",
+					"percent": 100,
 					"hz": "60hz"
 				},
 				{
@@ -11042,7 +11049,6 @@ const d = {
 					"percent": 98,
 					"hz": "60hz"
 				},
-				{
 					"user": "Xploiterr",
 					"link": "https://youtu.be/xmEaB5xHs9w",
 					"percent": 100,
@@ -14962,6 +14968,12 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "Denc",
+					"link": "https://www.youtube.com/watch?v=AFHX_bUFE2Y",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "AcropolisBoy [LJosh]",
@@ -17612,6 +17624,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Ben The Cool",
+					"link": "https://youtu.be/XtLBFotLAOA",
+					"percent": 100,
+				        "hz": "Mobile"
+				},
 			],
 			"name": "Shitty Devil Vortex",
 			"author": "Vlaash",
@@ -18708,6 +18726,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=gLpE4mYmB-A&t",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "AlphaXIV",
+                                        "link": "https://youtu.be/fqfiap2eTxA",
+                                        "percent": 100,
+                                        "hz": "Mobile"
 				},
 			],
 			"name": "Shitty Artifice",
@@ -20837,6 +20861,12 @@ const d = {
 					"link": "https://youtu.be/AZSqROlsaJQ",
 					"percent": 100,
 					"hz": "60hz"
+				},
+			       {
+					"user": "ZerniasX",
+					"link": "https://youtu.be/Otdh1fVFwMs",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Crimson Clutter",
@@ -24144,6 +24174,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
+				{
+					"user": "olitomhig",
+					"link": "https://www.youtube.com/watch?v=_KV5wpvTZmQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "Aassbll",
@@ -29758,6 +29794,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
+				{
+					"user": "Zombieland",
+					"link": "https://youtu.be/v1E7maZPbI4",
+					"percent": 100,
+					"hz": "300hz"
+				},
 			],
 			"name": "Shitty Ballin",
 			"author": "Aassbll",
