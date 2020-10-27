@@ -651,6 +651,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Lupe1204",
+					"link": "https://youtu.be/vDbr4ofkoCI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 		          ],
                        "name": "Shitty Crimson Planet",
                        "author": "MP3141 and Kuiper1 [MP3141]",
@@ -3581,6 +3587,18 @@ const d = {
 				       "percent": 100,
 				       "hz": "60hz"
 			       },
+				{
+					"user": "Womm7",
+                                        "link": "https://youtu.be/KXYNJxTYWq8",
+                                        "percent": 100,
+                                        "hz": "288hz"
+				},
+				{
+				       "user": "Shiokarai",
+				       "link": "https://youtu.be/pZxwuwBTfp8",
+				       "percent": 79,
+				       "hz": "60hz"
+			       },
 			],
 			"name": "Shitty Wasureta",
 			"author": "AcropolisBoy",
@@ -5935,6 +5953,12 @@ const d = {
 					"link": "https://youtu.be/A_NmZMvRXrc",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "itzkmc21",
+                                        "link": "https://www.youtube.com/watch?v=E9dAeDsKHgI&feature=youtu.be",
+                                        "percent": 100,
+                                        "hz": "240hz"
 				},
 			],
 			"name": "Shitty Prismatic Haze",
@@ -8434,6 +8458,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=kWFMAt6_Za8&ab_channel=GDlevels",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Vaxec",
+                                        "link": "https://youtu.be/pAlV_3VNJag",
+                                        "percent": 100,
+                                        "hz": "240hz"
 				},
 			],
 			"name": "Shitty The Secret Box",
@@ -11049,6 +11079,7 @@ const d = {
 					"percent": 98,
 					"hz": "60hz"
 				},
+				{
 					"user": "Xploiterr",
 					"link": "https://youtu.be/xmEaB5xHs9w",
 					"percent": 100,
@@ -11401,6 +11432,12 @@ const d = {
 					"user": "Tatt",
                                         "link": "https://www.youtube.com/watch?v=zsNjy5NW0-s",
                                         "percent": 59,
+                                        "hz": "60hz"
+				},
+				{
+					"user": "Ashlie Burton",
+                                        "link": "https://www.youtube.com/watch?v=XcmHeOHFUrk",
+                                        "percent": 75,
                                         "hz": "60hz"
 				},
 			],
