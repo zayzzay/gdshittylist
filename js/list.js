@@ -11671,7 +11671,13 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [		
+			"vids": [
+				{
+                                        "user": "MP3141",
+                                        "link": "https://youtu.be/QreDXXrcdFE",
+                                        "percent": 100,
+                                        "hz": "144hz"
+                                },
 			],	
 			"name": "Shitty Narcissist",
 			"author": "wshedd",
@@ -20573,6 +20579,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "ZerniasX",
+				       "link": "https://youtu.be/EC86NYTfK9s",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 			],
 			"name": "Shitty Firepower",
 			"author": "AcropolisBoy [GDTeaBag]",
@@ -29553,6 +29565,12 @@ const d = {
 				       "link": "https://youtu.be/Ojuoz_FTFWc",
 				       "percent": 100,
 				       "hz": "240hz"
+			        },
+				{
+				       "user": "Davidbrawls",
+				       "link": "https://youtu.be/_ADNn9TvyEg",
+				       "percent": 100,
+				       "hz": "Mobile"
 			        },
 			],
 			"name": "Shitty Ithacropolis",
