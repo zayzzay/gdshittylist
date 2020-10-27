@@ -27407,6 +27407,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Icefury",
+					"link": "https://youtu.be/VzhKm0xkEKY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Ryclix",
+					"link": "https://www.youtube.com/watch?v=Uti_mgDKQtg&feature=youtu.be&t=5s",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Necropolis",
 			"author": "Tai0",
@@ -27558,6 +27570,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Ryclix",
+					"link": "https://www.youtube.com/watch?v=l1ZHPgJe7I0&feature=youtu.be",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
 			"name": "Shitty Thirteen",
 			"author": "AlexTheGS33 and GDStarStorm [AlexTheGS33]",
@@ -27708,6 +27726,12 @@ const d = {
 				       "link": "https://youtu.be/nu23kxmVtJI",
 				       "percent": 100,
 				       "hz": "60hz"
+			       },
+				{
+				       "user": "Ryclix",
+				       "link": "https://www.youtube.com/watch?v=XjyOY0XvPtk&feature=youtu.be&t=212s",
+				       "percent": 100,
+				       "hz": "288hz"
 			       },
 			],
 			"name": "Shitty Rupture",
