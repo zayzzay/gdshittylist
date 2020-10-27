@@ -13022,7 +13022,13 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			        },
-                        ],
+                        	{
+				       "user": "Conical",
+				       "link": "https://youtu.be/F5Ye3iIU1Os",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
+			],
                         "name": "Shitty Ice Carbon Diablo X",
                         "author": "BlastIsBaeLol",
                         "more": "none",
@@ -20428,6 +20434,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "ZerniasX",
+					"link": "https://youtu.be/NaLkApdxWzQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Lantern Lights",
 			"author": "GdWaaab",
@@ -21283,6 +21295,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=yT4nGrMqUBQ",
 				       "percent": 100,
 				       "hz": "60hz"
+			        },
+				{
+				       "user": "ZerniasX",
+				       "link": "https://www.youtube.com/watch?v=Otdh1fVFwMs&ab_channel=ZerniasX",
+				       "percent": 100,
+				       "hz": "144hz"
 			        },
 			],
 			"name": "Shitty Just Dance",
