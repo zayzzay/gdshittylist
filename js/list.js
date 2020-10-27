@@ -4435,6 +4435,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Ben The Cool",
+					"link": "https://youtu.be/uoLUUdaSUFc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Plasma Pulse III",
 			"author": "wshedd",
@@ -8465,6 +8471,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "240hz"
 				},
+				{
+					"user": "whomstt",
+                                        "link": "https://youtu.be/PFfJoX52MVk",
+                                        "percent": 100,
+                                        "hz": "144hz"
+				},
 			],
 			"name": "Shitty The Secret Box",
 			"author": "jOnel",
@@ -9570,6 +9582,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+				{
+				       "user": "Lawnmower",
+				       "link": "https://youtu.be/a5f3PpnqBTU",
+				       "percent": 100,
+				       "hz": "288hz"
+			        },
 			],
 			"name": "Shitty The Nebula",
 			"author": "Serpyy",
@@ -11438,6 +11456,12 @@ const d = {
 					"user": "Ashlie Burton",
                                         "link": "https://www.youtube.com/watch?v=XcmHeOHFUrk",
                                         "percent": 75,
+                                        "hz": "60hz"
+				},
+				{
+					"user": "BerriBoi",
+                                        "link": "https://www.youtube.com/watch?v=5Jj-xo0a_Go&feature=youtu.be&ab_channel=BerriBoi",
+                                        "percent": 87,
                                         "hz": "60hz"
 				},
 			],
@@ -13961,6 +13985,12 @@ const d = {
 					"percent": 100,
 				        "hz": "120hz"
 				},
+				{
+					"user": "Iowa",
+					"link": "https://www.youtube.com/watch?v=-By4iHDv9HU",
+					"percent": 100,
+				        "hz": "60hz"
+				},
 			],
 			"name": "Shitty Black Blizzard",
 			"author": "Segone",
@@ -14661,6 +14691,18 @@ const d = {
 				       "link": "https://youtu.be/JSy6DNU5c3Y",
 				       "percent": 100,
 				       "hz": "240hz"
+			        },
+				{
+				       "user": "rofl",
+				       "link": "https://youtu.be/UEO-M5_rSlE",
+				       "percent": 100,
+				       "hz": "200hz"
+			        },
+				{
+				       "user": "whomstt",
+				       "link": "https://www.youtube.com/watch?v=zjOiBY1rROQ",
+				       "percent": 100,
+				       "hz": "144hz"
 			        },
 			],
 			"name": "Shitty Aftermath",
@@ -19847,6 +19889,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "288hz"
 				},
+				{
+					"user": "Funkirbo",
+                                        "link": "https://youtu.be/zUZPwx0d3x4",
+                                        "percent": 100,
+                                        "hz": "60hz"
+				},
 			],
 			"name": "Shitty Dolos",
 			"author": "Acropolisboy and more [Whiliams8080]",
@@ -20783,6 +20831,12 @@ const d = {
                                         "link": "https://youtu.be/eKBUVBFVQEM",
                                         "percent": 100,
                                         "hz": "Mobile"
+				},
+				{
+					"user": "ZerniasX",
+                                        "link": "https://youtu.be/kLRAPf9CpLU",
+                                        "percent": 100,
+                                        "hz": "120hz"
 				},
 			],
 			"name": "Shitty Esencia",
@@ -25089,6 +25143,18 @@ const d = {
 					"percent": 100,
 				        "hz": "144hz"
 				},
+				{
+					"user": "Derek46",
+					"link": "https://www.youtube.com/watch?v=iA4cOXqJISQ&feature=youtu.be",
+					"percent": 100,
+				        "hz": "240hz"
+				},
+				{
+					"user": "Fuxre",
+					"link": "https://youtu.be/fGzFypFxUc0",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -27884,6 +27950,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Zeroforever2",
+					"link": "https://youtu.be/cw1vK9COIMw",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -28430,6 +28502,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=LLXKLQPaXuc&feature=youtu.be&ab_channel=KirbyLuve",
 				       "percent": 100,
 				       "hz": "60hz"
+			        },
+				{
+				       "user": "Rayaleg8",
+				       "link": "https://youtu.be/PwEwsjTeaII",
+				       "percent": 100,
+				       "hz": "Mobile"
 			        },
 			],
 			"name": "Shitty xo",
@@ -29470,6 +29548,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
+				{
+				       "user": "mrlink2k",
+				       "link": "https://youtu.be/Ojuoz_FTFWc",
+				       "percent": 100,
+				       "hz": "240hz"
+			        },
 			],
 			"name": "Shitty Ithacropolis",
 			"author": "Deleitor11",
@@ -29836,6 +29920,18 @@ const d = {
 					"link": "https://youtu.be/v1E7maZPbI4",
 					"percent": 100,
 					"hz": "300hz"
+				},
+				{
+					"user": "KevinTheCat",
+					"link": "https://youtu.be/vCPBhNmEdZ0",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "ThatBlazinInferno",
+					"link": "https://www.youtube.com/watch?v=4KQ29lf5eHM&ab_channel=ThatBlazinInferno",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ballin",
