@@ -487,6 +487,12 @@ const d = {
 					"percent": 63,
 					"hz": "144hz"
 			},
+			{
+				"user": "Lawnmower",
+				"link": "https://youtu.be/JSyrpGCjKS0",
+				"percent": 100,
+				"hz" :"288hz"
+			},
 			],
                        "name": "Shitty Chromatic Haze",
                        "author": "Serpyy",
