@@ -4531,6 +4531,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "BlueStone",
+					"link": "https://www.youtube.com/watch?v=mO63Iqgaa5k",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse III",
 			"author": "wshedd",
