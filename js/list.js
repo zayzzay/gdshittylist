@@ -3238,6 +3238,12 @@ const d = {
 					"percent": 100,
 					"hz": "288hz"
 				},
+				{
+					"user": "Yeezo",
+					"link": "https://youtu.be/5yOWZ-nfEts",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty WOW",
 			"author": "oSpace [LJosh]",
@@ -9103,6 +9109,12 @@ const d = {
 					"percent": 100,
 				        "hz": "288hz"
 				},
+				{
+					"user": "suspicion",
+					"link": "https://youtu.be/ZpJdRBD2kPc",
+					"percent": 100,
+				        "hz": "144hz"
+				},
 			],
 			"name": "Shitty Tapwreck",
 			"author": "AcropolisBoy [Sleynt]",
@@ -9706,6 +9718,12 @@ const d = {
 					"link": "https://youtu.be/AcKceh0S0s8",
 					"percent": 61,
 					"hz": "240hz"
+				},
+				{
+					"user": "Delphin",
+					"link": "https://youtu.be/Mmtx6fwhtf8",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Sonic Wave",
@@ -11795,6 +11813,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=qgn5gXGnXjA",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Sammy G",
+					"link": "https://youtu.be/xWrudcBXJdg",
+					"percent": 67,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty The Hell World",
@@ -15011,6 +15035,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			        },
+				{
+				       "user": "Yuned",
+				       "link": "https://youtu.be/GFqUlDTTMb4",
+				       "percent": 100,
+				       "hz": "144hz"
+			        },
 			],
 			"name": "Shitty Aftermath",
 			"author": "Magma",
@@ -18081,6 +18111,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=w0v6aB5x4Nw",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "JustCrust",
+					"link": "https://youtu.be/JRHUsQjEFdg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Devil Vortex",
@@ -25768,6 +25804,18 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "Demonbeater17",
+					"link": "https://youtu.be/GsmH9TPoiwI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Yuned",
+					"link": "https://youtu.be/Y9-inmfaF3g",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
@@ -27099,7 +27147,13 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
-                        ],
+                        	{
+					"user": "GreenO",
+					"link": "https://www.youtube.com/watch?v=xJtQdg0zkN8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
                         "name": "Shitty Windy Landscape",
                         "author": "SmallDaniPlay",
                         "more": "none",
@@ -28435,6 +28489,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=tAkItySJi-k",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "emberrr",
+					"link": "https://youtu.be/dTWqC_OP9EY",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Shitty Rupture",
@@ -30845,6 +30905,12 @@ const d = {
                                         "link": "https://www.youtube.com/watch?v=0JZvR8ap9Mw",
                                         "percent": 100,
                                         "hz": "120hz"
+				},
+				{
+					"user": "Ryoui",
+                                        "link": "https://youtu.be/84C9rwo2YsE",
+                                        "percent": 100,
+                                        "hz": "288hz"
 				},
 			],
 			"name": "Shitty Ballin",
