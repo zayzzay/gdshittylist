@@ -24065,6 +24065,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "60hz"
 				},
+				{
+					"user": "Alexander32405",
+					"link": "https://youtu.be/rn04Up00jyA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Lunatic Doom Machine",
 			"author": "HideriGH",
