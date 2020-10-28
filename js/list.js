@@ -27237,6 +27237,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Alexander32405",
+					"link": "https://www.youtube.com/watch?v=uZx1VJabwFQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
                         "name": "Shitty Windy Landscape",
                         "author": "SmallDaniPlay",
