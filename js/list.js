@@ -1296,6 +1296,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "Harpax",
+					"link": "https://www.youtube.com/watch?v=jo9EXQ3J09Q",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty The Golden",
 			"author": "Serpyy",
@@ -24629,10 +24635,16 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "GemerbossPlayz",
+					"user": "GamerbossPlayz",
 					"link": "https://youtu.be/K9TV0oKb6jE",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Zyrax",
+					"link": "https://www.youtube.com/watch?v=UJ3EslkJQkI",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Lunatic Doom Machine",
