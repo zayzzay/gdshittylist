@@ -4063,18 +4063,6 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
-				{
-					"user": "LelonskiPC",
-					"link": "https://www.youtube.com/watch?v=6ouS5Jp2RF8",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Ryclix",
-					"link": "https://www.youtube.com/watch?v=XfuBKLdA6P4&feature=youtu.be&t=126s",
-					"percent": 100,
-					"hz": "288hz"
-				},
 			],
 			"name": "Shitty Catalyze",
 			"author": "Bluuper",
@@ -27266,6 +27254,18 @@ const d = {
 				       "percent": 100,
 				       "hz": "75hz"
 			        },
+				{
+					"user": "LelonskiPC",
+					"link": "https://www.youtube.com/watch?v=6ouS5Jp2RF8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Ryclix",
+					"link": "https://www.youtube.com/watch?v=XfuBKLdA6P4&feature=youtu.be&t=126s",
+					"percent": 100,
+					"hz": "288hz"
+				},
 			],
                         "name": "Shitty Cataclysm",
                         "author": "AcropolisBoy [LJosh]",
