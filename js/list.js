@@ -14133,7 +14133,6 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
-				
 					"user": "ImanAdeleAzim",
 					"link": "https://www.youtube.com/watch?v=XImPbbc2a1s",
 					"percent": 100,
