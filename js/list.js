@@ -10600,6 +10600,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+				{
+				       "user": "Lawnmower",
+				       "link": "https://youtu.be/haj2hGBj_y4",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
 			],
 			"name": "Shitty Extermination Nation",
 			"author": "zLunatiX and error4850 [zLunatiX]",
@@ -11430,6 +11436,12 @@ const d = {
 					"link": "https://youtu.be/KgfjVjJi_XM",
 					"percent": 100,
 				        "hz": "300hz"
+				},
+				{
+					"user": "Lawnmower",
+					"link": "https://youtu.be/GCCi41wb4Hk",
+					"percent": 100,
+				        "hz": "288hz"
 				},
 			],
 			"name": "Shitty Phantasmagoria",
@@ -21520,6 +21532,12 @@ const d = {
                                         "link": "https://www.youtube.com/watch?v=1TIpFUXCa34",
                                         "percent": 100,
                                         "hz": "144hz"
+				},
+				{
+					"user": "Lawnmower",
+                                        "link": "https://youtu.be/9Pb1eaCy0O0",
+                                        "percent": 100,
+                                        "hz": "288hz"
 				},
 			],
 			"name": "Shitty Swing Squad",
