@@ -4,7 +4,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Placeholder",
+					"user": "zgy",
 					"link": "placeholder yt link",
 					"percent": 100,
 					"hz": "Placeholder hz"
